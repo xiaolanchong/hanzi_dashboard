@@ -1,0 +1,18 @@
+纜	缆	lǎn	cable/hawser/to moor
+光纜	光缆	guāng lǎn	optical cable
+同軸電纜	同轴电缆	tóng zhóu diàn lǎn	coaxial cable
+線纜	线缆	xiàn lǎn	cable/wire/cord (computer)
+光纖電纜	光纤电缆	guāng xiān diàn lǎn	optical fiber/optical cable
+纜樁	缆桩	lǎn zhuāng	mooring bollard
+纜索	缆索	lǎn suǒ	cable/hawser/mooring rope
+纜索吊椅	缆索吊椅	lǎn suǒ diào yǐ	ski-lift
+纜線	缆线	lǎn xiàn	cable
+纜繩	缆绳	lǎn shéng	cable/hawser/mooring rope
+纜車	缆车	lǎn chē	cable car
+船纜	船缆	chuán lǎn	ship's hawser/rigging
+解纜	解缆	jiě lǎn	to untie a mooring rope
+鋼纜	钢缆	gāng lǎn	steel cable/wire cable/steel hawser
+電纜	电缆	diàn lǎn	(electric) cable
+電纜塔	电缆塔	diàn lǎn tǎ	a pylon (for electric power line)
+電纜接頭	电缆接头	diàn lǎn jiē tóu	cable gland
+電纜調制解調器	电缆调制解调器	diàn lǎn tiáo zhì jiě tiáo qì	cable modem

@@ -1,0 +1,5 @@
+冪	幂	mì	power/exponent (math.)/to cover with a cloth/cloth cover/veil
+乘冪	乘幂	chéng mì	the power of a number (square, cube etc)/to exponentiate (math.)
+三次冪	三次幂	sān cì mì	cube (third power, math.)
+冪等	幂等	mì děng	idempotent (math.)
+冪級數	幂级数	mì jí shù	power series (math.)

@@ -1,0 +1,80 @@
+礦	矿	kuàng	ore/mine
+井陘礦區	井陉矿区	Jǐng xíng kuàng Qū	Jingxingkuang District of Shijiazhuang City 石家莊市|石家庄市[Shí jiā zhuāng Shì], Hebei
+南山礦區	南山矿区	Nán shān kuàng qū	Nanshan mining district, old name of Dabancheng district 達坂城區|达坂城区[Dá bǎn chéng qū] of Urumqi city, Xinjiang
+南桐礦區	南桐矿区	Nán tóng kuàng qū	Nantong coal mining area of Chongqing
+富礦	富矿	fù kuàng	high-grade ore
+尾礦	尾矿	wěi kuàng	mining waste/waste remaining after processing ore/tailings
+尾礦庫	尾矿库	wěi kuàng kù	slag heap/dump of mining waste
+峰峰礦	峰峰矿	Fēng fēng kuàng	Fengfengkuang district of Handan city 邯鄲市|邯郸市[Hán dān shì], Hebei
+峰峰礦區	峰峰矿区	Fēng fēng kuàng qū	Fengfengkuang district of Handan city 邯鄲市|邯郸市[Hán dān shì], Hebei
+工礦	工矿	gōng kuàng	industry and mining
+工礦用地	工矿用地	gōng kuàng yòng dì	industrial and mining area
+廠礦	厂矿	chǎng kuàng	factories and mines
+挖礦	挖矿	wā kuàng	to dig a mine/mining
+採礦	采矿	cǎi kuàng	mining
+採礦業	采矿业	cǎi kuàng yè	mining
+探礦	探矿	tàn kuàng	to prospect/to dig for coal or minerals
+探礦者	探矿者	tàn kuàng zhě	prospector/person exploring for minerals
+方鉛礦	方铅矿	fāng qiān kuàng	galena
+瀝青鈾礦	沥青铀矿	lì qīng yóu kuàng	pitchblende (uranium ore)
+煤礦	煤矿	méi kuàng	coal mine/coal seam
+熔礦爐	熔矿炉	róng kuàng lú	furnace
+白鎢礦	白钨矿	bái wū kuàng	scheelite
+白雲礦區	白云矿区	Bái yún kuàng qū	Baiyukuang district of Baotou city 包頭市|包头市[Bāo tóu shì], Inner Mongolia
+砂積礦床	砂积矿床	shā jī kuàng chuáng	placer (alluvial deposit containing valuable metals)
+磁鐵礦	磁铁矿	cí tiě kuàng	magnetite Fe3O4
+磷礦	磷矿	lín kuàng	phosphate ore
+磷礦石	磷矿石	lín kuàng shí	phosphate
+井陘礦	井陉矿	Jǐng xíng kuàng	Jingxingkuang District of Shijiazhuang City 石家莊市|石家庄市[Shí jiā zhuāng Shì], Hebei
+礦主	矿主	kuàng zhǔ	proprietor of a mine
+礦井	矿井	kuàng jǐng	a mine/a mine shaft
+礦務局	矿务局	kuàng wù jú	mining affairs bureau
+礦區	矿区	kuàng qū	mining site/mining area
+礦坑	矿坑	kuàng kēng	mine/mine shaft
+礦場	矿场	kuàng chǎng	a mine/pit
+礦層	矿层	kuàng céng	ore stratum/vein of ore
+礦山	矿山	kuàng shān	mine
+礦工	矿工	kuàng gōng	miner
+礦床	矿床	kuàng chuáng	(mineral) deposit
+礦業	矿业	kuàng yè	mining industry
+礦機	矿机	kuàng jī	(cryptocurrency) mining machine
+礦水	矿水	kuàng shuǐ	mineral water
+礦油精	矿油精	kuàng yóu jīng	mineral spirits
+礦泉	矿泉	kuàng quán	mineral spring
+礦泉水	矿泉水	kuàng quán shuǐ	mineral spring water/CL:瓶[píng],杯[bēi]
+礦渣	矿渣	kuàng zhā	slag (mining)
+礦燈	矿灯	kuàng dēng	miner's lamp/mine light
+礦物	矿物	kuàng wù	mineral
+礦物學	矿物学	kuàng wù xué	mineralogy
+礦物燃料	矿物燃料	kuàng wù rán liào	fossil fuels/oil and coal
+礦物質	矿物质	kuàng wù zhì	mineral, esp. dietary mineral
+礦產	矿产	kuàng chǎn	minerals
+礦產資源	矿产资源	kuàng chǎn zī yuán	mineral resources
+礦石	矿石	kuàng shí	ore
+礦脂	矿脂	kuàng zhī	vaseline/same as 凡士林
+礦脈	矿脉	kuàng mài	vein of ore
+礦藏	矿藏	kuàng cáng	mineral resources
+礦車	矿车	kuàng chē	miner's cart/pit truck
+礦難	矿难	kuàng nàn	mining disaster
+礦體	矿体	kuàng tǐ	ore body (geology)
+礦鹽	矿盐	kuàng yán	halite
+精礦	精矿	jīng kuàng	refined ore/concentrate
+菱鎂礦	菱镁矿	líng měi kuàng	magnesite/magnesium ore
+菱鐵礦	菱铁矿	líng tiě kuàng	siderite
+貧礦	贫矿	pín kuàng	low grade ore
+赤鐵礦	赤铁矿	chì tiě kuàng	hematite (red iron ore)/ferric oxide Fe2O3
+造岩礦物	造岩矿物	zào yán kuàng wù	rock-forming mineral
+采礦場	采矿场	cǎi kuàng chǎng	mining area
+金礦	金矿	jīn kuàng	gold mine/gold ore
+釩鉀鈾礦石	钒钾铀矿石	fán jiǎ yóu kuàng shí	carnotite
+鈦鐵礦	钛铁矿	tài tiě kuàng	ilmenite FeTiO3/titanium ore
+鉛礦	铅矿	qiān kuàng	lead ore
+銅礦	铜矿	tóng kuàng	copper mine/copper ore
+錫礦	锡矿	xī kuàng	tin ore
+錳礦	锰矿	měng kuàng	manganese ore
+鐵礦	铁矿	tiě kuàng	iron ore/iron ore mine
+鐵礦石	铁矿石	tiě kuàng shí	iron ore
+開礦	开矿	kāi kuàng	to mine/to open a seam
+鷹手營子礦	鹰手营子矿	Yīng shǒu yíng zi kuàng	Yingshouyingzikuang district of Chengde city 承德市[Chéng dé shì], Hebei
+鷹手營子礦區	鹰手营子矿区	Yīng shǒu yíng zi kuàng qū	Yingshouyingzikuang district of Chengde city 承德市[Chéng dé shì], Hebei
+黃鐵礦	黄铁矿	huáng tiě kuàng	pyrite

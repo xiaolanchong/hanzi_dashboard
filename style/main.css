@@ -1,0 +1,81 @@
+
+/* 
+  MingLiU, PMingLiU  - Traditional
+  SimSun - Simplified
+*/
+
+body {
+    font-family: Tahoma, Verdana;
+    background-color: black;
+    color: white;
+}
+
+section {
+	margin: 5px 2px;
+}
+
+.hanzi-simp {
+   /* font-family: SimSun, sans-serif; */
+}
+
+.hanzi-trad {
+   /* font-family: MingLiU, sans-serif; */
+}
+
+.hanzi-board {
+    padding: 3px;
+}
+
+table.hanzi-board {
+    margin: 5px;
+}
+
+table.hanzi-board  th, caption {
+    color: grey;
+}
+
+table.hanzi-board  tr:nth-child(even) {
+    background: #202020;
+}
+
+.tone1 {
+    color: #EE363E;
+}
+
+.tone2 {
+    color: #F47C36;
+}
+
+.tone3 {
+    color: #73BB4F;
+}
+
+.tone4 {
+    color: #649CD3;
+}
+
+.tone5 {
+    color: #A0A0A0;
+}
+
+div.example {
+  /* font-size: 75%; */
+   color: LemonChiffon;
+   margin-left: 5px;
+}
+
+/*  */
+
+.kanji_widget {
+    padding-left: 3px;
+	padding-right: 3px;
+	border: 1px solid #666666;
+	border-radius: 3px;
+	font-size: 22px;
+}
+
+.kanji_widget:hover {
+    background-color: #606060;
+    cursor: pointer;
+}
+

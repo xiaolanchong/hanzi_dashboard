@@ -1,0 +1,71 @@
+符	符	Fú	surname Fu
+符	符	fú	mark/sign/talisman/to seal/to correspond to/tally/symbol/written charm/to coincide
+二分音符	二分音符	èr fēn yīn fú	minim (music)
+亞符號模型	亚符号模型	yà fú hào mó xíng	subsymbolic model
+休止符	休止符	xiū zhǐ fú	rest (music)
+光學字符識別	光学字符识别	guāng xué zì fú shí bié	optical character recognition, OCR
+八分音符	八分音符	bā fēn yīn fú	quaver/eighth note
+兵符	兵符	bīng fú	see 虎符[hǔ fú]
+分音符	分音符	fēn yīn fú	dieresis/umlaut/diacritical mark separating two adjacent syllables
+助記符	助记符	zhù jì fú	mnemonic sign
+占位符	占位符	zhàn wèi fú	placeholder (computing)
+同符合契	同符合契	tóng fú hé qì	same sign, joint aim (idiom); fig. completely compatible/identical
+名不符實	名不符实	míng bù fú shí	the name does not correspond to reality (idiom); it doesn't live up to its reputation
+四分音符	四分音符	sì fēn yīn fú	crotchet (music)
+國語注音符號第一式	国语注音符号第一式	Guó yǔ zhù yīn fú hào dì yī shì	Mandarin Phonetic Symbols 1 (official name of the phonetic system of writing Chinese used in Taiwan)/Bopomofo/abbr. to 注音一式[zhù yīn yī shì]
+好運符	好运符	hǎo yùn fú	good luck charm
+字符	字符	zì fú	character (computing)
+字符串	字符串	zì fú chuàn	string (computer science)
+字符集	字符集	zì fú jí	character set (e.g. ASCII 美國資訊交換標準碼|美国资讯交换标准码 or Unicode 統一碼|统一码)
+定界符	定界符	dìng jiè fú	delimiter (computing)
+巴登·符騰堡州	巴登·符腾堡州	Bā dēng · Fú téng bǎo zhōu	Baden-Württemberg, southwest German state, capital Stuttgart 斯圖加特|斯图加特[Sī tú jiā tè]
+幀首定界符	帧首定界符	zhēn shǒu dìng jiè fú	start frame delimiter (SFD)
+形符	形符	xíng fú	semantic component of a phono-semantic character (e.g. component刂[dāo] in 刻[kè])
+意符	意符	yì fú	semantic component of a phono-semantic character (e.g. component刂[dāo] in 刻[kè])
+指示符	指示符	zhǐ shì fú	indicator
+書寫符號	书写符号	shū xiě fú hào	writing symbol
+標點符號	标点符号	biāo diǎn fú hào	punctuation/a punctuation mark
+注音符號	注音符号	zhù yīn fú hào	Mandarin phonetic symbols (MPS), phonetic alphabet for Chinese used esp. in Taiwan, also known colloquially as Bopomofo (after the first four letters of the alphabet:ㄅㄆㄇㄈ)
+無符號	无符号	wú fú hào	unsigned (i.e. the absolute value, regardless of plus or minus sign)
+盤符	盘符	pán fú	drive letter (letter assigned to a disk drive or partition) (computing)
+相符	相符	xiāng fú	to match/to tally
+省略符號	省略符号	shěng lüè fú hào	apostrophe
+不相符	不相符	bù xiāng fú	not in harmony
+不符	不符	bù fú	inconsistent/not in agreement with/not agree or tally with/not conform to
+符串	符串	fú chuàn	string (as in "character string")
+符合	符合	fú hé	in keeping with/in accordance with/tallying with/in line with/to agree with/to accord with/to conform to/to correspond with/to manage/to handle
+符合標準	符合标准	fú hé biāo zhǔn	to comply with a standard/standards-compliant
+符咒	符咒	fú zhòu	charm/amulet (religious object conferring blessing)
+符拉迪沃斯托克	符拉迪沃斯托克	Fú lā dí wò sī tuō kè	Vladivostok (Russian port city)/Chinese name 海參崴|海参崴
+符板	符板	fú bǎn	a charm to protect against evil spirits
+符牌	符牌	fú pái	a talisman or lucky charm
+符籙	符箓	fú lù	(Taoism) talisman in the form of a painting of symbols thought to have magical powers
+符號	符号	fú hào	symbol/mark/sign
+符號學	符号学	fú hào xué	semiotics/semiology
+符記	符记	fú jì	token
+符記環	符记环	fú jì huán	token ring (computing)
+符類福音	符类福音	fú lèi fú yīn	synoptic gospels (i.e. Matthew, Mark and Luke, with similar accounts and chronology)
+符騰堡	符腾堡	Fú téng bǎo	Württemberg, region of southwest Germany, former state around Stuttgart 斯圖加特|斯图加特[Sī tú jiā tè]
+統一資源定位符	统一资源定位符	tǒng yī zī yuán dìng wèi fú	universal resource locator (URL), i.e. webaddress
+編碼字符集	编码字符集	biān mǎ zì fú jí	coded character set
+聲符	声符	shēng fú	phonetic component of a Chinese character
+虎符	虎符	hǔ fú	tiger tally (a two-piece object made in the shape of a tiger, used in ancient China as proof of authority. One half of a tally could be issued to a military officer and this would be matched with the other half when verification was required.)
+表意符階段	表意符阶段	biǎo yì fú jiē duàn	logographic stage
+角分符號	角分符号	jiǎo fēn fú hào	prime symbol (′) (math., linguistics etc)
+角秒符號	角秒符号	jiǎo miǎo fú hào	double prime symbol (″) (math., linguistics etc)
+言符其實	言符其实	yán fú qí shí	(of one's words) to be in accord with reality (idiom)
+言行不符	言行不符	yán xíng bù fú	(idiom) to say one thing and do another
+護身符	护身符	hù shēn fú	amulet/protective talisman/charm
+護身符子	护身符子	hù shēn fú zi	amulet/protective talisman/charm
+通用字符集	通用字符集	tōng yòng zì fú jí	universal character set UCS
+通配符	通配符	tōng pèi fú	wildcard character (computing)
+連字符	连字符	lián zì fú	hyphen
+連字符號	连字符号	lián zì fú hào	hyphen
+連音符	连音符	lián yīn fú	tuplet (music)
+長度指示符	长度指示符	cháng dù zhǐ shì fú	length indicator
+靈符	灵符	líng fú	a Daoist talisman
+非拉丁字符	非拉丁字符	fēi Lā dīng zì fú	non-Latin characters
+音符	音符	yīn fú	(music) note/phonetic component of a Chinese character/phonetic symbol/phonogram
+飛符	飞符	fēi fú	talisman in the form of a painting of symbols thought to have magical powers (also called 符籙|符箓[fú lù])/to invoke the magical power of such a talisman/a tiger tally 虎符[hǔ fú] sent with great urgency
+餘留無符號數	余留无符号数	yú liú wú fú hào shù	unsigned remainder (i.e. the remainder after rounding to the nearest integer)
+鬼畫符	鬼画符	guǐ huà fú	undecipherable handwriting/scribblings/(fig.) hypocritical talk

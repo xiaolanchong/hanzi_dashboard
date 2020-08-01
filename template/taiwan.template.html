@@ -1,0 +1,25 @@
+{% set lang="zh-Hant" %}
+{% extends "base.template.html" %}
+
+{% block title %}
+    <title>4800 иероглифов официального списка Минобр Тайваня</title>
+{% endblock %}
+
+{% block body %}
+    <h1>Иероглифы официального списка Минобр Тайваня</h1>
+    <section>
+        Список ханьцзы (китайских иероглифов) министерства образования Тайваня (教育部), созданный в 1982 г (4808個常用字).
+        Начертания иероглифов даны в соответствии со стандартом традиционных иероглифов. Начертания на других страницах могут отличаться, см. <a href="https://en.wikipedia.org/wiki/Han_unification">унификация Хань</a>.
+    </section>
+
+    {% include 'dict_selection.template.html' %}
+
+    <div class="hanzi-board">
+         {%- for hanzi in records %}
+         <span class="kanji_widget level-dark-S hanzi-trad">{{ hanzi }}</span>
+         {%- endfor %}
+    </div>
+    <div>Источник: <a href="https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=437&content_sn=46">Минобр Тайваня</a>
+    </div>
+
+{% endblock %}

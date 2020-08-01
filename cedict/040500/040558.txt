@@ -1,0 +1,6 @@
+䴉	鹮	huán	spoonbill/ibis/family Threskiornithidae
+䴉嘴鷸	鹮嘴鹬	huán zuǐ yù	(bird species of China) ibisbill (Ibidorhyncha struthersii)
+彩䴉	彩鹮	cǎi huán	(bird species of China) glossy ibis (Plegadis falcinellus)
+朱䴉	朱鹮	zhū huán	(bird species of China) crested ibis (Nipponia nippon)
+白肩黑䴉	白肩黑鹮	bái jiān hēi huán	(bird species of China) white-shouldered ibis (Pseudibis davisoni)
+黑頭白䴉	黑头白鹮	hēi tóu bái huán	(bird species of China) black-headed ibis (Threskiornis melanocephalus)

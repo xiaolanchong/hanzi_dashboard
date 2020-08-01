@@ -1,0 +1,492 @@
+語	语	yǔ	dialect/language/speech
+語	语	yù	to tell to
+一語成讖	一语成谶	yī yǔ chéng chèn	(idiom) to have one's words turn out to be (tragically) prophetic
+一語破的	一语破的	yī yǔ pò dì	see 一語中的|一语中的[yī yǔ zhòng dì]
+一語道破	一语道破	yī yǔ dào pò	one word says it all (idiom)/to hit the nail on the head/to be pithy and correct
+一語雙關	一语双关	yī yǔ shuāng guān	to make a pun/to have a double meaning/double entendre
+三言兩語	三言两语	sān yán liǎng yǔ	in a few words (idiom); expressed succinctly
+上古漢語	上古汉语	shàng gǔ Hàn yǔ	Old Chinese (linguistics)
+上海外國語大學	上海外国语大学	Shàng hǎi Wài guó yǔ Dà xué	Shanghai International Studies University (SISU)
+不可同日而語	不可同日而语	bù kě tóng rì ér yǔ	lit. mustn't speak of two things on the same day (idiom); not to be mentioned in the same breath/incomparable
+不言不語	不言不语	bù yán bù yǔ	to not say a word (idiom)/to keep silent
+不語	不语	bù yǔ	(literary) not to speak
+世界語	世界语	Shì jiè yǔ	Esperanto
+世說新語	世说新语	Shì shuō Xīn yǔ	A New Account of the Tales of the World, collection of anecdotes, conversations, remarks etc of historic personalities, compiled and edited by Liu Yiqing 劉義慶|刘义庆[Liú Yì qìng]
+中古漢語	中古汉语	zhōng gǔ Hàn yǔ	Middle Chinese (linguistics)
+中式英語	中式英语	Zhōng shì Yīng yǔ	Chinglish
+中心語	中心语	zhōng xīn yǔ	qualified word
+中譯語通	中译语通	Zhōng yì Yǔ tōng	Global Tone Communication Technology Co., Ltd (GTCOM), Chinese big data and AI company
+主語	主语	zhǔ yǔ	subject (in grammar)
+人造語言	人造语言	rén zào yǔ yán	artificial language/constructed language
+仂語	仂语	lè yǔ	phrase (linguistics)
+他加祿語	他加禄语	Tā jiā lù yǔ	Tagalog (language)
+低級語言	低级语言	dī jí yǔ yán	low-level (computer) language
+低聲細語	低声细语	dī shēng xì yǔ	in a whisper/in a low voice (idiom)
+低語	低语	dī yǔ	mutter
+低階語言	低阶语言	dī jiē yǔ yán	low-level (computer) language
+佛教語	佛教语	Fó jiào yǔ	Buddhist term
+佛蘭芒語	佛兰芒语	Fó lán máng yǔ	Flemish (language)
+佛語	佛语	fó yǔ	Buddhist term
+例語	例语	lì yǔ	example sentence
+俄語	俄语	É yǔ	Russian (language)
+俗語	俗语	sú yǔ	common saying/proverb/colloquial speech
+俚語	俚语	lǐ yǔ	slang
+保語	保语	Bǎo yǔ	Bulgarian language
+修飾語	修饰语	xiū shì yǔ	(grammar) modifier/qualifier/adjunct
+假設語氣	假设语气	jiǎ shè yǔ qì	subjunctive
+偶語棄市	偶语弃市	ǒu yǔ qì shì	chance remarks can lead to public execution (idiom)
+傳語	传语	chuán yǔ	to pass on (information)
+僧加羅語	僧加罗语	Sēng jiā luó yǔ	Sinhalese (language)
+元語言	元语言	yuán yǔ yán	metalanguage
+元語言學意識	元语言学意识	yuán yǔ yán xué yì shí	metalinguistic awareness
+元語言能力	元语言能力	yuán yǔ yán néng lì	metalinguistic ability
+克羅地亞語	克罗地亚语	Kè luó dì yà yǔ	Croatian (language)
+克里奧爾語	克里奥尔语	kè lǐ ào ěr yǔ	creole language
+全局語境	全局语境	quán jú yǔ jìng	global context
+冗語	冗语	rǒng yǔ	verbosity/verbose speech
+冷言冷語	冷言冷语	lěng yán lěng yǔ	sarcastic comments (idiom)/to make sarcastic comments
+冷語	冷语	lěng yǔ	sarcasm/sneering talk
+冷語冰人	冷语冰人	lěng yǔ bīng rén	to offend people with unkind remarks (idiom)
+分析語	分析语	fēn xī yǔ	analytic language
+切切私語	切切私语	qiè qiè sī yǔ	a private whisper
+刊首語	刊首语	kān shǒu yǔ	foreword/preface
+判斷語	判断语	pàn duàn yǔ	predicate
+前置修飾語	前置修饰语	qián zhì xiū shì yǔ	premodifier (grammar)
+加重語氣	加重语气	jiā zhòng yǔ qì	to give emphasis/with emphasis
+匈牙利語	匈牙利语	Xiōng yá lì yǔ	Hungarian language
+匈語	匈语	Xiōng yǔ	Hungarian language
+北京外國語大學	北京外国语大学	Běi jīng Wài guó yǔ Dà xué	Beijing Foreign Studies University (BFSU)
+北京第二外國語學院	北京第二外国语学院	Běi jīng Dì èr Wài guó yǔ Xué yuàn	Beijing International Studies University (BISU)
+北京語言大學	北京语言大学	Běi jīng Yǔ yán Dà xué	Beijing Language and Culture University (BLCU)
+北京語言學院	北京语言学院	Běi jīng Yǔ yán Xué yuàn	Beijing Language Institute/former name of 北京語言大學|北京语言大学[Běi jīng Yǔ yán Dà xué] Beijing Language and Culture University (BLCU)
+北印度語	北印度语	běi Yìn dù yǔ	Hindi/a north Indian language
+匯編語言	汇编语言	huì biān yǔ yán	assembly language
+千言萬語	千言万语	qiān yán wàn yǔ	thousands of words (idiom); having a lot of things to say/talking nonstop
+南非語	南非语	Nán fēi yǔ	Afrikaans (language)
+卡納達語	卡纳达语	Kǎ nà dá yǔ	Kannada (language)
+印地語	印地语	Yìn dì yǔ	Hindi (language)
+印度尼西亞語	印度尼西亚语	Yìn dù ní xī yà yǔ	Indonesian language
+印歐語	印欧语	Yìn Ōu yǔ	Indo-European (language)
+印歐語系	印欧语系	Yìn Ōu yǔ xì	Indo-European family of languages
+印歐語言	印欧语言	Yìn Ōu yǔ yán	Indo-European (language)
+原發性進行性失語	原发性进行性失语	yuán fā xìng jìn xíng xìng shī yǔ	primary progressive aphasia (PPA), speech disorder (sometimes related to dementia)
+原語	原语	yuán yǔ	source language (linguistics)
+反問語氣	反问语气	fǎn wèn yǔ qì	tone of one's voice when asking a rhetorical question
+反語	反语	fǎn yǔ	irony
+反語法	反语法	fǎn yǔ fǎ	irony
+口語	口语	kǒu yǔ	colloquial speech/spoken language/vernacular language/slander/gossip/CL:門|门[mén]
+口語溝通	口语沟通	kǒu yǔ gōu tōng	oral communication (psychology)
+口頭語	口头语	kǒu tóu yǔ	pet phrase/regularly used expression/manner of speaking
+古典語言	古典语言	gǔ diǎn yǔ yán	classical language
+古希臘語	古希腊语	Gǔ Xī là yǔ	Ancient Greek (language)
+古語	古语	gǔ yǔ	ancient language/old expression
+只言片語	只言片语	zhǐ yán piàn yǔ	just a word or two (idiom); a few isolated phrases
+可擴展標記語言	可扩展标记语言	kě kuò zhǎn biāo jì yǔ yán	extensible markup language (XML)
+台語	台语	Tái yǔ	Taiwanese/Hokklo
+合成語境	合成语境	hé chéng yǔ jìng	composite context
+合成語音	合成语音	hé chéng yǔ yīn	assembled phonology
+同日而語	同日而语	tóng rì ér yǔ	lit. to speak of two things on the same day (idiom); to mention things on equal terms (often with negatives: you can't mention X at the same time as Y)
+同義語	同义语	tóng yì yǔ	synonym
+吳儂嬌語	吴侬娇语	Wú nóng jiāo yǔ	pleasant-sounding Wu dialect/also written 吳儂軟語|吴侬软语[Wú nóng ruǎn yǔ]
+吳儂軟語	吴侬软语	Wú nóng ruǎn yǔ	pleasant-sounding Wu dialect
+吳語	吴语	Wú yǔ	Wu dialects (spoken primarily in Shanghai and surrounding areas)
+告語	告语	gào yǔ	to inform/to tell
+呢喃細語	呢喃细语	ní nán xì yǔ	whispering in a low voice (idiom); murmuring
+咒語	咒语	zhòu yǔ	incantation/spell/enchantment/curse
+哈薩克語	哈萨克语	Hā sà kè yǔ	Kazakh language
+商務漢語考試	商务汉语考试	Shāng wù Hàn yǔ Kǎo shì	Business Chinese Test (BCT)
+啞語	哑语	yǎ yǔ	sign language
+喃喃自語	喃喃自语	nán nán zì yǔ	to mumble to oneself
+單語	单语	dān yǔ	monolingual
+囈語	呓语	yì yǔ	to talk in one's sleep/crazy talk
+四川外國語大學	四川外国语大学	Sì chuān Wài guó yǔ Dà xué	Sichuan International Studies University (SISU)
+國語	国语	Guó yǔ	Chinese language (Mandarin), emphasizing its national nature/Chinese as a primary or secondary school subject/Chinese in the context of the Nationalist Government/Guoyu, book of historical narrative c. 10th-5th century BC
+國語注音符號第一式	国语注音符号第一式	Guó yǔ zhù yīn fú hào dì yī shì	Mandarin Phonetic Symbols 1 (official name of the phonetic system of writing Chinese used in Taiwan)/Bopomofo/abbr. to 注音一式[zhù yīn yī shì]
+國語羅馬字	国语罗马字	Guó yǔ Luó mǎ zì	Gwoyeu Romatzyh, a romanization system for Chinese devised by Y.R. Chao and others in 1925-26
+國防語言學院	国防语言学院	Guó fáng Yǔ yán Xué yuàn	US Defense Language Institute (founded 1941)
+土耳其語	土耳其语	Tǔ ěr qí yǔ	Turkish (language)
+土語	土语	tǔ yǔ	dialect/patois
+埃塞俄比亞語	埃塞俄比亚语	Āi sāi é bǐ yà yǔ	Ethiopic (language)
+塔加路族語	塔加路族语	Tǎ jiā lù zú yǔ	Tagalog (language)
+塞爾特語	塞尔特语	Sāi ěr tè yǔ	Celtic language
+塞爾維亞克羅地亞語	塞尔维亚克罗地亚语	Sāi ěr wéi yà Kè luó dì yà yǔ	Serbo-Croatian (language)
+塞爾維亞語	塞尔维亚语	Sāi ěr wéi yà yǔ	Serbian (language)
+塞語	塞语	Sài yǔ	Serb language
+壯語	壮语	Zhuàng yǔ	Zhuang language/language of the Zhuang ethnic group 壯族|壮族[Zhuàng zú] of Guangxi
+壯語	壮语	zhuàng yǔ	magnificent talk/exaggeration
+夏蟲不可以語冰	夏虫不可以语冰	xià chóng bù kě yǐ yǔ bīng	a summer insect cannot discuss ice (idiom)
+外來成語	外来成语	wài lái chéng yǔ	loan idiom
+外來語	外来语	wài lái yǔ	loanword
+外國語	外国语	wài guó yǔ	foreign language
+外語	外语	wài yǔ	foreign language/CL:門|门[mén]
+多種語言	多种语言	duō zhǒng yǔ yán	multilingual
+多種語言支持	多种语言支持	duō zhǒng yǔ yán zhī chí	multilingual support
+多語言	多语言	duō yǔ yán	polyglot/many language
+大連外國語大學	大连外国语大学	Dà lián Wài guó yǔ Dà xué	Dalian University of Foreign Languages
+天津外國語大學	天津外国语大学	Tiān jīn Wài guó yǔ Dà xué	Tianjin Foreign Studies University
+失語	失语	shī yǔ	to let slip/loss of speech (e.g. as a result of brain damage)/aphasia
+失語症	失语症	shī yǔ zhèng	aphasia or aphemia (loss of language)
+套語	套语	tào yǔ	polite set phrases
+女真語	女真语	Nǚ zhēn yǔ	Jurchen language
+好言好語	好言好语	hǎo yán hǎo yǔ	kind words/sweet talk/coaxing manner
+妄語	妄语	wàng yǔ	to tell lies/to talk nonsense
+妙語	妙语	miào yǔ	witticism
+妙語如珠	妙语如珠	miào yǔ rú zhū	sparkling with wit (idiom)
+妙語橫生	妙语横生	miào yǔ héng shēng	to be full of wit and humor
+妙語連珠	妙语连珠	miào yǔ lián zhū	sparkling with wit (idiom)
+委婉語	委婉语	wěi wǎn yǔ	euphemism
+威爾士語	威尔士语	Wēi ěr shì yǔ	Welsh (language)
+孔子家語	孔子家语	Kǒng zǐ Jiā yǔ	The School Sayings of Confucius, a supplement to the Analects/abbr. to 家語|家语[Jiā yǔ]
+孟加拉語	孟加拉语	Mèng jiā lā yǔ	Bengali (language)
+官方語言	官方语言	guān fāng yǔ yán	official language
+定語	定语	dìng yǔ	attributive (modifier)
+客家語	客家语	Kè jiā yǔ	Hakka (a Chinese dialect)
+客語	客语	Kè yǔ	Hakka dialect
+家語	家语	Jiā yǔ	The School Sayings of Confucius (abbr. for 孔子家語|孔子家语[Kǒng zǐ Jiā yǔ])
+宿務語	宿务语	Sù wù yǔ	Cebuano (aka Bisaya), language spoken in parts of the Philippines
+宿霧語	宿雾语	Sù wù yǔ	Cebuano (aka Bisaya), language spoken in parts of the Philippines (Tw)
+密語	密语	mì yǔ	secret talk/coded language/cypher/code
+寒喧語	寒喧语	hán xuān yǔ	polite set phrase/salutation/pleasantries
+導語	导语	dǎo yǔ	preamble/introduction/(journalism) lede/lead paragraph
+局部語境	局部语境	jú bù yǔ jìng	local context
+屈折語	屈折语	qū zhé yǔ	to inflect (in grammar)/to decline/to conjugate
+巴斯克語	巴斯克语	Bā sī kè yǔ	Basque (language)
+巽他語	巽他语	Xùn tā yǔ	Sunda language, used in West Java province in Indonesia
+希伯來語	希伯来语	Xī bó lái yǔ	Hebrew language
+希伯萊語	希伯莱语	Xī bó lái yǔ	Hebrew language
+希臘語	希腊语	Xī là yǔ	Greek language
+廣東外語外貿大學	广东外语外贸大学	Guǎng dōng Wài yǔ Wài mào Dà xué	Guangdong University of Foreign Studies
+引語	引语	yǐn yǔ	quotation
+形容詞短語	形容词短语	xíng róng cí duǎn yǔ	adjectival phrase
+後置修飾語	后置修饰语	hòu zhì xiū shì yǔ	postmodifier (grammar)
+德語	德语	Dé yǔ	German (language)
+徽語	徽语	Huī yǔ	Huizhou dialect of Gan, spoken in southern parts of Anhui Province
+惡語	恶语	è yǔ	evil words/malicious talk
+惡語中傷	恶语中伤	è yǔ zhòng shāng	vicious slander/to calumny maliciously
+惡語傷人	恶语伤人	è yǔ shāng rén	to insult/to direct bad language at sb/to slag off
+意大利語	意大利语	Yì dà lì yǔ	Italian (language)
+意第緒語	意第绪语	Yì dì xù yǔ	Yiddish language
+愛爾蘭語	爱尔兰语	Ài ěr lán yǔ	Irish language
+感嘆語	感叹语	gǎn tàn yǔ	exclamation/expletive
+慣用語	惯用语	guàn yòng yǔ	commonly used phrase/idiom/colloquial usage
+成語	成语	chéng yǔ	Chinese set expression, typically of 4 characters, often alluding to a story or historical quotation/idiom/proverb/saying/adage/CL:條|条[tiáo],本[běn],句[jù]
+成語典故	成语典故	chéng yǔ diǎn gù	historical or literary anecdote that gives rise to a saying
+成語接龍	成语接龙	chéng yǔ jiē lóng	game where the last word of one idiom 成語|成语[chéng yǔ] is the first of the next
+手語	手语	shǒu yǔ	sign language
+打啞語	打哑语	dǎ yǎ yǔ	to use sign language
+打手語	打手语	dǎ shǒu yǔ	to use sign language
+批語	批语	pī yǔ	criticism/commentary
+拉丁語	拉丁语	Lā dīng yǔ	Latin (language)
+按語	按语	àn yǔ	note/comment
+捷克語	捷克语	Jié kè yǔ	Czech (language)
+捷語	捷语	Jié yǔ	Czech language
+提稱語	提称语	tí chēng yǔ	epistolary formula used at the head of a letter
+插入語	插入语	chā rù yǔ	interjection
+撒拉語	撒拉语	Sā lā yǔ	Salar, language of Salar ethnic group of Qinghai province
+敬語	敬语	jìng yǔ	honorific (e.g. in grammar of oriental languages)
+斯拉夫語	斯拉夫语	Sī lā fū yǔ	Slavic language
+斯洛伐克語	斯洛伐克语	Sī luò fá kè yǔ	Slovak (language)
+斯洛文尼亞語	斯洛文尼亚语	Sī luò wén ní yà yǔ	Slovenian (language)
+斯瓦希里語	斯瓦希里语	Sī wǎ xī lǐ yǔ	Swahili (language)/Kiswahili
+斷語	断语	duàn yǔ	conclusion/judgment/verdict
+旗語	旗语	qí yǔ	flag signals (for communicating between ships or army units)/semaphore
+日耳曼語	日耳曼语	Rì ěr màn yǔ	Germanic language
+日語	日语	Rì yǔ	Japanese language
+普什圖語	普什图语	Pǔ shí tú yǔ	Pashtu (one of the languages of Afghanistan)
+普羅旺斯語	普罗旺斯语	Pǔ luó wàng sī yǔ	Provençal (language)
+暗語	暗语	àn yǔ	code word
+暹羅語	暹罗语	Xiān luó yǔ	Siamese (Thai) language
+書寫語言	书写语言	shū xiě yǔ yán	written language
+書面語	书面语	shū miàn yǔ	written language
+朝鮮語	朝鲜语	Cháo xiǎn yǔ	Korean language
+未可同日而語	未可同日而语	wèi kě tóng rì ér yǔ	lit. mustn't speak of two things on the same day (idiom); not to be mentioned in the same breath/incomparable
+本族語	本族语	běn zú yǔ	native language/mother tongue
+柯爾克孜語	柯尔克孜语	Kē ěr kè zī yǔ	Kyrghiz language
+案語	案语	àn yǔ	variant of 按語|按语[àn yǔ]
+梵語	梵语	Fàn yǔ	Sanskrit (language)
+標準語	标准语	biāo zhǔn yǔ	standard language
+標語	标语	biāo yǔ	written slogan/placard/CL:幅[fú],張|张[zhāng],條|条[tiáo]
+標語牌	标语牌	biāo yǔ pái	placard
+標題語	标题语	biāo tí yǔ	title word/entry (in dictionary)
+機械語言	机械语言	jī xiè yǔ yán	machine language
+橫幅標語	横幅标语	héng fú biāo yǔ	slogan banner
+款語移時	款语移时	kuǎn yǔ yí shí	to talk slowly and in depth (idiom)
+歇後語	歇后语	xiē hòu yǔ	saying in which the second part, uttered after a pause or totally left out, is the intended meaning of the allegory presented in the first part
+歐洲語言	欧洲语言	Ōu zhōu yǔ yán	European language
+母語	母语	mǔ yǔ	native language/mother tongue/(linguistics) parent language
+毛主席語錄	毛主席语录	Máo Zhǔ xí Yǔ lù	Quotations from Chairman Mao Tse-Tung, published from 1964 to about 1976
+污言穢語	污言秽语	wū yán huì yǔ	filthy speech/obscenities
+法語	法语	Fǎ yǔ	French (language)
+波斯尼亞語	波斯尼亚语	Bō sī ní yà yǔ	Bosnian (language)
+波斯語	波斯语	Bō sī yǔ	Persian (language)/Farsi
+波蘭語	波兰语	Bō lán yǔ	Polish (language)
+波語	波语	Bō yǔ	Polish language
+泰盧固語	泰卢固语	Tài lú gù yǔ	Telugu or Telegu, the official language of Andhra Pradesh, India
+泰米爾語	泰米尔语	Tài mǐ ěr yǔ	Tamil language
+泰語	泰语	Tài yǔ	Thai (language)
+洋涇浜英語	洋泾浜英语	Yáng jīng bāng Yīng yǔ	pidgin English
+流行語	流行语	liú xíng yǔ	popular jargon/catchword
+流言蜚語	流言蜚语	liú yán fēi yǔ	rumors and slanders (idiom); gossip/lies and slanders
+淫詞穢語	淫词秽语	yín cí huì yǔ	obscene words/dirty talk
+淫詞褻語	淫词亵语	yín cí xiè yǔ	dirty words/dirty talk
+混合失語症	混合失语症	hùn hé shī yǔ zhèng	mixed aphasia
+湘語	湘语	Xiāng yǔ	Xiang (Hunanese) dialect spoken in Hunan Province
+源氏物語	源氏物语	Yuán shì Wù yǔ	The Tale of Genji/Genji Monogatari
+滬語	沪语	Hù yǔ	Shanghainese/Shanghai dialect
+滿語	满语	Mǎn yǔ	Manchurian language
+漢藏語系	汉藏语系	Hàn Zàng yǔ xì	Sino-Tibetan language family
+漢語	汉语	Hàn yǔ	Chinese language/CL:門|门[mén]
+漢語大字典	汉语大字典	Hàn yǔ Dà Zì diǎn	Hanyu Da Zidian, one of the most comprehensive Chinese character dictionaries with 54,678 (and later 60,370) entries, first published between 1986-1990
+漢語大詞典	汉语大词典	Hàn yǔ Dà Cí diǎn	Hanyu Da Cidian, the largest Chinese dictionary, with over 375,000 word entries, first published 1986-1994
+漢語拼音	汉语拼音	Hàn yǔ Pīn yīn	Hanyu Pinyin, the romanization system used in the PRC since the 1960s
+漢語水平考試	汉语水平考试	Hàn yǔ Shuǐ píng Kǎo shì	HSK (Chinese Proficiency Test)
+潮語	潮语	cháo yǔ	fashionable word or phrase/abbr. for 潮流用語|潮流用语[cháo liú yòng yǔ]
+烏孜別克語	乌孜别克语	Wū zī bié kè yǔ	Uzbek language
+烏爾都語	乌尔都语	Wū ěr dū yǔ	Urdu (language)
+烏語	乌语	Wū yǔ	Uzbek language
+無語	无语	wú yǔ	to remain silent/to have nothing to say/(coll.) speechless/dumbfounded
+熟語	熟语	shú yǔ	idiom
+片語	片语	piàn yǔ	phrase
+物語	物语	wù yǔ	monogatari/epic narrative (Japanese literary form)
+狀語	状语	zhuàng yǔ	adverbial adjunct (adverb or adverbial clause)
+獨語	独语	dú yǔ	solo part (in opera)/soliloquy
+獨語句	独语句	dú yǔ jù	one-word sentence
+珞巴語	珞巴语	Luò bā yǔ	Lhoba, language of Lhoba ethnic group of southeast Tibet
+瑞典語	瑞典语	Ruì diǎn yǔ	Swedish (language)
+甘言蜜語	甘言蜜语	gān yán mì yǔ	(idiom) sweet words/sweet talk/cajolery
+甜言美語	甜言美语	tián yán měi yǔ	sweet words, beautiful phrases (idiom); hypocritical flattery
+甜言蜜語	甜言蜜语	tián yán mì yǔ	(idiom) sweet words/sweet talk/cajolery
+生詞語	生词语	shēng cí yǔ	vocabulary words (in language-learning books)/new or unfamiliar words
+用語	用语	yòng yǔ	choice of words/wording/phraseology/term
+略語	略语	lüè yǔ	abbreviation
+發語詞	发语词	fā yǔ cí	form word/in Classical Chinese, the first character of phrase having auxiliary grammatical function
+發語辭	发语辞	fā yǔ cí	literary auxiliary particle, comes at the beginning of a sentence
+皮層下失語症	皮层下失语症	pí céng xià shī yǔ zhèng	subcortical aphasia
+皮欽語	皮钦语	pí qīn yǔ	pidgin
+目語	目语	mù yǔ	to speak with the eyes
+直接賓語	直接宾语	zhí jiē bīn yǔ	direct object (grammar)
+短時語音記憶	短时语音记忆	duǎn shí yǔ yīn jì yì	short-term phonological memory
+短語	短语	duǎn yǔ	phrase (grammar)
+社交語言	社交语言	shè jiāo yǔ yán	lingua franca
+社會語言學	社会语言学	shè huì yǔ yán xué	sociolinguistics
+祖語	祖语	zǔ yǔ	proto-language/parent language (linguistics)
+禁忌語	禁忌语	jìn jì yǔ	taboo language
+禁語	禁语	jìn yǔ	taboo (word)/unmentionable word
+私語	私语	sī yǔ	to discuss in whispered tones/whispered conversation
+科普特語	科普特语	Kē pǔ tè yǔ	Coptic, Afro-Asiatic language of the Copts 科普特人[Kē pǔ tè rén], spoken in Egypt until late 17th century
+程式語言	程式语言	chéng shì yǔ yán	programming language
+穢語	秽语	huì yǔ	obscene language
+竊竊私語	窃窃私语	qiè qiè sī yǔ	to whisper
+笑而不語	笑而不语	xiào ér bù yǔ	to smile but say nothing
+笑語	笑语	xiào yǔ	talking and laughing/cheerful talk
+簽語餅	签语饼	qiān yǔ bǐng	fortune cookie
+粗語	粗语	cū yǔ	rude words/dirty talk
+粵語	粤语	Yuè yǔ	Cantonese language
+粵語拼音	粤语拼音	Yuè yǔ Pīn yīn	Cantonese romanization/Jyutping, one of the many Cantonese romanization systems
+納瓦特爾語	纳瓦特尔语	Nà wǎ tè ěr yǔ	Nahuatl (language)
+細語	细语	xì yǔ	to chat with a low voice
+結束語	结束语	jié shù yǔ	concluding remarks
+結語	结语	jié yǔ	concluding remarks
+絮語	絮语	xù yǔ	to chatter incessantly
+維吾爾語	维吾尔语	Wéi wú ěr yǔ	Uighur language
+網絡俚語	网络俚语	wǎng luò lǐ yǔ	Internet slang/netspeak/cyberspeak
+網絡用語	网络用语	wǎng luò yòng yǔ	see 網絡語言|网络语言[wǎng luò yǔ yán]
+網絡語言	网络语言	wǎng luò yǔ yán	Internet language/Internet slang/netspeak/cyberspeak
+網絡語音	网络语音	wǎng luò yǔ yīn	VoIP (Voice over IP) (computing)/to speak with others over the Internet
+網語	网语	wǎng yǔ	netspeak/cyberspeak
+綺語	绮语	qǐ yǔ	flowery writing/writing concerning love and sex
+緬甸語	缅甸语	Miǎn diàn yǔ	Burmese (language of Myanmar)
+縮略語	缩略语	suō lüè yǔ	abbreviated word/acronym
+縮語	缩语	suō yǔ	abbreviated word/acronym
+羅曼語族	罗曼语族	Luó màn yǔ zú	Romance language family
+羅語	罗语	Luó yǔ	Romanian language
+美語	美语	Měi yǔ	American English
+習慣用語	习惯用语	xí guàn yòng yǔ	idiom/idiomatic expression/habitual form of speech (grammar)
+習語	习语	xí yǔ	common saying/idiom
+耦語	耦语	ǒu yǔ	to have a tete-à-tete/to whisper to each other
+耳語	耳语	ěr yǔ	to whisper in sb's ear/a whisper
+聲調語言	声调语言	shēng diào yǔ yán	tonal language (e.g. Chinese or Vietnamese)
+胡言亂語	胡言乱语	hú yán luàn yǔ	babbling nonsense (idiom); crazy and unfounded ravings/double Dutch
+腹語	腹语	fù yǔ	ventriloquism
+腹語師	腹语师	fù yǔ shī	ventriloquist
+腹語術	腹语术	fù yǔ shù	ventriloquism
+自然語言	自然语言	zì rán yǔ yán	natural language
+自然語言處理	自然语言处理	zì rán yǔ yán chǔ lǐ	natural language processing, NLP
+自言自語	自言自语	zì yán zì yǔ	to talk to oneself/to think aloud/to soliloquize
+自語	自语	zì yǔ	to talk to oneself
+芬蘭語	芬兰语	Fēn lán yǔ	Finnish (language)/suomen kieli
+花言巧語	花言巧语	huā yán qiǎo yǔ	graceful words, flowery speech (idiom); elegant but insincere words/cheating wheedling/dishonest rhetoric
+英語	英语	Yīng yǔ	English (language)
+英語教學	英语教学	Yīng yǔ jiāo xué	English Language Teaching (ELT)/studying and teaching English
+英語熱	英语热	Yīng yǔ rè	English language fan/enthusiasm for English
+英語系	英语系	Yīng yǔ xì	anglophone/English department
+英語角	英语角	Yīng yǔ jiǎo	English corner/spoken English practice group
+荷蘭語	荷兰语	Hé lán yǔ	Dutch (language)
+華語	华语	Huá yǔ	Chinese language
+菲律賓語	菲律宾语	Fēi lǜ bīn yǔ	Tagalog (language)
+葡萄牙語	葡萄牙语	Pú táo yá yǔ	Portuguese (language)
+葡萄語	葡萄语	Pú táo yǔ	Portuguese (language)
+蒙古語	蒙古语	Měng gǔ yǔ	Mongolian language
+蓋爾語	盖尔语	Gài ěr yǔ	Gaelic (language)
+藏語	藏语	Zàng yǔ	Tibetan language
+虛擬現實置標語言	虚拟现实置标语言	xū nǐ xiàn shí zhì biāo yǔ yán	virtual reality markup language (VRML) (computing)
+虛擬語氣	虚拟语气	xū nǐ yǔ qì	subjunctive mood (grammar)
+蜚語	蜚语	fēi yǔ	groundless rumor/unfounded gossip
+蜜語	蜜语	mì yǔ	sweet words/sweet talk
+行語	行语	háng yǔ	slang/jargon/cant/lingo/patois/argot
+術語	术语	shù yǔ	term/terminology
+表語	表语	biǎo yǔ	predicative
+表達失語症	表达失语症	biǎo dá shī yǔ zhèng	expressive aphasia
+補語	补语	bǔ yǔ	complement (grammar)
+西安外國語大學	西安外国语大学	Xī ān Wài guó yǔ Dà xué	Xi'an International Studies University (XISU)
+西班牙語	西班牙语	Xī bān yá yǔ	Spanish language
+西語	西语	xī yǔ	western language/Spanish (language)
+言多語失	言多语失	yán duō yǔ shī	see 言多必失[yán duō bì shī]
+言語	言语	yán yǔ	words/speech/(spoken) language
+言語	言语	yán yu	to speak/to tell
+言語失常症	言语失常症	yán yǔ shī cháng zhèng	speech defect
+言語缺陷	言语缺陷	yán yǔ quē xiàn	speech defect
+詐語	诈语	zhà yǔ	falsehood/lies/fabrication
+評語	评语	píng yǔ	comment/evaluation
+詞語	词语	cí yǔ	word (general term including monosyllables through to short phrases)/term (e.g. technical term)/expression
+詞語彙	词语汇	cí yǔ huì	vocabulary
+詞跟語	词跟语	cí gēn yǔ	amorphous language
+話語	话语	huà yǔ	words/speech/utterance/discourse
+話語權	话语权	huà yǔ quán	ability to have one's say and be listened to/influence/clout
+誑語	诳语	kuáng yǔ	deceit/lies
+一語不發	一语不发	yī yǔ bù fā	to not say a word (idiom)
+一語中的	一语中的	yī yǔ zhòng dì	to hit the mark with a comment (idiom)/to say sth spot on
+語云	语云	yǔ yún	as the saying goes...
+語助詞	语助词	yǔ zhù cí	auxiliary word
+語句	语句	yǔ jù	sentence
+語域	语域	yǔ yù	(linguistics) linguistic field/register
+語塞	语塞	yǔ sè	to be at a loss for words/speechless
+語境	语境	yǔ jìng	context
+語境依賴性	语境依赖性	yǔ jìng yī lài xìng	context dependency
+語失	语失	yǔ shī	indiscreet remark/indiscretion/slip of the tongue
+語尾	语尾	yǔ wěi	word ending/suffix/inflection (grammar)
+語序	语序	yǔ xù	word order
+語彙	语汇	yǔ huì	vocabulary
+語意	语意	yǔ yì	meaning/content of speech or writing/semantic
+語意性	语意性	yǔ yì xìng	semantic
+語感	语感	yǔ gǎn	a feel for language/instinctive understanding
+語態	语态	yǔ tài	voice (grammar)
+語支	语支	yǔ zhī	language branch
+語數外	语数外	yǔ shù wài	Chinese, math & English (school subjects)
+語文	语文	yǔ wén	literature and language/(PRC) Chinese (as a school subject)
+語料	语料	yǔ liào	corpus
+語料庫	语料库	yǔ liào kù	text corpus
+語族	语族	yǔ zú	language branch
+語氣	语气	yǔ qì	tone/manner of speaking/mood/CL:個|个[gè]
+語氣助詞	语气助词	yǔ qì zhù cí	modal particle
+語氣詞	语气词	yǔ qì cí	modal particle
+語法	语法	yǔ fǎ	grammar
+語法術語	语法术语	yǔ fǎ shù yǔ	grammatical term
+語源	语源	yǔ yuán	etymology
+語焉不詳	语焉不详	yǔ yān bù xiáng	to mention sth without elaborating (idiom); not giving details
+語無倫次	语无伦次	yǔ wú lún cì	incoherent speech/to talk without rhyme or reason (idiom)
+語用學	语用学	yǔ yòng xué	pragmatics
+語畫	语画	yǔ huà	picture in words
+語病	语病	yǔ bìng	faulty wording/mispronunciation due to a speech defect
+語種	语种	yǔ zhǒng	language type (in a classification)
+語篇	语篇	yǔ piān	discourse/text
+語系	语系	yǔ xì	language family
+語素	语素	yǔ sù	language component/morpheme/individual characters (making up an expression)
+語義	语义	yǔ yì	meaning of words/semantic
+語義分析	语义分析	yǔ yì fēn xī	semantic analysis
+語義分類	语义分类	yǔ yì fēn lèi	semantic categorization
+語義學	语义学	yǔ yì xué	semantics
+語義空間	语义空间	yǔ yì kōng jiān	semantic space
+語者	语者	yǔ zhě	(linguistics) speaker
+語聲	语声	yǔ shēng	spoken language/sound of speaking
+語言	语言	yǔ yán	language/CL:門|门[mén],種|种[zhǒng]
+語言匱乏	语言匮乏	yǔ yán kuì fá	language deficit (linguistics)
+語言學	语言学	yǔ yán xué	linguistics
+語言學家	语言学家	yǔ yán xué jiā	linguist
+語言實驗室	语言实验室	yǔ yán shí yàn shì	language laboratory
+語言產生	语言产生	yǔ yán chǎn shēng	production of speech
+語言缺陷	语言缺陷	yǔ yán quē xiàn	speech defect
+語言能力	语言能力	yǔ yán néng lì	verbal ability
+語言訓練	语言训练	yǔ yán xùn liàn	language training
+語言誓約	语言誓约	yǔ yán shì yuē	language pledge (to speak only the target language in a language school)
+語言障礙	语言障碍	yǔ yán zhàng ài	language barrier/speech impediment
+語詞	语词	yǔ cí	word/significative/predicate
+語調	语调	yǔ diào	intonation/CL:個|个[gè]
+語重心長	语重心长	yǔ zhòng xīn cháng	meaningful and heartfelt words (idiom); sincere and earnest wishes
+語鋒	语锋	yǔ fēng	thread of discussion/topic
+語錄	语录	yǔ lù	quotation (from a book or existing source)
+語音	语音	yǔ yīn	speech sounds/pronunciation/colloquial (rather than literary) pronunciation of a Chinese character/phonetic/audio/voice/(Internet) to voice chat/voice message
+語音信箱	语音信箱	yǔ yīn xìn xiāng	voice mailbox/voicemail
+語音信號	语音信号	yǔ yīn xìn hào	voice signal
+語音合成	语音合成	yǔ yīn hé chéng	speech synthesis
+語音失語症	语音失语症	yǔ yīn shī yǔ zhèng	phonetic aphasia
+語音學	语音学	yǔ yīn xué	phonetics
+語音意識	语音意识	yǔ yīn yì shí	phonetic awareness
+語音技巧	语音技巧	yǔ yīn jì qiǎo	phonological skill
+語音指令	语音指令	yǔ yīn zhǐ lìng	speech command (for computer speech recognition)
+語音識別	语音识别	yǔ yīn shí bié	speech recognition
+語音通訊通道	语音通讯通道	yǔ yīn tōng xùn tōng dào	voice (communications) channel
+論語	论语	Lún yǔ	The Analects of Confucius 孔子[Kǒng zǐ]
+諺語	谚语	yàn yǔ	proverb
+謂語	谓语	wèi yǔ	(grammatical) predicate
+謎語	谜语	mí yǔ	riddle/conundrum/CL:條|条[tiáo]
+謔語	谑语	xuè yǔ	words to tease sb
+謙語	谦语	qiān yǔ	humble expression
+譯語	译语	yì yǔ	target language (linguistics)
+讖語	谶语	chèn yǔ	prophecy/prophetic remark
+豪薩語	豪萨语	Háo sà yǔ	the Hausa language
+豪言壯語	豪言壮语	háo yán zhuàng yǔ	bold, visionary words
+賓語	宾语	bīn yǔ	object (grammar)
+賓語關係從句	宾语关系从句	bīn yǔ guān xì cóng jù	object relative clause
+贅語	赘语	zhuì yǔ	superfluous words/pleonasm
+贛語	赣语	Gàn yǔ	Gan dialect, spoken in Jiangxi Province
+赫哲語	赫哲语	Hè zhé yǔ	Hezhen language (of Hezhen ethnic group of Heilongjiang province)
+超文本標記語言	超文本标记语言	chāo wén běn biāo jì yǔ yán	hypertext markup language/HTML
+越南語	越南语	Yuè nán yǔ	Vietnamese language, Tiếng Việt
+跋語	跋语	bá yǔ	short comment or critical appraisal added at the end of a text, on a painting etc
+跨語言	跨语言	kuà yǔ yán	cross-language/polyglot
+輔助語	辅助语	fǔ zhù yǔ	auxiliary language
+輕聲細語	轻声细语	qīng shēng xì yǔ	to speak softly/to whisper (idiom)
+輕言細語	轻言细语	qīng yán xì yǔ	to speak softly
+述語	述语	shù yǔ	predicate
+通用語	通用语	tōng yòng yǔ	common language/lingua franca
+通關密語	通关密语	tōng guān mì yǔ	password
+進行性失語	进行性失语	jìn xíng xìng shī yǔ	progressive aphasia/gradual loss of speech
+達斡爾語	达斡尔语	Dá wò ěr yǔ	Daur language (of Daur ethnic group of Inner Mongolia and Heilongjiang)
+鄂溫克語	鄂温克语	È wēn kè yǔ	Ewenke language (of Ewenke ethnic group of Inner Mongolia)
+酒言酒語	酒言酒语	jiǔ yán jiǔ yǔ	words spoken under the influence of alcohol (idiom)
+重複語境	重复语境	chóng fù yǔ jìng	duplicate context
+閃含語系	闪含语系	Shǎn Hán yǔ xì	Hamito-Semitic family of languages (incl. Arabic, Aramaic, Hebrew etc)
+閃語	闪语	Shǎn yǔ	Semitic language
+閑言碎語	闲言碎语	xián yán suì yǔ	idle gossip/irrelevant nonsense/slanderous rumor
+閒言閒語	闲言闲语	xián yán xián yǔ	idle gossip
+間接賓語	间接宾语	jiàn jiē bīn yǔ	indirect object (grammar)
+閩南語	闽南语	Mǐn nán yǔ	Southern Min, a Sinitic language spoken in southern Fujian and surrounding areas
+閩語	闽语	Mǐn yǔ	Min dialects, spoken in Fujian Province, Taiwan etc
+阿富汗語	阿富汗语	Ā fù hàn yǔ	Afghan (language)/Pashto language
+阿拉伯語	阿拉伯语	Ā lā bó yǔ	Arabic (language)
+阿拉米語	阿拉米语	Ā lā mǐ yǔ	Aramaic (language)
+阿爾泰語	阿尔泰语	Ā ěr tài yǔ	Altaic language
+阿芝特克語	阿芝特克语	Ā zhī tè kè yǔ	Aztec language (Nahuatl)
+隱語	隐语	yǐn yǔ	secret language/codeword
+雋語	隽语	juàn yǔ	epigram/meaningful or significant speech
+雙語	双语	shuāng yǔ	bilingual
+雙關語	双关语	shuāng guān yǔ	pun/play on words/a phrase with a double meaning
+電腦語言	电脑语言	diàn nǎo yǔ yán	programming language/computer language
+靈語	灵语	líng yǔ	tongues (spiritual gift)
+面嚮對象語言	面向对象语言	miàn xiàng duì xiàng yǔ yán	object oriented language
+韓國語	韩国语	Hán guó yǔ	Korean language
+韓語	韩语	Hán yǔ	Korean language (esp. in context of South Korea)
+韻語	韵语	yùn yǔ	rhymed language
+類語辭典	类语辞典	lèi yǔ cí diǎn	thesaurus
+馬來西亞語	马来西亚语	Mǎ lái xī yà yǔ	Malaysian (language)
+馬來語	马来语	Mǎ lái yǔ	Malaysian language
+馬扎爾語	马扎尔语	Mǎ zhā ěr yǔ	Magyar (language)/Hungarian
+馬拉地語	马拉地语	Mǎ lā dì yǔ	Marathi language of west India
+馬爾他語	马尔他语	Mǎ ěr tā yǔ	Maltese (language)
+高盧語	高卢语	Gāo lú yǔ	Gaulish or Gallic (language)
+高級語言	高级语言	gāo jí yǔ yán	(computing) high-level language
+高階語言	高阶语言	gāo jiē yǔ yán	(computing) high-level language (Tw, HK, Macau)
+鳥語花香	鸟语花香	niǎo yǔ huā xiāng	lit. birdsong and fragrant flowers (idiom); fig. the intoxication of a beautiful spring day
+麗語	丽语	lì yǔ	beautiful wordage
+黏著語	黏着语	nián zhuó yǔ	agglutinative language (e.g. Turkish and Japanese)

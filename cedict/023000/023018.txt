@@ -1,0 +1,11 @@
+姪	侄	zhí	nephew by the male line
+堂姪	堂侄	táng zhí	nephew by the male line
+姪兒	侄儿	zhí ér	see 姪子|侄子[zhí zi]
+姪女	侄女	zhí nǚ	niece/brother's daughter
+姪女婿	侄女婿	zhí nǚ xu	brother's daughter's husband/niece's husband
+姪媳婦	侄媳妇	zhí xí fu	brother's son's wife/nephew's wife
+姪子	侄子	zhí zi	brother's son/nephew
+姪孫	侄孙	zhí sūn	grandnephew
+姪孫女	侄孙女	zhí sūn nǚ	grand niece
+表姪	表侄	biǎo zhí	son of a male cousin via female line
+表姪女	表侄女	biǎo zhí nǚ	daughter of a male cousin via female line

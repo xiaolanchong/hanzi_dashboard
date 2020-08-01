@@ -1,0 +1,71 @@
+序	序	xù	order/sequence/preface
+主序星	主序星	zhǔ xù xīng	star in the main sequence (astron.)
+井然有序	井然有序	jǐng rán yǒu xù	everything clear and in good order (idiom); neat and tidy
+倒序	倒序	dào xù	reverse order/inverted order
+先後順序	先后顺序	xiān hòu shùn xù	order of priority/sequential order
+公共秩序	公共秩序	gōng gòng zhì xù	public order
+共享程序庫	共享程序库	gòng xiǎng chéng xù kù	shared library (computing)
+加工時序	加工时序	jiā gōng shí xù	time course
+升序	升序	shēng xù	ascending order
+原子序數	原子序数	yuán zǐ xù shù	atomic number
+失序	失序	shī xù	to get into disarray/to get out of whack
+子程序	子程序	zǐ chéng xù	subroutine
+字母順序	字母顺序	zì mǔ shùn xù	alphabetical order
+屏幕保護程序	屏幕保护程序	píng mù bǎo hù chéng xù	screensaver
+工序	工序	gōng xù	working procedure/process
+幀檢驗序列	帧检验序列	zhēn jiǎn yàn xù liè	frame check sequence (FCS)
+並行程序	并行程序	bìng xíng chéng xù	parallel program
+序列	序列	xù liè	sequence
+序列號	序列号	xù liè hào	serial number/product key (software)
+序幕	序幕	xù mù	prologue
+序數	序数	xù shù	ordinal number
+序文	序文	xù wén	preface/foreword/preamble/recital (law)/also written 敘文|叙文[xù wén]
+序曲	序曲	xù qǔ	overture
+序號	序号	xù hào	ordinal number/serial number/sequence number
+序言	序言	xù yán	preface/introductory remarks/preamble/prelude
+序跋	序跋	xù bá	preface and postscript
+循序漸進	循序渐进	xún xù jiàn jìn	in sequence, step by step (idiom); to make steady progress incrementally
+抓取程序	抓取程序	zhuā qǔ chéng xù	spider or crawler bot (Internet)
+拉開序幕	拉开序幕	lā kāi xù mù	(fig.) to raise the curtain/to lift the curtain/to be a curtain raiser for
+排列次序	排列次序	pái liè cì xù	ranking/ordering in list
+排序	排序	pái xù	to sort/to arrange in order
+收斂序列	收敛序列	shōu liǎn xù liè	convergent sequence (math.)
+時序	时序	shí xù	timing (of a signal or sequence)/time course
+時間序列	时间序列	shí jiān xù liè	time series (stats.)
+有序	有序	yǒu xù	regular/orderly/successive/in order
+有序化	有序化	yǒu xù huà	ordering (of a list, encyclopedia etc)
+有次序	有次序	yǒu cì xù	ordered
+次序	次序	cì xù	sequence/order
+歲序	岁序	suì xù	succession of seasons
+減壓程序	减压程序	jiǎn yā chéng xù	decompression schedule
+測序	测序	cè xù	(DNA etc) sequencing
+源程序	源程序	yuán chéng xù	source code (computing)
+無序	无序	wú xù	disorderly/irregular/lack of order
+無秩序	无秩序	wú zhì xù	disorder
+無窮序列	无穷序列	wú qióng xù liè	infinite sequence
+秩序	秩序	zhì xù	order (orderly)/order (sequence)/social order/the state (of society)/CL:個|个[gè]
+秩序井然	秩序井然	zhì xù jǐng rán	in perfect order
+秩序美	秩序美	zhì xù měi	order (as an aesthetic quality)
+程序	程序	chéng xù	procedures/sequence/order/computer program
+程序員	程序员	chéng xù yuán	programmer
+程序庫	程序库	chéng xù kù	program library (computing)
+程序性	程序性	chéng xù xìng	program
+程序法	程序法	chéng xù fǎ	procedural law
+程序猿	程序猿	chéng xù yuán	(Internet slang) code monkey
+程序碼	程序码	chéng xù mǎ	source code (computing)
+程序設計	程序设计	chéng xù shè jì	computer programming
+脫序	脱序	tuō xù	disorder
+自序	自序	zì xù	author's preface/autobiographical notes as introduction to a book
+花序	花序	huā xù	inflorescence/flower cluster
+葉序	叶序	yè xù	leaf arrangement/phyllotaxy (botany)
+葉脈序	叶脉序	yè mài xù	leaf venation (botany)/the pattern of veins on a leaf, characteristic of each species
+設計程序	设计程序	shè jì chéng xù	design process
+詞序	词序	cí xù	word order
+語序	语序	yǔ xù	word order
+逆序	逆序	nì xù	inverse order
+降序	降序	jiàng xù	descending order
+電子穩定程序	电子稳定程序	diàn zǐ wěn dìng chéng xù	(automotive) electronic stability program (ESP)
+順序	顺序	shùn xù	sequence/order
+順序數	顺序数	shùn xù shù	ordinal number
+題序	题序	tí xù	to compose a preface (or introductory remarks, etc)/question (or section) order (on an exam paper)/question (or section) number
+驅動程序	驱动程序	qū dòng chéng xù	device driver (computing software)

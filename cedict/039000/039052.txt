@@ -1,0 +1,8 @@
+頜	颌	hé	maxilla and mandible
+上頜骨	上颌骨	shàng hé gǔ	maxilla (upper jaw)
+下頜	下颌	xià hé	lower jaw/mandible
+下頜下腺	下颌下腺	xià hé xià xiàn	submandibular gland/submaxillary saliva gland
+下頜骨	下颌骨	xià hé gǔ	lower jaw/mandible
+有頜	有颌	yǒu hé	jawed (fish)
+無頜	无颌	wú hé	jawless (primitive fish)
+上頜	上颌	shàng hé	maxilla (upper jaw)

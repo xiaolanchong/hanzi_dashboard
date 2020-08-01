@@ -1,0 +1,21 @@
+閘	闸	zhá	gear/brake/sluice/lock (on waterway)/electric switch or circuit breaker
+共同閘道介面	共同闸道介面	gòng tóng zhá dào jiè miàn	Common Gateway Interface/CGI
+手閘	手闸	shǒu zhá	handbrake
+旋閘	旋闸	xuán zhá	rotor sluice gate
+氣動閘	气动闸	qì dòng zhá	pneumatic brake
+氣閘	气闸	qì zhá	pneumatic brake/airlock
+水閘	水闸	shuǐ zhá	sluice/water gate/waterlocks/floodgate/lock/dam
+洩洪閘	泄洪闸	xiè hóng zhá	sluice-gate/flood discharge valve
+港閘	港闸	Gǎng zhá	Gangzha district of Nantong city 南通市[Nán tōng shì], Jiangsu
+港閘區	港闸区	Gǎng zhá qū	Gangzha district of Nantong city 南通市[Nán tōng shì], Jiangsu
+船閘	船闸	chuán zhá	a canal lock
+跳閘	跳闸	tiào zhá	(of a circuit breaker or switch) to trip
+進水閘	进水闸	jìn shuǐ zhá	water intake/inlet sluice
+下閘	下闸	xià zhá	lower sluice gate/outflow sluice
+閘北區	闸北区	Zhá běi qū	Zhabei district, central Shanghai
+閘口	闸口	Zhá kǒu	area in the Shangcheng district of Hangzhou
+閘口	闸口	zhá kǒu	open sluice gate/(toll) station/boarding gate (airport etc)/(fig.) gateway (access point)
+閘盒	闸盒	zhá hé	electric fusebox/switch box
+閘道	闸道	zhá dào	(computing) gateway (Tw)
+閘門	闸门	zhá mén	sluice gate
+電閘	电闸	diàn zhá	electric switch/circuit breaker

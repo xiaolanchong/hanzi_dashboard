@@ -1,0 +1,3 @@
+鎧	铠	kǎi	armor
+甲鎧	甲铠	jiǎ kǎi	armor
+鎧甲	铠甲	kǎi jiǎ	armor

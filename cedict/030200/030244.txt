@@ -1,0 +1,31 @@
+瘤	瘤	liú	tumor
+癅	瘤	liú	old variant of 瘤[liú]
+國際腫瘤研究機構	国际肿瘤研究机构	Guó jì Zhōng liú Yán jiū Jī gòu	International Agency for Research on Cancer (IARC)
+多發性骨髓瘤	多发性骨髓瘤	duō fā xìng gǔ suǐ liú	multiple myeloma (medicine)
+子宮肌瘤	子宫肌瘤	zǐ gōng jī liú	fibroid tumor of the uterus/hysteromyoma
+惡性腫瘤	恶性肿瘤	è xìng zhǒng liú	malignant tumor
+毒瘤	毒瘤	dú liú	malignant tumor
+淋巴瘤	淋巴瘤	lín bā liú	lymphoma
+畸胎瘤	畸胎瘤	jī tāi liú	teratoma (medicine)
+乳頭瘤	乳头瘤	rǔ tóu liú	papilloma
+瘤子	瘤子	liú zi	tumor
+瘤鴨	瘤鸭	liú yā	(bird species of China) knob-billed duck (Sarkidiornis melanotos)
+卡波西氏肉瘤	卡波西氏肉瘤	Kǎ bō xī shì ròu liú	Kaposi's sarcoma
+眼色素層黑色素瘤	眼色素层黑色素瘤	yǎn sè sù céng hēi sè sù liú	uveal melanoma
+神經纖維瘤	神经纤维瘤	shén jīng xiān wéi liú	neurofibroma
+節瘤	节瘤	jié liú	knot (in wood)
+肉瘤	肉瘤	ròu liú	wart/sarcoma/superfluous/useless
+腦瘤	脑瘤	nǎo liú	brain tumor
+腦腫瘤	脑肿瘤	nǎo zhǒng liú	brain tumor
+腫瘤	肿瘤	zhǒng liú	tumor
+腫瘤切除術	肿瘤切除术	zhǒng liú qiè chú shù	lumpectomy
+腫瘤學	肿瘤学	zhǒng liú xué	oncology/study of tumors
+腫瘤病醫生	肿瘤病医生	zhǒng liú bìng yī shēng	oncologist (medicine)
+良性腫瘤	良性肿瘤	liáng xìng zhǒng liú	benign tumor
+血瘤	血瘤	xuè liú	blood tumor/angioma (tumor consisting of a mass of blood vessels)
+血管瘤	血管瘤	xuè guǎn liú	angioma (medicine)
+贅瘤	赘瘤	zhuì liú	useless/superfluous
+間皮瘤	间皮瘤	jiān pí liú	mesothelioma (medicine)
+骨瘤	骨瘤	gǔ liú	osteoma (benign tumor composed of bone-like material)
+黑瘤	黑瘤	hēi liú	melanoma
+黑素瘤	黑素瘤	hēi sù liú	melanoma (type of skin cancer)

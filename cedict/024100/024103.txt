@@ -1,0 +1,9 @@
+幀	帧	zhēn	frame/classifier for paintings etc/Taiwan pr. [zhèng]
+司馬承幀	司马承帧	Sī mǎ Chéng zhēn	Sima Chengzhen (655-735), Daoist priest in Tang dynasty
+幀中繼	帧中继	zhēn zhōng jì	frame relay
+幀格式	帧格式	zhēn gé shì	frame format
+幀檢驗序列	帧检验序列	zhēn jiǎn yàn xù liè	frame check sequence (FCS)
+幀率	帧率	zhēn lǜ	frame rate
+幀頻	帧频	zhēn pín	frame rate/frame frequency
+幀首定界符	帧首定界符	zhēn shǒu dìng jiè fú	start frame delimiter (SFD)
+裝幀	装帧	zhuāng zhēn	binding and layout (of a book etc)

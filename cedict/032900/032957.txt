@@ -1,0 +1,10 @@
+肽	肽	tài	peptide (two or more amino acids linked by peptide bonds CO-NH)
+多肽	多肽	duō tài	polypeptide, chain of amino acids linked by peptide bonds CO-NH, a component of protein
+多肽連	多肽连	duō tài lián	polypeptide chain
+天冬苯丙二肽酯	天冬苯丙二肽酯	tiān dōng běn bǐng èr tài zhǐ	aspartame C14H18N2O (artificial sweetener)
+內啡肽	内啡肽	nèi fēi tài	endorphin
+肽單位	肽单位	tài dān wèi	peptide unit (on protein chain)
+肽基	肽基	tài jī	peptide group/peptide unit
+肽聚糖	肽聚糖	tài jù táng	peptidoglycan (PG) or murein (polymer of sugars and amino acids forming cell wall)
+肽鍵	肽键	tài jiàn	peptide bond CO-NH/bond in protein between carboxyl radical and amino radical
+肽鏈	肽链	tài liàn	peptide chain (chain of amino acids making up protein)

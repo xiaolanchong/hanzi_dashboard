@@ -1,0 +1,54 @@
+儲	储	Chǔ	surname Chu/Taiwan pr. [Chú]
+儲	储	chǔ	to store/to save/to have in reserve/heir/Taiwan pr. [chú]
+倉儲	仓储	cāng chǔ	to store in a warehouse
+個人儲蓄	个人储蓄	gè rén chǔ xù	personal savings
+儲值	储值	chǔ zhí	(Tw) to put money into (a stored-value card or pre-paid phone account)/to top up
+儲值卡	储值卡	chǔ zhí kǎ	stored-value card/prepaid card (telephone, transport etc)
+儲備	储备	chǔ bèi	reserves/to store up
+儲備糧	储备粮	chǔ bèi liáng	grain reserves
+儲備貨幣	储备货币	chǔ bèi huò bì	reserve currency
+儲備金	储备金	chǔ bèi jīn	reserves (bank)
+儲君	储君	chǔ jūn	heir apparent to a throne
+儲存	储存	chǔ cún	stockpile/to store/to stockpile/storage
+儲幣	储币	chǔ bì	to deposit money/savings
+儲戶	储户	chǔ hù	(bank) depositor
+儲氣	储气	chǔ qì	gas storage
+儲氣罐	储气罐	chǔ qì guàn	gas canister/gas storage tank
+儲水	储水	chǔ shuǐ	to store water
+儲水管	储水管	chǔ shuǐ guǎn	standpipe (firefighting water storage system for a building)
+儲水箱	储水箱	chǔ shuǐ xiāng	water-storage tank
+儲物	储物	chǔ wù	to hoard
+儲物櫃	储物柜	chǔ wù guì	locker/cabinet
+儲精囊	储精囊	chǔ jīng náng	seminal vesicle
+儲蓄	储蓄	chǔ xù	to deposit money/to save/savings
+儲蓄卡	储蓄卡	chǔ xù kǎ	debit card
+儲蓄帳戶	储蓄帐户	chǔ xù zhàng hù	savings account (in bank)
+儲蓄率	储蓄率	chǔ xù lǜ	savings rate
+儲藏	储藏	chǔ cáng	to store/deposit/(oil, mineral etc) deposits
+儲藏室	储藏室	chǔ cáng shì	storeroom/CL:間|间[jiān]
+儲量	储量	chǔ liàng	remaining quantity/reserves (of natural resources, oil etc)
+動態存儲器	动态存储器	dòng tài cún chǔ qì	dynamic memory
+化學武器儲備	化学武器储备	huà xué wǔ qì chǔ bèi	chemical weapons storage
+可擦寫可編程只讀存儲器	可擦写可编程只读存储器	kě cā xiě kě biān chéng zhī dú cún chǔ qì	EPROM (erasable programmable read-only memory)
+外匯儲備	外汇储备	wài huì chǔ bèi	foreign-exchange reserves
+存儲	存储	cún chǔ	to store up/to stockpile/(computer) to save/to store/memory/storage
+存儲卡	存储卡	cún chǔ kǎ	memory card
+存儲器	存储器	cún chǔ qì	memory (computing)
+定期儲蓄	定期储蓄	dìng qī chǔ xù	fixed deposit (banking)
+強迫性儲物症	强迫性储物症	qiǎng pò xìng chǔ wù zhèng	compulsive hoarding
+快閃存儲器	快闪存储器	kuài shǎn cún chǔ qì	(computing) flash memory
+揮發性存儲器	挥发性存储器	huī fā xìng cún chǔ qì	volatile memory
+棧存儲器	栈存储器	zhàn cún chǔ qì	stack memory (computing)
+溫室廢氣儲存	温室废气储存	wēn shì fèi qì chǔ cún	greenhouse gas sequestration
+溶酶儲存疾病	溶酶储存疾病	róng méi chǔ cún jí bìng	lysosomal storage disease (LSD)
+煤儲量	煤储量	méi chǔ liàng	coal reserves
+王儲	王储	wáng chǔ	crown prince/heir to throne
+皇儲	皇储	huáng chǔ	crown prince
+短時儲存	短时储存	duǎn shí chǔ cún	short-term storage/store
+美國聯邦儲備	美国联邦储备	Měi guó Lián bāng Chǔ bèi	US Federal Reserve (Fed), the US central bank
+美聯儲	美联储	Měi lián chǔ	US Federal Reserve (Fed), the US central bank
+資料倉儲	资料仓储	zī liào cāng chǔ	data warehouse (computing)
+資本儲備	资本储备	zī běn chǔ bèi	capital reserve
+隨機存取存儲器	随机存取存储器	suí jī cún qǔ cún chǔ qì	random access memory (RAM)
+靜態存儲器	静态存储器	jìng tài cún chǔ qì	static memory
+高速緩衝存儲器	高速缓冲存储器	gāo sù huǎn chōng cún chǔ qì	cache (computing)

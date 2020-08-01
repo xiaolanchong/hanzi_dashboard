@@ -1,0 +1,3883 @@
+# 3000 most frequent characters from Wenlin application
+#Simplified	Traditional	Pinyin	Meaning
+的		de	(grammatical particle)  [dì] 目的 mùdì goal  [dí] 的确  [dī] cab
+一		yī	one; 一定 certain; 一样 same; 一些 some
+是		shì	to be  [tí]
+不		bù	not  [bú] [fǒu] [fōu] [fū]
+了		le	(particle) [liǎo] 了解 comprehend [liào] (=瞭) [liāo] [liáo]
+人		rén	person; 人类 rénlèi humankind; 有人吗? anybody here?
+在		zài	at; 现在 xiànzài now; 存在 cúnzài exist
+我		wǒ	I, me; 我们 wǒmen we
+有		yǒu	have; there is; 没有 haven't; 有的 some  [yòu] (=又)  [wěi]
+中		zhōng	middle; in; 中国 Zhōngguó China  [zhòng] hit (a target)
+这	這	zhè	[zhèi] this
+大		dà	big; 大家 dàjiā everybody  [dài] 大夫 dàifu doctor  [tài]
+国	國	guó	(国家) country; 中国 China; 美国 USA
+上		shàng	over; top; (go) up; last, previous  [shǎng] 上声  [shang]
+个	個	gè	[ge] (measure word); 个人 personal  [gě] 自个  [gàn]
+来	來	lái	come; 起来 get up; 原来 it turns out   [lai]
+他		tā	he, him; she, her; it; (其他 qítā) other  [tuó]
+为	為	wèi	for, on account of  [wéi] be, become
+到		dào	to, towards, until
+地		dì	earth  [de] -ly (adverbial particle)
+和		hé	and; with; harmony  [huo] 暖和  [hè] [huó] [huò] [hàn] [hú] [hē] [huō]
+时	時	shí	(时间 shíjiān, 时候 shíhou) time; 小时 hour
+们	們	men	(pluralizing suffix:) 我们 wǒmen we; 人们 people
+年		nián	year; 今(明,去)年 this (next, last) year  [nìng]
+生		shēng	give birth; life
+会	會	huì	meet; can, able   [kuài] 会计 kuàijì accounting  [huǐ] 会儿 moment
+出		chū	go out, emit; 出现 chūxiàn appear, emerge
+就		jiù	just, simply, right away
+子		zǐ	child   [zi] (noun suffix:) 桌子 zhuōzi table
+要		yào	want; will  [yāo] 要求 yāoqiú demand  [yǎo]
+也		yě	also; 也许 yěxǔ perhaps  [yí]
+以		yǐ	using; so as to; as well as; 可以 kěyǐ may; 所以 suǒyǐ so  [sì]
+说	說	shuō	say, speak    [shuì] try to persuade; 游说
+学	學	xué	study, learn; 学校 school; 学生 student
+得		de	(grammatical)  [dé] get, reach, achieve  [děi] should
+对	對	duì	correct; yes; mutual; pair; 对不起 excuse me
+下		xià	under; (go) down; next (as opposed to previous/last)
+那		nà	[nèi] that      [nuó] 禅那  [nuò] 无那  [nǎ] (=哪) [něi] (=哪)  [né] [nā]
+可		kě	(可以 kěyǐ) can; (可是 kěshì) but; 可能 kěnéng maybe   [kè] [gē]
+过	過	guò	pass, go by, exceed; 过马路 cross the street
+于	于/於	yú	(surname); (F於) in, at, to, from, by, than  [wéi] [yū] [xū]
+之		zhī	s (similar to 的 de); it (classical pronoun)  [zhù] [zhì]
+后		hòu	queen; (F後) after, behind
+着	著	zhe	(grammatical particle) [zháo] [zhuó] touch  [zhāo]
+主		zhǔ	lord, master; (主要 zhǔyào) main; 主义 zhǔyì -ism  [zhù]
+能		néng	can, be able; 能够 be capable of; 可能 maybe  [tái] [nái] [nài] [xióng]
+里	/裡	lǐ	village; half kilometer; (F裡) inside
+多		duō	many, much; how
+小		xiǎo	small; 大小 dàxiǎo size
+而		ér	(而且 érqiě) and, furthermore; (然而 rán'ér) yet  [néng]
+你		nǐ	you; 你们 nǐmen you (plural)
+天		tiān	heaven; day; (天空 tiānkōng) sky; 天气 tiānqì weather
+家		jiā	home, house; family; 国家 nation; 大家 everybody  [jie] [jià] [jia] [gū]
+去		qù	go (opposite of 来 lái)  [qū]
+工		gōng	(工作 gōngzuò) work; 工人 gōngrén worker
+十		shí	ten; 十三 shísān thirteen; 五十 wǔshí fifty
+用		yòng	use; 好用 useful; 不用 there's no need
+作		zuò	do; make; 工作 work; 作业 homework   [zuō] 作坊 [zuó]
+分		fēn	divide; fraction; minute  [fèn] limits of rights or duty  [fén] [bàn]
+发	發髮	fā	(F發) emit  [fà] (F髮) hair  [fa] (F髮) 头发 hair
+自		zì	(自己 zìjǐ) self; from, since; 自然 zìrán nature
+成		chéng	(成为, 变成) become; 成功 succeed; 完成 perfect
+都		dōu	all  [dū] (首都 shǒudū) capital city
+方		fāng	side; square; 地方 dìfang place; 方面 fāngmiàn aspect  [fáng] [fǎng] [páng] [wǎng] [fēng]
+民		mín	(人民 rénmín) people; 民主 mínzhǔ democracy
+好		hǎo	good    [hào] to like   [hāo] 好好儿 hǎohāor
+日		rì	sun; day; 日记 rìjì diary; 日光 rìguāng sunlight
+还	還	hái	still, yet  [huán] return, give back  [fú]
+经	經	jīng	longitude; scripture; ...; 已经 already; 易经 I Ching
+没	沒	méi	(没有) not have  [mò] sink; overflow; disappear; confiscate  [me]
+同	/衕	tóng	same, with; 同志 comrade  [tòng] 胡同 hútòng lane (F衕)
+如		rú	(如果 rúguǒ) if; 如此 rúcǐ like this
+她		tā	she, her  [jiě] [chí]
+么	麼	me	(suffix:) 什么; 怎么  [má]  [yāo] (S幺) small  [mó] [ma]
+起		qǐ	rise, start; 起来 get up; 对不起 excuse me   [qi]
+本		běn	basis, origin; volume (book); 日本 Japan  [bēn]
+行		xíng	go; ok; 行动 action  [háng] line; 行业 hángyè profession [hàng] 树行子 [héng] [xìng]
+心		xīn	heart; 小心 be careful; 心理 psychology; 中心 center
+所		suǒ	place; 所以 suǒyǐ so, therefore; 所有 suǒyǒu all
+然		rán	虽然 although; 忽然 suddenly; 当然 of course; 自然 nature
+事		shì	thing, event; 事情 shìqing situation  [zì]
+现	現	xiàn	appear; 现在 now; 发现 discover; 现代 modern
+三		sān	three; 第三世界 Third World
+加		jiā	add; 参加 cānjiā join; 增加 zēngjiā increase
+想		xiǎng	think, feel, consider
+面	/麵	miàn	face, surface; (F麵) wheat flour; (面条 miàntiáo) noodle
+开	開	kāi	open; 开始 kāishǐ begin   [kai]
+电	電	diàn	(闪电 shǎndiàn) lightning; electricity; 电话 phone
+种	種	zhǒng	kind; seed   [zhòng] to plant; cultivate  [chóng]
+前		qián	before, front  [jiǎn]
+当	當	dāng	serve as; (F噹) ding-dong  [dàng] (F當) (当作) regard as  [dǎng] (F當)
+美		měi	beautiful
+二		èr	two; 二月 Èryuè February
+外		wài	outside; 外国人 wàiguórén foreigner; 意外 unexpected
+道		dào	way, path; say; 知道 zhīdao know; 道教 Taoism  [dǎo] (=导) [dāo]
+从	從	cóng	from, since   [cōng] 黑从从
+动	動	dòng	move; 动物 animal; 活动 activity; 运动 sports
+看		kàn	look  [kān] tend; 看守 kānshǒu guard
+业	業	yè	商业 commerce; 工业 industry; 作业 homework
+高		gāo	high, tall; 提高 tígāo improve; 高兴 gāoxìng happy  [gào]
+者		zhě	one who...; 作者 zuòzhě author; 和平主义者
+法		fǎ	(法律 fǎlǜ) law; (办法 bànfǎ) method
+但		dàn	(但是 dànshì) but  [tǎn] [yàn]
+其		qí	its; 其他 qítā other; 尤其 yóuqí especially  [jī] (=錤)  [jì]
+理		lǐ	principle; 理论 lǐlùn theory; 管理 guǎnlǐ manage
+些		xiē	some; (plural measure word:) 这些人 these people  [suò] [suō]
+实	實	shí	true, real; 事实 fact; 实际上 actually; 实在 really  [shī]
+只	/隻	zhǐ	only  [zhī] (F隻) (measure word): 一只猫 a cat
+老		lǎo	old, venerable; 老师 teacher; 老虎 tiger
+长	長	cháng	long  [zhǎng] grow up; chief, head
+月		yuè	month; (月亮 yuèliang, 月球 yuèqiú) moon  [rù]
+与	與	yǔ	and  [yù] 参与 cānyù participate in  [yú]
+两	兩	liǎng	two; 50 grams
+政		zhèng	政府 zhèngfǔ government; 政治 zhèngzhì politics  [zhēng]
+文		wén	language, literature; 文化 wénhuà culture
+部		bù	(部分 bùfen) part; 西部 western part; 全部 entire  [pǒu]
+最		zuì	most; 最近 recently/soon; 最喜欢 favorite  [cuō]
+样	樣	yàng	manner; 这样 like this; 怎么样 how  [yáng]
+意		yì	(意思, 意义) meaning; 愿意 willing; 意见 opinion  [yī]
+进	進	jìn	enter; go forward; 进步 jìnbù progress
+很		hěn	very; 很不错 pretty good
+机	機	jī	(机器 jīqì) machine; 收音机 shōuyīnjī radio  [wèi]
+公		gōng	public; 公里 kilometer; 办公室 office; 公司 company
+把		bǎ	grasp, hold; handle  [bà] 把子 bàzi, 把儿 bàr handle  [pá]
+又		yòu	again; both...and...
+力		lì	(力量 lìliang) strength; force
+全		quán	whole, entire; 完全 completely; 安全 safety
+点	點	diǎn	dot (丶); a little, bit; (点火) light a fire
+四		sì	four; 四周 sìzhōu all around
+头	頭	tóu	head; first; 头发 tóufa hair  [tou] 石头 stone
+已		yǐ	(已经 yǐjīng) already
+因		yīn	cause; 因为 because; 原因 reason
+等		děng	equal; class; wait; et cetera (etc.)
+问	問	wèn	ask; 问题 question, problem; 访问 visit
+新		xīn	new; 重新 chóngxīn again; 新闻 xīnwén news
+此		cǐ	this; 如此 like this (=这样); 此地 here (=这里)
+名		míng	(名字 míngzi) name; 著名 zhùmíng famous; 名词 noun  [mìng]
+己		jǐ	(自己 zìjǐ) self; 6th Heavenly Stem  [qǐ]
+定		dìng	fix; 一定 yídìng definite; 决定 juédìng decide
+正		zhèng	right, straight, correct  [zhēng] 正月, 新正
+知		zhī	(知道 zhīdao) know; 知识 zhīshi knowledge  [zhì] (=智)
+情		qíng	(感情 gǎnqíng) feeling, emotion; 爱情 àiqíng love
+无	無	wú	without; nothingness  [mó] 南无
+回		huí	return; 回来 come back; 回去 go back; 回答 answer
+明		míng	bright; 明白 míngbai clear, understand; 明天 tomorrow  [mèng]
+间	間	jiān	room; between  [jiàn] gap, interval  [gān]
+手		shǒu	hand; 挥手 wave; 拍手 clap; 握手 shake
+第		dì	number, -th; 第三世界 Third World; 第一次 1st time
+产	產	chǎn	(产生 chǎnshēng) produce; 产品 chǎnpǐn product
+气	氣	qì	air, vapor; vital energy; 天气 tiānqi weather  [qǐ]
+话	話	huà	speech; 说话 shuōhuà talk, speak    [huo] 白话
+重		zhòng	(沉重) heavy; 重要 important  [chóng] again  [tóng]
+几	/幾	jī	small table; (F幾) 几乎 jīhū almost  [jǐ] (F幾) how many; a few
+表	/錶	biǎo	show; list, table; (F錶) (wrist-)watch
+由		yóu	from; (由于) due to; (理由) cause, reason; 自由 freedom  [yāo]
+它		tā	it  [tuó] [yí]
+将	將	jiāng	shall; 将来 future   [jiàng] general; (chess piece)  [qiāng]
+化		huà	(变化 biànhuà) change  [huā] (=花) spend  [huò]
+女		nǚ	(女人 nǚrén, 妇女 fùnǚ) woman  [nǜ] [rǔ]
+五		wǔ	five; 五月 Wǔyuè May
+代		dài	(代表 dàibiǎo) represent; (时代 shídài) generation
+相		xiāng	each other, mutual  [xiàng] look at; appearance; photo
+华	華	huá	magnificent; China    [Huà] (surname); 华山
+平		píng	level, even; 水平 shuǐpíng level; 和平 hépíng peace  [pián] [bìng] [bēng]
+或		huò	(或者 huòzhě) or; (或许 huòxǔ) perhaps  [yù]
+九		jiǔ	nine  [jiū]
+水		shuǐ	water; 水平 shuǐpíng level; 水果 shuǐguǒ fruit
+社		shè	(社会 shèhuì) society
+比		bǐ	compare; ䷇; 比较 bǐjiào relatively; 比如 bǐrú e.g.  [bì] [pí] [pǐ]
+内	內	nèi	inside; 内容 nèiróng content  [nà] [ruì]
+位		wèi	position; (量) (polite measure word for people)  [lì]
+军	軍	jūn	army, military
+车	車	chē	car, vehicle with wheels  [jū] (a piece in 象棋)
+使		shǐ	make, cause to
+制	/製	zhì	(制度) system; (控制) control; (F製)(制造) manufacture
+度		dù	degree, extent; 制度 system   [duó] 猜度 cāiduó surmise  [zhái]
+向	/曏	xiàng	towards (direction); (F曏) formerly
+并	/併並	bìng	(F併) combine, merge; (F並) and; equally; truly  [bīng] 并州
+活		huó	live; 生活 shēnghuó life; 活动 huódòng activity  [guō]
+关	關	guān	shut; (关系 guānxi) connection; 关于 concerning
+体	體	tǐ	(身体 shēntǐ) body; 具体 jùtǐ concrete  [tī] [bèn] [cuì]
+总	總	zǒng	general; sum; always
+给	給	gěi	give  [jǐ] 供给 provide
+入		rù	(进入 jìnrù) enter; 收入 shōurù income
+什		shén	什么 shénme what  [shí] ( = 十 ten)
+员	員	yuán	member; 委员会 committee; 人员 personnel
+身		shēn	(身体 shēntǐ) body  [juān]
+见	見	jiàn	(看见) see; 意见 opinion; 听见 hear  [xiàn]
+常		cháng	often; constant; ordinary; 非常 fēicháng extremely
+被		bèi	quilt; by; (indicates passive voice)   [pī] [bì] [pì]
+西		xī	west; 东西 dōngxi thing
+次		cì	occurrence, time; second; inferior  [zī] [cí]
+期		qī	(时期) time period; 星期 week; 长期 long term  [jī]
+各		gè	each; 各有千秋 each has its merits  [gě] 自各
+及		jí	and; 以及 yǐjí as well as; 及时 jíshí promptly
+少		shǎo	few, little   [shào] young; 少年 shàonián juvenile
+打		dǎ	hit; get; play; etc.; 打算 dǎsuan intend   [dá] dozen
+特		tè	(特别 tèbié) special; 特点 tèdiǎn characteristic
+象		xiàng	appearance; (大象 dàxiàng) elephant
+口		kǒu	mouth; 门口 ménkǒu doorway; 人口 rénkǒu population
+应	應	yīng	(应该 yīnggāi) should  [yìng] 应用 apply
+东	東	dōng	(东方) east; 东西 dōngxi thing
+太		tài	great; very; too; 太太 Madame; 太阳 Sun  [tā]
+报	報	bào	(报告) report; 报纸 newspaper; 电报 telegram
+海		hǎi	(海洋 hǎiyáng, 大海 dàhǎi) sea, ocean
+台	/臺檯颱	tái	you; (F臺) platform; 台湾 Taiwan; (F檯) table; (F颱) 台风  [tāi] 天台  [yí] [sì]
+合		hé	shut; (结合 jiéhé) combine; 合作 hézuò cooperate  [gě]
+反		fǎn	turn over; (反对 fǎnduì) oppose; 反映 fǎnyìng reflect  [bǎn] 反反 proper  [fàn]
+万	萬	wàn	ten thousand, myriad; 万岁 long live  [Mò] 万俟
+利		lì	(利益 lìyì) benefit, profit; 利用 utilize; 胜利 triumph
+再		zài	again; 再见 zàijiàn goodbye
+果		guǒ	fruit; (结果 jiéguǒ) result; 如果 rúguǒ if  [luǒ] [guàn]
+物		wù	thing; 动物 animal; 植物 plant; 物理 physics
+真		zhēn	true; really
+立		lì	stand; 建立 establish; 立刻 right away; 立方体 cube  [wèi]
+别	別	bié	separate, other; don't   [biè] 别扭 bièniu awkward
+场	場	chǎng	site, field, court  [cháng] threshing ground; (量)
+山		shān	mountain; 火山 volcano; 山脉 mountain range
+通		tōng	(通过) go through; 交通 traffic  [tòng] (measure word)
+声	聲	shēng	(声音 shēngyīn) sound  [qìng]
+信		xìn	(相信 xiāngxìn) believe; letter; 信封 envelope  [shēn]
+八		bā	eight; 八月 Bāyuè August
+命		mìng	(生命) life; destiny; 命令 command; 革命 revolution
+提		tí	lift, raise; 提高 improve; 提供 provide  [dī] 提防  [chí] [shí] [dǐ]
+市		shì	(市场 shìchǎng) market; (城市 chéngshì) city, town
+百		bǎi	hundred  [bó] [mò]
+件		jiàn	item; 条件 tiáojiàn term, condition  [móu]
+性		xìng	sex; nature; -ness
+数	數	shù	number; 数学 math  [shǔ] count  [shuò]
+书	書	shū	book; 书记 shūji clerk; 图书馆 library
+门	門	mén	door; 门口 doorway; 部门 department; 门铃 doorbell
+更		gèng	more  [gēng] night watch
+题	題	tí	topic; 问题 question, problem; 题目 title
+路		lù	(道路 dàolù) road  [luò]
+先		xiān	first; 先生 xiānsheng; 祖先 zǔxiān ancestor
+每		měi	every; 每天 měitiān every day
+教		jiāo	teach  [jiào] teach; 教育 jiàoyù education
+放		fàng	put; release; 解放 jiěfàng liberate  [fǎng] [fāng]
+六		liù	six; 六月 Liùyuè June  [lù]
+计	計	jì	(计算) count, calculate; 统计 statistics
+至		zhì	to, until; 甚至 shènzhì even; 至少 zhìshǎo at least  [dié]
+做		zuò	do; make; 叫做 jiàozuò be called; 做法 zuòfǎ method
+原		yuán	originally; 原来 it turns out; original; 原因 cause
+世		shì	generation; (世界 shìjiè) world; 世纪 shìjì century
+展		zhǎn	spread out; 发展 develop; 展览 exhibit
+边	邊	biān	(旁边 pángbiān) side; 这边 zhèbiān over here
+任		rèn	appoint; no matter; 任务 task; 任何 any  [Rén] (surname)  [lìn]
+解		jiě	separate; explain  [Xiè] (surname) [jiè] 解送
+干	/乾幹	gān	stem; 干涉 gānshè interfere; (F乾) dry  [gàn] (F幹) do  [àn]
+才		cái	talent; only then; 刚才 gāngcái just now  [zāi]
+资	資	zī	expenses; 资本主义 capitalism; 投资 invest
+受		shòu	receive; 接受 jiēshòu accept; 难受 nánshòu unhappy  [dào]
+界		jiè	boundary; 世界 shìjiè world    [gā] [gà]
+亲	親	qīn	kin; kiss; 母亲 mother; 亲自 in person  [qìng] 亲家
+许	許	xǔ	allow; 许多 xǔduō a lot; 也许 yěxǔ perhaps  [hǔ] [hào]
+处	處	chù	place  [chǔ] deal with
+队	隊	duì	team; 部队 bùduì army; 队伍 duìwǔ troops
+义	義	yì	justice; 主义 zhǔyì -ism; 意义 yìyì meaning
+系	/系係繫	xì	(系统) system; (F係) 关系; (F繫) 联系  [jì] (F繫) tie
+北		běi	north; 东北 dōngběi northeast; 北京 Běijīng  [bèi]
+请	請	qǐng	please; invite; 请求 request
+安		ān	still, quiet; 安全 ānquán safe; 安排 ānpái plan
+结	結	jié	tie; 结果 jiéguǒ result; 结婚 marry  [jiē] bear fruit
+论	論	lùn	theory   [Lún] 论语 Lúnyǔ Analects of Confucius
+光		guāng	light; merely; 阳光 sunlight; 光荣 glory  [guàng]
+指		zhǐ	finger; point; 指头 zhǐtou finger; 指甲 zhǐjia nail
+今		jīn	now, this; 今天 jīntiān today
+走		zǒu	go, walk, leave
+目		mù	eye; 目前 mùqián at present; 目的 mùdì goal
+流		liú	to flow; stream; 电流 electric current; 交流 to exchange  [liū]
+元		yuán	primary; dollar
+量		liàng	amount; 量词 classifier  [liáng] measure
+便		biàn	convenient  [pián] 便宜 piányi cheap  [biān]
+七		qī	seven
+共		gòng	share; 一共 in all; 共产 communist; 公共 public  [gōng] [gǒng] [hóng]
+接		jiē	connect; (接受) accept; 接着 catch; next; 直接 direct  [xié] [shà] [chā]
+记	記	jì	(记得 jìde) remember; (记录 jìlù) record
+金		jīn	(金子 jīnzi) gold (Au); (金属 jīnshǔ) metal  [jìn]
+难	難	nán	difficult  [nàn] disaster
+风	風	fēng	wind
+色		sè	(颜色 yánsè) color; 脸色 liǎnsè facial expression  [shǎi]
+何		hé	what; 任何 rènhé any; 如何 rúhé how; 几何 jǐhé geometry  [hè]
+变	變	biàn	change; 变成 become; 变化 variation; 改变 alter
+直		zhí	straight; directly
+区	區	qū	(地区 dìqū) area; 区别 difference [Ōu] (surname)
+眼		yǎn	(眼睛 yǎnjing) eye; 眼镜 yǎnjìng glasses  [wěn]
+白		bái	white; 明白 clear; 白天 daytime; 白菜 cabbage  [bó]
+党	黨	dǎng	(political) party; 共产党; 国民党
+联	聯	lián	unite, join; 联系 liánxì contact
+望		wàng	look; full moon; 希望 xīwàng hope
+认	認	rèn	(认为) consider; (认识) recognize
+革		gé	leather; 革命 gémìng revolution; 改革 reform; ䷰  [jí] 病革
+建		jiàn	construct; establish; 建议 jiànyì suggest
+交		jiāo	join; 交通 jiāotōng traffic; 交换 jiāohuàn exchange
+带	帶	dài	belt; zone; carry, bring, take
+战	戰	zhàn	(战争 zhànzhēng) war
+爱	愛	ài	(爱情 àiqíng) love; 爱人 àirén spouse; lover
+运	運	yùn	transport; 运动 sports; 运气 luck  [yǔn]
+收		shōu	gather; 收拾 put in order; 收获 harvest; 收音机 radio
+听	聽	tīng	listen; 听见 hear; 听不懂 not understand  [yǐn] [yí]
+张	張	zhāng	spread; sheet of paper; 紧张 tense, nervous
+治		zhì	govern; cure; punish; 政治 government  [chí]
+觉	覺	jué	perceive  [jiào] (睡觉) sleep; 午觉 nap
+则	則	zé	(conjunction); 原则 yuánzé principle; 否则 fǒuzé or else
+花		huā	flower; spend; 花生 huāshēng peanut
+思		sī	(思想 sīxiǎng) thought   [si] 意思 yìsi meaning   [sāi] 于思 richly bearded
+统	統	tǒng	系统 system; 统治 dominate; 统一 unify
+却	卻	què	however
+务	務	wù	任务 rènwu task; 服务 fúwù service
+条	條	tiáo	twig; strip; item; 条件 tiáojiàn condition
+改		gǎi	(改变 gǎibiàn) change; 改革 gǎigé reform
+南		nán	south; 西南 xīnán southwest   [nā]
+形		xíng	(形式 xíngshì) form; shape; 形成 xíngchéng to form
+非		fēi	not, non-; 非常 fēicháng unusually  [fěi]
+济	濟	jì	经济 jīngjì economy; 救济 jiùjì help disaster victims  [jǐ]
+达	達	dá	reach, arrive    [dā] [tà] [tì]
+保		bǎo	(保护 bǎohù) protect; 保证 bǎozhèng ensure
+必		bì	(必须) must; 不必 needn't
+议	議	yì	(议论 yìlùn) discuss; 会议 conference; 建议 suggest
+京		jīng	capital; 北京 Běijīng; 南京 Nánjīng; 东京 Tokyo
+程		chéng	过程 process; 工程 engineering; 程度 extent
+求		qiú	seek, ask; 要求 yāoqiú demand; requirement
+办	辦	bàn	do; 办法 bànfǎ method; 办公室 bàngōngshì office
+远	遠	yuǎn	far
+强	強	qiáng	strong  [qiǎng] strive  [jiàng] 倔强 juéjiàng stubborn
+设	設	shè	set up; 建设 construct; 设计 design; 设备 equipment
+候		hòu	(时候 shíhou) time; wait; situation
+言		yán	words; 语言 yǔyán language  [yàn] [yín]
+告		gào	(告诉 gàosu) tell; 报告 bàogào report   [gù] 告朔  [jū]
+完		wán	finished, complete  [kuān]
+往		wǎng	to, toward; 往往 wǎngwǎng often  [wàng]
+观	觀	guān	view; ䷓ Contemplation    [guàn] 道观 temple
+科		kē	department; 科学 kēxué science; 外科 wàikē surgery  [kè]
+传	傳	chuán	pass; pass on; 传统 tradition  [zhuàn] Confucian classic
+师	師	shī	(老师) teacher; 师傅 shīfu master; ䷆ The Army
+感		gǎn	(感觉) feel; (感情) emotion  [hàn]
+术	術	shù	skill; (艺术 yìshù) art; 技术 technique  [zhú] [shú]
+马	馬	mǎ	horse; 马上 mǎshàng right away
+该	該	gāi	(应该 yīnggāi) should
+领	領	lǐng	to lead; collar; 领导, 领袖 leader; 本领 ability
+决	決	jué	解决 jiějué resolve; 决定 juédìng decide
+吃		chī	eat   [qī]
+写	寫	xiě	write; 描写 miáoxiě describe  [xiè] 写意
+导	導	dǎo	lead; 领导 lǐngdǎo leader
+即		jí	namely, that is; even if; (立即 lìjí) immediately
+品		pǐn	(产品 chǎnpǐn) product; 商品 shāngpǐn merchandise
+红	紅	hóng	(红色 hóngsè) red; 东方红    [gōng] 女红
+近		jìn	near; 附近 fùjìn vicinity; 最近 zuìjìn recently; soon
+基		jī	基础 jīchǔ foundation; 基本 jīběn basic
+住		zhù	live (in a place)
+千		qiān	thousand
+广	廣	guǎng	wide, extensive  [yǎn] radical 53  [ān]
+取		qǔ	take, get, fetch  [qū]
+清		qīng	(清楚 qīngchu) clear; 清洁 qīngjié clean  [qìng]
+且		qiě	for the time being; 而且 érqiě furthermore    [jū] [cú]
+讲	講	jiǎng	speak
+权	權	quán	right, power
+影		yǐng	shadow; image; 电影 movie
+儿	兒	ér	child; 儿子 son; 女儿 daughter  [r] (noun suffix)  [rén] radical 10
+节	節	jié	joint; section; ䷻; (节日 jiérì) holiday  [jiē]
+管		guǎn	tube; (管理 guǎnlǐ) manage; 不管 bùguǎn no matter
+空		kōng	empty; sky  [kòng] leave empty; free time  [kǒng]
+叫		jiào	cry out; call; 叫做 jiàozuò be called
+英		yīng	英雄 yīngxióng hero; 英国 Yīngguó England  [yāng]
+让	讓	ràng	let, allow
+院		yuàn	courtyard; 学院 college; 医院 hospital; 法院 court
+识	識	shí	know; 认识 know, recognize; 识别 tell apart  [zhì]
+步		bù	step; 进步 jìnbù progress; 散步 sànbù go for a walk
+满	滿	mǎn	full; 满足 mǎnzú satisfied
+组	組	zǔ	organize; group; 组织 zǔzhī organization
+友		yǒu	(朋友 péngyǒu) friend; 友好 friendship
+神		shén	spirit, god; 精神 jīngshén spirit; essence  [shēn]
+算		suàn	(计算 jìsuàn) compute; 算了 forget it, never mind
+半		bàn	half  [pàn]
+持		chí	hold; 坚持 jiānchí persist; 保持 bǎochí keep
+转	轉	zhuǎn	turn, transfer  [zhuàn] rotate  [zhuǎi] 转文
+越		yuè	(越…越…) the more...the more...  [huó]
+王		wáng	king; 王国 wángguó kingdom  [wàng] (rare:) rule  [yù]
+研		yán	grind; (研究 yánjiū) study  [yàn] [xíng]
+服		fú	(服务) serve; (衣服) clothes   [fù] dose  [bì] [bó]
+片		piàn	slice; 照片 photo; 片刻 moment; 卡片 card  [piān] film  [pàn]
+级	級	jí	grade, level; 阶级 jiējí (social) class
+商		shāng	discuss; business
+林		lín	(森林 sēnlín) forest; (surname); 桂林 Guìlín
+语	語	yǔ	(语言 yǔyán) language; 汉语 Chinese; 语法 grammar [yù] tell
+石		shí	(石头 shítou) stone, rock     [dàn] unit of grain
+连	連	lián	connect; including; 连忙 right away; 连续 continuous
+争	爭	zhēng	contend; dispute; 战争 zhànzhēng war; 斗争 struggle
+视	視	shì	look; 电视 diànshì T.V.
+谈	談	tán	talk
+单	單	dān	alone; single; sheet   [chán] 单于  [Shàn] (surname)
+深		shēn	deep; 深刻 shēnkè profound; 深夜 shēnyè late at night
+历	/歷曆	lì	(F歷) 历史 lìshǐ history; 经历 experience; (F曆) 日历
+钱	錢	qián	money
+周		zhōu	circuit; circumference; cycle; week
+字		zì	written character; 汉字 Chinese character; 名字 name
+府		fǔ	政府 zhèngfǔ government
+式		shì	(形式) form; 方式 way, pattern; 正式 formal, official  [tè]
+司		sī	公司 gōngsī company; 司令 sīlìng commander  [cí] [sì]
+照		zhào	shine; 照相 zhàoxiàng photo
+德		dé	virtue; 道德 dàodé ethics; 德国 Germany (Deutschland)
+据	據	jù	seize; depend on; (根据 gēnjù) according to  [jū] 拮据
+未		wèi	have not, did not; 未来 future; 地支八
+际	際	jì	(边际 biānjì) boundary; 实际 reality; 国际 international
+青		qīng	green (blue, black); 青年 youth; 青蛙 frog  [jīng]
+极	極	jí	extreme; pole; 太极 Tài Jí ☯
+线	線	xiàn	line, thread; 光线 light ray; 电线 wire
+离	離	lí	(离开 líkāi) leave; from; ☲ ䷝ The Clinging  [chī]
+容		róng	contain; 容易 róngyì easy; 内容 nèiróng content  [yǒng]
+证	證	zhèng	prove; 图书证 library card
+拿		ná	hold; 拿来 bring; 拿去 take; 拿给 hand over
+史		shǐ	(历史 lìshǐ) history; (surname)
+热	熱	rè	hot
+团	團	tuán	ball, lump; group; 团结 unite  [qiú]
+早		zǎo	early; 早饭 breakfast; 早晨 zǎochen morning
+快		kuài	fast; sharp; (快乐, 愉快) happy
+包		bāo	bag; wrap  [páo] [fú]
+音		yīn	(声音 shēngyīn) sound; 音乐 yīnyuè music
+装	裝	zhuāng	dress up; load; install; (假装 jiǎzhuāng) pretend
+孩		hái	(孩子 háizi, 小孩儿 xiǎoháir) child; 女孩儿 girl
+调	調	diào	shift; tone  [tiáo] adjust
+农	農	nóng	(农民 nóngmín) farmer, peasant; 农业 agriculture
+准	/準	zhǔn	allow; (F準) certainly; precise; 准备 prepare; 标准 standard
+类	類	lèi	category, kind, type; 类似 lèisì similar
+约	約	yuē	approximately; arrange; appointment   [yāo] weigh
+号	號	hào	name, number, mark  [háo] yell  [xiāo]
+集		jí	(收集 shōují) collect; 集中 jízhōng centralize
+克	/克剋	kè	(克服 kèfú) overcome; gram; (F剋) 克期 set time limit  [kēi] (=剋)
+毛		máo	hair  [mào]
+士		shì	scholar; 博士 Ph.D; 女士 lady, Ms.; 战士 soldier
+夜		yè	(夜晚 yèwǎn) night; 半夜, 午夜 midnight; 夜里 at night
+布		bù	cloth; spread
+较	較	jiào	relatively; quite; 比较 bǐjiào compare; relatively  [jiǎo] (bǐjiǎo = bǐjiào)
+选	選	xuǎn	(选择 xuǎnzé) choose, select; 选举 xuǎnjǔ election
+笑		xiào	laugh
+乐	樂	lè	pleasure; 快乐 kuàilè happy  [yuè] 音乐 yīnyuè music
+造		zào	(制造 zhìzào) manufacture; (创造 chuàngzào) create  [cào] [cāo]
+整		zhěng	(整个) whole; 调整 tiáozhěng adjust; 整齐 zhěngqí neat
+斯		sī	(thus; now used mostly for sound:) 法西斯 Fascist  [shǐ]
+晚		wǎn	late; 晚上 evening; 夜晚 night; 晚饭 dinner
+切		qiē	to cut  [qiè] correspond to; 一切 yíqiè all  [qì]
+称	稱	chēng	weigh; name  [chèn] 对称 duìchèn symmetric
+格		gé	check, pattern, standard; 格外 géwài especially  [gē] [luò] [hè]
+精		jīng	perfect; 精神 spirit, essence; 酒精 alcohol  [qíng] [jìng]
+似		sì	similar; 似乎 sìhu it seems   [shì] 似的 shìde alike
+失		shī	lose; 失败 shībài be defeated  [yì]
+拉		lā	pull, drag, haul  [lǎ] 半拉 bànlǎ half  [lá] slit [là] [lè] [la]
+息		xī	breath; stop  [xi] 消息 xiāoxi news; 休息 xiūxi rest
+死		sǐ	die, death
+怎		zěn	(怎么 zěnme) how
+料		liào	(材料 cáiliào) material; expect, anticipate; 资料 data  [liáo]
+房		fáng	(房间 fángjiān) room; (房子 fángzi) building  [páng]
+易		yì	(容易 róngyì) easy; change; 易经 Book of Changes
+曾		céng	(曾经 céngjīng) in the past  [zēng] great- (grandmother)
+始		shǐ	(开始 kāishǐ) begin, start; 始终 shǐzhōng all along
+需		xū	(需要 xūyào) need; ䷄; 必需 bìxū essential  [nuò] [rú] [ruǎn]
+轻	輕	qīng	light (cf 重 heavy)
+专	專	zhuān	(专门) special; (专家) expert; 专政 dictatorship
+委		wěi	委员会 committee; 委托 entrust    [wēi] 虚与委蛇  [wèi]
+找		zhǎo	look for, seek  [huá]
+厂	廠	chǎng	(工厂 gōngchǎng) factory  [hǎn] radical 27  [yán] [ān]
+响	響	xiǎng	sound; 影响 yǐngxiǎng influence
+夫		fū	man; 丈夫 husband; 工夫 skill; 大夫 dàifu doctor  [fú]
+校		xiào	(学校 xuéxiào) school  [jiào] (校对,校正) proofread  [jiǎo] [qiāo]
+参	參	cān	参加 participate  [shēn] 人参 ginseng  [cēn] 参差  [sān] (=叁)
+黑		hēi	(黑色 hēisè) black; 黑暗 hēi'àn dark
+母		mǔ	(母亲 mǔqin) mother; 父母 fùmǔ parents; 字母 ABC  [mú] [wǔ] [wú]
+火		huǒ	fire; 火车 train; 火柴 match; 火焰 flame  [huō]
+志	/誌	zhì	(意志) will; (标志) mark; 同志 comrade; (F誌) 杂志 magazine
+备	備	bèi	(准备) get ready, prepare; 设备 equipment
+育		yù	raise, educate; 教育 education   [yō] 杭育 heave-ho  [zhòu]
+局		jú	department; situation; 邮局 yóujú post office
+派		pài	faction; send; 党派 dǎngpài political parties  [pā] 派司  [mài] [bài]
+示		shì	(表示 biǎoshì) show, indicate; 指示 point out  [qí] [zhì] [shí]
+根		gēn	root; 根本 gēnběn foundation; (not) at all
+技		jì	技术 technology, technique; 科技 science & technology  [qí]
+亚	亞	yà	inferior, second; 亚洲 Yàzhōu Asia
+况	況	kuàng	情况 circumstances; 况且 moreover
+首		shǒu	head; 首先 first of all; 首都 capital (of country)
+席		xí	mat; seat; banquet; 主席 chairperson
+价	價	jià	(价值) value; (价钱) price  [jie] (F價)  [jiè] servant
+图	圖	tú	picture; 地图 map; 图书馆 library
+严	嚴	yán	severe, stern
+买	買	mǎi	buy
+支		zhī	branch; support; 支持 zhīchí sustain  [zhì] [qí]
+星		xīng	star; 火星 huǒxīng Mars; 星期 xīngqī week
+李		lǐ	(李子 lǐzi) plum; (surname)
+官		guān	official; 官僚 guānliáo bureaucrat
+落		luò	fall  [là] be missing  [lào] 落色 làoshǎi fade  [luō] 空落落
+众	眾	zhòng	crowd; many; 群众 the masses; 听众 audience  [yín]
+究		jiū	研究 yánjiū study, research; 究竟 after all  [jiù]
+随	隨	suí	follow; ䷐ Following; 随便 suíbiàn as you like
+病		bìng	sick; 毛病 máobing malfunction
+复	/復複覆	fù	(F復) ䷗; 恢复 recover; (F複) 复杂 complex; (F覆) cover
+规	規	guī	规律 guīlǜ regular pattern; 规定 guīdìng regulations
+兴	興	xìng	高兴 gāoxìng glad  [xīng] 兴奋 xīngfèn excited
+黄	黃	huáng	(黄色 huángsè) yellow
+族		zú	(民族) people, nationality; (种族) race  [sǒu] [còu] [zòu]
+男		nán	(男人 nánrén) man
+消		xiāo	disappear; 消息 xiāoxi news; 消灭 xiāomiè perish
+苦		kǔ	bitter; 艰苦 jiānkǔ arduous; 痛苦 tòngkǔ suffering  [gǔ] [hù]
+费	費	fèi	cost; spend; 学费 tuition
+呢		ne	(sentence final particle)  [ní] woolen cloth  [nǐ] [nī]
+另		lìng	other; 另外 lìngwài other; besides
+足		zú	foot; (足够 zúgòu) enough; 满足 mǎnzú satisfy  [jù]
+查		chá	examine, investigate; 检查 inspect  [Zhā] (surname)  [chái]
+验	驗	yàn	(经验 jīngyàn) experience
+像		xiàng	resemble; (肖像 xiàoxiàng) portrait; image
+批		pī	(量) batch, lot, group; slap; 批评 pīpíng criticize  [pí]
+低		dī	low; 降低 jiàngdī reduce; 低级 elementary; 高低 height
+城		chéng	(城市 chéngshì) city; wall; 长城 chángchéng Great Wall
+举	舉	jǔ	raise; 举行 hold (a meeting); 选举 election; 举例
+球		qiú	ball; 足球 football (soccer); 地球 the Earth
+湾	灣	wān	harbor; 台湾 Táiwān
+艺	藝	yì	skill; (艺术 yìshù) art; 文艺 literature and art
+须	須鬚	xū	(F須) (必须 bìxū) must; (F鬚) (胡须 húxū) beard
+尔	爾	ěr	(archaic:) you; 尔后 thereafter; 高尔夫 golf
+欢	歡	huān	(欢乐 huānlè) happy, joyous; 喜欢 like
+除		chú	get rid of; divide; (除了 chúle) except  [zhù] [shū]
+香		xiāng	perfume; fragrant; 香港 Xiānggǎng Hong Kong
+功		gōng	achievement; 成功 chénggōng succeed; 功夫 gōngfu
+确	確	què	true; 正确 correct; 确实 indeed; 明确 explicit
+增		zēng	(增加 zēngjiā, 增长 zēngzhǎng) increase  [zèng] [céng]
+岁	歲	suì	years old; 岁数 age; 万岁 long life
+注	註	zhù	pour; (F註) notes; 注意 zhùyì pay attention; 注视 gaze  [zhòu]
+客		kè	(客人) guest; 客观 kèguān objective; 客气 kèqi polite  [qià]
+食		shí	eat; (食物 shíwù, 食品 shípǐn) food    [sì] feed  [yì]
+供		gōng	supply  [gòng] confess
+具		jù	工具 tool; 具有 possess; 具体 concrete; 玩具 toy
+江		jiāng	river; 长江 Yang-tse; 江山 landscape
+油		yóu	oil; 汽油 qìyóu gasoline; 酱油 jiàngyóu soy sauce [yōu] [yòu]
+群		qún	crowd, group; 群众 qúnzhòng The Masses
+乎		hū	似乎 sìhu it seems; 几乎 jīhū almost
+断	斷	duàn	cut off; 不断 búduàn unceasing; 判断 pànduàn judge
+存		cún	(存在 cúnzài) exist; 保存 bǎocún preserve
+底		dǐ	bottom; 彻底 chèdǐ thorough; 到底 dàodǐ after all  [de]
+飞	飛	fēi	fly; 飞机 fēijī airplane
+吗	嗎	ma	interrogative particle  [má] [mǎ]
+温	溫	wēn	(温暖 wēnnuǎn) warm; 温度 wēndù temperature  [yùn]
+份		fèn	(量) portion, share, copy  [bīn]
+仅	僅	jǐn	(仅仅 jǐnjǐn) only, barely  [fù] [nú]
+仍		réng	(仍然 réngrán, 仍旧 réngjiù) still, yet, as before
+愿	願	yuàn	wish
+般		bān	sort, kind; 一般 yībān ordinary  [pán] happy  [bō] 般若  [bǎn]
+虽	雖	suī	(虽然 suīrán) although
+送		sòng	see somebody off; deliver; give
+古		gǔ	(古代 gǔdài) ancient  [gù] [kū]
+段		duàn	section; paragraph; 手段 means (to an end)
+引		yǐn	draw, stretch; (引起 yǐnqǐ) cause; (吸引 xīyǐn) attract
+土		tǔ	earth; (土地 tǔdì) land; (土壤 tǔrǎng) soil  [dù] [chǎ] [tú]
+续	續	xù	(继续 jìxù) continue; 连续 liánxù continuous
+维	維	wéi	纤维 xiānwéi fiber; 维护 safeguard; 思维 think
+版		bǎn	printing plate; edition; 出版 publish
+案		àn	desk; (law) case; 答案 dá'àn answer or solution to a problem
+令		lìng	make, cause; 命令 mìnglìng command  [lǐng] ream  [líng] [lián]
+兵		bīng	(士兵 shìbīng) soldier; 兵力 bīnglì military strength
+帮	幫	bāng	(帮助, 帮忙) help; gang
+刚	剛	gāng	firm; (刚才 gāngcái) just (a moment ago)
+势	勢	shì	power; 形势 circumstances; 姿势 posture
+律		lǜ	法律 fǎlǜ law; 律师 lawyer; 纪律 discipline; 旋律 melody
+吧		ba	at end of sentence, indicates suggestion  [bā] snap!  [pā]
+某		mǒu	certain, some; 某人 mǒurén somebody  [méi]
+绝	絕	jué	cut off; absolute
+医	醫	yī	(医学) medical science; 医生 doctor; 医院 hospital  [yì]
+紧	緊	jǐn	tight; 紧张 jǐnzhāng tense; 要紧 yàojǐn important
+划	/劃	huá	row (a boat) (F劃) scratch [huà] (F劃) (计划 jìhuà) plan (F畫)  [guò] [guǒ]
+希		xī	希望 xīwàng hope; 希奇 xīqí rare, strange
+春		chūn	(春天, 春季) spring; 春卷 spring roll; 春夏秋冬  [chǔn]
+显	顯	xiǎn	appear; 显然 xiǎnrán obvious
+游		yóu	(游泳 yóuyǒng) swim; (旅游 lǚyóu) travel  [liú]
+演		yǎn	(表演 biǎoyǎn) perform, act, performance  [yàn]
+苏	蘇	sū	苏醒 revive; 苏州 Sūzhōu; 苏联 Sūlián USSR
+击	擊	jī	beat
+居		jū	(居住 jūzhù) live, reside; 居民 resident; 居然 unexpectedly  [jī]
+态	態	tài	form; 态度 tàidu manner; 状态 zhuàngtài state
+倒		dǎo	fall down   [dào] backwards; pour; contrary to expectations   [dáo]
+站		zhàn	stand; 火车站 train station  [zhān]
+例		lì	(例子 lìzi) example; 例如 lìrú for instance  [liè]
+喜		xǐ	happiness; 喜欢 xǐhuan like  [xī] [chì]
+左		zuǒ	left; 左边 zuǒbiān left side
+否		fǒu	no; 是否 whether   [pǐ] ䷋ Standstill
+围	圍	wéi	surround; 围棋 wéiqí (Go)
+饭	飯	fàn	rice; food
+列		liè	column; line up; 列车 lièchē train; 排列 páiliè arrange  [lì]
+血		xuè	[xiě] blood
+推		tuī	push
+故		gù	cause; therefore; 故事 gùshi story; 故意 gùyì on purpose
+习	習	xí	练习 practice; 学习 study; 习惯 habit
+父		fù	(父亲 fùqin) father; 父母 fùmǔ parents  [fǔ] old man
+坐		zuò	sit; 请坐 please have a seat; 坐公共汽车 ride the bus
+留		liú	stay; 保留 keep; 遗留 hand down; 拘留 arrest  [liù] [liǔ]
+河		hé	river; 河南省 Henan Province; 运河 canal
+念		niàn	miss; read aloud; 观念 guānniàn concept; 念书 study
+船		chuán	boat, ship; 渡船 dùchuán ferry; 宇宙飞船 spaceship
+久		jiǔ	long time
+属	屬	shǔ	belong to   [zhǔ] enjoin
+排		pái	arrange; row, line     [pǎi] 排子车 handcart  [bài]
+护	護	hù	(保护 bǎohù) guard, protect; 护士 hùshi nurse
+致	/緻	zhì	send, convey; 一致 yīzhì identical; (F緻) 细致 xìzhì careful  [zhuì]
+初		chū	beginning; 初步 chūbù preliminary; 起初 qǐchū at first
+跟		gēn	heel; follow; with; and
+职	職	zhí	duty; 职工 staff; 职业 zhíyè occupation
+双	雙	shuāng	pair, twin, double; 双方 both sides
+句		jù	sentence  [gōu] [gòu] [qú]
+朋		péng	朋友 péngyǒu friend
+妈	媽	mā	mother, mom; 妈妈 māma mama
+村		cūn	village; rustic; 农村 nóngcūn countryside
+画	畫	huà	draw; picture
+够	夠	gòu	enough; 能够 nénggòu be capable of
+巴		bā	尾巴 wěiba tail; 嘴巴 zuǐbā mouth; 巴西 Bāxī Brazil  [bà]
+助		zhù	(帮助 bāngzhù) help  [chú]
+待		dài	treat; entertain; wait for   [dāi] (=呆) stay
+乡	鄉	xiāng	countryside; home town
+标	標	biāo	mark; 标准 biāozhǔn standard
+省		shěng	province; economize; omit  [xǐng] 反省 introspection  [xiǎn]
+采	/採埰	cǎi	pick, gather (F採)  [cài] (F埰) 采地 càidì fief
+劳	勞	láo	(劳动 láodòng) labor  [lào]
+投		tóu	throw; 投票 tóupiào vote  [dòu]
+右		yòu	right; 右边 yòubiān right side
+阳	陽	yáng	opposite of 阴 yīn ☯; 太阳 tàiyáng the sun
+速		sù	fast; 速度 sùdù speed
+器		qì	utensil; (机器 jīqì) machine; 武器 wǔqì weapon
+压	壓	yā	press; pressure    [yà]
+值		zhí	(值得 zhíde) be worth; (价值 jiàzhí) value
+考		kǎo	(考虑 kǎolǜ) consider; (考试 kǎoshì) exam
+读	讀	dú	read   [dòu] pause in reading
+谁	誰	shuí	[shéi] who
+层	層	céng	layer, level, storey
+票		piào	ticket  [piāo]
+纪	紀	jì	世纪 century; 纪念 memento; 纪律 discipline  [Jǐ]
+角		jiǎo	horn; corner; dime  [jué] actor, role  [lù] [gǔ]
+静	靜	jìng	still, quiet; 静电 static electricity
+哪		nǎ	[něi] what; 哪儿 nǎr where   [na] (=啊 a)  [Né] [nuó] [nǎi] [nà] [niè]
+洋		yáng	(海洋 hǎiyáng) ocean; 太平洋 Pacific Ocean  [yāng] [xiáng] [yǎng]
+创	創	chuàng	创造 chuàngzào create  [chuāng] 创伤 trauma
+章		zhāng	chapter; seal, stamp; medal, badge; rules  [zhàng]
+云		yún	say; (F雲) (云彩 yúncai) cloud
+印		yìn	(印刷 yìnshuā) print; (印章 yìnzhāng) seal  [yì]
+停		tíng	(停止 tíngzhǐ) stop; 停车场 parking lot
+衣		yī	(衣服 yīfu) clothing  [yì] (书) wear
+树	樹	shù	tree; 树林 woods; 树木 trees; 树干 trunk
+修		xiū	repair, decorate; 修改 xiūgǎi revise
+港		gǎng	harbor; 香港 Xiānggǎng Hong Kong  [hòng]
+责	責	zé	duty; 责任 zérèn responsibility
+织	織	zhī	weave, knit; 组织 organize; 纺织 spin & weave
+简	簡	jiǎn	简单 jiǎndān simple; 简体字 simple form character
+质	質	zhì	(物质 wùzhì) matter, substance; 质量 zhìliàng quality; mass
+脑	腦	nǎo	(脑子 nǎozi) brain; 脑袋 head; 脑壳 skull
+刊		kān	periodical, publication: 报刊 the Press
+按		àn	press; (按照 ànzhào) according to; 按摩 ànmó massage
+尽		jìn	(F盡) use up  [jǐn] (F儘) to max extent; 尽管 even though
+破		pò	smash; 破坏 pòhuài ruin; 破烂 pòlàn worn out
+诉	訴	sù	告诉 gàosu tell; 诉讼 sùsòng lawsuit
+害		hài	harmful; 害虫 hàichóng destructive insect; 厉害 lìhai fierce  [hé]
+枪	槍	qiāng	gun   [chēng] 欃枪 chánchēng comet
+卖	賣	mài	sell: 苹果怎么卖? How much are the apples?
+室		shì	room; 教室 classroom; 卧室 bedroom; 办公室 office
+斗		dǒu	10 liters; 烟斗 pipe; 北斗星 Dipper  [dòu] (F鬥) fight  [zhǔ]
+汉	漢	hàn	Chinese ethnicity; 汉语; 汉字; 老汉 old man
+波		bō	(波浪 bōlàng) wave; 波长 wavelength  [bēi] [bì]
+独	獨	dú	only, alone; 独立 dúlì independent
+宣		xuān	(宣布) declare; 宣传 propaganda
+米		mǐ	(米饭 mǐfàn) rice; meter; 玉米 yùmǐ corn
+甚		shèn	very; 甚至 shènzhì even, go so far as to  [shén] (S什)
+刻		kè	carve; quarter hour; moment  [kēi]
+微		wēi	tiny, micro; 微笑 wēixiào smile
+冲	/沖衝	chōng	(F沖) rinse; rush; (F衝) rush  [chòng] (F衝) towards
+闻	聞	wén	smell; hear; 新闻 news
+班		bān	class; work; 上班 go to work; 值班 zhíbān be on duty
+怕		pà	(害怕 hàipà) to fear; 可怕 kěpà horrible  [bó]
+超		chāo	(超过 chāoguò) go past, exceed; (超级 chāojí) super  [chǎo] [chào] [tiào]
+项	項	xiàng	(项目 xiàngmù) item
+伤	傷	shāng	wound, injury; injure
+背		bèi	back  [bēi] carry on the back
+呼		hū	shout, exhale; 呼吸 breathe; 欢呼 cheer  [xiāo] [xū] [hè] [xià]
+细	細	xì	thin; 仔细 zǐxì careful; 细胞 xìbāo cell; 详细 detailed
+止		zhǐ	(停止 tíngzhǐ) stop
+哥		gē	(哥哥 gēge) older brother
+型		xíng	mould; type; 典型 diǎnxíng typical
+突		tū	charge forward; stick out; 突然 tūrán suddenly
+答		dá	(回答) answer  [dā] 答应 dāying respond; promise
+效		xiào	(效果 xiàoguǒ) effect; 有效 yǒuxiào effective
+继	繼	jì	(继续 jìxù) continue; 继承 jìchéng inherit
+依		yī	(依靠) depend on; comply with; according to; 依然 still  [yǐ]
+胜	勝	shèng	(胜利 shènglì) victory, triumph, win  [xīng] [qìng] [shēng]
+评	評	píng	criticize
+爷	爺	yé	father; 爷爷 yéye grandpa
+块	塊	kuài	piece  [yué]
+沉		chén	to sink; 沉重 chénzhòng heavy  [chēn] 黑沉沉 pitch-black
+终	終	zhōng	end; 终于 finally; 始终 all along; 终身 life-long
+充		chōng	fill; 充分 chōngfèn full, ample; 充满 chōngmǎn full of
+富		fù	(富有 fùyǒu) rich; 丰富 fēngfù abundant; 财富 wealth
+竟		jìng	finish; (竟然) unexpectedly; 究竟 after all
+获		huò	(F獲) (获得 huòdé) get, obtain; (F穫) 收获 harvest
+协	協	xié	协作 xiézuò cooperate
+您		nín	you (polite)
+若		ruò	seem; as if; 假若 if; 若干 ruògān how much  [rě] 般若  [ré] [rè]
+奇		qí	marvellous, rare, strange  [jī] odd (not even)  [ǎi] [yǐ]
+占		zhān	fortune telling  [zhàn] occupy; 占领 zhànlǐng capture  [tiē]
+陈	陳	chén	display; explain; stale; (dynasty: 557-589)
+罗	羅	luó	(罗网) birdnet; 罗马 Rome; 罗盘 compass  [luō]
+负	負	fù	carry on shoulder; suffer; negative
+阿		ā	阿拉伯 Arab  [ē] 阿弥陀佛 merciful Buddha  [ě] [ǎ] [à]
+错	錯	cuò	(错误 cuòwù) mistake
+夏		xià	(夏天 xiàtiān) summer; 春夏秋冬 chūnxiàqiūdōng  [jiǎ]
+策		cè	plan; 政策 zhèngcè policy
+差		chà	differ; wrong  [chā] 差别 difference  [chāi] 出差  [cī] [cuō] [chài] [jiē]
+歌		gē	song
+痛		tòng	painful; 痛苦 tòngkǔ suffering; 痛快 tòngkuai delighted
+板		bǎn	board; hard; (F闆) 老板 lǎobǎn shopkeeper
+州		zhōu	prefecture; 广州 Guǎngzhōu Canton
+皮		pí	(皮肤 pífū) skin
+源		yuán	(来源 láiyuán) source, origin; 资源 zīyuán resources
+吸		xī	inhale; 呼吸 breathe; 吸收 absorb; 吸引 attract
+汽		qì	vapor, steam; 汽油 qìyóu gasoline; 汽车 qìchē car  [gài] [yǐ]
+密		mì	thick, dense
+财	財	cái	wealth; 发财 get rich
+亮		liàng	shine  [liáng]
+企		qǐ	企业 qǐyè enterprise; 企图 qǐtú attempt; 企鹅 penguin
+笔	筆	bǐ	writing implement; 毛笔 brush; 钢笔 pen; 铅笔 pencil
+营	營	yíng	camp; 营火 campfire; 营业 do business
+养	養	yǎng	raise, nourish; 营养 yíngyǎng nutrition
+园	園	yuán	(花园 huāyuán) garden; (公园 gōngyuán) park  [wán]
+脸	臉	liǎn	face
+换	換	huàn	change, exchange
+景		jǐng	scene, scenery  [yǐng]
+烈		liè	(强烈 qiángliè) intense; 热烈 ardent; 烈士 martyr
+央		yāng	entreat; center; 中央 central; 央求 beg, plead  [yīng]
+座		zuò	(座位 zuòwèi) seat; (measure word for mountains etc.)
+副		fù	assist; vice-; 副词 fùcí adverb  [pì]
+察		chá	观察 guānchá observe; 警察 jǐngchá police  [cuì]
+顾	顧	gù	(照顾 zhàogu) look after; 顾客 gùkè customer
+境		jìng	border, territory; 环境 huánjìng environment
+阶	階	jiē	(台阶) steps; 阶级 class; 军阶 rank; 阶段 phase
+唱		chàng	sing; 唱歌
+纸	紙	zhǐ	paper; 报纸 bàozhǐ newspaper
+店		diàn	(商店 shāngdiàn) store, shop; 饭店 fàndiàn restaurant
+编	編	biān	weave; organize; (编辑 biānjí) edit
+跑		pǎo	run  [páo] paw the earth  [bó]
+余		yú	I, me; (F餘) left-over, extra; 其余 the rest; 余弦 cosine  [tú] [xú] [yù]
+括		kuò	包括 bāokuò include; 概括 gàikuò generalize  [guā]
+惊	驚	jīng	surprise  [liáng]
+激		jī	surge, dash; (激动 jīdòng) excite; 激烈 jīliè intense  [jiào] [jiāo]
+田		tián	field; 田野 tiányě open country
+订	訂	dìng	conclude (cf 定)
+适	適	shì	合适 héshì suitable, appropriate   [dí] [kuò]
+假		jiǎ	false  [jià] (假期 jiàqī) vacation  [jie] [xià] [xiá] [gé]
+构	構	gòu	结构 jiégòu structure; 构成 constitute; 构造 gòuzào structure
+卫	衛	wèi	保卫 defend; 卫生 sanitary; 卫星 satellite
+武		wǔ	military; 武器 wǔqì weapon; 武术 wǔshù martial arts
+雨		yǔ	rain; 雨水 rainwater; 暴风雨 bàofēngyǔ rainstorm  [yù]
+木		mù	tree; (木头 mùtou) wood
+益		yì	(利益 lìyì) advantage, profit; ䷩ Increase
+靠		kào	lean on; rely on; keep close to; come up to; near
+限		xiàn	limit, bounds; 有限 limited; 限制 restrict  [wěn]
+判		pàn	judge; 批判 pīpàn criticize
+试	試	shì	try; test; 考试 kǎoshì test, quiz
+防		fáng	embankment; guard, protect; anti-
+坚	堅	jiān	hard, solid; firmly; 坚持 persist; 坚定 firm
+永		yǒng	(永远 yǒngyuǎn) always, forever
+急		jí	urgent; 着急 zháojí anxious; 急忙 jímáng in a hurry
+检	檢	jiǎn	(检查 jiǎnchá) inspect
+诗	詩	shī	poem; 诗人 shīrén poet
+味		wèi	(味道 wèidao) flavor, taste  [mèi]
+普		pǔ	普通 pǔtōng common; 普遍 pǔbiàn universal
+优	優	yōu	excellent; 优良 fine; 优秀 outstanding; 优越 superior  [yóu]
+货	貨	huò	(货物) goods; 货币 huòbì money, currency
+升		shēng	liter; rise, ascend; ䷭ Pushing Upward
+射		shè	shoot, fire; send out; 注射 inject; 射箭 archery  [yè] [yì]
+叶		yè	(F葉) leaf (of a plant)  [xié] harmonize
+沙		shā	sand; 沙漠 shāmò desert; 沙丘 shāqiū dune  [shà] [suō]
+福		fú	blessing; 幸福 xìngfú happy; 福建 Fújiàn  [fù]
+冷		lěng	cold; 冷静 lěngjìng calm  [líng] [lǐng]
+短		duǎn	short (opposite of 长 cháng)
+配		pèi	match; deserve; 分配 distribute; 配合 pèihé cooperate
+搞		gǎo	do  [qiāo] [kào]
+杂	雜	zá	mixed; 复杂 complicated; 杂志 magazine  [zā] [duǒ]
+款		kuǎn	fund  [xīn]
+草		cǎo	grass; herb; 草莓 cǎoméi strawberry  [zào]
+银	銀	yín	silver (Ag); 银行 yínháng bank
+酒		jiǔ	wine; 啤酒 píjiǔ beer; 喝酒 hējiǔ drink wine
+旧	舊	jiù	old (not new) (cf 老 old, not young; 新 new)
+曲		qū	(弯曲 wānqū) curved  [qǔ] melody
+素		sù	plain, white; vegetarian; 因素 yīnsù factor, element
+朝		cháo	towards; dynasty; 朝鲜 Cháoxiǎn Korea  [zhāo] (morning)  [zhū]
+环	環	huán	ring; 环境 huánjìng environment, surroundings
+刘	劉	Liú	(surname)
+陆	陸	lù	land; 大陆 continent   [liù] six ( = 六)
+啊		a	[ā] [á] [ǎ] [à] ah--, ah?, ah..., ah!  [è]
+积	積	jī	accumulate; 积极 jījí positive; 面积 area  [zhǐ]
+录	錄	lù	record; 记录 jìlù take notes; 录音机 tape recorder
+散		sàn	break up; distribute; dispel  [sǎn] fall apart; scattered  [sān]
+街		jiē	street; 街道 street, neighborhood; 街头 street-corner
+铁	鐵	tiě	iron (Fe)
+免		miǎn	exempt; 避免 bìmiǎn avoid; 免费 miǎnfèi free  [wèn] [wǎn]
+庭		tíng	家庭 jiātíng family; 法庭 court; 庭院 courtyard
+楼	樓	lóu	story, building; 大楼 mansion; 楼梯 lóutī stairs
+洲		zhōu	continent; 亚洲 Asia; 欧洲 Europe; 非洲 Africa
+脚	腳	jiǎo	foot; 赤脚 barefoot; 脚趾 toe  [jué] (=角)
+卡		kǎ	block; calory; card  [qiǎ] checkpoint
+预	預	yù	预备 prepare; 预先 beforehand; 预报 forecast
+善		shàn	good; 改善 gǎishàn improve; 善于 be good at
+均		jūn	even; 平均 píngjūn average  [yùn]
+封		fēng	to seal; 封建 feudal; 信封 envelope  [biǎn]
+剧	劇	jù	drama, play, opera; 剧烈 jùliè severe
+顿	頓	dùn	to pause; meal
+著		zhù	write; book  [zhe](S着) [zháo](S着) [zhuó](S着) [zhāo](S着)  [chú]
+堂		táng	hall; 食堂 dining hall; 课堂 classroom  [tāng] 亮堂堂
+渐	漸	jiàn	(渐渐 jiànjiàn, 逐渐 zhújiàn) gradually; ䷴  [jiān]
+雪		xuě	snow; 雪花 xuěhuā snowflake; 滑雪 huáxuě to ski
+承		chéng	承认 chéngrèn admit; 继承 jìchéng inherit  [zhěng] [zhèng]
+模		mó	模范 model; 模仿 imitate  [mú] 模样 appearance; 模子
+状	狀	zhuàng	(状态, 状况) condition, state of affairs
+乱	亂	luàn	chaotic, disorderly, messy; 混乱 hùnluàn chaos
+担	擔	dān	carry on a shoulder pole  [dàn] two buckets full; 50 kg.  [dǎn] [jiē]
+课	課	kè	lesson; 课本 kèběn textbook
+减	減	jiǎn	subtract; 减少 jiǎnshǎo decrease
+威		wēi	威胁 wēixié threaten, imperil; 示威 demonstrate
+忘		wàng	(忘记 wàngjì) forget  [wáng] 忘八
+弟		dì	(弟弟 dìdi) younger brother   [tì] (=悌)  [tuí]
+杀	殺	shā	kill
+药	藥	yào	medicine, drug
+守		shǒu	guard; 保守 bǎoshǒu conservative  [shòu]
+怀	懷	huái	bosom; cherish; 怀疑 suspect; 怀念 cherish memory  [fù]
+互		hù	互相 each other; 相互 reciprocal
+既		jì	since; already; 既然 jìrán since, now that  [xì]
+旅		lǚ	travel; 旅馆 inn; 旅行社 travel agency; ䷷
+钟		zhōng	(F鐘) bell; clock; 三点钟 3 o'clock; (F鍾) 钟爱 dote on; (surname)
+弹	彈	dàn	炸弹 bomb; 子弹 bullet  [tán] 弹吉他 play guitar
+姐		jiě	(姐姐 jiějie) older sister; 小姐 xiǎojie young lady  [jù] [xù] [zū]
+露		lù	(露水 lùshui) dew; show, reveal, betray  [lòu] reveal
+贵	貴	guì	expensive; valuable
+介		jiè	介绍 jièshào introduce; 介词 preposition  [gè]
+罪		zuì	crime, guilt
+宝	寶	bǎo	treasure
+兰	蘭	lán	兰花 lánhuā orchid
+置		zhì	put, place; 位置 wèizhi position
+翻		fān	turn over; 翻译 fānyì translate
+毕	畢	bì	毕业 bìyè graduate; 毕竟 bìjìng after all
+妇	婦	fù	(妇女 fùnǚ) woman; 夫妇 fūfù married couple
+谢	謝	xiè	thank; 谢谢 xièxie thanks; 非常感谢
+帝		dì	emperor; 帝国 dìguó empire; 上帝 Shàngdì God
+述		shù	state, narrate; 描述 describe; 上述 above-mentioned
+登		dēng	climb  [dé]
+施		shī	carry out; 措施 cuòshī measure, step; 施工 construction  [yì] [shǐ]
+材		cái	(材料 cáiliào) material; 教材 jiàocái teaching material
+穿		chuān	penetrate; wear  [chuàn] [yuān]
+寄		jì	to mail; 寄生虫 parasite
+玩		wán	play; 玩具 wánjù toy; 好玩儿 hǎowánr fun
+略		lüè	brief, slight; 略微 lüèwēi slightly
+讨	討	tǎo	(讨论 tǎolùn) discuss; 讨厌 tǎoyàn digusting
+菜		cài	vegetable, dish
+烟		yān	(F煙) smoke; cigarette; mist  [yīn] (=氤)
+礼	禮	lǐ	ceremony; 婚礼 hūnlǐ wedding; 礼貌 lǐmào polite
+娘		niáng	mother; aunt  [niang] 姑娘 gūniang girl
+龙	龍	lóng	dragon; 恐龙 kǒnglóng dinosaur
+异	異	yì	different; 异常 yìcháng unusual  [yí]
+户	戶	hù	door; household; 窗户 chuānghù window
+抗		kàng	(抵抗) resist; 反抗 revolt; 抗议 protest  [gāng]
+攻		gōng	(进攻, 攻击) attack; 专攻 specialize in studying
+犯		fàn	violate; 犯罪 fàn=zuì commit a crime; 罪犯 criminal
+访	訪	fǎng	(访问 fǎngwèn) visit; 采访 gather material
+困		kùn	(困难 kùnnán) difficult; ䷮ Oppression; (F睏) tired
+牌		pái	tablet; brand; cards; dominoes: 牌子 sign
+追		zhuī	pursue  [duī] [tuī]
+松		sōng	pine tree; 松鼠 squirrel; (F鬆) loose
+睡		shuì	(睡觉 shuìjiào) sleep
+掉		diào	drop, fall  [nuó]
+午		wǔ	中午 noon; 上午 morning; 下午 afternoon; 午饭 lunch
+移		yí	(移动) move; 转移 shift; transform; 移植 transplant  [chǐ] [yì]
+招		zhāo	beckon; recruit; attract; 招待 entertain (guests)  [qiáo] [sháo]
+降		jiàng	fall, descend  [xiáng] 投降 tóuxiáng surrender
+概		gài	大概 roughly, most likely; 概念 concept; 气概 spirit  [guì] [jié]
+慢		màn	slow  [mán]
+宁	寧	nìng	(宁愿, 宁可) prefer, rather  [níng] 宁静 tranquil  [zhù]
+祖		zǔ	(祖先 zǔxiān) ancestor; 祖母 zǔmǔ grandmother  [jiē]
+良		liáng	(优良 yōuliáng, 良好) good; 良心 liángxīn conscience  [liǎng]
+肉		ròu	flesh, meat; 肌肉 jīròu muscle  [rù]
+遍		biàn	everywhere; 普遍 universal; (量) 再说一遍
+率		lǜ	rate, proportion; 频率 frequency  [shuài] 率领 lead  [lüe]
+练	練	liàn	white silk; (练习 liànxí) practice
+尼		ní	尼姑 Buddhist nun; 尼加拉瓜 Nicaragua; 尼龙 nylon  [nǐ]
+幸		xìng	good fortune, luck; 幸福 xìngfú happy  [niè]
+丰		fēng	good-looking  (F豐) ䷶ Abundance; 丰富 fēngfù abundant
+付		fù	pay
+挥	揮	huī	wave, wield; command an army; 挥手 wave (one's hand)
+控		kòng	(控诉 kòngsù) accuse; (控制 kòngzhì) control  [kōng] [qiāng]
+敢		gǎn	dare; 勇敢 yǒnggǎn brave
+灯	燈	dēng	lamp  [dīng]
+舞		wǔ	(跳舞 tiàowǔ) dance
+忙		máng	hurry; busy; 帮忙 help; 连忙 right away
+私		sī	(私人) personal; (私有) private; (自私) selfish
+顺	順	shùn	along, in the same direction as; obey; suitable
+坏		huài	(F壞) bad    [pī] (=坯)  [péi]
+险	險	xiǎn	(危险 wēixiǎn) danger; 保险 bǎoxiǎn insurance
+伯		bó	eldest brother; uncle  [bǎi] 大伯子  [bai] 叔伯 shūbai  [bà] (=霸)  [mò]
+架		jià	frame, rack, shelf; put up; (量): 一架飞机
+警		jǐng	警察 jǐngchá police; 警告 jǐnggào warn
+县	縣	xiàn	county; 县长 xiànzhǎng county magistrate
+扬	揚	yáng	raise; 发扬 fāyáng develop, promote
+牛		niú	ox, cow, bull; 牛奶 niúnǎi milk   [niū]
+肯		kěn	be willing to; consent; 肯定 kěndìng definitely
+遇		yù	meet; 遇到 yùdào encounter  [yóng] [ǒu]
+映		yìng	shine  [yǎng]
+趣		qù	interest, fun; 兴趣 interest; 趣味 interest; taste  [cù] [qū] [cǒu] [zōu]
+谓	謂	wèi	call; 所谓 so-called
+输	輸	shū	transport; lose (cf 赢 win)
+执	執	zhí	hold in hand; 执行 zhíxíng carry out
+馆	館	guǎn	building; 饭馆 restaurant
+签	簽	qiān	签订 conclude & sign (treaty, etc); 签名 signature; 标签 label
+退		tuì	go backwards; (后退 hòutuì) retreat; 撤退 chètuì withdraw
+熟		shú	cooked, ripe, familiar; 熟悉 shúxī know well  [shóu]
+缺		quē	(缺乏quēfá) lack, be short of; 缺点 quēdiǎn shortcoming  [kuǐ]
+爸		bà	dad; 爸爸 bàba daddy
+绿	綠	lǜ	(绿色 lǜsè) green   [lù] (in some place names)
+股		gǔ	thigh; section
+败	敗	bài	(失败 shībài) lose, be defeated; 腐败 fǔbài corrupt
+盘	盤	pán	dish, tray; 算盘 suànpán abacus; 棋盘 chessboard
+逐		zhú	expel; pursue; 1 by 1: 逐渐 gradually; 逐步 step by step  [dí] [zhòu] [tún]
+鱼	魚	yú	fish; 金鱼 jīnyú goldfish; 鲨鱼 shāyú shark
+鲜	鮮	xiān	fresh    [xiǎn] few, rare; 朝鲜 Korea
+临	臨	lín	overlook; be adjacent to; ䷒ Approach; 临时 temporary
+哭		kū	cry, weep
+湖		hú	lake; 湖泊 húpō lakes; 湖南 Hunan; 湖北 Hubei
+套		tào	set; cover; 手套 glove; 一套衣服 a suit  [tǎo]
+戏	戲	xì	(戏剧 xìjù) drama, play; 游戏 yóuxì game
+救		jiù	help, rescue; 救命 jiùmìng! Help!  [jiū]
+屋		wū	(屋子 wūzi) room; (房屋 fángwū) building; 屋顶 roof
+婚		hūn	(结婚) marry; 婚礼 wedding; 婚姻 marriage
+灵	靈	líng	clever; spirit; elf; 灵活 línghuó nimble, easy
+础	礎	chǔ	基础 jīchǔ foundation, base, basis; 础石 chǔshí plinth
+嘴		zuǐ	(嘴巴 zuǐba) mouth; 嘴唇 zuǐchún lip
+顶	頂	dǐng	top; (量) 一顶帽子 a hat
+浪		làng	(波浪 bōlàng) wave; 浪费 waste  [láng]
+零		líng	zero; 零件 língjiàn spare part; 零钱 spare change  [līng] [lián]
+亿	億	yì	100 million
+怪		guài	blame; (奇怪 qíguài) strange; 怪物 guàiwu monster
+泪	淚	lèi	(眼泪, 泪水) tear; 泪珠 teardrop
+申		shēn	explain; 9th 地支 Earthly Branch
+透		tòu	penetrate; thorough; 透镜 tòujìng lens; 透明 transparent  [shū]
+恶	惡	è	evil  [wù] (厌恶) hate  [ě] (恶心) nauseous
+阵	陣	zhèn	battle array; (量): 一阵风
+胡		hú	recklessly; 胡说 nonsense (F鬍) (胡子 húzi) beard (F衚) 胡同
+拍		pāi	clap; paddle; 乒乓拍  [bó]
+误	誤	wù	(错误 cuòwù) mistake
+额	額	é	(前额) forehead; 定额 quota
+赶	趕	gǎn	catch up  [qián]
+绍	紹	shào	介绍 jièshào introduce
+载	載	zài	carry, be loaded with  [zǎi] 记载 put down in writing
+丽	麗	lì	美丽 beautiful; 壮丽 majestic  [Lí] Korea
+征		zhēng	journey; 长征 Long March; attack; (F徵) evidence; levy
+伟	偉	wěi	(伟大) great, mighty; 宏伟 hóngwěi, 雄伟 xióngwěi grand
+危		wēi	危险 dangerous; 危机 crisis; 危害 endanger
+迎		yíng	(欢迎 huānyíng) welcome  [yìng]
+毫		háo	long fine hair; milli-; 毫不 not at all
+脱	脫	tuō	take off; 脱离 tuōlí break away  [tuì]
+皇		huáng	皇帝 huángdì emperor; 皇后 huánghòu empress  [wǎng]
+宗		zōng	ancestor; clan; faction; 宗教 religion; 祖宗 ancestry
+托		tuō	hold in the palm; rely on; 委托 wěituō entrust
+杨	楊	yáng	poplar tree; 三角叶杨 cottonwood
+彩		cǎi	(色彩 sècǎi) color; 彩色 cǎisè multicolor
+弄		nòng	do   [lòng] 里弄 alley
+摇	搖	yáo	shake
+疑		yí	(怀疑 huáiyí) doubt, suspect; 迟疑 chíyí hesitate  [níng]
+抓		zhuā	grab; arrest; attract; scratch
+轮	輪	lún	wheel
+欧	歐	ōu	欧洲 Ōuzhōu Europe; 欧姆 ōumǔ ohm
+篇		piān	sheet of paper; piece of writing
+航		háng	sail; fly; 航行 hángxíng navigate; 航空 aviation
+秋		qiū	autumn, fall; 春夏秋冬 chūnxiàqiūdōng
+厚		hòu	thick; deep; kind; rich (food)   (cf 薄 báo thin)
+季		jì	(季节) season; 冬季 winter; 四季 four seasons
+掌		zhǎng	palm of the hand; 掌握 zhǎngwò grasp
+雄		xióng	powerful; male; 英雄 hero; 雄伟 grand; 雄鸡 rooster
+恐		kǒng	(恐怕 kǒngpà) I'm afraid; 恐怖 kǒngbù terror
+税	稅	shuì	tax  [tuō] [tuì] [tuàn]
+窗		chuāng	(窗户 chuānghu, 窗口) window; 窗帘 curtain  [cōng]
+弱		ruò	weak; 微弱 wēiruò faint; 软弱 ruǎnruò feeble
+睛		jīng	eye   [jing] 眼睛 yǎnjing eye  [jǐng]
+赛	賽	sài	contest; 比赛 match, race
+归	歸	guī	return
+秘		mì	秘密 mìmì secret; 秘书 secretary  [bì] 秘鲁 Peru  [bié]
+倍		bèi	times; 三倍 three times (as much)  [péi]
+播		bō	sow, seed; 广播 broadcast; 传播 disseminate  [bǒ]
+暗		àn	(黑暗) dark; 暗暗 secretly; 阴暗 gloomy; 暗示 hint
+借		jiè	borrow, lend
+末		mò	end; minor details; 末儿 mòr powder; 周末 weekend  [me] (=么]
+玉		yù	(玉石 yùshí) jade; 玉米 yùmǐ corn
+纳	納	nà	receive; accept; enjoy; pay; sew
+邓	鄧	Dèng	(surname)  [shān]
+旁		páng	(旁边 pángbiān) side    [bàng] (=傍)  [pēng] [bēng]
+跳		tiào	jump; 跳伞 tiàosǎn parachute; 跳舞 tiàowǔ dance  [diào] [táo]
+途		tú	way, route; 前途 prospect; 途经 via
+休		xiū	stop; (休息 xiūxi) rest; 退休 retire; 休养所 rest home  [xù]
+唯		wéi	唯物主义 materialism  [wěi]
+巨		jù	(巨大 jùdà) huge  [qú]
+审	審	shěn	审判 shěnpàn bring to trial; 审问 interrogate
+端		duān	hold sth. level with both hands; extremity, end
+迫		pò	compel; 压迫 yāpò oppress; 被迫 bèipò be compelled  [pǎi]
+束		shù	bundle; 束缚 shùfù tie up; 结束 jiéshù finish
+码	碼	mǎ	(量) 两码事; 码头 wharf, dock; 号码 number
+补	補	bǔ	mend
+佛		Fó	Buddha; 佛教 Fójiào Buddhism  [fú] 仿佛 fǎngfú seem  [bó] [bì]
+探		tàn	(探索 tànsuǒ) explore  [xián]
+岸		àn	shore
+麻		má	hemp; numb; (芝麻 zhīma) sesame; 麻烦 máfan bother  [mā]
+鼓		gǔ	drum   [gū]
+伊		yī	(surname); he or she; 伊斯兰 Yīsīlán Islam
+哈		hā	(sound of laughter, etc)  [hǎ] [hà] [ha] [hē] [hé] [tà] [shà]
+奏		zòu	play music; 演奏 yǎnzòu perform music; 节奏 jiézòu rhythm  [còu]
+岛	島	dǎo	island
+泽	澤	zé	沼泽 marsh, swamp; 色泽 color and lustre; 毛泽东
+默		mò	silent; 默默 mòmò silently; 沉默 reticent; 幽默 humor
+汇		huì	(F彙) gather together; 汇报 to report; 词汇 vocabulary; (F匯) converge; remit
+亦		yì	also; 反之亦然 and vice-versa
+伙		huǒ	(量) group of people; 家伙 fellow; 伙伴 partner  [huo]
+虫	蟲	chóng	worm, insect; 爬虫 páchóng reptile  [huǐ]
+尚		shàng	esteem; 高尚 noble, lofty  [shang] 和尚 héshang monk  [cháng]
+荣	榮	róng	(光荣, 荣誉) glory, honor
+圆	圓	yuán	round; circle; (sometimes used for 元 dollar)
+范		fàn	(surname); (F範) 范围 scope, range; 模范 model, fine example
+童		tóng	儿童 értóng children  [zhōng]
+呀		ya	(sentence final like 啊)  [yā] ah, oh  [xiā]
+冰		bīng	ice; 冰箱 bīngxiāng refrigerator; 冰凉 bīngliáng ice-cold  [níng]
+姓		xìng	family name, surname; 姓名 full name (first & last)  [shēng]
+牙		yá	(牙齿 yáchǐ) tooth  [yà]
+折		zhé	fold; break; change direction [shé] break [zhē] turn over  [tí]
+鸡	雞	jī	chicken; 宫保鸡丁 Kung Pao Chicken
+莫		mò	nothing; not; 莫大 mòdà greatest; 莫名其妙 baffling  [mù]
+麦	麥	mài	wheat, etc; 麦片 màipiàn oatmeal
+野		yě	wild  [shù]
+懂		dǒng	understand
+词	詞	cí	word; 词典 dictionary; 动词 verb; 词汇 vocabulary
+孙	孫	sūn	grandchild; 子孙 descendants; 孙悟空; 孙中山
+毒		dú	(毒物) poison; (毒品) drug; 病毒 virus  [dài]
+床		chuáng	bed; 床单 chuángdān sheet; 河床 river bed
+康		kāng	健康 jiànkāng health; 康熙字典 Kāngxī Zìdiǎn  [kàng]
+烧	燒	shāo	roast, cook; burn (cf 炒 chǎo stir-fry)
+筑	築	zhù	build, construct; 建筑学 architecture  [Zhú]
+藏		cáng	store; conceal, hide  [zàng] (西藏 Xīzàng) Tibet  [zāng]
+茶		chá	tea; 茶叶 cháyè tea leaves; 红茶 hóngchá black tea
+释	釋	shì	解释 jiěshì explain; 释放 shìfàng release
+宽	寬	kuān	wide, broad; extend; relax
+醒		xǐng	become sober, wake up; 提醒 remind  [chéng] [jīng]
+君		jūn	(君主) monarch, sovereign; (君子) gentleman; 暴君 tyrant
+硬		yìng	hard; 硬件 yìngjiàn hardware  [gěng]
+销	銷	xiāo	melt (metal); remove; sell; 脱销 sold out
+狗		gǒu	dog; 猎狗 liègǒu hound; 疯狗 fēnggǒu mad dog
+索		suǒ	rope; 思索 think deeply; 索性 simply, just  [suō]
+齐	齊	qí	整齐 zhěngqí neat; 一齐 yìqí together [zhāi] (=斋) [zī] (=粢)
+奖	獎	jiǎng	prize, award; 奖金 bonus; 奖学金 scholarship
+附		fù	enclose, attach; 附近 fùjìn vicinity, nearby  [bù] [fū]
+洗		xǐ	wash; 洗澡 xǐzǎo bath, shower  [Xiǎn] (surname)
+摆	擺	bǎi	put, arrange; sway, wave; 摇摆舞 rock 'n' roll
+圣	聖	shèng	holy; 圣人 sage, saint; 圣诞节 Christmas  [kū]
+墙	牆	qiáng	(墙壁 qiángbì) wall
+含		hán	keep in mouth; contain  [hàn]
+寻	尋	xún	(寻找 xúnzhǎo) seek   [xín] 寻思 xínsi
+召		zhào	(召开 zhàokāi) convene  [shào]
+庆	慶	qìng	庆祝 celebrate; 庆贺 congratulate; 庆幸 rejoice
+择	擇	zé	(选择 xuǎnzé) choose     [zhái] choose
+博		bó	博士 Ph.D.; 博爱 universal love; 博物馆 museum
+纷	紛	fēn	纷纷 one after another; 纠纷 jiūfēn dispute; 纷乱
+耳		ěr	(耳朵 ěrduo) ear; 耳机 earphone, headphones  [réng]
+镇	鎮	zhèn	town; press down; calm; cool
+丝	絲	sī	silk; thread
+献	獻	xiàn	donate; 贡献 gòngxiàn contribution
+盖	蓋	gài	cover, shell; 盖子 lid
+序		xù	秩序 zhìxu order; 程序 procedure; 次序 order
+丁		dīng	4th 天干 heavenly stem   [zhēng]
+抱		bào	hug, embrace  [pāo] [pǒu]
+迷		mí	be lost; 我迷了路 I am lost; 迷信 superstition  [mì]
+桥	橋	qiáo	bridge
+混		hùn	mix up; 混乱 hùnluàn chaos  [hún] [gǔn] [kūn]
+楚		chu	清楚 qīngchu clear   [chǔ] 苦楚 kǔchǔ misery
+盛		chéng	fill; contain  [shèng] flourishing; 茂盛 luxuriant
+喝		hē	drink       [hè] shout  [yè] [kài]
+潮		cháo	tide; (潮湿 cháoshī) moist; 高潮 gāocháo climax
+圈		quān	circle  [juàn] pen, sty  [juān] shut up in a pen  [quán] [juǎn]
+抽		chōu	take out; shrink; whip; 抽烟 smoke tobacco
+督		dū	监督 jiāndū supervise
+冬		dōng	(冬天, 冬季) winter; 冬眠 hibernation; 春夏秋冬
+忍		rěn	endure, tolerate; 忍不住 can't bear; can't resist  [rèn]
+妻		qī	(妻子 qīzi) wife  [qì]
+握		wò	hold, grasp; 掌握 comprehend  [òu]
+粮	糧	liáng	(粮食 liángshi) grain, food
+偏		piān	slanting, leaning; stubbornly; unfortunately
+避		bì	(避免 bìmiǎn) avoid; 逃避 táobì escape, evade
+晨		chén	(早晨 zǎochen) morning
+忽		hū	disregard; (忽然 hūrán) suddenly; (忽而) now...
+挂	掛	guà	hang, put up
+训	訓	xùn	lesson
+钢	鋼	gāng	steel; 钢笔 fountain pen; 钢琴 piano  [gàng] sharpen
+享		xiǎng	(享受 xiǎngshòu) enjoy
+固		gù	巩固 gǒnggù consolidate; 固定 gùdìng fixed
+庄	莊	zhuāng	village; 庄稼 zhuāngjia crops; 庄严 solemn  [péng]
+稳	穩	wěn	(稳定 wěndìng) stable, steady; 稳当 wěndang reliable
+奋	奮	fèn	奋斗 fèndòu struggle; 兴奋 xīngfèn excited  [kǎng]
+遗	遺	yí	遗传 yíchuán inherit; 遗憾 yíhàn regret  [wèi] give
+煤		méi	coal; 煤油 kerosene
+替		tì	in place of; (代替 dàitì) replace, substitute
+禁		jìn	(禁止 jìnzhǐ) prohibit  [jīn] endure; 不禁 can't resist
+姑		gū	姑娘 gūniang girl
+虑	慮	lǜ	(考虑 kǎolǜ) consider; 忧虑 yōulǜ worry about  [bì]
+延		yán	(延长 yáncháng) prolong
+遭		zāo	meet with disaster
+购	購	gòu	(购买 gòumǎi) purchase
+欲		yù	desire, wish; 欲望 yùwàng desire, lust
+骨		gǔ	(骨头 gǔtou) bone   [gū] 骨碌 gūlu roll  [gú]
+暴		bào	violent, sudden; 暴露 expose  [pù] (=曝)  [bó]
+穷	窮	qióng	poor; 无穷 wúqióng infinite
+纯	純	chún	(纯洁 chúnjié) pure; (单纯 dānchún) simple
+监	監	jiān	监狱 prison; 监督 supervise  [jiàn]
+震		zhèn	shake, shock; 地震 earthquake; ☳ ䷲ The Arousing  [shēn]
+亡		wáng	flee; lose; die  [wú]
+横	橫	héng	horizontal  [hèng] perverse  [guāng] [guàng] [huáng] [huàng]
+刀		dāo	knife  [diāo]
+尤		yóu	fault; outstanding; 尤其 yóuqí especially
+敌	敵	dí	(敌人 dírén) enemy; 敌军 enemy troops  [huá]
+谋	謀	móu	scheme; 阴谋 conspiracy
+测	測	cè	(测量 cèliáng) survey, measure; 观测 guāncè observe
+炮		pào	cannon; 炮弹 shell  [bāo] quick-fry  [páo] 炮制 concoct
+累		lèi	tired; work hard  [lěi] 积累 accumulate  [léi] (F纍)  [lǜ] [liè]
+荷		hé	lotus; 荷花 lotus flower  [hè] carry; load  [hē]
+予		yǔ	(予以 yǔyǐ, 给予 jǐyǔ) give, grant  [yú] (书) I  [zhù]
+逃		táo	(逃跑 táopǎo) escape, flee
+吴	吳	Wú	(surname)  [tūn]
+悄		qiāo	悄悄 qiāoqiāo quietly   [qiǎo] 悄声 qiǎoshēng quietly  [qiào]
+扩	擴	kuò	扩大 kuòdà enlarge, expand
+桌		zhuō	table; 一张桌子 one table
+损	損	sǔn	decrease; damage; ䷨; 损失 sǔnshī lose, loss
+隐	隱	yǐn	hidden; 隐约 yǐnyuē faint, indistinct
+鲁	魯	lǔ	(surname); (鲁莽 lǔmǎng) rude; dull
+赞		zàn	(F贊) 赞成 approve of; (F讚) 称赞 praise
+谷		gǔ	(山谷) valley; (F穀) (谷物) grain; 谷子 millet  [yù] [lù]
+健		jiàn	健康 jiànkāng health
+沿		yán	along; 沿海 yánhǎi coastal; 沿儿 yánr water's edge  [yǎn]
+典		diǎn	典型 diǎnxíng typical; 古典 classical; 词典 dictionary  [tiǎn]
+邦		bāng	城邦 chéngbāng city-state; 乌托邦 wūtuōbāng utopia
+豆		dòu	bean; 豆腐 dòufu tofu; 大豆 soybean; 豌豆 pea
+铜	銅	tóng	copper (Cu); 青铜 qīngtóng bronze
+卷		juǎn	roll; 春卷 spring roll (F捲)  [juàn] volume, book, exam paper  [quán] (=鬈)  [quān] [gǔn] [jùn]
+聚		jù	gather, get together; 核聚变 nuclear fusion
+吹		chuī	blow  [chuì]
+叹	嘆	tàn	sigh  [yǐ] [yòu]
+唐		táng	(surname); Tang Dynasty; (唐突 tángtū) rude
+幕		mù	curtain; act (of play); 屏幕 píngmù screen  [màn]
+隔		gé	separate, stand between; 隔壁 next door  [rǒng] [jī]
+吉		jí	lucky, auspicious
+努		nǔ	努力 nǔlì try hard
+诚	誠	chéng	(诚实) honest
+恩		ēn	kindness; 周恩来 Zhōu Ēnlái
+淡		dàn	thin, light; 淡蓝 ( = 浅蓝) light blue  [yàn] [tán]
+坦		tǎn	平坦 level; 坦然 calm; 坦克 tank
+悲		bēi	悲哀 grieved; 悲观 pessimistic; 悲剧 tragedy
+针	針	zhēn	needle; 方针 policy; 针刺 zhēncì acupuncture
+镜	鏡	jìng	(镜子) mirror; lens; 眼镜 yǎnjìng glasses
+凡		fán	ordinary; (凡是 fánshì) every; 非凡 extraordinary
+旗		qí	flag
+赏	賞	shǎng	reward; admire; 欣赏 xīnshǎng enjoy, appreciate
+返		fǎn	(返回 fǎnhuí) return, go back
+餐		cān	meal  [sūn]
+宜		yí	(适宜 shìyí) suitable  [yi] 便宜 piányi cheap
+寒		hán	(寒冷) cold
+雅		yǎ	文雅 wényǎ cultured, refined; 雅致 yǎzhi elegant  [yā] [yá]
+尖		jiān	point, tip; 尖锐 sharp
+甲		jiǎ	helmet; 1st 天干; 指甲 zhījia fingernail; 甲虫 beetle
+梦	夢	mèng	dream
+软	軟	ruǎn	soft; 软件 ruǎnjiàn software
+孔		kǒng	hole; 孔子 Kǒngzǐ Confucius; 面孔 miànkǒng face
+阴	陰	yīn	opposite of 阳 yáng; 阴沉, 阴天 cloudy; 阴暗 gloomy
+愈		yù	heal, get better; 愈…愈… (like 越 yuè)
+尺		chǐ	ruler; one-third of a meter; 英尺 foot  [chě] 工尺
+闹	鬧	nào	(热闹) noisy; 闹钟 alarm clock
+梁		liáng	bridge; roof beam; 桥梁 bridge; 脊梁骨 backbone
+巧		qiǎo	clever; coincidentally; 巧妙 qiǎomiào ingenious
+奶		nǎi	breasts; milk
+妹		mèi	(妹妹 mèimei) little sister; 姐妹 jiěmèi sisters
+促		cù	urge; urgent; 促进 cùjìn promote; 促使 cùshǐ impel, urge  [chuò]
+译	譯	yì	(翻译 fānyì) translate
+迅		xùn	迅速 xùnsù rapid, swift
+壮	壯	zhuàng	robust, magnificent; 壮丽 majestic; 壮族
+授		shòu	award, give; teach; 教授 jiàoshòu professor
+烦	煩	fán	be vexed; 麻烦 trouble, bother; 不耐烦 impatient
+偷		tōu	steal; 小偷 xiǎotōu thief
+勇		yǒng	勇敢 yǒnggǎn brave; 勇气 courage; 勇士 brave warrior
+惯	慣	guàn	be used to; 习惯 xíguàn be used to; habit; custom
+稿		gǎo	stalk of grain; draft, sketch; manuscript
+缓	緩	huǎn	(缓慢 huǎnmàn) slow
+刑		xíng	punishment
+纺	紡	fǎng	spin yarn; 纺织 spin and weave; 纺车 spinning wheel
+贸	貿	mào	贸易 màoyì trade
+触	觸	chù	touch; 接触 jiēchù get in touch; 触角 antenna
+伸		shēn	stretch
+丈		zhàng	(length:) 3 1/3 meters; 丈夫 zhàngfu husband
+仁		rén	benevolence, humanity
+幅		fú	width of cloth; size; (量): 一幅画 a picture  [bī]
+缩	縮	suō	shrink
+袖		xiù	(袖子) sleeve; 领袖 leader; 袖珍 pocket-sized
+俗		sú	common, rustic, vulgar; custom; 俗话 proverb, saying
+妙		miào	wonderful; subtle; 莫名其妙  [miǎo]		
+繁		fán	numerous; 繁殖 fánzhí breed; 繁荣 flourishing; 繁体字  [pán] [pó]		
+迹	跡	jì	(痕迹 hénjì) mark, trace, vestige; 奇迹 qíjì miracle  [jī]		
+网	網	wǎng	net; 网球 wǎngqiú tennis		
+辆	輛	liàng	车辆 car; 三辆车 three cars		
+磨		mó	rub, wear down  [mò] mill, grind(stone)		
+培		péi	培养 foster, train, develop; 培育 cultivate, breed  [pǒu] [pī]		
+徐		xú	slowly, gently; (surname)		
+粉		fěn	powder; 洗衣粉 laundry detergent; 粉红色 pink		
+夺	奪	duó	force one's way; 夺取 seize, capture; 争夺 fight for		
+矿	礦	kuàng	(矿石) ore; (矿山) mine; 矿物 mineral		
+乘		chéng	ride (a vehicle); multiply   [shèng] chariot		
+灭	滅	miè	extinguish; 消灭 eliminate; perish; 歼灭 annihilate		
+喊		hǎn	(喊叫,呼喊,叫喊) shout, cry out  [kàn] [jiān]		
+挑		tiāo	(挑选) choose  [tiǎo] poke; 挑战 challenge  [tāo] [táo] [diào] [tiáo] [tiao]		
+售		shòu	sell; 售货 sell goods  [shú]		
+川		chuān	river; 四川省 Sichuan Province; 冰川 glacier		
+秀		xiù	优秀 yōuxiù excellent; 秀才 xiùcai scholar		
+币	幣	bì	money, currency; 硬币 coin; 人民币 rénmínbì RMB.  [yìn]		
+劲	勁	jìn	strength, energy, spirit   [jìng] 强劲		
+欣		xīn	欣赏 xīnshǎng enjoy		
+倾	傾	qīng	lean; 倾向 tendency, prefer; 倾斜 slant		
+赵	趙	Zhào	(surname)		
+贴	貼	tiē	stick, paste, glue; stay close to		
+讯	訊	xùn	interrogate; 通讯 tōngxùn news report		
+徒		tú	on foot; follower; 徒弟 apprentice; 匪徒 gangster		
+杯		bēi	cup; 干杯 gānbēi cheers		
+奔		bēn	run fast; flee  [bèn] go straight towards  [fèn]		
+刺		cì	thorn; prick, stab; irritate; (刺杀) assassinate  [cī] wham  [qì]		
+爆		bào	(爆炸 bàozhà) explode; 爆发 erupt; 爆竹 firecracker  [bó]		
+盾		dùn	shield; 矛盾 máodùn contradiction ("spear-shield")  [shǔn] [yǔn]		
+珠		zhū	(珠子 zhūzi) pearl; bead; 眼珠子 eyeball; 泪珠 teardrop		
+闪	閃	shǎn	(闪开) get out of the way; flash; 闪电 lightning		
+操		cāo	conduct; grasp; 操纵 cāozòng operate  [cào]		
+废	廢	fèi	waste		
+捕		bǔ	catch; 逮捕 dàibǔ arrest		
+闲	閑	xián	idle; free time; 闲话 digression; complaint		
+滚	滾	gǔn	roll; boil		
+塞		sāi	fill in, stuff; cork  [sè] 堵塞 block up  [sài]		
+狂		kuáng	(疯狂 fēngkuáng) crazy  [jué]		
+蒙		méng	to cover; ䷃; ignorant  [mēng] cheat  [Měng] 蒙古		
+籍		jí	book; registry; native place; membership; 国籍 nationality  [jiè]		
+旋		xuán	spin; 旋转 xuánzhuǎn rotate  [xuàn] whirl; lathe		
+弃	棄	qì	(放弃 fàngqì, 抛弃 pāoqì) abandon, give up		
+兄		xiōng	(elder) brother; 兄弟 xiōngdì brothers  [kuàng]		
+辉	輝	huī	shine; 光辉 radiance, glory; 辉煌 -huáng brilliant		
+荡	蕩	dàng	swing, sway; loaf about; 扫荡 wipe out; 震荡 shake [tāng]		
+朱		zhū	vermilion, bright red  [shū]		
+腿		tuǐ	leg; 腿脚 ability to walk; 腿腕子 ankle; 大腿 thigh		
+颇	頗	pō	quite, rather		
+厅	廳	tīng	hall; 餐厅 cāntīng dining room		
+奥	奧	ào	奥秘 àomì secret, mystery; 奥妙 àomiào profound, secret  [yù] [yōu]		
+敬		jìng	(尊敬 zūnjìng) respect		
+跃	躍	yuè	leap		
+凭	憑	píng	lean on; based on; no matter ( = 不论)		
+泥		ní	mud; 泥土 soil   [nì] putty  [nǐ] [niè] [nìng]		
+滑		huá	slip, slide; smooth, slippery; 滑冰 ice-skate  [gǔ]		
+婆		pó	old lady; 老婆 wife		
+抵		dǐ	support; (抵抗 dǐkàng) resist  [zhǐ] [qí]		
+蛋		dàn	egg; 鸡蛋 chicken egg; 蛋白质 protein		
+闭	閉	bì	shut		
+宇		yǔ	宇宙 yǔzhòu cosmos; 庙宇 miàoyǔ temple		
+矛		máo	spear; 矛盾 máodùn contradiction ("spear-shield")		
+残	殘	cán	injure; barbarous; incomplete; remnant		
+雷		léi	thunder; 雷雨 thunderstorm; 雷达 radar  [lèi]		
+竞	競	jìng	竞争 jìngzhēng compete; 竞赛 contest		
+箱		xiāng	box		
+戴		dài	put on; 戴眼镜; 戴上帽子		
+袋		dài	bag, pocket		
+析		xī	分析 fēnxī analyse  [sī]		
+铺	鋪	pū	spread, unfold; pave  [pù] shop, store; plank bed; 卧铺		
+冒		mào	emit; risk; pretend to be; 感冒 catch a cold  [mò]		
+侧	側	cè	side  [zhāi] 侧歪 zhāiwai slant		
+咱		zán	(咱们 zánmen) we     [zan] (from 早晚 zǎowǎn)  [zá] [zǎ]		
+啦		la	(like 了 le plus 啊 a)   [lā]  [lá]		
+援		yuán	hold; help; 支援 support; 援助 help  [huàn]		
+库	庫	kù	warehouse; 数据库 database		
+乃		nǎi	be; so; only then; you  [ǎi]		
+俄		é	very soon; suddenly; 俄语 Éyǔ Russian (language)		
+净	凈	jìng	clean, complete; only; 干净 gānjìng clean  [chēng]		
+俩	倆	liǎ	two, both; 我们俩 the two of us  [liǎng] 伎俩 trick		
+殊		shū	特殊 tèshū special, particular		
+惜		xī	(珍惜) cherish; 可惜 it's too bad; 不惜 not hesitate		
+灰		huī	dust; grey		
+插		chā	insert, stick in; 插头 plug  [zhǎ]		
+彻	徹	chè	彻底 thorough; 贯彻 carry out, implement		
+仿		fǎng	仿佛 seem; 模仿 imitate, copy; 仿造 copy  [páng]		
+虚	虛	xū	empty, void; 谦虚 modest; 虚心 open-minded; 空虚 hollow		
+舒		shū	stretch; 舒服 shūfu comfortable; 舒畅 shūchàng carefree  [yù]		
+拜		bài	honor, worship; 礼拜 lǐbài week   [bái] 拜拜 bye-bye		
+舍		shè	宿舍 sùshè dormitory  [shě] (F捨) give up, abandon; 舍不得  [shì]		
+蓝	藍	lán	(蓝色) blue		
+贫	貧	pín	(贫苦, 贫穷) poor		
+汗		hàn	(汗水 hànshuǐ) sweat, perspiration    [hán] 可汗 kèhán  [gān]		
+拥	擁	yōng	embrace; crowd; 拥护 support; 拥挤 crowded		
+哲		zhé	哲学 zhéxué philosophy		
+绩	績	jì	成绩 grade, achievement; 功绩 merits & achievements		
+伍		wǔ	five (same as 五); (surname); 队伍 duìwǔ troops		
+腐		fǔ	rotten; 豆腐 tofu; 腐蚀 corrode; 腐败 corrupt		
+罢	罷	bà	stop; 罢工 strike; 罢了 bàle that's all  [pí] (=疲)		
+鬼		guǐ	ghost; (魔鬼 móguǐ) devil; 鬼子 guǐzi foreign devil		
+仪	儀	yí	(仪表) appearance; (仪器) instrument		
+恨		hèn	hate		
+域		yù	(math:) field; 领域 territory; 流域 valley; 区域 region		
+豪		háo	not at all		
+颜	顏	yán	颜色 yánsè color; 颜面 yánmiàn face		
+猪	豬	zhū	pig; 猪年 12th year		
+伦	倫	lún	伦理 lúnlǐ ethics		
+瓶		píng	(瓶子 píngzi) bottle		
+旦		dàn	(书) dawn; 一旦 in one day; once; 元旦 New Year's Day		
+拖		tuō	pull, drag; procrastinate  [chǐ]		
+械		xiè	机械 jīxiè mechanical; 器械 qìxiè apparatus		
+辛		xīn	8th 天干; suffering; 辛苦 xīnkǔ work hard		
+涉		shè	wade, ford; go through; involve; 干涉 gānshè interfere  [dié]		
+锋	鋒	fēng	锋利 sharp; 冲锋 charge, assault; 先锋 vanguard		
+启	啟	qǐ	open; start; enlighten; 启发 arouse, inspire		
+呆		dāi	stupid; stay; 呆板 dāibǎn stiff  [ái] 呆板 áibǎn stiff  [bǎo]		
+尊		zūn	(尊重, 尊敬) respect		
+智		zhì	智慧 zhìhuì wisdom; 智力 zhìlì intellegence		
+碗		wǎn	bowl		
+络	絡	luò	net; twine     (also [lào])		
+距		jù	(距离 jùlí) distance		
+疗	療	liáo	treat, cure; 疗法 therapy		
+碎		suì	smash to pieces		
+尾		wěi	(尾巴 wěiba) tail  [yǐ] 后尾		
+租		zū	rent; 出租汽车 chūzūqìchē taxi  [jū]		
+堆		duī	pile, heap   [zuī] 归里包堆		
+鞋		xié	shoe  [wā]		
+泛		fàn	flood; 广泛 wide, extensive; 泛滥 fànlàn overflow  [fěng] [fá]		
+凉	涼	liáng	cool, cold    [liàng] make cool		
+染		rǎn	to dye; catch (disease); 染料 dye; 污染 pollution		
+瑞		ruì	auspicious, good omen; 瑞雪 timely snow		
+贯	貫	guàn	贯彻 guànchè carry out; 一贯 consistent		
+琴		qín	musical instrument; 钢琴 piano; 小提琴 violin		
+珍		zhēn	(珍宝) treasure: 珍珠 pearl; 珍贵 precious		
+胆	膽	dǎn	guts  [tán] [tǎn] [dá]		
+毁	毀	huǐ	destroy; 毁灭 huǐmiè exterminate  [huì]		
+胸		xiōng	(胸膛, 胸脯) chest; (胸怀) heart, mind		
+摄	攝	shè	absorb; photograph; 拍摄 take a picture		
+违	違	wéi	违反, 违背 violate; 违法 break the law		
+龄	齡	líng	(年龄) age; duration		
+纽	紐	niǔ	纽扣儿 niǔkòur button; knob, handle; tie		
+扎		zhā	prick  [zhá] 挣扎 zhēngzhá struggle  [zā] 包扎  [zhǎ]		
+腰		yāo	waist		
+阻		zǔ	block; 阻止 zǔzhǐ prevent; 电阻 diànzǔ resistance  [zhù]		
+摸		mō	feel, stroke; 摸索 mōsuo grope; 捉摸 zhuōmō fathom  [mó]		
+缘	緣	yuán	缘故 cause, reason; 边缘 edge; 绝缘 insulate		
+辩	辯	biàn	(辩论 biànlùn) debate, argue; 辩证 diagnosis		
+邮	郵	yóu	邮局 yóujú post office; 邮票 yóupiào stamp		
+枝		zhī	branch  [qí] (=歧)		
+炸		zhà	(爆炸 bàozhà) explode, blow up  [zhá] deep fry		
+浓	濃	nóng	dense, thick, concentrated; 浓度 consistency		
+昏		hūn	dusk; dark; to faint  [hùn]		
+忆	憶	yì	(记忆 jìyì, 回忆 huíyì) remember, recall; memory		
+锅	鍋	guō	pot; wok, frying pan; 锅贴 guōtiē pot sticker		
+飘	飄	piāo	float in the air, flutter; 飘扬 flutter, wave		
+剩		shèng	be left over, remain; (剩余 shèngyú) surplus		
+稍		shāo	(稍稍, 稍微) a little, a bit, slightly  [shào] 稍息		
+肥		féi	(肥胖) fat; fertile; (肥料) fertilizer; 肥皂 féizào soap  [bǐ]		
+洞		dòng	hole, cave  [tóng]		
+皆		jiē	all (bookish)		
+糊		hú	paste; 糊涂 hútu muddled    [hū] plaster  [hù] paste		
+糖		táng	sugar; (糖果 tángguǒ) candy; 糖醋 tángcù sweet & sour		
+伴		bàn	accompany; 伙伴, 同伴 companion  [pàn]		
+裁		cái	cut cloth or paper; reduce; decide; sanction		
+址		zhǐ	地址 dìzhǐ address		
+揭		jiē	uncover  [qì] [hé]		
+艰	艱	jiān	艰苦 jiānkǔ arduous, 艰难 jiānnán difficult		
+捐		juān	contribute; relinquish; tax  [yuán]		
+询	詢	xún	询问 xúnwèn ask about, inquire		
+丹		dān	cinnabar; red; 丹田 dāntián pubic region		
+悉		xī	熟悉 shúxī know well, be familiar with		
+津		jīn	(ferry crossing; saliva); 津津有味 with pleasure		
+宪	憲	xiàn	宪法 xiànfǎ constitution; 宪兵 military police  [xiòng]		
+涌		yǒng	gush; 汹涌 xiōngyǒng turbulent  [chōng]		
+恰		qià	(恰当 qiàdàng) appropriate, suitable; 恰好 just right		
+竹		zhú	bamboo		
+核		hé	pit; nucleus; 核桃 hétao walnut   [hú] 核儿 húr (口) pit  [gāi] [kài]		
+挺		tǐng	quite, very; endure, stand; 挺立 stand upright  [tíng]		
+径	徑	jìng	path, way; (直径 zhíjìng) diameter; 途径 through		
+措		cuò	措施 cuòshī measure, step  [zé] [cì]		
+甘		gān	sweet; 甘蔗 gānzhe sugarcane; 甘肃 Gānsù  [hān]		
+薄		báo	thin  [bó] slight; 薄弱 weak  [bò] 薄荷 peppermint  [bù]		
+粒		lì	grain, granule; 粒子 lìzǐ particle (physics)		
+宾	賓	bīn	guest; 宾馆 bīnguǎn hotel		
+扫	掃	sǎo	sweep; 打扫 clean up  [sào] 扫帚 broom		
+粗		cū	thick, rough, coarse		
+符		fú	符合 fúhé conform to; 符号 fúhào mark, symbol		
+胞		bāo	细胞 xìbāo cell  [páo] [pào]		
+斤		jīn	half a kilogram; 公斤 gōngjīn kilogram		
+漫		màn	overflow; 漫长 endless; 浪漫 romantic		
+拼		pīn	(拼凑 pīncòu) piece together; 拼音 pīnyīn; 拼写  [bìng]		
+诸	諸	zhū	all, various; (surname)		
+辑	輯	jí	编辑 biānjí edit; 逻辑 luójí logic		
+颗	顆	kē	measure word for small round things: 珠子, etc.		
+乏		fá	(缺乏quēfá) lack; 疲乏 pífá tired; 贫乏 pínfá poor		
+碰		pèng	bump into; 碰见 happen to meet		
+裂		liè	split, crack: 分裂 fission  [liě]		
+描		miáo	trace; touch up; 描写 miáoxiě describe  [mào]		
+梅		méi	plum, prune; 梅花 plum blossom; 梅林 plum grove		
+湿	濕	shī	moist		
+昨		zuó	(昨天 zuótiān) yesterday; 昨晚 zuówǎn yesterday evening		
+匆		cōng	匆匆 cōngcōng, 匆忙 cōngmáng in a hurry		
+灾	災	zāi	(灾难 zāinàn, 灾害 zāihài) disaster		
+焦		jiāo	burnt; (焦炭) coke; 焦急 jiāojí anxious; 焦点 focus  [qiáo]		
+植		zhí	to plant; 植物 zhíwù plant		
+拒		jù	resist; (拒绝 jùjué) refuse  [jǔ]		
+犹	猶	yóu	still, yet; 犹豫 yóuyù hesitate; 犹如 yóurú as if  [yòu]		
+韩	韓	Hán	(surname); (old name for Korea)		
+峰		fēng	mountain peak		
+炼	煉	liàn	smelt, refine; temper metal; 锻炼 exercise		
+绪	緒	xù	情绪 qíngxù mood, depression; 头绪 lead, clue		
+叔		shū	(叔叔 shūshu) uncle		
+黎		lí	mulititude; (surname); 黎明 límíng daybreak		
+届	屆	jiè	(measure word for regular sessions)		
+耐		nài	be able to endure; 有耐心 patient; 不耐烦 impatient  [néng]		
+虎		hǔ	(老虎 lǎohǔ) tiger   [hū] 马马虎虎   [hù] 虎不拉		
+挤	擠	jǐ	squeeze; crowd; push, jostle; 拥挤 yōngjǐ crowded		
+璃		lí	玻璃 bōli glass; 琉璃 liúlí colored glaze		
+仰		yǎng	face upward; 信仰 xìnyǎng (religious) faith  [áng]		
+液		yè	(液体 yètǐ) liquid  [shì]		
+暖		nuǎn	(温暖 wēnnuǎn) warm; 暖和 nuǎnhuo nice and warm  [xuān]		
+障		zhàng	障碍 zhàng'ài obstruct; 保障 bǎozhàng ensure  [zhāng]		
+贝	貝	bèi	shellfish; cowrie; (money); 贝壳 bèiké shell		
+荒		huāng	desolate; wasteland; famine; 荒谬 huāngmiù absurd  [huǎng] [kāng] [huáng]		
+鼻		bí	(鼻子 bízi) nose; 鼻孔 bíkǒng nostril		
+汤	湯	tāng	hot water, soup  [shāng] 汤汤		
+阅	閱	yuè	experience, pass through; review; (阅读 yuèdú) read		
+棉		mián	cotton		
+酸		suān	sour; acid		
+骂	罵	mà	curse; 妈妈骂马吗? Does mama curse the horse?		
+壁		bì	wall, cliff; 墙壁 qiángbì wall (la pared)		
+剂	劑	jì	dose		
+塔		tǎ	pagoda, tower   [dā] 泥圪塔; 树圪塔		
+宫	宮	gōng	palace; temple; (surname); 子宫 zǐgōng womb		
+侵		qīn	(侵略 qīnlüè, 侵入) invade  [qǐn]		
+恢		huī	恢复 huīfù recover, restore		
+萨	薩	sà	菩萨 púsà bodhisattva, benevolent being; (surname)		
+晓	曉	xiǎo	dawn; (晓得 xiǎode) know		
+坡		pō	slope, hillside; 坡度 pōdù slope, gradient		
+洁	潔	jié	纯洁 chúnjié pure; 洁白 pure white; 清洁 clean  [jí]		
+纵	縱	zòng	longitudinally; 操纵 operate; 纵对 column, file		
+冠		guān	hat, crown  [guàn] first place; 冠军 guànjūn champion		
+估		gū	估计 gūjì estimate, guess   [gù] 估衣 gùyi		
+允		yǔn	允许 yǔnxǔ permit, allow  [yuán]		
+融		róng	(融化) melt (ice or snow; cf 熔 róng)		
+祝		zhù	express good wishes; 庆祝 qìngzhù celebrate; 祝贺 congrat.  [zhòu] [chù]		
+肚		dù	(肚子 dùzi) stomach      [dǔ] tripe		
+蒋	蔣	Jiǎng	(surname)		
+丢	丟	diū	lose, misplace		
+贡	貢	gòng	贡献 gòngxiàn contribute		
+振		zhèn	shake, stimulate; 振动 vibration; 振奋 inspire  [zhēn] [zhěn]		
+详	詳	xiáng	详细 detailed; 端详 details; 安详 serene		
+宿		sù	stay overnight  [xiǔ] 住一宿 stay one night  [xiù] [qī]		
+兼		jiān	double; simultaneously: 兼容 compatible		
+彼		bǐ	彼此 bǐcǐ each other		
+杰	傑	jié	杰出 outstanding; 杰作 masterpiece		
+栏	欄	lán	fence, railing		
+塑		sù	mould; 塑料 plastic; 塑像 statue		
+辈	輩	bèi	generation; 先辈 older generation, ancestors		
+肃	肅	sù	严肃 serious, solemn; 肃清 eliminate		
+忠		zhōng	faithful		
+频	頻	pín	频率 pínlǜ frequency		
+励	勵	lì	鼓励 gǔlì, 激励 jīlì encourage; 奖励 reward		
+邀		yāo	(邀请 yāoqǐng) invite		
+哀		āi	grief; 悲哀 sorrowful; 哀求 entreat		
+抢	搶	qiǎng	rob; snatch; scrape     [qiāng] 呼天抢地		
+孤		gū	alone; 孤儿 orphan; 孤立 isolated; 孤独 lonely		
+驶	駛	shǐ	(驾驶 jiàshǐ) drive		
+拨	撥	bō	poke, turn, stir; 拨钟 set a clock; 拨电话 dial a phone		
+怒		nù	anger, rage		
+森		sēn	森林 sēnlín forest		
+陪		péi	(陪同 péitóng) accompany; 陪嫁 péijià dowry		
+耀		yào	照耀 zhàoyào shine; 闪耀 shǎnyào dazzle; 炫耀 xuànyào show off		
+陷		xiàn	pit, trap; cave in; 陷入 sink/fall into		
+郭		guō	outer wall of city; (surname)  [guó]		
+邻	鄰	lín	(邻居 línjū) neighbor		
+洛		Luò	name of a river in 河南 and 陕西		
+井		jǐng	(water) well; ䷯  [jìng]		
+惠		huì	恩惠 ēnhuì favor, kindness; 贤惠 xiánhuì virtuous (女)		
+迟	遲	chí	tardy; 迟到 arrive late; 迟疑 hesitate; 推迟 put off  [zhì]		
+勒		lēi	tie or strap tightly  [lè] 勒索 lèsuǒ  [lei]		
+佳		jiā	good, beautiful		
+氏		shì	family name, surname; 氏族 shìzú clan  [zhī] 阏氏  [jīng]		
+稀		xī	scarce; watery; 稀饭 gruel		
+撞		zhuàng	collide, run into		
+泡		pào	soak; bubble; 泡菜 pickle; 泡沫 foam   [pāo] spongy  [páo]		
+渡		dù	cross (river, etc); 渡船 ferry		
+搬		bān	move; 搬家 move house  [sù]		
+漂		piāo	float  [piào] 漂亮 beautiful  [piǎo] 漂白 bleach  [biāo]		
+腾	騰	téng	jump, gallop; vacate; 沸腾 boiling  [tēng] thump		
+暂	暫	zàn	(暂时) temporary		
+郑	鄭	zhèng	(surname); 郑重 zhèngzhòng serious, solemn		
+抬		tái	lift; carry  [chī]		
+饱	飽	bǎo	full (after meal)		
+柔		róu	yielding; 柔软 róuruǎn soft; 柔和 róuhe gentle		
+滴		dī	drip, drop		
+猛		měng	fierce		
+杜		dù	(surname); 杜鹃 cuckoo; azalea; 杜绝 stop  [dǔ] [tú]		
+阔	闊	kuò	wide; 广阔 vast; 宽阔 broad; 辽阔 extensive		
+池		chí	(池塘 chítáng) pool; 游泳池 swimming pool; 电池 battery  [tuó] [chè]
+浮		fú	float
+寸		cùn	inch  [cǔn]
+伏		fú	bend over; subside; 伏天 hot summer days; 起伏 rise & fall  [fù]
+澳		ào	bay, inlet (used in place names); 澳门 Aomen; 澳大利亚  [yù]
+饮	飲	yǐn	drink    [yìn] give animals water to drink
+吨	噸	dūn	ton (from English)  [tún] [tǔn]
+慰		wèi	安慰 comfort, console; 慰问 express sympathy for
+幻		huàn	unreal, imaginary, magical; 科幻小说 science fiction
+幼		yòu	young; children; 幼稚 yòuzhì childish; 幼儿 child  [yào]
+递	遞	dì	hand over, pass, give; 递交 present, submit
+污		wū	foul; 污染 wūrǎn pollution
+爹		diē	dad; 爹爹 diēdie daddy
+吓	嚇	xià	frighten, scare  [hè] (恐吓) threaten; (interj.)  [hà]
+赤		chì	red; bare; 赤道 chìdào equator; 赤脚 chìjiǎo barefoot
+页	頁	yè	page
+寂		jì	寂寞 jìmò lonely; 寂静 quiet (place); 沉寂 quiet
+祥		xiáng	(吉祥 jíxiáng) auspicious; 慈祥 cíxiáng kindly
+纲	綱	gāng	fishing net rope; guiding principle; 纲领 program
+肩		jiān	(肩膀 jiānbǎng) shoulder; (肩负 jiānfù) take on  [xián]
+驻	駐	zhù	stay, halt; be stationed
+晶		jīng	bright; 水晶 crystal; 晶体管 transistor; 晶营 sparkling
+聪	聰	cōng	聪明 cōngming clever, intelligent, bright
+苍	蒼	cāng	dark green or blue (苍天, 苍松); 苍蝇 fly; 苍白 pale
+垂		chuí	hang down, droop; 垂直 chúizhí vertical, perpendicular  [zhuì]
+巩	鞏	gǒng	巩固 gǒnggù consolidate
+喷	噴	pēn	spurt; spray; 打喷嚏 sneeze   [pèn] in season
+偶		ǒu	(偶然 ǒurán) by chance; even number (cf. 奇 jī odd)
+宋		Sòng	the Song dynasty (960-1279); 宋体字 Song typeface
+屈		qū	bend; submit; injustice; 屈服 yield; 委屈 feel wronged  [jué] [què] [jú]
+姻		yīn	marriage; 婚姻 hūnyīn marriage; in-law
+摩		mó	按摩 ànmó massage; 摩擦 mócā rub; friction  [mā] 摩挲 māsa gently stroke  [mí]
+磁		cí	magnetism; 磁铁 cítiě magnet; 磁带 cídài (magnetic) tape
+筹	籌	chóu	chip, counter; prepare, plan
+润	潤	rùn	湿润 moist; 利润 profit; 润滑 lubricate
+烂	爛	làn	messy; 灿烂 cànlàn splendid  [lān]
+骑	騎	qí	ride (horse/bike)   [jì] 乘骑 chéngjì saddle horse; rider
+搭		dā	put up; hang over; lift together  [dá] [tà]
+狱	獄	yù	lawsuit; (监狱 jiānyù) prison, jail
+昌		chāng	prosperous  [chàng]
+乌	烏	wū	(乌鸦) crow; (乌黑) black; 乌龟 tortoise  [wù]
+泰		tài	䷊ Peace; 泰国 Thailand; 泰山
+拔		bá	raise, pull; 提拔 promote; 海拔 elevation  [bō] [bié] [fá] [bèi]
+割		gē	cut; 收割 shōugē to harvest
+瓜		guā	melon, gourd; 西瓜 watermelon; 傻瓜 idiot; 黄瓜 cucumber
+诞	誕	dàn	诞生 dànshēng be born; 圣诞节 Christmas
+躲		duǒ	hide (oneself), avoid, dodge
+浅	淺	qiǎn	shallow; light
+衡		héng	衡量 héngliang weigh, measure, judge
+诺	諾	nuò	诺言 nuòyán a promise
+钻	鑽	zuān	drill; get into; study  [zuàn] drill (noun)
+柴		chái	firewood; 火柴 huǒchái match; 柴油 cháiyóu diesel oil  [cī] [zhài] [zì]
+综	綜	zōng	综合 zōnghé synthesize   [zèng] heddle
+渔	漁	yú	to fish; 渔民 fisherfolk; 渔业 fishery
+玻		bō	玻璃 bōli glass
+凝		níng	混凝土 concrete; 凝视 stare; 凝固 solidify
+曼		màn	prolonged; graceful
+怜	憐	lián	可怜 kělián poor, pitiful  [líng] [lǐng]
+朗		lǎng	爽朗 shuǎnglǎng, 明朗 bright & clear; 朗诵 recite
+潜	潛	qián	潜水艇 submarine; 潜力 latent ability
+扣		kòu	button up; 纽扣儿 niǔkòur button; 扣子 kòuzi knot, button
+键	鍵	jiàn	key; 键盘 jiànpán keyboard (piano or typewriter)
+储	儲	chǔ	储量 chǔliàng reserves; 存储 cúnchǔ memory
+踏		tà	step on; (also used for 蹋 in 糟蹋 zāota 'waste') [tā] (=塌)
+勤		qín	(勤劳 qínláo) diligent, hardworking  [qí]
+鸟	鳥	niǎo	bird   [diǎo] (=屌)
+截		jié	cut, stop; section, length; 半截 half a section
+摘		zhāi	pick; take off; select
+辞	辭	cí	take leave; diction, poetry, language
+愤	憤	fèn	(气愤, 愤怒) angry
+裤	褲	kù	(裤子) pants
+患		huàn	worry; anxiety; disaster; 患病 fall ill
+饰	飾	shì	decoration; dress up; impersonate
+臣		chén	subject; (大臣 dàchén) minister
+撤		chè	remove; withdraw
+欠		qiàn	owe; 哈欠 hāqiàn yawn
+敏		mǐn	敏捷 mǐnjié agile; 敏感 sensitive; 敏锐 acute
+涂	塗	tú	spread on; 涂料 coating  [tu] 糊涂 hútu muddled  [tū] 糊里八涂  [chú] [yé]
+番		fān	(measure word); 番茄 fānqié tomato  [Pān] 番禺  [fán] [bō] [pó] [pán] [pàn] [pí]
+赴		fù	go to, attend
+罚	罰	fá	(惩罚 chéngfá) punish; (罚款 fákuǎn) fine
+陶		táo	pottery; 陶瓷 táocí ceramics  [yáo] [dào]
+洪		hóng	(洪水) flood; vast; (surname); 洪亮 magnanimity
+涨	漲	zhǎng	rise, go up  [zhàng] swell
+爬		pá	crawl; climb  [pā] 矮爬爬
+帐	帳	zhàng	curtain; 蚊帐 mosquito net; 帐篷 tent; account
+鸣	鳴	míng	cry of birds, animals, insects; ring, sound; express
+亏	虧	kuī	lose (money); 吃亏; treat unfairly; 幸亏 fortunately  [yú]
+朵		duǒ	朵儿 flower; (量): 一朵花; 一朵云  [duo] 耳朵 ear
+牲		shēng	牺牲 xīshēng sacrifice; 牲口 beasts of burden
+夹	夾	jiā	press, squeeze; clip  [jiá] lined (clothing)  [gā]
+瓦		wǎ	tile; (瓦特 wǎtè) Watt   [wà] to tile a roof  [wā]
+疾		jí	(疾病 jíbìng) illness; 疾苦 jíkǔ hardship
+盐	鹽	yán	salt
+盟		méng	(联盟 liánméng) alliance, pact  [míng] 盟誓  [mèng]
+剑	劍	jiàn	sword; 宝剑 bǎojiàn double-edged sword
+逢		féng	meet  [péng] [páng]
+悟		wù	realize; 觉悟 consciousness; 孙悟空
+隆		lóng	隆重 lóngzhòng grand; 隆起 lóngqǐ swell  [lōng]
+貌		mào	(面貌) appearance; 礼貌 polite  [mò]
+敲		qiāo	knock; strike; 敲门 (door); 敲锣 (gong)
+甜		tián	sweet; 甜菜 tiáncài beet
+遵		zūn	obey; 遵守 comply with; 遵照 obey, conform to
+挣	掙	zhèng	struggle; earn  [zhēng] 挣扎 zhēngzhá struggle
+灌		guàn	pour; 灌溉 guàngài irrigate; 灌木 guànmù bush  [huàn]
+趋	趨	qū	walk fast, hurry; (趋向) tend, incline to; 趋势 tendency
+闷	悶	mēn	stuffy  [mèn] bored, depressed
+撒		sā	cast, let go  [sǎ] scatter, sprinkle
+郎		láng	新郎 bridegroom; (surname)  [làng] 屎壳郎
+赖	賴	lài	rely; hang around; blame falsely; deny error
+躺		tǎng	lie down  [tàng]
+牵	牽	qiān	lead along (by hand, halter, etc.); 牵牛下地
+崇		chóng	worship; high, sublime
+棋		qí	board game; 象棋 chess; 围棋 Go; 跳棋 Checkers  [jī]
+脉	脈	mài	vein; pulse; 山脉 mountain range  [mò] 脉脉 mòmò lovingly
+脏		zāng	(F髒) dirty  [zàng] (F臟) 心脏 heart
+仔		zǐ	仔细 zǐxì careful   [zǎi] young animal   [zī] 仔肩
+厉	厲	lì	厉害 terrible; formidable  [lài] (name of ancient country)
+曰		yuē	say
+茫		máng	茫茫 vast, boundless & indistinct  [huǎng]
+寿	壽	shòu	longevity; 寿命 shòumìng life-span
+誉	譽	yù	praise; 荣誉 róngyù honor; 名誉 míngyù fame
+乔	喬	qiáo	(surname); 乔木 qiáomù arbor
+泉		quán	spring; (喷泉 pēnquán) fountain; 源泉 yuánquán source
+锁	鎖	suǒ	lock
+刷		shuā	brush, to brush, to paint, swish    [shuà]
+帽		mào	(帽子 màozi) hat
+桂		guì	laurel (bay) tree; 桂林 Guìlín
+弯	彎	wān	curve, bend
+傲		ào	(骄傲 jiāo'ào) proud, arrogant  [áo]
+燃		rán	(燃烧 ránshāo) burn; 燃料 ránliào fuel
+纠	糾	jiū	纠正 jiūzhèng rectify; 纠缠 jiūchán get entangled
+贷	貸	dài	贷款 dàikuǎn lend; loan
+绕	繞	rào	wind, coil; move around; 围绕 surround
+耗		hào	(消耗,耗费) consume; 耗子 mouse, rat  [máo] [mào]
+赢	贏	yíng	win
+凶		xiōng	terrible; 凶恶 xiōng'è fiendish; 凶猛 ferocious
+串		chuàn	string together; bunch, cluster  [guàn] [quàn]
+锐	銳	ruì	尖锐 jiānruì sharp pointed, acute; 锐利 sharp, keen
+饿	餓	è	hungry
+驾	駕	jià	(驾驶 jiàshǐ) drive, fly, sail; 劳驾 láojià excuse me...
+牢		láo	firm, durable; (牢房 láofáng) prison; 牢固 láogù sturdy  [lào] [lóu]
+芬		fēn	fragrance; 芬芳 fēnfāng fragrant; 芬兰 Finland
+吐		tǔ	spit   [tù] (呕吐 ǒutù) vomit
+舅		jiù	舅舅 jiùjiu uncle (mother's brother)
+魔		mó	(恶魔 èmó, 魔鬼 móguǐ) demon; 魔术 móshù magic
+奉		fèng	accept; offer; 奉命 receive orders; 奉承 flatter
+峡	峽	xiá	(峡谷) gorge, canyon; 海峡 strait, channel; 三峡
+抛	拋	pāo	throw; 抛弃 abandon; 抛锚 drop anchor; 抛物线 parabola
+劫		jié	rob; disaster
+羊		yáng	sheep; 山羊 goat; 羊年 Year of the Sheep (8th year)
+盒		hé	(盒子 hézi) box  [ān]
+沟	溝	gōu	gulley; trench
+塘		táng	dike; 池塘, 水塘 pool
+窝	窩	wō	nest; 窝棚 wōpeng shack
+喂		wèi	hey, hello; (喂养) feed, raise
+洒		sǎ	(F灑) sprinkle  [xiǎn] 洒如; (F灑) 洒然  [xǐ] [sěn] [cuǐ] [xùn]
+乙		yǐ	2nd Heavenly Stem (天干: 甲乙丙丁戊…)  [yì] [jué]
+凯	凱	kǎi	凯歌 kǎigē song of triumph
+纹	紋	wén	lines, veins, (wood) grain
+惨	慘	cǎn	tragic; savage
+熊		xióng	bear; 熊猫 xióngmāo panda
+剥	剝	bāo	shell, peel  [bō] 剥削 bōxuē exploitation; ䷖  [pū]
+艾		ài	Chinese mugwort; 艾绒 àiróng moxa  [yì] 怨艾 yuànyì resentment
+摊	攤	tān	spread out; take a share in; vendor's stall; ...
+浩		hào	浩荡 hàodàng vast, mighty; 浩大 hàodà huge  [gǎo] [gé]
+眉		méi	eyelash; 眉头 brows; 眉毛 eyebrow; 眉目 looks
+疯	瘋	fēng	crazy
+辟		bì	monarch; 复辟   [pì] 开辟 open up, start  [mǐ]
+沈		Shěn	(surname); (F瀋) 沈阳 Shěnyáng; 墨沈未干  [chén] (=沉)  [tán]
+填		tián	fill, stuff; fill in (form)  [tiǎn] [chén] [zhèn]
+饼	餅	bǐng	cake; 饼干 cracker, cookie
+擦		cā	rub, wipe, scrape
+逼		bī	force, compel; close in on
+扭		niǔ	twist; turn around; seize; 别扭 bièniu awkward  [niū] 吱扭  [chǒu] [zhǒu] [zhòu]
+埋		mái	bury, cover up  [mán] 埋怨 mányuàn blame, complain
+轰	轟	hōng	BANG, BOOM! 轰轰烈烈 grand, spectacular
+劝	勸	quàn	advise
+咬		yǎo	bite; bark; pronounce  [jiāo] [yāo] [jiǎo]
+墨		mò	(墨水 mòshuǐ) ink; 墨子 Mòzǐ (a philosopher)  [mèi]
+尘	塵	chén	(灰尘 huīchén) dust
+唤	喚	huàn	(叫唤) call out
+胁	脅	xié	upper part of side of person's body; coerce
+鸿	鴻	hóng	(鸿雁 hóngyàn) swan, wild goose; vast
+丧	喪	sàng	丧失 forfeit  [sāng] 丧事 funeral arrangements
+厘	釐	lí	厘米 límǐ centimeter  [chán]
+炒		chǎo	stir fry, saute; 炒饭 fried rice; 炒面 chow mein
+瘦		shòu	thin, lean, frail, skinny
+悠		yōu	long, drawn-out, leisurely; 悠久 yōujiǔ age-old
+掩		yǎn	hide; sneak attack; 掩护 to shield; 掩盖 conceal  [yàn]
+债	債	zhài	debt
+吵		chǎo	make noise  [chāo] 吵吵 chāochao make noise  [miǎo] [chào]
+丑		chǒu	second 地支 Earthly Branch; (F醜) 丑陋 chǒulòu ugly
+悬	懸	xuán	hang; unresolved; worry; 悬崖 xuányá cliff
+狼		láng	wolf; 狼狈 lángbèi in a difficult position  [lǎng] [làng] [hǎng]
+滩	灘	tān	海滩 hǎitān beach
+傻		shǎ	stupid, idiotic; 傻子 shǎzi, 傻瓜 shǎguā idiot
+愁		chóu	worry  [qiǎo] [jiū]
+愉		yú	愉快 yúkuài delighted  [tōu] [yǔ]
+紫		zǐ	purple, violet
+鸭	鴨	yā	(鸭子 yāzi) duck; 唐老鸭 Donald Duck
+氛		fēn	气氛 qìfēn atmosphere
+姆		mǔ	nurse; 汤姆 Tāngmǔ Tom
+署		shǔ	署名, 签署 sign one's name; 部署 deploy
+胶	膠	jiāo	glue; gum; rubber; stick; sticky  [xiáo]
+脆		cuì	brittle, crisp; 干脆 simply; 清脆 clear; 脆弱 fragile
+臂		bì	(手臂 shǒubì) arm  [bei] 胳臂 gēbei arm
+姿		zī	appearance; gesture; (姿势 zīshì, 姿态 zītài) posture  [zì]
+扰	擾	rǎo	harass, bother, trouble; 扰乱 disturb  [yòu]
+循		xún	follow, abide by; 循环 xúnhuán circulate, cycle
+醉		zuì	drunk
+谊	誼	yì	友谊 yǒuyì friendship
+盼		pàn	(盼望 pànwàng) hope for, look forward to  [fén]
+碍	礙	ài	障碍 zhàng'ài get in the way; 妨碍 fáng'ài hinder
+册	冊	cè	book; 手册 shǒucè handbook; 地图册 dìtúcè atlas  [zhà]
+秒		miǎo	second (1/60th of a 分 minute)
+疲		pí	疲劳 píláo exhausted, fatigued; 疲倦 píjuàn tired
+聊		liáo	just; slightly; 无聊 wúliáo bored; silly; 聊天儿 chat  [liú]
+削		xuē	剥削 bōxuē to exploit  [xiāo] 切削 qiēxiāo cut  [qiào] [shào]
+贺	賀	hè	祝贺 congratulate; 庆贺 celebrate
+埃		āi	dust; angstrom; 埃及 Egypt  [zhì]
+瞧		qiáo	look
+纱	紗	shā	yarn; 绵纱 miánshā cotton yarn
+桃		táo	(桃子) peach; 桃花 peach blossom; 樱桃 yīngtáo cherry  [tiāo] [zhào]
+巡		xún	patrol; 巡视 xúnshì make a tour of inspection  [yán] [shùn]
+雾	霧	wù	fog; 烟雾 yānwù smoke, mist
+驱	驅	qū	驱逐 qūzhú drive out, expel
+吊		diào	hang; lift up, let down with rope; crane; mourn; revoke
+冻	凍	dòng	freeze
+岗	崗	gǎng	mound; sentry  [gāng] 花岗石 huāgāngshí granite  [gàng] 岗口
+腔		qiāng	cavity; tune, pitch; accent; speech  [kòng]
+勃		bó	suddenly; 勃勃 bóbó vigorous
+悔		huǐ	(后悔 hòuhuǐ) regret, repent
+骗	騙	piàn	(欺骗) deceive; cheat, swindle; 骗局 hoax; 骗子 swindler
+惧	懼	jù	fear, dread
+拾		shí	pick up from the ground; ten (=十); 收拾 put in order  [shè] [jiè]
+怨		yuàn	resentment; complain  [yùn]
+忧	憂	yōu	worry; grieve; 忧郁 yōuyù sad; 忧虑 worry about  [yòu]
+斜		xié	slanting; 斜边 hypoteneuse; 斜率 slope  [xiá] [chá] [yé]
+孟		mèng	eldest son; first month of season; (surname)
+扶		fú	support with the hand; help  [pú]
+岭	嶺	lǐng	(山岭) mountain range, ridge; 峻岭 jùnlǐng high mountains  [líng]
+挡	擋	dǎng	ward off, block; gear (of car)  [dàng] 摒挡
+啥		shá	(啥子 sházi) what ( = 什么)  [shà] (obsolete/dialect pronunciation)
+芳		fāng	perfume; (芳香) fragrant; 芳龄 woman's age
+狠		hěn	ruthless  [yán] [kěn] [hǎng]
+猫	貓	māo	cat; 熊猫 panda; 猫头鹰 owl   [máo] 猫腰  [miáo]
+披		pī	drape over one's shoulders; open
+疼		téng	sore, painful
+迁	遷	qiān	move; change; 变迁 biànqiān changes; 迁就 yield to
+炎		yán	(炎热) burning hot; (发炎) inflammation  [yàn] [tán]
+贪	貪	tān	corrupt; 贪心 greedy
+鉴	鑒	jiàn	鉴定 jiàndìng appraise; 借鉴 jièjiàn draw lessons from
+雇		gù	(雇佣 gùyōng) hire, employ; 雇主 employer; 雇员 employee  [hù]
+夸	誇	kuā	brag; 夸大 kuādà exaggerate  [kuà] [kuǎ]
+轨	軌	guǐ	track, rail; course, path; 轨道 orbit
+迪		dí	(书) enlighten, guide
+抑		yì	press down, restrain; 抑制 yìzhì restrain, inhibition
+迈	邁	mài	step, stride; old
+嘛		ma	[má] (particle)
+凤	鳳	fèng	male phoenix (fabulous bird of good omen)
+衰		shuāi	衰弱 weak, feeble; 衰老 decrepit; 衰退 fail, decline  [cuī] [suō]
+慧		huì	智慧 zhìhuì wisdom
+抄		chāo	copy; search & confiscate...; 抄写 transcribe  [suō] [chào] [chǎo]
+炉	爐	lú	(炉子 lúzi) stove, oven, furnace
+胀	脹	zhàng	(膨胀 péngzhàng) swell, expand
+胎		tāi	foetus; birth; (轮胎) tire (of a wheel)
+魂		hún	(灵魂 línghún) soul, spirit; mood
+偿	償	cháng	赔偿 compensate, pay for
+辽	遼	liáo	辽阔 liáokuò vast, extensive; 辽宁 Liáoníng
+哩		li	[lī] (used for sound)  [lǐ] (used for 英里)  [lì] [mái]
+梯		tī	(梯子 tīzi) ladder; (楼梯 lóutī) stairs  [tí]
+袭	襲	xí	make a surprise attack; carry on as before
+症		zhèng	disease; 健忘症 amnesia  [zhēng] (F癥) 症结
+晃		huàng	(摇晃 yáohuang) shake, sway   [huǎng] dazzle
+扑	撲	pū	pounce on; flap wings; 扑灭 extinguish; 扑克 Poker  [pì]
+缝	縫	féng	sew  [fèng] seam, crack
+添		tiān	add, increase  [tiàn]
+柳		liǔ	willow
+漠		mò	沙漠 shāmò desert; 漠然 mòrán apathetically
+衫		shān	(衬衫 chènshān) shirt
+笼	籠	lóng	(笼子) cage, coop  [lǒng] 笼罩 shroud, envelop
+酷		kù	残酷 cánkù cruel
+菌		jūn	fungus, bacterium; 细菌, 病菌 germ  [jùn] mushroom
+恒	恆	héng	permanent; ䷟ Duration
+尝	嘗	cháng	taste
+遥	遙	yáo	distant, remote; long
+翼		yì	wing
+蓄		xù	store, save; grow; 积蓄 jīxù save; 储蓄 chǔxù deposit
+叙	敘	xù	chat; (叙述 xùshù, 叙事 xùshì) narrate, relate
+嫁		jià	(of a woman:) marry
+朴		pǔ	(F樸) (朴素 pǔsù) simple  [Piáo] (surname)  [pò] 朴树  [pō] 朴刀  [pū]
+呈		chéng	to present; 呈现 appear; 呈报 submit a report  [chěng]
+夕		xī	evening; sunset; 夕阳 xīyáng the setting sun  [yì]
+莱	萊	lái	莱菔 láifú radish; 文莱 Wénlái Brunei
+浑	渾	hún	浑身 húnshēn from head to foot, all over
+仙		xiān	fairy, saint, immortal celestial being; 仙女 fairy maiden  [xiǎn]
+厨	廚	chú	厨房 chúfáng kitchen
+弦		xián	string of musical instrument
+绘	繪	huì	paint, draw; 绘画 huìhuà drawing, painting
+膀		bǎng	翅膀 wing; 肩膀 shoulder  [pāng] swell  [páng] [pǎng] [bàng]
+盗	盜	dào	(盗窃 dàoqiè) steal; 强盗 qiángdào robber
+挖		wā	dig; excavate
+尸		shī	(radical 44); (F屍) 尸体 shītǐ dead body, corpse
+扮		bàn	dress up as, disguise as; put on an expression  [fěn] [fēn] [huǒ]
+冶		yě	smelt (metal)
+椅		yǐ	(椅子 yǐzi) chair  [yī]
+畅	暢	chàng	smooth; free; 舒畅, 畅快 carefree; 畅通 unimpeded
+枯		kū	withered; dried up; dull  [gū]
+燕		yàn	(燕子 yànzi) swallow (bird)   [Yān] (surname)
+稻		dào	growing rice, paddy
+娃		wá	(娃娃 wáwa) baby  [wā] [guì]
+览	覽	lǎn	展览 zhǎnlǎn exhibition; 游览 yóulǎn go sightseeing
+郊		jiāo	(郊区, 郊外) suburbs, outskirts
+覆		fù	(覆盖 fùgài) cover; 顛覆 diānfù subvert; (S复) 反覆 fǎnfù
+牺	犧	xī	牺牲 xīshēng sacrifice
+猜		cāi	guess; 猜想 cāixiǎng suppose
+搜		sōu	search; 搜集 collect; 搜查 search; 搜索 look for  [xiāo] [sòu] [shǎo]
+杆		gān	pole  [gǎn] (F桿) shaft  [gàn]
+仓	倉	cāng	warehouse
+幽		yōu	幽静 secluded; 幽默 humor; 幽暗 gloomy; 幽灵 ghost
+萧	蕭	xiāo	desolate
+董		dǒng	director; 古董 antique  [zhǒng]
+锦	錦	jǐn	brocade; 什锦 shíjǐn fancy; 素什锦 assorted vegetables
+赚	賺	zhuàn	gain, profit    [zuàn] cheat
+跨		kuà	step, stride; straddle; go beyond  [kù] [kuā] [kuǎ]
+阁	閣	gé	pavilion; cabinet
+丛	叢	cóng	crowd; 丛书 cóngshū series of books; 丛林 jungle
+岩		yán	rock, cliff; 岩石 rock; 砂岩 sandstone; 熔岩 lava
+柱		zhù	pillar, post  [zhǔ]
+亭		tíng	(亭子 tíngzi) pavilion
+恋	戀	liàn	恋爱 love (as in love affair)
+昂		áng	(昂首 ángshǒu) hold one's head high; high, soaring  [yàng]
+疏		shū	sparse, scanty; 疏忽 carelessness
+欺		qī	(欺骗) cheat, deceive; (欺负) bully
+懒	懶	lǎn	lazy, sluggish; 伸懒腰 stretch
+吞		tūn	swallow, gulp down; annex; 吞没 tūnmò embezzle  [tiān]
+盲		máng	盲目 mángmù blind; 盲动 act blindly
+抚	撫	fǔ	pat; soothe; foster; 抚摸 fǔmō stroke
+盆		pén	basin; 盆地 péndì basin (of land)
+肤	膚	fū	(皮肤 pífu) skin; 肤色 color of skin
+顽	頑	wán	顽强 indomitable; 顽固 obstinate
+伪	偽	wěi	false; 虚伪 false, hypocritical; 伪币 counterfeit money
+脂		zhī	油脂 yóuzhī; oil, grease; 脂肪 zhīfáng fat, grease  [zhǐ]
+仗		zhàng	battle, war; 打仗 fight
+宏		hóng	宏伟 magnificient; 宏大 great; 宏观 macroscopic
+慕		mù	羡慕 xiànmù envy; admire; 爱慕 àimù adore
+漏		lòu	(漏水 lòushuǐ) leak  [lóu]
+捉		zhuō	clutch, grasp; catch; 捉迷藏 hide & seek
+舰	艦	jiàn	(军舰) warship; 航空母舰 aircraft carrier
+仇		chóu	revenge; 报仇 bàochóu get revenge  [qiú] mate; (surname)  [jū]
+牧		mù	herd, tend; 牧场 pasture; 牧民 herdsman
+昆		kūn	昆虫 kūnchóng insect; 昆明 Kūnmíng  [hún] [kùn]
+厌	厭	yàn	(讨厌 tǎoyàn, 厌恶 yànwù) detest; 厌烦 boring  [yān] (=恹)
+吾		wú	(书) I, me  [yú] [yá]
+宴		yàn	(宴会 yànhuì) banquet
+侦	偵	zhēn	侦察 scout, reconnoitre; 侦探 detective
+泊		bó	at anchor; moor; berth    [pō] 湖泊 húpō lakes  [pò]
+慨		kǎi	慷慨 kāngkǎi generous; vehement
+滋		zī	滋味 zīwèi flavor; 滋长 zīzhǎng grow  [xuán]
+寺		sì	temple, Buddhist monastery  [shì]
+浸		jìn	soak  [qīn]
+霸		bà	overlord; tyrant; dominate; 霸占 bàzhàn sieze  [pò]
+岂	豈	qǐ	(rhetorical adverb); 岂有此理 preposterous
+肠	腸	cháng	intestine
+渠		qú	canal, ditch, channel; 渠道 irrigation ditch  [jù]
+胃		wèi	stomach; 胃口 wèikǒu appetite
+慈		cí	慈祥 cíxiáng kindly; 慈爱 love, kindness; 慈悲 mercy
+郁		yù	(surname); fragrant; elegant; (F鬱) luxuriant; 忧郁 yōuyù melancholy
+奈		nài	无可奈何 wúkěnàihé have no alternative
+艳	艷	yàn	gorgeous; amorous; 鲜艳 xiānyàn bright (color); 艳丽
+抹		mā	wipe; 抹布 rag  [mǒ] apply; smear; 抹杀 obliterate  [mò]
+鼠		shǔ	(老鼠 lǎoshǔ) mouse, rat; 鼠年 Year of Rat (1st year)
+谱	譜	pǔ	table, chart; manual; music score; (谱写 pǔxiě) compose music
+柜		guì	(F櫃) (柜子) cabinet; 柜台 counter; 掌柜 shopkeeper  [jǔ]
+俱		jù	all; 俱乐部 jùlèbù club  [jū] together
+斥		chì	排斥 páichì reject; 驳斥 bóchì, 斥责 chìzé denounce  [chè] [zhè]
+曹		Cáo	(surname)
+弥	彌	mí	弥漫 fill the air; 弥补 make up for, remedy
+袁		Yuán	(surname)
+傅		fù	师傅 shīfu master (term of respect)  [fū]
+携	攜	xié	(携带 xiédài) carry, take along; 携手 hand in hand
+眠		mián	(睡眠 shuìmián) sleep; 冬眠 dōngmián hibernate  [miǎn] [mǐn]
+妥		tuǒ	appropriate; ready
+盯		dīng	stare at  [chéng]
+贤	賢	xián	贤惠 virtuous (woman); 贤人 virtuous person
+赫		Hè	(surname); hertz  [shì]
+呵		hē	breathe out (mouth open); scold; 呵欠 yawn  [hā] [ā] [a] [kē] [huō]
+踪	蹤	zōng	跟踪 follow closely; 失踪 be missing; 踪迹 trace
+匀	勻	yún	to divide evenly; to spare; even  [jūn] [yùn]
+罐		guàn	(罐头 guàntou) can; jar
+巷		xiàng	lane, alley  [hàng] 巷道 hàngdào tunnel (in a mine)
+筒		tǒng	tube; 电筒 diàntǒng flashlight  [dòng] [tóng]
+歧		qí	(of roads:) fork, branch; divergent; 歧视 discriminate
+券		quàn	ticket, certificate; 入场券   [xuàn] 拱券 arch
+劣		liè	bad, inferior, minor
+档	檔	dàng	shelves; 档案 dàng'àn files, archives  [dǎng]
+汪		wāng	汪汪 tearful; bow-wow; 汪洋 boundless (ocean)  [wǎng] [hóng]
+睁	睜	zhēng	open the eyes
+慌		huāng	flustered, confused; 慌忙 huāngmáng in a flurry  [huǎng] [huang]
+跌		diē	fall, tumble  [tú]
+秦		Qín	the Qin (Ch'in) Dynasty, 221-207 B.C. (Qín --> China)
+戚		qī	亲戚 qīnqī relative; 休戚 xiū-qī joy and sorrow  [cù]
+谨	謹	jǐn	(谨慎 jǐnshèn) cautious; sincerely
+卧	臥	wò	lie down; 卧室 wòshì bedroom
+厦	廈	shà	大厦 dàshà tall building, mansion  [Xià] 厦门 Xiàmén Amoy
+芽		yá	bud, sprout
+戒		jiè	forbid; 戒严 jièyán enforce martial law; 戒指 jièzhi ring
+恼	惱	nǎo	恼火 nǎohuǒ angry, annoyed
+奴		nú	奴隶 núlì slave
+框		kuàng	frame; case; circle  [kuáng]
+肌		jī	肌肉 jīròu muscle  [jì]
+殖		zhí	繁殖 breed, reproduce; 殖民地 colony   ([shi] 骨殖)  [shì]
+盈		yíng	full; 盈利 yínglì profit; have a surplus
+踢		tī	kick; 踢足球 play football  [dié]
+砖	磚	zhuān	brick
+役		yì	(战役) battle; 兵役 military service; 奴役 enslave
+溪		xī	(溪流 xīliú) brook, small stream  [qī]
+雕		diāo	vulture; (雕刻 diāokè) carve, engrave; 浮雕 fúdiāo relief sculpture
+卢	盧	Lú	(surname); 觚卢 gūlú calabash
+逝		shì	逝世 shìshì pass away, die; 消逝 xiāoshì fade away, elapse
+蛇		shé	snake      [yí] 虚与委蛇  [tuó] [chí]
+辣		là	(spicy) hot; 辣椒 làjiāo hot pepper; 毒辣 dúlà sinister [lā]
+剪		jiǎn	(剪刀 jiǎndāo) scissors
+咨		zī	咨询 zīxún consult, seek advice from
+刮		guā	scrape; 刮胡子 shave; (F颳) (wind) blow  [kā]
+堡		bǎo	堡垒 bǎolěi fortress; 城堡 chéngbǎo castle  [bǔ] 堡子 walled village  [pù]
+挨		āi	get close to, be next to; in sequence   [ái] suffer
+捧		pěng	hold, carry in both hands; 捧着一个西瓜  [fèng]
+叛		pàn	叛徒 pàntú traitor
+浙		Zhè	浙江省 Zhèjiāngshěng Zhejiang Province
+颠	顛	diān	jolt; fall; summit; 颠倒 diāndǎo turn upside down
+碧		bì	green jade; bluish green; 碧绿 dark green; 碧蓝 dark blue
+颤	顫	chàn	quiver; 颤抖 chàndǒu tremble; 颤动 vibrate  [zhàn]
+膜		mó	membrane, film; 角膜 jiǎomó cornea (of eye)
+莲	蓮	lián	lotus (flower)
+舌		shé	(舌头 shétou) tongue  [guā]
+渴		kě	(口渴 kǒukě) thirsty; 渴望 thirst for, long for  [jié] [kài] [hé]
+齿	齒	chǐ	(牙齿 yáchǐ) tooth
+倡		chàng	倡议 chàngyì propose   [chāng] 倡优 entertainer
+姜		jiāng	ginger
+姨		yí	aunt (mother's sister); sister-in-law (wife's sister)
+骄	驕	jiāo	骄傲 jiāo'ào arrogant, proud
+拟	擬	nǐ	(拟定) draft; 比拟 comparison; 模拟 imitate
+泼	潑	pō	sprinkle; rude & unreasonable; 活泼 huópo lively
+淋		lín	pour, drench; 冰淇淋 ice cream  [lìn] strain, filter  [līn]
+溜		liū	slide, sneak away  [liù] swift current of water  [liú]
+捞	撈	lāo	dredge for, fish for, scoop up out of water
+棚		péng	shed, shack, canopy; 窝棚 shack
+罩		zhào	cover
+苗		miáo	seedling, young plant; vaccination; 火苗 flame
+腹		fù	belly, stomach, abdomen; 腹地 hinterland
+桑		sāng	mulberry tree; 桑蚕 silkworm; 桑叶 mulberry leaves
+铃	鈴	líng	bell
+砍		kǎn	cut, chop, hack; 砍柴
+霞		xiá	rosy clouds
+聘		pìn	engage; 聘请 pìnqǐng engage, invite  [pìng]
+伐		fá	fell, cut down; attack
+拳		quán	box (with fists); 太极拳
+吁		yù	呼吁 hūyù appeal  [xū] 吁吁 xūxū (panting)  [yū] Whoa!
+庙	廟	miào	temple
+庸		yōng	usual, ordinary; 中庸 Doctrine of the Mean  [yóng]
+诊	診	zhěn	诊断 zhěnduàn diagnose; 诊所 zhěnsuǒ clinic
+扯		chě	pull; tear; chat
+捷		jié	敏捷 quick, agile; 轻捷 nimble  [qiè] [chā]
+僚		liáo	(官僚) official; (同僚) colleague  [liǎo] [lǎo]
+丙		bǐng	third 天干 Heavenly Stem  [bìng]
+催		cuī	urge, hurry, hasten
+践	踐	jiàn	实践 put into practice; 践踏 trample
+嫂		sǎo	(大嫂 dàsǎo) elder brother's wife, sister-in-law
+疆		jiāng	边疆 biānjiāng border region; 新疆 Xīnjiāng  [jiàng]
+凌		líng	insult; encroach; draw near; 凌晨 língchén before dawn  [lìng]
+坑		kēng	hole, pit  [kàng]
+祸	禍	huò	misfortune
+撑	撐	chēng	prop up, support, keep up, fill to bursting
+羽		yǔ	(羽毛 yǔmáo) feather; 羽毛球 badminton  [hù]
+廉		lián	honest, clean; low-priced
+晒	曬	shài	roast in sun
+歪		wāi	crooked, askew; devious  [wǎi]
+扇		shàn	a fan; (量): 一扇门   [shān] to fan; incite
+棒		bàng	stick, bat; excellent; 棒球 bàngqiú baseball
+辨		biàn	distinguish, differentiate  [biǎn] [bàn] [piàn]
+宙		zhòu	宇宙 yǔzhòu cosmos
+儒		rú	Confucianism; scholar; 儒家 Rújiā Confucianists
+屏		píng	屏幕 píngmù screen  [bǐng] 屏息 bǐngxī hold breath  [bīng] 屏营  [bìng]
+遂		suì	satisfy, fulfil; succeed; 遂心  [suí] 半身不遂
+蔡		Cài	(surname)  [sà] [cā]
+凑	湊	còu	gather together; happen by chance
+卜		bǔ	fortune telling  [bo] 胡萝卜 húluóbo carrot  [pū]
+堵		dǔ	stop up, block; (量) 一堵墙 a wall  [zhě] [dū]
+纤	纖	xiān	纤维 fiber  [qiàn] rope for towing boat
+皱	皺	zhòu	to wrinkle; 皱纹 wrinkles
+侨	僑	qiáo	华侨 Huáqiáo overseas Chinese; 侨胞 compatriots abroad
+晴		qíng	(晴朗 qínglǎng) fine, sunny; 晴天霹雳 qíngtiānpīlì
+滨	濱	bīn	海滨 seashore; 滨临 be close to (body of water)
+煮		zhǔ	boil, cook
+辱		rǔ	侮辱 wǔrǔ insult, humiliate; 耻辱 chǐrǔ shame
+宅		zhái	residence, house  [chè] [dù]
+葛		gé	kudzu vine; grass-cloth (pueraria)  [Gě] (surname)
+痕		hén	痕迹 hénjì mark, trace, vestige; 伤痕 shānghén scar  [gèn]
+遣		qiǎn	派遣 pàiqiǎn send, dispatch; 先遣 sent in advance  [qiàn]
+驳	駁	bó	contradict; 驳斥 bóchì denounce; 反驳 refute
+绳	繩	shéng	(绳子, 绳索) rope, cord
+彭		Péng	(surname)  [páng] [bāng] [pēng]
+娱	娛	yú	娱乐 yúlè amuse; amusement, recreation
+卿		qīng	minister or high official in ancient times
+忌		jì	envy; avoid; quit; 忌讳 jìhui taboo
+赔	賠	péi	compensate, pay for; lose money; 赔不是 apologize
+赠	贈	zèng	(赠送 zèngsòng) give as a present
+妨		fáng	(妨碍) hinder, impede; harm; 不妨 no harm in...
+抖		dǒu	(发抖 fādǒu, 颤抖 chàndǒu) shiver, tremble
+膨		péng	膨胀 péngzhàng expand, swell  [pèng]
+艇		tǐng	light boat
+泄		xiè	leak, drain; divulge  [yì] 泄沓
+柏		bǎi	(柏树) cypress  [Bó] 柏林 Berlin  [bò] (檗)
+糟		zāo	rotten; 糟糕 zāogāo bad luck! 糟踏 zāota waste, spoil
+嫩		nèn	tender, delicate; light; inexperienced
+枚		méi	(量) (measure word for small objects)
+矮		ǎi	short (not tall); low; 矮子 ǎizi dwarf
+摔		shuāi	fall down; 摔交 shuāijiāo wrestling
+愧		kuì	(惭愧 cánkuì) ashamed
+悦	悅	yuè	(喜悦 xǐyuè) happy, joyful
+趁		chèn	take advantage of; while; 趁机会  [zhēn] [chén] [niǎn] [zhěn]
+漆		qī	lacquer, paint; 油漆 paint; 漆黑 pitch-black  [qiè]
+谅	諒	liàng	(原谅 yuánliàng) forgive
+绵	綿	mián	连绵 unbroken; 海绵 sponge  [miān] 软绵绵 soft
+冤		yuān	injustice; 冤枉 yuānwang do wrong, treat unjustly
+棍		gùn	(棍子) rod, stick; 拐棍 guǎigùn walking stick  [hùn] [āo] [gǔn]
+拆		chāi	take apart, dismantle   [cā] [chè] [chì]
+饥	飢	jī	starve, be hungry; famine; 饥饿 hunger, starvation
+押		yā	pawn; detain; 押送 send under escort; 押韵 yāyùn rhyme  [xiá] [jiǎ]
+涛	濤	tāo	great waves
+娜		nuó	婀娜 ēnuó graceful (woman)  [nà] 安娜 Anna (name)
+嫌		xián	suspicion; dislike
+卵		luǎn	(卵子) egg, ovum; 卵巢 luǎncháo ovary  [kūn]
+坛		tán	(F壇) altar; raised plot of ground; (F罈) jar, jug
+庞	龐	páng	庞大 pángdà colossal, huge
+斑		bān	spot, stripe; 斑马 bānmǎ zebra
+佩		pèi	(ornament); 佩服 pèifu admire; 敬佩 jìngpèi esteem
+逻	邏	luó	逻辑 logic
+柯		kē	(书) stalk, branch; (surname)
+咽		yàn	to swallow  [yān] pharynx   [yè] 呜咽 wūyè sob, whimper  [yuān]
+胖		pàng	fat, plump   [pán] (书) easy and comfortable  [pàn]
+蓬		péng	蓬勃 péngbó vigorous; 蓬松 fluffy    [pēng] [pèng]
+煌		huáng	bright; 敦煌石窟 Dūnhuáng Shíkū Gansu Caves
+葡		pú	葡萄 pútao grape  [bèi]
+兆		zhào	omen; million, mega
+缸		gāng	jar, vat
+裹		guǒ	bind, wrap; 包裹 bundle, package
+诱	誘	yòu	guide, lead, lure
+拘		jū	拘留 arrest; 拘束 restrict; 拘谨 overcautious  [gōu] [jǔ] [jú]
+妄		wàng	absurd; rash; ䷘ 无妄; 妄想狂 paranoia  [wáng]
+彪		biāo	young tiger
+摧		cuī	(摧毁 cuīhuǐ, 摧残 cuīcán) destroy  [zuì] [cuò]
+匹		pǐ	(量) measure word for horses: 三匹马 3 horses
+棵		kē	一棵树 a tree  [kuǎn] [kě]
+廷		tíng	royal court
+扔		rēng	throw, toss; 扔球 throw a ball (cf 接球)  [rèng]
+敦		dūn	敦厚 dūnhòu honest, sincere; 敦煌 Dūnhuáng  [duì] ancient vessel  [duī] [tuán] [diāo] [dùn] [dào] [zhǔn] [tūn] [tún]
+颂	頌	sòng	praise; song, ode; 歌颂 gēsòng sing the praises of
+酱	醬	jiàng	sauce, paste, jam; 酱油 soy sauce; 花生酱 P.B.
+株		zhū	tree-trunk; 守株待兔
+嘉		jiā	good, fine; praise
+菊		jú	chrysanthemum
+灿	燦	càn	灿烂 cànlàn splendid, magnificent
+萄		táo	葡萄 pútao grape
+沾		zhān	moisten, soak; touch  [tiān] [diàn] [chān]
+侯		hóu	marquis; (surname)  [hòu]
+御		yù	imperial; (F禦) 防御 fángyù defense; 抵御 dǐyù resist  [yà]
+嗓		sǎng	嗓子 throat; 嗓门儿 sǎngménr, 嗓音 sǎngyīn voice
+畜		xù	畜牧 xùmù raise animals  [chù] 畜生 chùsheng beast
+肺		fèi	(肺脏 fèizàng) lung  [pèi]
+毅		yì	毅力 willpower; 坚毅 jiānyì determined
+秩		zhì	秩序 zhìxù order, sequence
+酿	釀	niàng	brew, ferment; wine; (酿成) result in
+蒸		zhēng	(蒸汽 zhēngqì) steam
+旨		zhǐ	意旨 yìzhǐ intention
+驰	馳	chí	gallop, speed; spread; 驰名 well-known
+勾		gōu	cross out; evoke; gang up with  [gòu] 勾当 gòudang deal
+惑		huò	疑惑 yíhuò uncertain  [huo] 迷惑 míhuo perplex
+狭	狹	xiá	(狭窄 xiázhǎi, 狭隘 xiá'ài) narrow
+狮	獅	shī	(狮子 shīzi) lion
+叠	疊	dié	pile up, repeat; (折叠 zhédié) fold
+篮	籃	lán	basket; 篮球 basketball
+菲		fěi	菲薄 humble  [fēi] luxuriant; 菲律宾 Philippines  [fèi]
+奸		jiān	treacherous; traitor; (F姦) adultery; 强奸 qiángjiān rape  [gān]
+缠	纏	chán	to wind; tie up; tangle; bother
+赋	賦	fù	(赋于) bestow on; compose; 赋税 taxes
+臭		chòu	stinking   [xiù] sniff, smell
+筋		jīn	tendon; 脑筋 brains; 橡皮筋 rubber band  [qián]
+玛	瑪	mǎ	玛瑙 mǎnǎo agate; 玛雅 Mǎyǎ Maya
+厢	廂	xiāng	wing of a house; side; railway carriage
+窃	竊	qiè	窃听 qiètīng eavesdrop; 盗窃 dàoqiè steal
+墓		mù	(坟墓 fénmù) grave, tomb
+竭		jié	竭力 jiélì do one's utmost; 竭尽 jiéjìn use up, exhaust
+旺		wàng	prosperous, flourishing; 旺盛 vigorous, exuberant
+钉	釘	dīng	a nail; to follow closely  [dìng] to nail
+霉		méi	mold, mildew; 倒霉 dǎoméi have bad luck
+碌		lù	骨碌 roll; 忙碌 busy; 碌碌 mediocre  [liù] 碌碡  [lū] [luò]
+舆	輿	yú	chariot; area; 舆论 yúlùn public opinion
+鹿		lù	deer  [lǘ]
+肝		gān	liver
+葬		zàng	(埋葬 máizàng) bury (the dead); 葬礼 funeral
+誓		shì	(发誓 fāshì) swear; 誓言 shìyán oath
+孝		xiào	filial piety
+履		lǚ	shoes; ䷉ Treading
+箭		jiàn	arrow; 火箭 rocket; 箭头 arrowhead
+契		qì	契约 qìyuē contract   [qiè] 契阔  [xiè] [jié]
+赌	賭	dǔ	gamble
+轿	轎	jiào	sedan chair; 轿车 jiàochē car
+闯	闖	chuǎng	rush, charge
+亩	畝	mǔ	sixth of an acre (0.0667 hectares)
+倦		juàn	(疲倦 píjuàn) tired, weary
+兑	兌	duì	☱ ䷹ Joyous, Lake; 兑换 duìhuàn convert, exchange  [ruì] [duó]
+廿		niàn	twenty (same as 二十 èrshí)
+锡	錫	xī	tin (Sn)
+掏		tāo	pull out, fish out (from pocket, etc.); dig
+琳		lín	(书) beautiful jade
+粥		zhōu	porridge, gruel, congee   [yù] (=鬻)
+挽		wǎn	draw, pull; roll up; 挽救 rescue; (F輓) pull (cart/carriage); lament
+桶		tǒng	bucket
+喘		chuǎn	(喘气 chuǎnqì) pant, gasp; 气喘 qìchuǎn asthma
+叭		bā	(=吧) (used for sound)  [pā] [ba]
+泳		yǒng	游泳 yóuyǒng swim
+堪		kān	may; endure; 不堪 bùkān can't stand; 难堪 intolerable  [chěn]
+韵	韻	yùn	(押韵 yāyùn) rhyme; 韵文 yùnwén verse
+拦	攔	lán	block the way
+肖		xiào	肖像 xiàoxiàng portrait  [Xiāo] (surname)
+艘		sōu	(measure word for boats:) 两艘油船 two tankers
+衬	襯	chèn	衬衫 chènshān shirt
+壤		rǎng	土壤 tǔrǎng soil
+慎		shèn	cautious; 许慎 Xǔ Shèn author of 说文解字  [zhèn]
+竖	豎	shù	vertical, perpendicular; vertical stroke "丨"
+贼	賊	zéi	thief
+霍		huò	suddenly  [hè] [suǒ]
+傍		bàng	be close to; 傍晚 toward evening, at nightfall  [páng] [bēng] [péng]
+怖		bù	恐怖 kǒngbù terror
+恭		gōng	respect; 恭贺新禧 Happy New Year
+矣		yǐ	(grammatical particle)  [xián]
+砸		zá	strike, smash, break
+凄		qī	cold; 凄凉 qīliáng desolate; 凄惨 qīcǎn wretched
+掀		xiān	lift (a cover, etc.)  [hén]
+巾		jīn	piece of cloth; 毛巾 towel; 餐巾 napkin; 围巾 scarf
+茅		máo	(茅草 máocǎo) cogongrass; 白茅 báimáo edible wild grass
+裕		yù	富裕 fùyù rich, wealthy, opulent
+惩	懲	chéng	chastise, punish, correct, repress; restrain oneself
+瞬		shùn	wink; 瞬间 a moment; in the twinkling of an eye
+虾	蝦	xiā	shrimp; 龙虾 lobster; 虾炒饭 shrimp fried rice  [há] (=蛤)
+喉		hóu	(喉咙 hóulóng) throat, larynx
+账	賬	zhàng	account; credit; debt
+踩		cǎi	step  [kuí]
+蜡	蠟	là	wax; (蜡烛 làzhú) candle  [qù] [zhà] [jí]
+蒂		dì	base of a fruit; 烟蒂 cigarette butt; 阴蒂 clitoris
+谭	譚	Tán	(surname)
+铭	銘	míng	铭刻 míngkè inscription; engrave on one's mind
+燥		zào	dry; 干燥 dry; dull; 枯燥 kūzào boring  [sào]
+蜂		fēng	bee, wasp; 蜜蜂 mìfēng honeybee; 蜂房 fēngfáng beehive
+肿	腫	zhǒng	swollen; 肿瘤 zhǒngliú tumor; 红肿 red & swollen
+翁		wēng	old man; (surname)  [wěng]
+酬		chóu	酬谢 chóuxiè thank with a gift; 报酬 bàochou reward
+惟		wéi	惟一 wéiyī only; sole (same as 唯一)  [wěi]
+爽		shuǎng	爽朗 shuǎnglǎng bright, clear; frank; 凉爽 nice & cool  [shuāng]
+瞎		xiā	become blind; pointlessly; 瞎子 xiāzi blind person
+魏		Wèi	(one of the Three Kingdoms); (surname)  [wéi] [wēi]
+腊		là	(F臘) (腊月) 12th month; 腊肠 sausage  [xī] dried meat
+咸		xián	all; ䷞; (F鹹) salty; 咸菜 salted vegetables  [jiǎn] [jiān]
+芝		zhī	芝麻 zhīma sesame
+钞	鈔	chāo	(钞票) bank note, paper money; collected writings
+寡		guǎ	few; 寡妇 guǎfu widow; 沉默寡言 habitually silent
+窄		zhǎi	narrow
+趟		tàng	(measure word) trip; row  [tāng] ( = 蹚)  [zhēng] [zhèng] [chéng]
+昔		xī	昔日 xīrì former times; 往昔 wǎngxī in the past  [cuò]
+翠		cuì	emerald green; 翠鸟 cuìniǎo kingfisher
+勿		wù	do not!  [mò]
+邪		xié	evil; (interrogative sentence final particle)  [yé] (=耶) (=铘)  [yá] [xú] [shé]
+蜜		mì	(蜂蜜 fēngmì) honey; 蜜蜂 mìfēng honeybee
+虹		hóng	(彩虹 cǎihóng) rainbow  [jiàng] rainbow  [hòng] [gòng]
+倘		tǎng	(倘若 tǎngruò) if, supposing  [cháng]
+垫	墊	diàn	place under; 垫子 diànzi cushion, pad, mat
+歇		xiē	have a rest; 间歇 jiànxiē intermission  [yà]
+栽		zāi	to plant  [zài]
+畏		wèi	fear; respect; 畏惧 wèijù dread; 畏缩 flinch  [wēi] [wěi]
+逮		dài	逮捕 dàibǔ arrest  [dǎi] catch; 猫逮老鼠  [dì]
+媳		xí	媳妇 xífù daughter-in-law; 童养媳 tóngyǎngxí child bride
+豫		yù	䷏ (16) Enthusiasm; 犹豫 yóuyù hesitate  [xiè] [shū]
+惶		huáng	惶恐 huángkǒng alarmed; 惶惑 apprehensive; 惊惶 scared
+颈	頸	jǐng	(颈项 jǐngxiàng) neck  [gěng] 脖颈儿 bógěngr nape
+撕		sī	rip, tear; 撕毁 sīhuǐ tear apart  [xī] 提撕
+兽	獸	shòu	beast
+乳		rǔ	milk, breast; 哺乳 bǔrǔ breast-feed; 乳酪 rǔlào cheese
+渗	滲	shèn	ooze, seep; 渗透 osmosis; permeate; infiltrate
+渣		zhā	sediment, dregs, residue, bits, crumbs; 残渣余孽
+昭		zhāo	clear, obvious; 昭雪 zhāoxuě rehabilitate  [zhào]
+玄		xuán	black, dark; profound, abstruse; 玄学 metaphysics  [xuàn]
+崩		bēng	(崩溃 bēngkuì) collapse, fall apart; burst
+翅		chì	(翅膀 chìbǎng) wing
+帆		fān	sail; 帆布 fānbù canvas; 帆船 fānchuán sailboat  [fàn]
+垃		lā	垃圾 lājī garbage   [lè] [la]
+逊	遜	xùn	谦逊 qiānxùn modest
+贩	販	fàn	贩子 dealer; 贩卖 deal in, traffic, peddle
+唇		chún	(嘴唇 zuǐchún) lip; 唇膏 chúngāo lipstick  [zhēn] [zhèn]
+尿		niào	[suī] urine, urinate
+穆		mù	静穆 jīngmù solemn and quiet; (surname); 穆罕默德 Mohammed
+霜		shuāng	(霜冻 shuāngdòng) frost
+惹		rě	offend; ask for (trouble); 惹麻烦  [ruò]
+帜	幟	zhì	旗帜 qízhì banner, flag; stand, position
+唉		ài	(interj.) oh!  [āi] yes?  [ǎi]
+碑		bēi	upright stone tablet (monument, etc); 墓碑 tombstone
+乒		pīng	乒乓 pīngpāng pingpong
+浴		yù	沐浴 mùyù take a bath; 浴室 yùshì bath/shower room
+绅	紳	shēn	绅士 gentleman; gentry
+耶		yé	(书) (final interrog. particle)  [Yē] 耶稣 Yēsū Jesus  [xié]
+糕		gāo	(蛋糕 dàngāo) cake
+蹲		dūn	squat  [zún] [cún] [zūn] [cǔn] [cuán] [qǔn]
+徽		huī	emblem, badge; insignia; 安徽省 Anhui Province
+薪		xīn	薪水 salary
+玲		líng	玲珑 línglóng clever & nimble
+纶	綸	lún	black silk ribbon; fishing line; synthetic fiber  [guān] 纶巾
+缴	繳	jiǎo	hand in, pay   [zhuó]
+辅	輔	fǔ	辅导 coach, tutor; 辅助 assist, auxiliary; 辅音 consonant
+屡	屢	lǚ	(屡次 lǚcì) repeatedly; 屡教不改
+谐	諧	xié	in harmony
+嘲		cháo	嘲笑 ridicule; 嘲讽 sneer at; 嘲弄 mock  [zhāo]
+穴		xué	cave, hole; acupuncture point  [jué]
+哗	嘩	huá	(喧哗 xuānhuá) noise, clamor  [huā] (sound)
+冈	岡	gāng	ridge of a hill
+卓		zhuó	tall; (surname); (卓越 zhuóyuè) outstanding  [zhuō]
+遮		zhē	cover, hide, block
+萍		píng	浮萍 fúpíng duckweed
+瞪		dèng	open (one's eyes) wide, stare, glare; 瞪眼
+耕		gēng	to plough, till
+囊		náng	bag; 鼓鼓囊囊 gǔgunāngnāng bulging  [nāng] 囊膪 nāngchuài pork near the pig's nipples
+溢		yì	overflow; 洋溢 yángyì be permeated with
+圾		jī	垃圾 lājī garbage   [sè] [jí] [jié]
+泣		qì	哭泣 kūqì cry, weep; 抽泣 chōuqì sob  [lì] [sè]
+函		hán	letter; 函件 correspondence; 函数 (math) function
+雀		què	sparrow   [qiāo] 雀子 freckle   [qiǎo] 雀盲眼
+矩		jǔ	(carpenter's square); 矩阵 jǔzhèn matrix  [jū]
+淘		táo	wash, clean; 淘气 táoqì naughty; 淘汰 eliminate
+嘱	囑	zhǔ	(嘱咐 zhǔfu) advise, enjoin, urge, exhort
+烤		kǎo	bake, roast, toast
+茂		mào	茂盛 màoshèng luxuriant; 茂密 màomì dense
+浆	漿	jiāng	syrup; starch  [jiàng] ( = 糨)
+喇		lǎ	喇叭 musical wind instrument; 喇嘛 lama  [lā] [lá] [la]
+壶	壺	hú	kettle, pot; bottle
+俺		ǎn	I, we; 俺们 ǎnmen we (refers to speakers only)  [yàn]
+熙		xī	bright, splendid; 康熙字典 Kangxi dictionary (1716 A.D.)  [yí]
+婴	嬰	yīng	婴儿 yīng'ér baby, infant
+朦		méng	朦胧 ménglóng dim moonlight; obscure  [mǎng]
+寨		zhài	stockade, camp  [sè] [qiān]
+耻	恥	chǐ	耻辱 chǐrǔ shame, humiliation; 可耻 shameful; 无耻 shameless
+谎	謊	huǎng	lie, prevaricate
+屁		pì	屁股 pìgu buttocks
+沫		mò	沫儿 mòr, 泡沫 pàomò foam, froth; 唾沫 tuòmo saliva
+戈		gē	ancient Chinese weapon (dagger axe? halberd?)
+稼		jià	庄稼 zhuāngjia crops
+寞		mò	寂寞 jìmò lonely
+拐		guǎi	(拐弯) turn; limp; 拐棍 walking stick
+兜		dōu	pocket, bag
+帅	帥	shuài	commander in chief; graceful
+羞		xiū	(羞耻 xiūchǐ) shame; shy; 羞愧 xiūkuì feel ashamed
+鞭		biān	whip
+猴		hóu	(猴子 hóuzi) monkey
+耍		shuǎ	play
+旬		xún	a period of ten days; 上旬 first ten days of a month  [jūn]
+滥	濫	làn	(泛滥 fànlàn) overflow; 滥用 lànyòng abuse
+绒	絨	róng	down; velvet; floss
+叉		chā	(叉子 chāzi) fork; 交叉 intersect   [chǎ] [chá] [chà]
+亨		hēng	successful; go smoothly; henry (SI unit of inductance)  [xiǎng] [pēng]
+烛	燭	zhú	蜡烛 làzhú candle  [chóng]
+笛		dí	bamboo flute; whistle
+谦	謙	qiān	谦虚 qiānxū, 谦逊 qiānxùn modest; ䷎
+癌		ái	(癌症 áizhèng) cancer  [yán]
+鹰	鷹	yīng	hawk, eagle
+猎	獵	liè	打猎 hunt; 猎人 hunter; 猎狗 hound  [xī] [què]
+粹		cuì	纯粹 chúncuì pure, unadulterated  [suì]
+鼎		dǐng	ancient cooking vessel; tripod; ䷱ The Caldron  [zhēn]
+拓		tà	make rubbings from stone/bronze  [tuò] open up, develop  [zhí]
+搅	攪	jiǎo	(搅拌) stir, mix, agitate; disturb, annoy
+宵		xiāo	night; 通宵 tōngxiāo throughout the night; 元宵节 Lantern Festival
+嚷		rǎng	shout, yell  [rāng] 嚷嚷 rāngrang shout
+娶		qǔ	marry (a woman), take a wife, get married  [jū] [shū]
+匪		fěi	(土匪 tǔfěi) bandit; 匪徒 fěitú gangster  [fēi] [fēn]
+岳		yuè	high mountain; wife's parents; (surname)
+逆		nì	be contrary to; 汉英逆引词典 Reverse C-E dict.
+哇		wa	(sentence final, like 啊)   [wā] wah! (sound of crying)  [guī] [huá] [wá]
+浦		pǔ	riverside; river mouth (mostly used in place names); (surname)
+卑		bēi	卑鄙 bēibǐ base, vulgar; 卑劣 bēiliè despicable  [bǐ] [bì] [pí] [bān]
+甸		diàn	(ancient) suburb; pasture  [diān] 沉甸甸 chéndiāndiān heavy  [tián] [shèng] [yìng]
+殿		diàn	hall, palace
+仲		zhòng	second, middle (of 3 months or brothers); 仲春; 仲兄
+剖		pōu	解剖 jiěpōu dissect; 剖面 section; 剖析 analyse
+萝	蘿	luó	萝卜 radish; 胡萝卜 carrot; 菠萝 pineapple
+俯		fǔ	bow, bend down; 俯冲 fǔchōng dive; 俯瞰 look down at
+冯	馮	píng	swift-running horse   [Féng] (surname)
+澄		chéng	澄清 transparent; clear  [dèng] settle
+哑	啞	yǎ	mute, dumb; hoarse  [yā] (same as 呀)
+屠		tú	butcher; kill
+壳	殼	ké	shell; case  [qiào] shell; hard surface
+崖		yá	(崖壁 yábì) precipice, cliff
+吟		yín	chant; recite  [yīn] 笑吟吟 smilingly  [yǐn] [jìn]
+晰		xī	清晰 qīngxī clear, distinct
+橡		xiàng	(橡树) oak; rubber tree; 橡胶 rubber; 橡皮 eraser
+廊		láng	hall
+晕	暈	yūn	头晕 dizzy  [yùn] 红晕 blush
+稚		zhì	young, immature, childish; 稚气 zhìqì childishness
+潭		tán	deep pool, pond  [xún] [yǐn] [dàn]
+禅	禪	chán	meditation, Zen, Dhyana  [shàn] 禅让 abdicate
+俊		jùn	handsome, pretty; 英俊 brilliant, talented  [shùn] [dūn]
+挫		cuò	挫折 cuòzhé frustrate, defeat; setback  [zuò]
+榜		bǎng	posted list of names; notice; 榜样 example, model  [bàng] (=搒)  [bēng] [páng]
+芒		máng	awn; beard; arista  [wáng] 麦芒 màiwáng awn of wheat  [huāng] [huǎng]
+拱		gǒng	arch; cup one hand in other before chest; push with no hands  [jù]
+掠		lüè	(掠夺 lüèduó) pillage, plunder; (掠过) sweep past  [lüě]
+苹	蘋	píng	苹果 apple  [pēng]
+奎		kuí	奎宁 kuíníng quinine  [kuǐ]
+逗		dòu	stop, pause; tease, play with; 逗号 comma  [zhù] [tóu] [qí]
+舟		zhōu	boat
+陵		líng	hill, mound; tomb; 十三陵 the 13 Ming tombs
+葱	蔥	cōng	(葱头) onion, scallion; green  [chuāng]
+愚		yú	愚蠢 yúchǔn stupid
+裙		qún	(裙子 qúnzi) skirt
+衷		zhōng	衷心 zhōngxīn wholehearted; 无动于衷 unconcerned  [zhòng]
+弗		fú	(书) not
+帘		lián	flag as shop sign; (F簾) curtain  [chén]
+铝	鋁	lǚ	aluminum (Al)
+乓		pāng	乒乓 pīngpāng pingpong
+勉		miǎn	make an effort; 勉强 miǎnqiǎng force; with difficulty
+雌		cí	female (bird); 雌雄 cíxióng male and female
+颁	頒	bān	颁发 bānfā promulgate, issue
+狐		hú	狐狸 húli fox
+潘		Pān	(surname)  [pàn] [bō] [pán] [fān]
+淀		diàn	shallow water; (F澱) form sediment; settle; precipitate; 淀粉 starch
+杭		Háng	杭州 Hángzhōu  [kàng] [kāng]
+匠		jiàng	artisan  [jiang] 木匠 carpenter; 铁匠 blacksmith
+堤		dī	dyke; (堤岸 dī'àn) embankment  [dǐ] [shí] [wéi]
+陌		mò	陌生 mòshēng strange; 陌生人 stranger
+胧	朧	lóng	朦胧 ménglóng dim moonlight; obscure  [lōng]
+汁		zhī	(汁液 zhīyè) juice; 果汁 guǒzhī fruit juice  [xié] [shí]
+鸦	鴉	yā	乌鸦 wūyā crow; 鸦片 yāpiàn opium
+瓷		cí	porcelain, china; 陶瓷 táocí ceramics
+坟	墳	fén	grave, tomb
+弊		bì	弊病 bìbìng malady, evil; drawback; 利弊 pros and cons
+哼		hēng	groan, snort; hum  [hng] humph
+娇	嬌	jiāo	graceful, delicate; 娇嫩 jiāonèn tender and lovely
+谣	謠	yáo	ballad; 谣言 yáoyán rumor, hearsay
+鹏	鵬	péng	fabulous (mythical) giant bird
+蔑		miè	轻蔑 qīngmiè scornful
+恳	懇	kěn	诚恳 chéngkěn, 恳切 kěnqiè sincere; 恳求 plead
+搏		bó	搏斗 bódòu fight, wrestle; 脉搏 màibó pulse
+溃	潰	kuì	(dam) burst; break through; 崩溃 collapse; 溃疡 ulcer  [huì]
+晋	晉	jìn	promote; a dynasty (265-420); ䷢ Progress
+熔		róng	fuse, smelt, (熔化 rónghuà) melt; 熔岩 róngyán lava
+侍		shì	侍候 shìhòu wait upon, look after
+凳		dèng	stool, bench; 板凳
+荐	薦	jiàn	recommend; (书) grass, straw
+脊		jǐ	脊梁骨 jǐlianggǔ backbone; 屋脊 wūjǐ ridge of roof  [jí]
+脾		pí	spleen; 脾气 píqi (bad-) temper  [pái] [bì] [pì]
+钩	鉤	gōu	(钩子 gōuzi) hook
+罕		hǎn	rarely, seldom   [han] 希罕 xīhan rare; cherish  [hàn]
+喧		xuān	喧闹 make noise; 喧呼 xuānhū shout loudly  [xuǎn]
+宠	寵	chǒng	love, bestow favor on
+吕	呂	Lǚ	(surname)
+链	鏈	liàn	(链子 liànzi) chain; 拉链 zipper; 铰链 hinge
+哦		ó	[ò] Oh!   [é] softly chant
+颖	穎	yǐng	新颖 xīnyǐng new & original, novel
+孕		yùn	怀孕 pregnant; 受孕 conceive; 避孕 contraception
+掘		jué	dig, excavate  [kū]
+涯		yá	天涯 tiānyá edge of world; 生涯 shēngyá career, profession
+砌		qì	build; (stone) steps; 砌砖 lay bricks   [qiè] 砌末
+兔		tù	(兔子 tùzi) rabbit  [tú] [chān]
+讽	諷	fěng	讽刺 satirize, mock
+攀		pān	climb; pull down; 攀登 pāndēng clamber up
+骤	驟	zhòu	gallop; 步骤 bùzhòu procedure; 骤然 zhòurán suddenly
+陕	陝	Shǎn	陕西省 Shǎnxīshěng Shaanxi Province
+梳		shū	(梳子) comb; to comb
+兹	茲	zī	(书) this; now; year  [cí] 龟兹
+琼	瓊	qióng	beautiful jade; 琼脂 agar
+绑	綁	bǎng	bind, tie; 绑架 bǎngjià kidnap
+咳		hāi	hey  [ké] 咳嗽 késou cough  [hái] [gāi]
+溶		róng	(溶化) dissolve; 溶液 (chemical) solution
+滔		tāo	滔滔 tāotāo torrential; 滔滔不绝 talk on and on
+烹		pēng	烹调 pēngtiáo cook
+刹	剎	shā	(刹车) brake, stop  [chà] 刹那 instant
+挪		nuó	(挪动 nuódong) move; remove
+耸	聳	sǒng	towering, lofty; alarm, shock; 高耸 gāosǒng stand tall
+灶		zào	stove; kitchen
+滞	滯	zhì	stagnant, sluggish
+歉		qiàn	道歉 dàoqiàn apologize; 抱歉 regret, be sorry
+螺		luó	螺旋 spiral; 螺丝 screw; 螺母 nut; 螺栓 bolt
+僵		jiāng	stiff; numb; deadlocked; 僵硬 stiff, rigid
+妆	妝	zhuāng	adorn oneself; 妆奁 bride's trousseau
+薯		shǔ	红薯 sweet potato, yam; 马铃薯 potato; 木薯 cassava
+乖		guāi	clever; (乖乖 guāiguāi) obedient, well-behaved
+膏		gāo	牙膏 yágāo toothpaste; 油膏 ointment  [gào] lubricate
+拌		bàn	mix; 搅拌 jiǎobàn stir, mix, agitate  [pān]
+祭		jì	sacrifice; 祭器 jìqì sacrificial utensil  [zhài]
+仆		pū	fall forward  [pú] (F僕) 仆人 púrén servant
+羡		xiàn	羡慕 xiànmù envy, admire  [yán] [yí]
+沸		fèi	沸腾 fèiténg boiling; 沸点 boiling point  [fú]
+鹅	鵝	é	goose; 企鹅 qǐ'é penguin
+痒	癢	yǎng	itch  [yáng]
+浇	澆	jiāo	irrigate, water; pour liquid on; 浇花
+囚		qiú	囚禁 qiújìn imprison; 囚犯 qiúfàn prisoner
+魄		pò	气魄 qìpò boldness    [bó] 落魄 [tuò] 落魄
+痴		chī	idiotic; 痴心 infatuation
+坠	墜	zhuì	fall; weigh down; 坠子 zhuìzi weight; ear pendant; ballad
+峻		jùn	严峻 yánjùn stern; 峻岭 jùnlǐng high mountains
+绣	繡	xiù	embroider; 绣像 embroidered portrait
+淑		shū	(书) kind & gentle  [chù]
+蝶		dié	蝴蝶 húdié butterfly; 蝶蛹 diéyǒng chrysalis  [tiē]
+焰		yàn	火焰 huǒyàn flame
+藤		téng	cane, rattan; vine
+跪		guì	kneel
+宰		zǎi	slaughter, butcher; govern; 宰割 zǎigē invade & oppress
+饶	饒	ráo	rich, plentiful; have mercy; give extra
+陡		dǒu	steep; suddenly; 陡峭 dǒuqiào precipitous
+憾		hàn	遗憾 yíhàn regret; sorry  [dàn]
+厕	廁	cè	厕所 cèsuǒ toilet  [si] 茅厕 máosi latrine
+吼		hǒu	roar, howl
+腺		xiàn	gland; 汗腺 sweat gland
+哨		shào	whistle; chirp; sentry post  [sāo] [xiāo] [xiào] [sào]
+捡	撿	jiǎn	pick up, gather, collect
+嘻		xī	(嘻嘻) sound of giggling; exclamation of surprise
+夷		yí	(书) smooth; wipe out, raze; 明夷 ䷣
+庐	廬	lú	hut, cottage
+捏		niē	hold between the fingers; knead; fabricate
+蚀	蝕	shí	lose; erode, corrode
+毯		tǎn	(毯子 tǎnzi) blanket; (地毯 dìtǎn) carpet, rug
+贾	賈	gǔ	merchant  [Jiǎ] (surname)
+暑		shǔ	hot weather; 暑假 (shǔjià) summer vacation
+荫	蔭	yìn	shady  [yīn] (=阴)
+芦	蘆	lú	芦苇 lúwěi reed; 葫芦 húlu gourd    [lǔ] [hù]
+拣	揀	jiǎn	choose, select, pick out
+缉	緝	jī	seize, arrest  [qī] make small stiches
+蔬		shū	蔬菜 shūcài vegetable  [shǔ]
+倚		yǐ	(倚靠 yǐkào) lean on; rest against; rely on  [jī] [yī]
+脖		bó	脖子 bózi neck  [bō]
+幢		zhuàng	(量) (for buildings)  [chuáng] pennant; Buddhist pillar
+姚		Yáo	(surname)  [tiào] [táo] [yào]
+莉		lì	茉莉 mòli jasmine; 茉莉花茶  [lí] [chí]
+叮		dīng	sting, bite; say/ask again, verify
+斩	斬	zhǎn	chop
+沃		wò	irrigate; (肥沃 féiwò) fertile; 沃野 wòyě fertile land
+讶	訝	yà	惊讶 amazed
+躁		zào	rash, impetuous
+阀	閥	fá	powerful person; valve
+赐	賜	cì	give, grant; gift (from superior to inferior)
+钦	欽	qīn	钦佩 qīnpèi admire; 钦差 qīnchāi imperial envoy
+哄		hōng	hubbub  [hǒng] fool, coax  [hòng] horseplay
+烫	燙	tàng	hot (burning hot to the touch, cf. 热 rè)
+锻	鍛	duàn	forge; 锻炼 duànliàn exercise
+缅	緬	miǎn	remote, long ago; 缅甸 Miǎndiàn Burma
+伞	傘	sǎn	(雨伞) umbrella; 跳伞, 降落伞 parachute
+拢	攏	lǒng	approach; hold together; comb (hair)
+淹		yān	flood; 淹死 drown  [yǎn]
+寓		yù	reside, live; 寓所 yùsuǒ residence; 寓言 fable, allegory
+裸		luǒ	裸体 luǒtǐ nude; 赤裸裸 stark-naked; 裸露 exposed
+吻		wěn	kiss
+肆		sì	four ( = 四); (肆意 sìyì) wantonly; (书) shop  [tì]
+匙		shi	钥匙 yàoshi key  [chí] spoon
+丘		qiū	mound; grave; 丘陵 qiūlíng hills; 沙丘 shāqiū dune
+揉		róu	rub, knead
+栗		lì	(栗子 lìzi) chestnut; (F慄) tremble  [liè]
+筷		kuài	(筷子) chopsticks
+熬		áo	boil, stew; endure  [āo] boil, cook in water
+阐	闡	chǎn	阐明 chǎnmíng clarify; 阐述 chǎnshù expound
+垄	壟	lǒng	ridge or raised path in field; 垄断 monopolize
+媒		méi	go-between, matchmaker; 媒介 medium, intermediary  [mèi]
+甩		shuǎi	swing back & forth; toss; get rid of
+噪		zào	噪声 zàoshēng noise
+蔽		bì	cover, shelter, hide; 隐蔽 yǐnbì conceal oneself; covert  [biē] [piē]
+昼	晝	zhòu	daytime
+粘		zhān	to glue, to paste   [nián] ( = 黏)
+耿		gěng	耿耿 gěnggěng brilliant; dedicated; 耿直 gěngzhí upright
+粪	糞	fèn	excrement, manure
+缚	縛	fù	tie up, bind
+秃	禿	tū	bald, bare; blunt; incomplete
+辰		chén	5th of 12 Earthly Branches (地支); 2-hr period; 星辰 star
+骚	騷	sāo	骚动 sāodòng, 骚乱 sāoluàn disturb
+屑		xiè	fragments, bits and pieces; minute; trivial
+翰		hàn	writing brush; writing
+氓		máng	流氓 liúmáng hoodlum  [méng] common people
+屯		tún	(屯子) village; collect  [zhūn] ䷂ Difficulty at Beginning
+旷	曠	kuàng	vast; to waste time; 旷野 wilderness
+扛		káng	carry on the shoulder  [gāng] lift with both hands
+卸		xiè	unload, discharge; remove; shirk
+哎		āi	(interjection:) hey; 哎呀 āiyā; 哎哟 āiyō  [ēi]
+咖		kā	咖啡 kāfēi coffee  [gā] 咖喱 gālí curry  [jiā]
+啡		fēi	咖啡 kāfēi coffee  [pēi] [pái] [bài]
+瓣		bàn	petal, clove (of garlic)
+垮		kuǎ	collapse, break down
+妮		nī	妮儿 nīr girl  [ní]
+笨		bèn	stupid; clumsy; cumbersome; 笨重 heavy, cumbersome
+敞		chǎng	spacious; open  [chèng] [zhèng]
+捣	搗	dǎo	pound, beat; harass; 捣乱 dǎoluàn make a disturbance
+弓		gōng	bow; bend; 弓箭 gōngjiàn bow & arrow
+拂		fú	whisk; go against; 拂晓 before daybreak  [bì] (=弼)  [pì] [fèi]
+怯		qiè	(胆怯 dǎnqiè) timid; cowardly; 羞怯 xiūqiè shy
+醇		chún	乙醇 yǐchún ethanol, alcohol
+帕		pà	手帕 shǒupà handkerchief  [mò]
+礁		jiāo	(礁石 jiāoshí) reef; rock (at sea or seashore)
+膝		xī	(膝盖 xīgài) knee
+昧		mèi	no sun; dark; obscure; hidden; to feign  [wěn] [mò]
+撰		zhuàn	write, compose  [xuǎn] [suàn]
+芯		xīn	rush pith  [xìn] 岩芯 core
+逛		guàng	stroll, ramble, roam  [kuáng]
+掷	擲	zhì	throw, cast
+隙		xì	gap; crack; rift; loophole
+肢		zhī	肢体 zhītǐ limbs; 四肢 the Four Limbs; 前肢 forelimb  [shì]
+琢		zuó	琢磨 zuómo ponder  [zhuó] 琢磨 zhuómó polish
+趴		pā	lie prone; lean over
+辐	輻	fú	(轮辐 lúnfú) spoke; 辐射 fúshè radiation
+憋		biē	check, restrain, suppress; suffocate, feel depressed
+瑰		guī	[gui] 玫瑰 méigui rose
+乾		qián	☰ ䷀ The Creative   [gān] (S干) dry
+蠢		chǔn	(愚蠢 yúchǔn) stupid
+咕		gū	coo, cluck (bird sounds)  [gu]
+栋	棟	dòng	ridgepole
+喀		kā	(sound of coughing or vomiting)  [kè] [ke]
+钓	釣	diào	(钓鱼) to fish; 钓钩 diàogōu fish hook
+蹈		dǎo	skip; step; 舞蹈 wǔdǎo dance
+悼		dào	追悼, 悼念, 哀悼 mourn, grieve
+搁	擱	gē	put  [gé] endure
+疫		yì	免疫 miǎnyì immunity; 瘟疫 wēnyì pestilence
+殷		yīn	rich; (surname) [yān] (殷红) blackish red  [yǐn]
+僻		pì	僻静 pìjìng secluded; 偏僻 piānpì out-of-the way
+腕		wàn	(手腕) wrist; 腿腕子 tuǐwànzi ankle
+韦	韋	wéi	soft leather; (surname)
+翔		xiáng	circle in the air
+炭		tàn	charcoal
+蛮	蠻	mán	野蛮 yěmán barbaric; 蛮横 mánhèng unreasonable
+逸		yì	leisure; escape; 安逸 ānyì comfortable, leisurely
+丸		wán	pill; pellet; ball
+襟		jīn	front of garment; bros. in law; 衣襟 front of Chinese jacket
+讳	諱	huì	hide; avoid; name of deceased person
+谴	譴	qiǎn	谴责 qiǎnzé condemn
+贞	貞	zhēn	(坚贞, 忠贞) loyal; virgin; ancient fortune-telling
+珊		shān	珊瑚 shānhú coral; 珊瑚礁 coral reef
+轴	軸	zhóu	axle; axis; spool   [zhòu]
+鄙		bǐ	I, my; vulgar; 鄙视 bǐshì despise, disdain
+铅	鉛	qiān	lead (Pb); 铅笔 pencil
+恍		huǎng	suddenly; as if  [guāng]
+挠	撓	náo	scratch; hinder; yield; 阻挠 zǔnáo obstruct
+募		mù	raise, recruit  [bó]
+讼	訟	sòng	诉讼 sùsòng lawsuit; ䷅
+铸	鑄	zhù	(铸造) casting, founding
+俭	儉	jiǎn	(俭朴 jiǎnpǔ) frugal; 勤俭 industrious & thrifty
+煎		jiān	to fry  [jiàn] [jiǎn]
+玫		méi	玫瑰 méigui rose; 黄刺玫 yellow rose
+凹		āo	concave; 凹透镜 concave lens; 凹凸 āotū uneven  [wā] (=洼)
+闸	閘	zhá	sluice; brake; dam up
+枢	樞	shū	枢纽 shūniǔ pivot, axis
+枕		zhěn	(枕头) pillow  [chén]
+啪		pā	(sound:) bang
+塌		tā	collapse; sink; calm down  [dā]
+侮		wǔ	侮辱 wǔrǔ insult, humiliate
+侣	侶	lǚ	companion, associate
+坊		fāng	lane  [fáng] workshop, mill
+谬	謬	miù	荒谬 huāngmiù absurd; 谬论 miùlùn fallacy
+氯		lǜ	(氯气 lǜqì) chlorine (Cl)
+衔	銜	xián	hold in mouth; hold inside; rank; 军衔 military rank
+廓		kuò	轮廓 lúnkuò outline, rough sketch
+扁		biǎn	flat; inscription; 扁担 biǎndan carrying pole  [piān] 扁舟  [biān] [pián]
+梨		lí	pear; 凤梨 pineapple
+椒		jiāo	辣椒 làjiāo hot pepper; 胡椒 hújiāo pepper
+扒		bā	hold on to; dig up; rake; strip  [pá] rake up; stew, braise  [bài] [bié]
+咐		fù	吩咐 fēnfù tell, instruct; 嘱咐 zhǔfu enjoin, tell  [fú]
+坎		kǎn	bank, ridge; ☵ ䷜ The Abysmal (Water)  [kàn]
+毙	斃	bì	execute (kill); 枪毙 qiāngbì execute by shooting
+朽		xiǔ	腐朽 fǔxiǔ decayed, rotten
+雁		yàn	大雁 dàyàn wild goose
+讥	譏	jī	讥笑 jīxiào mock; 讥讽 jīfěng ridicule
+湘		Xiāng	( = 湖南 Húnán); 湘江 a river in Hunan
+烁	爍	shuò	shining; 闪烁 glimmer, twinkle
+枉		wǎng	crooked; pervert; 冤枉 yuānwang do wrong, treat unjustly  [kuáng]
+汝		rǔ	you, thou
+媚		mèi	妩媚 wǔmèi lovely; 明媚 radiant & enchanting
+嘿		hēi	hey  [mò] [mù]
+陋		lòu	丑陋 chǒulòu ugly
+泻	瀉	xiè	倾泻 come down in torrents; 泻药 laxative
+舱	艙	cāng	(ship) cabin
+躯	軀	qū	身躯 body, stature; 躯体 body
+蕴	蘊	yùn	蕴藏 yùncáng contain, hold in store
+蛛		zhū	蜘蛛 zhīzhū spider
+暇		xiá	leisure; 空暇 kòngxiá spare time; 不暇 bùxiá be too busy  [xià] [jiǎ]
+佣	傭	yōng	佣人 servant; 雇佣 hire  [yòng] 佣金 commission
+乞		qǐ	乞丐 qǐgài beggar; 乞讨 qǐtǎo beg  [qì]
+邵		Shào	(surname)
+醋		cù	vinegar; 吃醋 be jealous (in love affair)  [zuò]
+贱	賤	jiàn	inexpensive, cheap, lowly, humble, worthless
+慷		kāng	high-spirited; 慷慨 kāngkǎi fervent; liberal, generous
+篷		péng	sail; 帐篷 zhàngpéng tent
+馒	饅	mán	馒头 mántou steamed roll with meat filling
+绞	絞	jiǎo	twist; 绞杀 strangle; 绞刑 death by hanging
+丫		yā	fork, bifurcation; 丫头 yātou girl
+杉		shān	China fir  [shā] 杉篙 shāgāo fir scaffold-pole
+叨		dāo	叨叨 dāodao chatter  [tāo] 叨光 tāoguāng much obliged
+婿		xù	son-in-law
+垒	壘	lěi	build by piling up stones etc.; 垒球 softball
+腻	膩	nì	greasy, oily; smooth; (腻烦 nìfan) disgusted, fed up
+禾		hé	grain; 禾苗 hémiáo seedlings
+贿	賄	huì	(贿赂 huìlù) bribe; 行贿 give a bribe
+彦	彥	yàn	man of virtue & ability  [pán]
+彬		bīn	彬彬 bīnbīn (书) refined, urbane  [bān]
+睹		dǔ	look at, observe; 目睹 mùdǔ see with one's own eyes
+窑	窯	yáo	kiln; (窑洞) cave dwelling
+愣		lèng	distracted, stupified   [lēng]
+畔		pàn	border of a field; shore, side, bank
+霖		lín	(霖雨) continuous heavy rain
+焉		yān	心不在焉 absent-minded  [yí]
+杏		xìng	apricot; 杏仁 almond
+甫		fǔ	(书) only; curtesy name  [fū] [pǔ]
+捂		wǔ	seal, cover, muffle  [wú] 枝捂
+梗		gěng	梗概 gěnggài outline, gist
+绸	綢	chóu	(丝绸 sīchóu) silk
+桩	樁	zhuāng	stake, pile; (量): 一桩大事
+隶	隸	lì	奴隶 núlì slave; 隶书 lìshū official script  [dài] [yì] [dì]
+聋	聾	lóng	(耳聋 ěrlóng) deaf
+胳		gē	胳膊 gēbo arm; 胳臂 gēbei arm  [gé] 胳肢 tickle  [gā]
+谜	謎	mí	(谜语 míyǔ) riddle  [mèi] 谜儿 riddle
+龟	龜	guī	(乌龟) tortoise; 海龟 turtle  [jūn] 龟裂  [Qiū] 龟兹
+磕		kē	knock against; 磕头 kowtow; 磕碰 collide with  [kě]
+譬		pì	譬如 pìrú for instance, for example
+镶	鑲	xiāng	inlay; edge
+泌		mì	泌尿系统 urinary system  [bì]
+眨		zhǎ	wink, blink
+斌		bīn	(variant of 彬 bīn)
+皂		zào	肥皂 féizào soap
+喻		yù	比喻 bǐyù analogy; 隐喻 yǐnyù metaphor  [yú]
+瑟		sè	musical instrument with 25 strings
+渊	淵	yuān	深渊 shēnyuān abyss
+蝴		hú	蝴蝶 húdié butterfly
+诈	詐	zhà	cheat, swindle; pretend, feign
+圳		zhèn	irrigation ditch; 深圳 Shēnzhèn (place name)  [quǎn] [chóu] [huái]
+铲	鏟	chǎn	shovel
+瀑		pù	瀑布 pùbù waterfall  [bào] [bó]
+缆	纜	lǎn	cable; 缆车 cable car
+膛		táng	(胸膛) chest; chamber  [tāng]
+佐		zuǒ	assist
+翘	翹	qiào	hold up; 翘尾巴  [qiáo] raise one's head; become warped
+辫	辮	biàn	braid
+缕	縷	lǚ	thread; strand; 蓝缕 lánlǚ shabby, ragged
+啤		pí	啤酒 píjiǔ beer
+汛		xùn	防汛 fángxùn flood control
+啸	嘯	xiào	呼啸 hūxiào whistle, scream, whizz
+寥		liáo	few, empty, vacant, lonely
+熄		xī	extinguish, put out, go out; 熄灭 xīmiè go out, die out
+坝	壩	bà	dam; dyke, embankment
+堕	墮	duò	fall, sink; 堕落 duòluò degenerate, sink low
+旱		hàn	dry land; drought
+腥		xīng	flesh; fishy; 腥臭 xīngchòu rancid, stinking
+嚼		jué	咀嚼 jǔjué chew  [jiáo] chew  [jiào] 倒嚼
+沦	淪	lún	sink; 沦陷 lúnxiàn fall (to enemy); 沦为 be reduced to
+渺		miǎo	渺小 tiny, negligible; 渺茫 miǎománg distant & indistinct
+搂	摟	lǒu	hug; drag, pull  [lōu] hold in the arms
+绰	綽	chuò	绰号 chuòhào nickname  [chāo] grab; take up
+诵	誦	sòng	背诵 recite from memory
+裔		yì	(书) descendents, posterity; borderland
+碟		dié	small plate or dish; 茶碟 saucer; 飞碟 frisbee; UFO  [shé]
+涵		hán	(涵洞) culvert; 涵养 hányǎng self-control; conserve  [hàn]
+歹		dǎi	bad, evil, vicious  [è] [dāi]
+爪		zhǎo	claw, talon  [zhuǎ] 爪子 claw, paw, talon
+喃		nán	喃喃 nánnán mutter  [nǎn]
+袍		páo	(袍子) robe, gown  [bào]
+抒		shū	express, convey; 各抒己见
+藉		jí	狼藉 lángjí (书) in disorder   [jiè] ( = 借)
+屿	嶼	yǔ	岛屿 dǎoyǔ islands
+觅	覓	mì	seek; look for; demand
+咋		zǎ	(方) how ( = 怎么)  [zé] (书) bite  [zhā] 咋呼  [zhà] 咋舌
+磅		bàng	pound (unit of weight)  [páng] 磅礴 pángbó permeate  [bāng] 砰磅  [pāng]
+敷		fū	apply (powder, ointment, etc.); spread; 敷眼 to elaborate
+撼		hàn	震撼 shake, shock, vibrate
+斋	齋	zhāi	vegetarian religious diet; give alms; room or building
+蹬		dēng	to pedal  [deng] 踢蹬 tīdeng  [dèng] 蹭蹬
+嗯		ń	[ň] [ǹ] [ńg] [ňg] [ǹg] (a non-verbal exclamation)
+姬		jī	(书) honorable woman; concubine; (surname)  [yí]
+嵌		qiàn	镶嵌 xiāngqiàn inlay, set, mount  [hǎn] [kàn]
+奠		diàn	establish; give offerings to the dead  [tíng] [dìng] [zhèng] [zūn]
+辜		gū	辜负 gūfù let down, disappoint
+僧		sēng	monk  [céng]
+锣	鑼	luó	gong
+锤	錘	chuí	hammer
+淌		tǎng	drip (water or blood), shed (tears), trickle (sweat)  [chàng] [chǎng]
+崭	嶄	zhǎn	(书) towering; 崭新 zhǎnxīn brand-new, completely new
+焚		fén	(焚烧 fénshāo) burn, set on fire  [fèn]
+勺		sháo	spoon  [shuò] [zhuó] [dì]
+勋	勛	xūn	merit; 勋章 medal; 功勋 meritorious service
+嗦		suō	哆嗦 duōsuo tremble, shiver
+坪		píng	level ground; 草坪 cǎopíng lawn
+汹	洶	xiōng	汹涌 xiōngyǒng turbulent
+埔		pǔ	黄埔 Huángpǔ; 柬埔寨 Jiǎnpǔzhài  [bù] 大埔 Dabù
+彰		zhāng	obvious, apparant; showy; 表彰 biǎozhāng commend, cite
+迄		qì	迄今 qìjīn hitherto, up to now, so far
+妖		yāo	(妖魔 yāomó) demon; 妖娆 yāoráo charming, enchanting  [jiǎo]
+爵		jué	nobility; 爵士 knight; 爵士音乐 jazz
+劈		pī	chop, split  [pǐ] divide, split
+蒲		pú	cattail; (surname)  [bó]
+瞅		chǒu	see, look at  [qiu] 溜瞅
+粱		liáng	fine millet  [liang] 高粱 gāoliang sorghum
+噢		ō	Oh (interjection)  [yǔ] [yù] [ào]
+狡		jiǎo	狡猾 jiǎohuá treacherous, cunning  [xiào]
+茎	莖	jīng	(plant) stem, stalk; 阴茎 yīnjīng penis
+捆		kǔn	tie; bundle  [hún]
+揪		jiū	hold tight; pull, tug
+魁		kuí	chief; eminent; 魁梧 kuíwú well built (person)  [kuǐ] [kuài]
+诡	詭	guǐ	诡计 guǐjì plot, scheme, trick
+涡	渦	wō	旋涡 xuánwō whirlpool; 涡轮 wōlún turbine
+灼		zhuó	burn; 焦灼 jiāozhuó anxious; 灼热 scorching hot
+烘		hōng	dry, toast; to warm; 热烘烘 very warm
+纬	緯	wěi	latitude; weft, woof (knitting terms)
+嘘	噓	xū	breathe out slowly; burn; hush...  [shī] hush, shhh (quiet!)
+溅	濺	jiàn	splash, splatter
+凰		huáng	凤凰 fènghuáng phoenix
+菩		pú	菩萨 púsà bodhisattva, benevolent being  [bèi] [bó]
+辖	轄	xiá	linchpin; govern; (管辖) have jurisdiction over
+诬	誣	wū	诬陷 wūxiàn frame (for a crime); 诬告 accuse falsely
+聂	聶	Niè	(surname)
+筐		kuāng	basket
+贬	貶	biǎn	demote; devalue; 贬低 biǎndī belittle, depreciate
+涕		tì	鼻涕 bítì nasal mucus
+拧	擰	níng	twist, wring; pinch    [nǐng] [nìng]
+斧		fǔ	(斧子 fǔzi, 斧头 fǔtou) axe, hatchet
+苛		kē	severe, exacting  [hē]
+葫		hú	葫芦 húlu bottle gourd, calabash
+矫	矯	jiǎo	feign, force    [jiáo]
+佑		yòu	assist, protect, bless
+呐	吶	nà	呐喊 nàhǎn shout loudly  [nè] [na] [nuò]
+韧	韌	rèn	坚韧 jiānrèn tough & tenacious; 韧性 toughness
+筛	篩	shāi	sift; 筛子 shāizī sieve, sifter, screen
+仑	侖	lún	logical consequence; (mostly used as phonetic)
+琐	瑣	suǒ	琐碎 suǒsuì trivial; 烦琐 loaded down with trivia
+莎		shā	(used in names)  [suō] 莎草 (a kind of plant)  [suī]
+伺		cì	伺候 cìhou wait upon, serve  [sì] await, watch
+荆	荊	jīng	chaste tree, vitex (thorn bush)
+侠	俠	xiá	侠客 xiákè chivalrous warrior; 侠义 chivalrous
+煞		shà	evil spirit; 煞白 deathly pale  [shā] stop; kill ( = 刹, 杀)
+瘾	癮	yǐn	addiction
+吭		háng	throat  [kēng] utter a sound  [hàng]
+吱		zhī	(sound of door creaking)  [zī] (squeak, chirp, peep)  [qì]
+挟	挾	xié	hold under one's arm; coerce
+眷		juàn	眷属 juànshǔ family dependants
+哟	喲	yō	Oh!  [yāo] ouch
+棺		guān	棺材 guāncai coffin  [guàn]
+徊		huái	徘徊 páihuái hesitate   [huí] ( = 回 in 低回 dīhuí)
+盏	盞	zhǎn	small cup
+凿	鑿	záo	chisel  [zuò] (old variant pronunciation)
+乍		zhà	at first; suddenly; spread  [zuò]
+奕		yì	奕奕 yìyì radiating power and vitality
+榴		liú	pomegranate; 手榴弹 hand grenade
+逾		yú	(逾越 yúyuè) exceed, go beyond  [dòu]
+暮		mù	暮色 mùsè twilight, dusk
+琪		qí	fine jade
+浊	濁	zhuó	污浊 wūzhuó muddy (water), dirty (air)
+擎		qíng	prop up, hold up, lift up
+樱	櫻	yīng	樱桃 yīngtáo cherry
+咧		liě	grin  [liē] 大大咧咧 dàdaliēliē careless  [lie] [liè] [lié]
+惕		tì	警惕 jǐngtì guard against
+冀		jì	(书) hope; (surname); ( = 河北)
+撇		piě	throw; left curving stroke (丿)  [piē] cast aside  [biē]
+沛		pèi	充沛 chōngpèi abundant; plentiful; full of
+揽	攬	lǎn	pull into one's arms; fasten with rope
+茄		qié	茄子 qiézi eggplant  [jiā] 茄克 jiākè jacket
+蹦		bèng	leap, jump; 蹦蹦跳跳 bouncing and vivacious
+莹	瑩	yíng	jade-like stone; glittering  [yīng] 绿莹莹
+杠		gàng	(杠子) thick stick; delete  [gāng] [gōng]
+尧	堯	Yáo	(surname); a legendary emperor (2200 B.C.)
+咒		zhòu	咒骂 zhòumà, 诅咒 zǔzhòu swear, curse; 赌咒 take oath
+洽		qià	be in harmony; agree; consult with  [hé]
+耽		dān	耽误 dānwu delay
+怡		yí	concord; complaisant; pleased
+氧		yǎng	(氧气 yǎngqì) oxygen (O)
+焕	煥	huàn	焕发 shine, glow
+呱		guā	sound of frog, crow, etc.  [gū] sound of baby crying  [guǎ] 拉呱儿
+搓		cuō	rub with hands, twist  [cuǒ] [chāi]
+窜	竄	cuàn	flee, scurry; exile; change wording
+缔	締	dì	缔造 found, create; 缔结 conclude, establish
+焊		hàn	(焊接) weld, solder; 焊条 welding rod
+躬		gōng	(书) personally; bend at the waist
+舶		bó	船舶 chuánbó shipping; boats & ships
+锈	鏽	xiù	rust; 生锈 to rust; rusty
+邹	鄒	Zōu	(surname)
+梭		suō	梭子 shuttle; 梭子鱼 barracuda  [xùn]
+蕉		jiāo	香蕉 xiāngjiāo banana  [qiáo] [qiāo]
+顷	頃	qǐng	公顷 gōngqǐng hectare; 顷刻 qǐngkè in an instant
+擅		shàn	擅自 do without authorization; 擅长 be good at
+蚊		wén	(蚊子) mosquito; 蚊香 anti-mosquito incense
+衍		yǎn	spread out, extend; superfluous; 敷衍 fūyan perfunctory  [yán]
+鹤	鶴	hè	crane (emblem of longevity)
+袜		wà	(F襪) (袜子) sock  [mò] 袜腹
+徘		pái	徘徊 páihuái hesitate; fluctuate; ramble
+豁		huō	slit, crack; give up  [huò] open, spacious; generous  [huá] 豁拳
+寝	寢	qǐn	sleep; bedroom; imperial tomb
+攒	攢	zǎn	accumulate  [cuán] assemble
+迭		dié	alternate, change; repeatedly; 不迭 in a hurry; incessantly  [yì] [dá]
+犬		quǎn	dog
+蒜		suàn	(大蒜 dàsuàn) garlic
+靡		mí	waste  [mǐ] blown away by the wind  [má]
+驴	驢	lǘ	donkey, ass
+铀	鈾	yóu	uranium (U)
+淫		yín	excessive, over; wanton; licentious  [yàn] [yáo]
+删	刪	shān	删除 shānchú delete, erase
+猖		chāng	猖狂 chāngkuáng savage; 猖獗 chāngjué be rampant
+膊		bó	[bo] 胳膊 gēbo arm  [pò] [liè]
+璋		zhāng	jade tablet
+髦		máo	时髦 shímáo fashionable, stylish
+矶	磯	jī	a rock projecting at the water side
+炊		chuī	炊事 chuīshì cooking; 炊烟 chuīyān kitchen smoke
+巫		wū	(巫婆 wūpó) witch, sorceress; shaman; wizard; (surname)
+嘟		dū	嘟囔 dūnang mutter to oneself, mumble
+嘶		sī	neigh
+淮		Huái	a river in 河南 and 安徽
+埠		bù	warf, pier; port
+槐		huái	槐树 locust tree; pagoda tree
+澜	瀾	lán	波澜 bōlán great waves, billows
+墩		dūn	(土墩) mound; block; cluster
+拙		zhuō	(笨拙 bènzhuō) clumsy
+巢		cháo	nest; 卵巢 luǎncháo ovary  [chào]
+俘		fú	capture; 俘虏 fúlǔ prisoner, captive; capture
+瞒	瞞	mán	hide the truth from
+锄	鋤	chú	(锄头 chútou) hoe; to hoe
+俐		lì	伶俐 línglì clever
+怔		zhēng	terrified, panic-stricken  [zhèng] 发怔 stare blankly
+萤	螢	yíng	(萤火虫 yínghuǒchóng) firefly, glow-worm
+侄		zhí	brother's son, nephew; 侄女 brother's daughter, neice
+寅		yín	the third 地支 Earthly Branch
+芭		bā	芭焦 bājiāo banana; 芭蕾舞 ballet  [pā]
+缀	綴	zhuì	sew, stitch; 音缀 syllable; 后缀 suffix  [chuò] (=辍)
+苟		gǒu	herb, greens; if; (Surname); 不苟 bùgǒu not lax; conscientious  [gōu]
+棕		zōng	(棕色 zōngsè) brown
+捍		hàn	捍卫 hànwèi defend, guard, protect  [xiàn] [gǎn]
+妒		dù	to envy, be jealous of
+憎		zēng	(憎恶 zēngwù) hate
+娥		é	pretty woman; 娥眉 delicate eyebrows
+碳		tàn	carbon (C)
+嘎		gā	(sound: crack, quack, etc.)  [gǎ] 粗嘎 raucous  [gá]
+簇		cù	bunch, cluster; bouquet; 簇拥 cùyōng cluster round  [chuò] [còu]
+蔓		wàn	tendrilled vine  [màn] 蔓延 mànyán spread   [mán]
+诧	詫	chà	诧异 chàyì surprised
+蜘		zhī	蜘蛛 zhīzhū spider
+檐		yán	屋檐 wūyán eaves  [dān]
+冉		rǎn	(书) slowly  [nán] [dān]
+巍		wēi	巍峨 wēi'é towering, lofty
+斟		zhēn	to pour tea or wine
+袱		fú	[fu] 包袱 bāofu (bundle wrapped in) cloth wrapper; burden
+卒		zú	soldier, private; pawn; servant; finally; finish; die  [cù] suddenly  [cuì]
+蟹		xiè	(螃蟹 pángxiè) crab
+姥		lǎo	姥姥 (方) maternal grandmother  [mǔ] (书) old lady
+绷	繃	bēng	stretch tight; spring; 绷带 bandage  [běng] 绷脸  [bèng]
+絮		xù	cotton; catkins; talkative  [chù] [nǜ] [nà]
+惭	慚	cán	惭愧 cánkuì ashamed
+鲍	鮑	bào	鲍鱼 bàoyú abalone
+咯		lo	(助)  [gē] 咯吱 gēzhī  [luò] 吡咯 bǐluò  [kǎ] cough  [kā]
+婶	嬸	shěn	wife of father's younger brother, aunt (婶婶)
+咏	詠	yǒng	chant
+呻		shēn	呻吟 shēnyín moan, groan
+崔		cuī	(surname); 崔嵬 cuīwéi, 崔巍 cuīwēi towering
+硫		liú	(硫磺 liúhuáng) sulphur (S)  [chù]
+蹄		tí	(马蹄; 蹄子) hoof  [dì]
+褂		guà	gown
+肾	腎	shèn	(肾脏 shènzàng) kidney
+剿		jiǎo	剿灭 exterminate  [chāo] 剿袭 chāoxí plagerize
+扼		è	clutch; guard; 扼杀 èshā strangle; 扼要 èyào to the point
+嗡		wēng	(嗡嗡 wēngwēng) buzz (sound of bees)  [wěng]
+挚	摯	zhì	真挚 zhēnzhì true, sincere
+莽		mǎng	wild grass; rude; 莽撞 reckless; 莽苍 misty (scenery)  [máng]
+刃		rèn	(刀刃 dāorèn) blade; sword
+裳		shang	衣裳 yīshang clothing  [cháng] skirt (ancient China)
+揣		chuāi	carry in ones clothes  [chuǎi] 揣摩  [chuài] 挣揣  [duǒ] [zhuī] [tuán]
+枫	楓	fēng	Chinese sweet gum (tree); maple
+凛	凜	lǐn	cold; strict; afraid; shiver, tremble with cold or fear
+豹		bào	(豹子 bàozi) leopard; panther
+亥		hài	12th 地支 Earthly Branch  [jiē]
+茬		chá	crop, batch; stubble (of crops)  [chí]
+泵		bèng	pump  [pìn] [liú]
+蕾		lěi	(蓓蕾 bèilěi) bud
+蝉	蟬	chán	cicada
+翩		piān	翩翩 piānpiān lightly (flutter); 翩然 lightly
+竿		gān	pole, rod  [gàn] [gǎn]
+酥		sū	crispy; soft; butter; cheese; weak (of limb)
+汰		tài	wash out, clean
+疚		jiù	chronic disease; sorrow; 内疚 nèijiù guilty conscience
+沪	滬	Hù	name for 上海 Shanghai
+矢		shǐ	arrow; swear, vow; 矢量 shǐliàng vector
+骆	駱	luò	骆驼 luòtuo camel
+涤	滌	dí	(wash); 涤纶 dílún polyester fiber
+靶		bǎ	(靶子 bǎzi) target  [bà]
+砂		shā	sand; 砂石 sandstone (compare 沙 as in 沙漠 desert)
+稽		jī	examine; 滑稽 huáji funny  [qǐ] 稽首 qǐshǒu kowtow
+砰		pēng	bang (sound)  [pīng] [pèng]
+蓉		róng	( = 城都 Chéngdū); 芙蓉 fúróng lotus
+垛		duò	pile, stack  [duǒ] 垛子 duǒzi buttress; battlements
+酌		zhuó	(书) pour/drink wine; think over, consider
+栖	棲	qī	栖息 qīxī (of birds) perch; dwell, stay; 两栖 amphibious  [xī] 栖栖 jumpy
+匿		nì	to hide  [tè]
+躇		chú	踌躇 chóuchú hesitate  [chuò]
+踌	躊	chóu	踌躇 chóuchú hesitate
+衙		yá	官衙 guānyá (old:) government office  [yú] [yù]
+靖		jìng	绥靖 suíjìng pacify; appease
+畴	疇	chóu	(田畴) farmland; former; 范畴 fànchóu category
+诀	訣	jué	rhymed formula; (诀窍) knack; tricks of the trade
+饲	飼	sì	饲养 sìyǎng raise; 饲料 forage, feed, fodder
+粤	粵	Yuè	粤语 Yuèyǔ Cantonese; 粤剧 yuèjù Guangdong opera
+瑶	瑤	yáo	precious stone, green jasper
+刨		páo	dig, excavate; (spoken:) except  [bào] plane (wood flat)
+狸		li	狐狸 húli fox  [lí] racoon dog
+沥	瀝	lì	drop, trickle; 沥青 lìqīng asphalt
+炕		kàng	heatable brick bed  [hāng]
+叽	嘰	jī	chirp  [jiào]
+酵		jiào	发酵 fājiào ferment, leaven
+呜	嗚	wū	(sound of whistling, zooming); 呜咽 wūyè sob, whimper
+垦	墾	kěn	cultivate land  [yín]
+啃		kěn	gnaw, nibble
+嗜		shì	嗜好 shìhào hobby; addiction, habit
+镁	鎂	měi	magnesium (Mg)
+妓		jì	(娼妓 chāngjì) prostitute  [jī]
+阎	閻	Yán	阎王 Yama, King of Hell
+扳		bān	pull, turn; 扳机 trigger; 扳手 wrench  [pān] (=攀)
+剔		tī	pick, scrape meat from a bone with a knife  [tì]
+麟		lín	麒麟 qílín Chinese unicorn
+撮		cuō	scoop up; extract; (量) pinch   [zuǒ] tuft (of hair)  [zuì] [zuān] [chuā]
+骇	駭	hài	骇人 hàirén horrible; 骇怕 hàipà be afraid
+柄		bǐng	handle
+柬		jiǎn	card, note, letter; 柬埔寨 Jiǎnpǔzhài Cambodia
+梢		shāo	tip, end of a twig          [sào] [shào] [xiāo]
+沼		zhǎo	沼泽 zhǎozé marsh
+笃	篤	dǔ	earnest; seriously ill; 笃笃 dǔdǔ
+涩	澀	sè	puckery, astringent; unsmooth
+禹		Yǔ	(surname); founder of 夏 Xià Dynasty 1989 B.C.
+萎		wěi	wilt; 萎缩 wěisuō wither; atrophy  [wēi] decline  [wèi]
+怅	悵	chàng	惆怅 chóuchàng disconsolate, melancholy
+洼	窪	wā	swamp, hollow; 低洼 dīwā low-lying  [guī]
+贮	貯	zhù	(贮存) store, save
+抨		pēng	抨击 pēngjī attack (verbally)  [bēng]
+钧	鈞	jūn	ancient unit of weight (30 斤); 钧座 Your Excellency
+懈		xiè	(懈怠 xièdài) slack, lax, sluggish
+澡		zǎo	(洗澡 xǐzǎo) bath  [cāo]
+嘀		dí	嘀咕 dígu whisper  [dī] 嘀嗒 dīda drip  [zhé]
+瞥		piē	shoot a glance at; 瞥见 piējiàn catch a glimpse of  [bì]
+勘		kān	勘探 exploration; 勘测 survey; 勘误表 errata
+窘		jiǒng	in a difficult situation; embarrassed
+苑		yuàn	enclosed garden; zoo; park; center; (surname)  [yuān] [yù] [yùn]
+糙		cāo	粗糙 cūcāo coarse, rough; 糙米 cāomǐ brown rice
+萌		méng	sprout, bud; 萌发 germinate  [míng]
+渥		wò	(书) damp; 优渥 yōuwò (书) liberal; munificent  [òu] [wū]
+枣	棗	zǎo	jujube, Chinese date
+杖		zhàng	手杖 shǒuzhàng cane, staff, walking stick
+蔚		wèi	蔚蓝 wèilán azure, sky-blue; 茺蔚 chōngwèi motherwort  [Yù]
+蜀		shǔ	silkworm
+褐		hè	褐色 brown
+蓓		bèi	蓓蕾 bèilěi bud
+蓦	驀	mò	suddenly
+萃		cuì	䷬ Gathering Together
+禄	祿	lù	good luck; official's salary in ancient times
+馋	饞	chán	gluttonous, greedy
+眶		kuàng	eye socket
+惚		hū	obscure, uncertain
+栅	柵	zhà	栅栏 zhàlan railings, bars  [shān] 栅极 grid  [cè]
+炫		xuàn	dazzle; show off, brag, boast
+呕	嘔	ǒu	(呕吐 ǒutù) vomit, throw up  [òu] (=怄)  [ōu]
+茸		róng	茸茸 róngróng soft & thick (hair, grass, etc.)  [rōng] 绿茸茸  [rǒng]
+硕	碩	shuò	large; 硕士学位 shuòshìxuéwèi Master's degree
+娟		juān	(娟秀 juānxiù) beautiful, graceful
+趾		zhǐ	脚趾 jiǎozhǐ toe
+钥	鑰	yào	钥匙 yàoshi key   [yuè] key
+迢		tiáo	迢迢 tiáotiáo far away, remote
+踱		duó	pace, stroll  [chuò]
+祷	禱	dǎo	祷告 dǎogào pray; 祈祷 qídǎo pray
+赎	贖	shú	redeem; ransom; atone; 赎买 shúmǎi redeem, buy out
+桐		tóng	tung tree; 桐油 tung oil  [tōng] [dòng]
+瞄		miáo	(瞄准 miáozhǔn) aim
+穗		suì	ear of grain; 穗子 suìzi tassel, fringe; Suì (广州)  [diàn]
+桦	樺	huà	(桦树 huàshù) birch
+澎		péng	splash; 澎湃 péngpài surge  [pēng]
+鲤	鯉	lǐ	(鲤鱼) carp
+撩		liāo	hold up; sprinkle  [liáo] tease, provoke  [liào] (=撂)  [liǎo] [lào]
+恕		shù	forgive, pardon, excuse
+熏		xūn	kind of sweet grass; to smoke, fumigate  [xùn] poison by gas
+姊		zǐ	elder sister; 姊妹 zǐmèi sisters  [jiě] (=姐)
+糠		kāng	chaff
+夭		yāo	(夭亡 yāowáng, 夭折 yāozhé) die young  [wò] [wāi]
+咀		jǔ	(咀嚼 jǔjué) chew, ruminate
+狈	狽	bèi	狼狈 lángbèi in a difficult position
+甭		béng	(short for 不用 búyòng) there's no need to  [qì]
+疙		gē	疙瘩 gēda bump, lump, knot  [gā] [yì]
+碱	鹼	jiǎn	alkali; soda  [xián]
+诫	誡	jiè	告诫 gàojiè warn
+雹		báo	冰雹 bīngbáo hail
+疤		bā	伤疤, 疤痕 scar
+荧	熒	yíng	荧光 yíngguāng fluorescent
+瘩		da	疙瘩 gēda pimple, lump  [dá] 瘩背 carbuncle on back  [dā]
+屎		shǐ	shit, excrement  [xī]
+褒		bāo	to praise
+秉		bǐng	grasp, hold; master, control, preside over
+疮	瘡	chuāng	疥疮 jièchuāng scabies; 痔疮 zhìchuāng haemorrhoids
+禽		qín	birds; 禽兽 qínshòu birds & beasts
+忿		fèn	indignant; angry
+籽		zǐ	seed
+湛		zhàn	deep; 湛蓝 azure blue  [chén] [dān] [tán] [jìn] [yǐn] [chěn] [yín] [shèn]
+毋		wú	(书) no, not  [móu]
+晤		wù	(会晤 huìwù) meet; 晤面 meet face to face	
+碾		niǎn	grind; crush; flatten; roller	
+抡	掄	lūn	brandish, swing  [lún] select	
+敛	斂	liǎn	hold back, restrain; collect	
+芹		qín	芹菜 qíncài celery	
+攥		zuàn	hold, grip, grasp	
+牡		mǔ	牡牛 bull; 牡蛎 mǔlì oyster; 牡丹 mǔdan tree peony	
+虐		nüè	cruel; 虐待 mistreat	
+亢		kàng	高亢 gāokàng loud and sonorous, resounding; high (land)  [gāng] [gēng]	
+淤		yū	silt; 淤泥 yūní mud, filth; 淤积 yūjī silt up	
+鳞	鱗	lín	fish scale	
+诲	誨	huì	teach, instruct	
+厮	廝	sī	male servant; fellow; together	
+蚕	蠶	cán	silkworm  [tiǎn]	
+酝	醞	yùn	酝酿 yùnniàng brew, ferment	
+妃		fēi	imperial concubine; wife of prince etc.  [pèi]	
+轩	軒	xuān	ancient carriage; lofty; small room; 轩轾 good or bad	
+郡		jùn	prefecture	
+钝	鈍	dùn	blunt; dull, stupid	
+绽	綻	zhàn	split, burst	
+绥	綏	suí	绥靖 suíjìng pacify; appease	
+闺	閨	guī	small door; 闺女 guīnü girl; daughter	
+笋	筍	sǔn	竹笋 bamboo shoots	
+匈		xiōng	匈奴 Xiōngnú; 匈牙利 Xiōngyálì Hungary	
+鞠		jū	鞠躬 jūgōng to bow  [qū] [qiōng]	
+颓	頹	tuí	ruined; 颓丧 tuísàng, 颓唐 tuítáng dejected	
+撂		liào	put down; throw down	
+惦		diàn	(惦记, 惦念) remember with concern	
+刁		diāo	tricky, artful, sly	
+咙	嚨	lóng	喉咙 hóulóng throat	
+坯		pī	base; semifinished product; blank; unburnt earthen brick  [huài]	
+啼		tí	(啼哭 tíkū) cry, wail; crow, caw	
+嗨		hāi	hey; 嗨哟 hāiyō heave-ho  [hēi]	
+尴	尷	gān	尴尬 gāngà awkward, embarrassed	
+唠	嘮	láo	唠叨 láodao chatter  [lào] chat	
+尬		gà	尴尬 gāngà awkward, embarrassed	
+吏		lì	官吏 guānlì government official, officer	
+拎		līn	[līng] carry, lift	
+棠		táng	(棠梨 tánglí) birchleaf pear	
+槽		cáo	trough; groove  [zāo]	
+尉		Wèi	(surname)  [Yù] 尉迟 Yùchí (surname)  [yùn]	
+憧		chōng	憧憬 chōngjǐng long for, look forward to  [zhuàng]	
+柿		shì	柿子 shìzi persimmon; 西红柿 xīhóngshì tomato	
+捎		shāo	take, bring  [shào] 捎马子 shàomǎzi saddlebag  [shǎo] [xiāo] [qiào]	
+岔		chà	branch off, fork; 打岔 dǎchà interrupt, cut in	
+殴	毆	ōu	殴打 ōudǎ beat up, hit	
+祈		qí	祈祷 qídǎo pray  [guǐ]	
+弈		yì	(书) Go (more commonly known as 围棋 wéiqí)	
+弧		hú	(弧形 húxíng) arc, curve; 弧光 arc light; 弧度 radian	
+瘫	癱	tān	瘫痪 tānhuàn paralysis	
+靴		xuē	(靴子) boot	
+肪		fáng	脂肪 zhīfáng fat	
+彷		páng	彷徨 pánghuáng walk back & forth aimlessly  [fǎng] (=仿)  [fáng]	
+涧	澗	jiàn	ravine, gully	
+憬		jǐng	憧憬 chōngjǐng long for; 憬悟 jǐngwù wake up to reality	
+恤		xù	pity, sympathize; give relief	
+榨		zhà	(压榨) press; extract	
+跋		bá	跋涉 báshè trudge, trek  [bèi]	
+馅	餡	xiàn	filling, stuffing	
+辙	轍	zhé	(车辙) rut; rhyme; way	
+拇		mǔ	大拇指 thumb	
+拷		kǎo	(拷打) beat, flog, torture; 拷贝(电影) copy	
+烯		xī	(烯烃 xītīng) alkene; olefin	
+瞻		zhān	观瞻 appearance of a place; impression, sight, view	
+哉		zāi	(bookish sentence final partical; exclamation or question)	
+棘		jí	棘手 thorny, knotty, ticklish	
+漱		shù	gargle	
+涅		niè	alunite; dye black; 涅槃 nièpán nirvana	
+橱	櫥	chú	cabinet; 橱窗 chúchuāng showcase; 橱柜 chúguì cupboard	
+槛	檻	kǎn	(门槛儿 ménkǎnr) threshold  [jiàn] banisters; cage	
+婷		tíng	graceful	
+憨		hān	foolish, silly, naive, straightforward	
+浒	滸	hǔ	waterside     [Xǔ] 浒墅关 (a place)	
+赃	贓	zāng	bribes; stolen goods	
+酣		hān	(drink, etc.) to one's heart's content  [hàn]	
+妞		niū	girl  [hào]	
+咚		dōng	咕咚 gūdōng thump, thud	
+丐		gài	(乞丐 qǐgài) beggar	
+渍	漬	zì	soak; stain; floodwater	
+驼	駝	tuo	骆驼 luòtuo camel  [tuó] 驼背 hunchback; 锅驼机 locomobile	
+栓		shuān	bolt, plug; 消火栓 fire hydrant  [shuàn] [quán]	
+惘		wǎng	(惘然 wǎngrán) frustrated, disappointed	
+馈	饋	kuì	to present as a gift; 反馈 fǎnkuì feedback	
+恬		tián	恬静 tiánjìng tranquil	
+硅		guī	silicon (Si); 硅谷 Guīgǔ Silicon Valley  [hè]	
+颊	頰	jiá	jaw; cheek	
+磷		lín	phosphorus (P)  [lìn] [lǐn] [líng]	
+歼	殲	jiān	歼灭 annihilate	
+藩		fān	藩篱 hedge, fence  [fán]	
+滤	濾	lǜ	(过滤 guòlǜ) filter, strain	
+侈		chǐ	奢侈 shēchǐ luxurious; extravagant; excessive	
+篱	籬	lí	篱笆 líba bamboo or twig fence	
+硝		xiāo	硝石 xiāoshí nitre; saltpetre; 硝烟 gunpowder smoke  [qiào]	
+珑	瓏	lóng	玲珑 línglóng cleverly made; clever & nimble	
+辗	輾	zhǎn	转辗 zhuǎnzhǎn get around; toss about	
+缎	緞	duàn	satin; 绸缎 chóuduàn silks and satins	
+寇		kòu	invade; invader; bandit	
+殆		dài	danger, dangerous; on the point of, nearly, almost	
+氨		ān	ammonia; 氨基酸 ānjīsuān amino acid	
+蔼	藹	ǎi	和蔼 hé'ǎi amiable, friendly	
+薛		Xuē	(surname)	
+拽		zhuài	pull, haul  [zhuāi] fling, throw, hurl  [yè] (=曳)	
+蛙		wā	(青蛙 qīngwā) frog  [jué]	
+坤		kūn	☷ ䷁ The Receptive (Earth)	
+噩		è	shocking	
+胚		pēi	germ; (胚胎 pēitāi) embryo; 胚珠 ovule	
+簿		bù	book; 电话簿 phone book  [bó]	
+捅		tǒng	poke; disclose	
+睦		mù	peaceful; 和睦 hémù amicable, harmonious	
+磊		lěi	磊落 lěiluò just and honorable	
+遏		è	stop, check, hold back	
+戳		chuō	jab, poke, stab; 戳穿 chuōchuān puncture	
+陀		tuó	陀螺 top; 陀螺仪 gyroscope  [duò]	
+谤	謗	bàng	诽谤 fěibàng slander	
+囡		nān	child; daughter; 囡囡 nānnān little darling  [niè] filch	
+仕		shì	bodyguard (piece in 象棋 Chinese Chess)	
+驯	馴	xùn	domesticate; tame and docile	
+橙		chéng	orange (color); 橙子 chéngzi orange (fruit)  [dīng] [dèng]	
+黯		àn	黯然 ànrán dim; dejected; 黯淡 àndàn dim; dismal  [ān]	
+窥	窺	kuī	管窥 guǎnkuī look thru a bamboo tube; have narrow view	
+潺		chán	潺潺 chánchán (sound of water:) murmur, babble	
+卅		sà	thirty (same as 三十 sānshí)	
+虏	虜	lǔ	俘虏 fúlǔ captive; take prisoner	
+髓		suǐ	(骨髓 gǔsuǐ) marrow	
+兢		jīng	战战兢兢 zhànzhànjīngjīng trembling with fear	
+唬		hǔ	吓唬 xiàhu frighten     [xià] (same as 吓, 嚇)  [xiāo] [guó] [háo]	
+朔		shuò	new moon	
+犁		lí	plow; 犁铧 líhuá plowshare	
+墅		shù	别墅 biéshù villa  [yě]	
+孜		zī	孜孜不倦 zīzībújuàn hard-working and untiring	
+宛		wǎn	宛如 wǎnrú just like; 宛然 wǎnrán as if  [yuān] 大宛  [yǔn] [yù]	
+峙		zhì	(书) stand erect  [shì]	
+峨		é	巍峨 wēi'é towering, lofty; 峨嵋山 Éméi Shān	
+庚		gēng	the seventh 天干 Heavenly Stem	
+舷		xián	side of a ship; 左舷 port; 右舷 starboard	
+庵		ān	hut; nunnery, Buddhist convent  [yǎn] [è]	
+庶		shù	numerous; 庶务 shùwu general affairs  [zhù] [zhē]	
+绚	絢	xuàn	绚丽 xuànlì brilliant and colorful	
+彤		tóng	(书) red  [tōng] 红彤彤 bright red	
+曝		pù	expose; sun  [bào] 曝光 bàoguāng exposure (in photography)	
+悍		hàn	fierce; brave; 悍然 hànrán brazenly	
+惋		wǎn	sigh; 惋惜 wǎnxī feel sorry (for)  [lì]	
+懊		ào	懊恼 annoyed; 懊丧 dejected; 懊悔 regret  [yù]	
+拴		shuān	tie, fasten  [quán]	
+漾		yàng	overflow	
+揩		kāi	wipe  [jiá]	
+晌		shǎng	part of the day; noon	
+攘		rǎng	reject, resist; seize, grab; push up one's sleeves  [ràng] [níng] [xiǎng]	
+怠		dài	lazy, indolent; insolent  [yí]	
+屉	屜	tì	tray, drawer  [ti] 抽屉 chōuti drawer	
+澈		chè	clear, limpid	
+孽		niè	(罪孽 zuìniè) evil, sin	
+娓		wěi	娓娓动听 speak with absorbing interest	
+瘤		liú	肿瘤 zhǒngliú tumor	
+渲		xuàn	渲染 xuànrǎn apply colors to drawing; exaggerate	
+凸		tū	convex; 凸透镜 tūtòujìng convex lens; 凹凸 āotū uneven	
+煽		shān	inflame, excite	
+伶		líng	(actor); 伶俐 língli clever; 伶仃 língdīng lonely  [līng] 孤伶伶	
+婪		lán	贪婪 tānlán avaricious  [lǎn]	
+牟		móu	牟利 móulì seek profit  [mù] moo (the sound that cows make)  [mào]	
+舵		duò	rudder; helm; 舵手 steersman, helmsman     [tuó]	
+颐	頤	yí	䷚ The Corners of the Mouth; 颐和园	
+猿		yuán	(猿猴) ape; 猿人 ape-man; 北京猿人 Peking Man	
+悴		cuì	憔悴 qiáocuì wan and sallow; withered	
+踊	踴	yǒng	踊跃 yǒngyuè leap, jump; enthusiastically	
+瓢		piáo	ladle made of a gourd; 瓢虫 piáochóng ladybug	
+痰		tán	phlegm; sputum; 痰盂 tányú spittoon	
+缤	繽	bīn	缤纷 bīnfēn (书) in riotous profusion	
+奢		shē	(奢侈 shēchǐ) luxurious; extravagant; excessive	
+淆		xiáo	混淆 hùnxiáo confuse, mix	
+瘪	癟	biě	shrivelled, shrunken  [biē] 瘪三 biēsān beggar/thief	
+眺		tiào	眺望 tiàowàng look into distance from high place	
+悯	憫	mǐn	pity, sympathize	
+蚌		bàng	clam  [Bèng] 蚌埠 Bèngbu  [pí] [fēng]	
+睬		cǎi	(理睬 lǐcǎi) pay attention to	
+秤		chèng	balance, scale; steelyard  [chēng] [píng]	
+揍		zòu	beat, hit, strike; smash, break  [còu]	
+秧		yāng	seedling, sprout	
+菱		líng	菱角 língjiao water chestnut	
+绊	絆	bàn	stumble, trip	
+囔		nāng	[nang] 嘟囔 dūnang mumble	
+楞		lèng	(=愣) stupified  [léng] [lēng]	
+肴	餚	yáo	sacrificial meats; meat dishes	
+俏		qiào	pretty; nimble; sell well  [xiào] [xiāo]	
+匣		xiá	small box, casket	
+腮		sāi	(腮帮子 sāibāngzi) cheek	
+膺		yīng	breast; receive	
+鸽	鴿	gē	鸽子 gēzi pigeon	
+霓		ní	secondary rainbow; 霓虹灯 neon light	
+臻		zhēn	to attain (a high level)	
+霄		xiāo	云霄 yúnxiāo the skies  [xiào]	
+锯	鋸	jù	saw (noun & verb); 锯子 jùzi saw    [jū] (same as 锔)	
+仄		zè	narrow; 仄声 oblique tone (any tone besides 平声)	
+肘		zhǒu	elbow	
+肋		lèi	肋骨 lèigǔ rib   [lē] [jīn]	
+诽	誹	fěi	诽谤 fěibàng slander	
+窒		zhì	窒息 zhìxī suffocate  [dié]	
+擂		lèi	beat a drum; 擂台 arena  [lēi] hit  [léi] pestle	
+钾	鉀	jiǎ	potassium (K)	
+兮		xī	(a particle which adds a certain mood, like modern 啊)	
+锥	錐	zhuī	圆锥 yuánzhuī cone; 角锥 jiǎozhuī pyramid shape	
+闽	閩	Mǐn	another name for 福建 Fujian	
+桨	槳	jiǎng	oar	
+狄		Dí	(surname)  [tì]	
+犀		xī	犀牛 xīniú rhinoceros	
+隅		yú	corner, nook; outlying place, border	
+烙		lào	iron (for clothes); brand; bake in pan; 烙铁 iron  [luò] 炮烙	
+黛		dài	black pigment for painting eyebrows	
+亘		gèn	extend  [xuān] [gèng]	
+惰		duò	懒惰 lǎnduò lazy  [tuó]	
+峦	巒	luán	山峦 shānluán chain of mountains	
+嗒		dā	嗒嗒 dādā (sound)  [tà] 嗒然 tàrán (书) dejected  [da]	
+倔		juè	gruff, surly  [jué] 倔强 juéjiàng stubborn	
+嚣	囂	xiāo	(叫嚣 jiàoxiāo) shout, make noise, clamor	
+祟		suì	evil spirit, ghost	
+钳	鉗	qián	(钳子 qiánzi) tongs, pliers, pincers, forceps	
+郝		Hǎo	(surname)  [shì]	
+卦		guà	trigram or hexagram from the 易经 Book of Changes	
+懦		nuò	cowardly, weak	
+谕	諭	yù	(书) tell; 上谕 shàngyù imperial edict	
+吠		fèi	bark, yap	
+蟆		má	[ma] 蛤蟆 háma frog, toad  [mò]	
+吩		fēn	吩咐 fēnfù tell  [pèn]	
+蜓		tíng	蜻蜓 qīngtíng dragonfly  [diàn]	
+啄		zhuó	to peck  [zhòu]	
+嗅		xiù	smell, scent, sniff; 嗅觉 sense of smell  [xù]	
+缭	繚	liáo	sew; 缭绕 liáorào encircle; linger in the air	
+噜	嚕	lū	打呼噜 dǎhūlu snore  [lǎo] 咕噜肉	
+秽	穢	huì	dirty; abominable	
+稣	穌	sū	revive, come to; 耶稣 Yēsū Jesus	
+笙		shēng	Pandean pipe	
+毡	氈	zhān	felt; 毡帽 felt hat	
+峭		qiào	峭壁 qiàobì cliff, precipice	
+崽		zǎi	son; young animal, whelp; 崽子 zǎizi (for cursing)	
+栩		xǔ	species of oak; pleased  [yǔ]	
+桅		wéi	(桅杆 wéigān) mast  [guǐ]	
+廖		Liào	(surname)  [liáo]	
+喋		dié	喋喋不休 chatter    [zhá] noise of ducks feeding  [qiè]	
+嫉		jí	be jealous; hate	
+旭		xù	brilliance of the rising sun	
+嬉		xī	嬉笑 laugh & play; 嬉皮笑脸 grinning; 嬉皮士 hippy  [xǐ]	
+掰		bāi	break off with fingers and thumb; 掰腕子 hand wrestling	
+崎		qí	崎岖 qíqū rugged  [qǐ] [yī]	
+锵	鏘	qiāng	(sound:) clang, gong	
+棱		léng	arris, edge; ridge    [lēng]  [líng] [lèng] [chēng]	
+椭	橢	tuǒ	椭圆 tuǒyuán ellipse	
+藻		zǎo	algae; aquatic plants; literary embellishment	
+楠		nán	楠木 nanmu	
+榕		róng	(榕树 róngshù) banyan, fig tree; Fuzhou	
+锰	錳	měng	manganese (Mn)	
+眩		xuàn	(昏眩 hūnxuàn) dizzy; 眩晕 xuànyùn vertigo  [huàn] [juàn]	
+涎		xián	saliva  [yàn] [diàn]	
+殃		yāng	calamity; bring disaster to; 遭殃 meet with disaster	
+窍	竅	qiào	诀窍 juéqiào knack; tricks of the trade	
+帖		tiè	字帖 zìtiè book of calligraphy  [tiě] note; invitation  [tiē] obey	
+甥		shēng	甥儿 sister's son, nephew; 甥女 sister's daughter, niece	
+腑		fǔ	脏腑 zàngfǔ internal organs	
+雏	雛	chú	雏鸟 chúniǎo young bird; nestling, fledgling	
+隧		suì	隧道 suìdào tunnel  [zhuì]	
+腋		yè	(腋窝 yèwō) armpit; axil	
+镰	鐮	lián	sickle	
+茵		yīn	mattress	
+愕		è	愕然 èrán astounded	
+荔		lì	荔枝 lìzhī lychee (fruit)	
+轧	軋	yà	roll; run over; squeeze out  [zhá] roll (steel)  [gá]	
+菇		gū	(蘑菇 mógu) mushroom	
+讪	訕	shàn	mock, ridicule, abuse; embarrassed	
+殉		xùn	be buried alive with dead; sacrifice oneself	
+蜿		wān	蜿蜒 wānyán wriggle; zigzag, meander  [wǎn]	
+锌	鋅	xīn	zinc (Zn)	
+蛤		há	蛤蟆 háma frog   [gé] 蛤蜊 gélí clam  [hā] [é]	
+褪		tùn	slip out of   [tuì] take off, shed; fade	
+羁	羈	jī	bridle; restrain; 羁绊 jībàn yoke; 羁旅 travel	
+芸		yún	rue; 芸香 essence of rue; 芸芸 numerous  (F蕓) 芸薹 yúntái rape  [yùn]	
+谍	諜	dié	间谍 jiàndié spy, secret agent	
+矗		chù	矗立 chùlì (书) stand tall and upright	
+蹋		tà	糟蹋 zāota waste, spoil	
+炯		jiǒng	(炯炯 jiǒngjiǒng) (书) bright, shining	
+蹭		cèng	rub; be smeared with; hang around, loiter  [céng]	
+迸		bèng	burst, spurt, spout	
+钮	鈕	niǔ	电钮 diànniǔ push-button	
+戊		wù	fifth of ten 天干 Heavenly Stems	
+卤	鹵	lǔ	halogen (earth containing salt); thick gravy  [xī]	
+敝		bì	(书) shabby, worn out; my, our (indicating humility)	
+阱		jǐng	陷阱 xiànjǐng pit, trap	
+厄		è	(厄难 ènàn) disaster  [ě]	
+霎		shà	a shower; slight, passing	
+韶(=􀜾𪔓㲈𢨍) (!􂆀招) [sháo] (Unihan:) music of the emperor Shun; beautiful				
+宦		huàn	officials	
+叩		kòu	knock; 叩头 kòutóu ( = 磕头 kētóu) kowtow	
+鞍		ān	(马鞍 mǎ'ān) saddle	
+饺	餃	jiǎo	(饺子, 水饺) dumpling, ravioli	
+沌		dùn	混沌 hùndùn Chaos; innocent as a child  [tún] [chún] [zhuàn]	
+偎		wēi	to fondle	
+襄		xiāng	(襄助 xiāngzhù) assist, help	
+蜻		qīng	蜻蜓 qīngtíng dragonfly  [jīng]	
+呗	唄	bei	(similar to 吧 ba)  [bài] 梵呗 Buddhist chanting	
+哆		duō	哆嗦 duōsuo tremble, shiver  [chǐ] [zhà] [chì] [duò] [diě]	
+窖		jiào	cellar  [zào]	
+穹		qióng	vault, dome; the sky  [qiōng] [kōng]	
+哧		chī	(sound of ripping or giggling)  [xià] [hè]	
+哮		xiào	咆哮 páoxiào roar, thunder; 哮喘 xiàochuǎn asthma  [xuē]	
+睫		jié	睫毛 jiémáo eyelash  [shè]	
+唾		tuò	唾沫 tuòmo, 唾液 tuòyè saliva	
+阑	闌	lán	late; railing, balustrade	
+嗽		sòu	[sou] 咳嗽 késou cough  [shuò] [shù]	
+溯		sù	go against the stream; trace back, recall  [shuò]	
+囱	囪	cōng	烟囱 yāncōng chimney  [chuāng]	
+孰		shú	(书) who, which, what	
+孵		fū	hatch, incubate	
+掂		diān	(掂量 diānliang) weigh in the hand	
+榻		tà	long narrow & low bed; couch	
+挎		kuà	carry on arm or over shoulder; 挎包 kuàbāo satchel  [kū] [kōu]	
+恪		kè	scrupulously and respectfully	
+拭		shì	wipe, rub; 拂拭 fúshì dust, wipe away	
+徨		huáng	彷徨 pánghuáng walk back & forth aimlessly	
+雍		yōng	harmony; (surname)	
+匾		biǎn	sign (board or silk banner) with inscriptions of praise	
+捺		nà	press down, restrain; right falling stroke ()	
+掐		qiā	pinch; dig nails into; pick (flowers); cut off, nip; choke	
+搪		táng	keep out; evade; spread	
+苞		bāo	bud; (书) luxuriant  [páo] [biāo]	
+逞		chěng	show off; carry out (evil design); indulge  [yíng]	
+晾		liàng	dry in air or sun	
+跚		shān	盘跚 pánshān limp, hobble	
+冥		míng	幽冥 yōumíng shadowy; the nether world  [mián] [miàn]	
+蝠		fú	蝙蝠 biānfú bat	
+蝙		biān	蝙蝠 biānfú bat  [pián]	
+窦	竇	dòu	hole; sinus; (surname)	
+祺		qí	(书) auspicious	
+梧		wú	梧桐 wútóng Chinese parasol tree; 魁梧 kuíwú big & tall  [wù] [yǔ]	
+楷		kǎi	model; 楷书 regular script (standard calligraphy)  [jiè]	
+沁		qìn	ooze, seep	
+氢	氫	qīng	hydrogen (H)	
+蝇	蠅	yíng	[ying] 苍蝇 cāngying fly	
+泞	濘	nìng	泥泞 nínìng muddy  [zhù]	
+弛		chí	松弛 sōngchí limp, slack; lax	
+渎	瀆	dú	ditch, drain; show disrespect	
+湃		pài	澎湃 péngpài to surge  [bá]	
+窟		kū	窟窿 kūlong hole; cavity; deficit; 石窟 shíkū grotto	
+尹		yǐn	ancient title for government official; (surname)  [yún]	
+滇		Diān	short name for 云南  [tián] (=填)  [zhēn]	
+潦		liáo	潦草 liáocǎo illegible; sloppy; 潦倒 liáodǎo be frustrated  [lǎo] 旱潦  [lào] [láo] [liǎo]	
+擒		qín	capture, catch	
+咎		jiù	blame, fault; 咎由自取 have only oneself to blame  [gāo]	
+簸		bǒ	颠簸 diānbǒ jolt, bump  [bò] 簸箕 bòji dustpan	
+亵	褻	xiè	undress; dirty; desecrate	
+馨		xīn	pervasive fragrance	
+驹	駒	jū	colt; foal	
+盔		kuī	helmet	
+蔗		zhè	[zhe] 甘蔗 gānzhe sugar cane	
+镀	鍍	dù	to plate (cover a surface with metal)	
+吝		lìn	stingy	
+跤		jiāo	heel  [qiāo]	
+笠		lì	big cone-shaped bamboo or straw hat with wide brim	
+粟		sù	grain	
+萦	縈	yíng	entangle; 萦绕 yíngrǎo hover, linger	
+迂		yū	(迂回 yūhuí) circuitous	
+苔		tái	(青苔) moss; 苔藓 táixiǎn lichen  [tāi] 舌苔 shétāi coating on tongue	
+羹		gēng	thick soup; 调羹 tiáogēng spoon  [láng]	
+聆		líng	(书) listen; hear	
+袄	襖	ǎo	short Chinese jacket	
+茨		cí	(书) thatch (a roof); puncture vine	
+葵		kuí	葵花 sunflower	
+鬓	鬢	bìn	hair on the temples	
+拯		zhěng	拯救 zhěngjiù rescue, deliver, save	
+恃		shì	rely on, depend on  [zhì]	
+拄		zhǔ	lean on (stick etc.)	
+惮	憚	dàn	(书) fear, dread	
+侥	僥	jiǎo	fortunate, lucky   [yáo] 僬侥 Jiāo Yáo	
+碘		diǎn	iodine (I); 碘酒 tincture of iodine	
+逍		xiāo	逍遥 xiāoyáo at ease, unrestrained	
+铛	鐺	dāng	铃铛 língdang small bell  [chēng] shallow pan	
+隘		ài	隘口 àikǒu mountain pass  [è]	
+釜		fǔ	a kind of ancient cauldron	
+芥		jiè	mustard; 芥子园画谱  [gài] 芥蓝 gàilán cabbage mustard	
+蜕	蛻	tuì	蜕化 tuìhuà slough off, exuviate; degenerate  [yuè]	
+韬	韜	tāo	sheath, bow case; conceal; art of war	
+蚯		qiū	蚯蚓 qiūyǐn earthworm	
+韭		jiǔ	fragrant-flowered garlic, Chinese chives	
+饪	飪	rèn	烹饪 pēngrèn to cook food	
+蚓		yǐn	蚯蚓 qiūyǐn earthworm	
+饷	餉	xiǎng	(书) entertain, provide food for; (archaic:) pay	
+虞		yú	(书) prediction; anxiety; deceive	
+搀	攙	chān	pierce, insert, put in, mix; recommend, assist, support	
+肇		zhào	begin	
+簧		huáng	(弹簧 tánhuáng) spring (mechanical device)	
+箩	籮	luó	箩筐 large basket  [luo] 笸箩 pǒluo shallow basket	
+黝		yǒu	black, dark  [yī]	
+盹		dǔn	nap  [zhūn]	
+燎		liáo	burn  [liǎo] singe  [liào]	
+溺		nì	drown; be addicted       [niào] (=尿)  [ruò]	
+呛	嗆	qiāng	choke  [qiàng] irritate	
+晖	暉	huī	(variant of 辉 huī 'shine')	
+蚁	蟻	yǐ	蚂蚁 mǎyǐ ant	
+捻		niǎn	twist with the fingers  [niē] [niān]	
+憔		qiáo	憔悴 qiáocuì wan and sallow; withered	
+悸		jì	palpitate with terror; 心有余悸 have lingering fear	
+哺		bǔ	哺乳 bǔrǔ breast-feed, nurse; 哺育 bǔyù feed; nurture  [bū] [fǔ]	
+溉		gài	灌溉 guàngài irrigate  [xiè]	
+哽		gěng	choke on food; choke with grief/sobs  [yǐng] [yìng] [ńg] [ń]	
+喔		ō	Oh  [wō] 喔喔喔 cock-a-doodle-doo  [wū] [o]	
+饵	餌	ěr	pastry; bait	
+帚		zhǒu	扫帚 sàozhou broom	
+铬	鉻	gè	chromium (Cr)	
+嗤		chī	sneer	
+圃		pǔ	garden	
+坞	塢	wù	bank; low wall; entrenchment	
+垢		gòu	filth	
+赳		jiū	赳赳 jiūjiū valiant, gallant  [jiù]	
+诅	詛	zǔ	诅咒 zǔzhòu swear, curse; 诅盟 zǔméng vow, oath	
+奄		yǎn	cover; suddenly  [yān] (=阉) (=淹)	
+莺	鶯	yīng	warbler; oriole	
+茧	繭	jiǎn	cocoon; callus  [chóng]	
+娼		chāng	娼妓 chāngjì prostitute	
+篡		cuàn	(篡夺 cuànduó) usurp; 篡改 cuàngǎi alter, tamper with	
+笆		bā	笆斗 bādǒu round-bottomed basket; 篱笆 bamboo fence	
+稠		chóu	thick; dense  [tiáo] [diào]	
+皑	皚	ái	(书) pure white (describes snow)	
+庇		bì	shelter, shield, protect  [pí] [pǐ]	
+忖		cǔn	忖度 cǔnduó speculate, conjecture, surmise	
+梵		fàn	Buddhist; 梵文 Fànwén Sanskrit	
+忱		chén	sincere feeling  [dàn]	
+悖		bèi	(书) contrary; perverse; 悖谬 (书) absurd  [běi]	
+懵		měng	dull, stupid  [mèng]	
+抉		jué	(抉择 juézé) (书) pick, choose	
+噬		shì	bite; ䷔噬嗑	
+嗣		sì	inherit, succeed; heir, descendant	
+捋		lǚ	stroke, smooth out with the fingers   [luō] rub one's palm along	
+凋		diāo	wither; 凋谢 diāoxiè wither and fall; die of old age	
+冗		rǒng	superfluous; full of trivial details	
+斐		fěi	斐然 fěirán brilliant (literature); 斐济 Fěijì Fiji	
+昙	曇	tán	covered with clouds; 昙花 broad-leaved epiphyllum  [yù]	
+鲸	鯨	jīng	(鲸鱼) whale	
+曳		yè	drag, haul	
+霹		pī	霹雳 pīlì thunderbolt; 晴天霹雳 bolt from the blue	
+榆		yú	榆树 yúshù elm	
+樵		qiáo	firewood; 樵姑 qiáogū girl who gathers wood	
+蜷(=􁢵卷𨤖巻𠨟) (?𢀻) [quán] [juǎn] (Unihan:) creep like worm, curl one's body				
+腌		yān	preserve in salt; pickle    [ā] [āng]	
+紊		wěn	紊乱 wěnluàn disorder, confusion, chaos  [wèn]	
+猝		cù	sudden; 猝然 cùrán suddenly; 猝不及防 be taken by surprise	
+瞿		Qú	(surname)   [jù] startled  [jí]	
+癖		pǐ	craving; dyspepsic	
+炳		bǐng	(书) bright, splendid	
+碴		chá	be cut (by broken glass etc.)  [chā] 胡子拉碴	
+曦		xī	(书) sunlight	
+禀	稟	bǐng	report to superior; petition; receive	
+怵		chù	fear; 怵惕 chùtì feel apprehensive  [xù]	
+绎	繹	yì	(书) unravel; 络绎不绝 endless stream	
+绢	絹	juàn	thin, tough silk	
+冽		liè	cold; clear	
+缨	纓	yīng	tassel; ribbon	
+兀		wù	(书) towering; bald	
+翌		yì	(书) next; 翌日 the next day	
+倩		qiàn	beautiful; ask a favor  [qìng]	
+佯		yáng	pretend, fake; 佯笑 pretend to laugh	
+亟		jí	urgently   [qì]	
+脯		pú	胸脯 xiōngpú chest  [fǔ] dried meat; preserved fruit	
+鹃	鵑	juān	杜鹃 dùjuān cuckoo (bird); azalea (plant)	
+鸥	鷗	ōu	海鸥 hǎi'ōu seagull	
+舔		tiǎn	lick  [tān]	
+霆		tíng	(雷霆 léitíng) thunderbolt	
+雳	靂	lì	霹雳 pīlì thunderbolt; 晴天霹雳 bolt from the blue	
+阪(S坂) [bǎn] slope; rugged and barren place				
+菠		bō	菠菜 bōcài spinach; 菠萝 bōluó pineapple	
+钊	釗	zhāo	encourage, spur, exhort	
+蚂	螞	mǎ	蚂蚁 mǎyǐ ant  [mà] 蚂蚱 màzha locust  [mā] 蚂螂	
+蜒		yán	蜿蜒 wānyán wriggle; meander; 蚰蜒 yóuyán centipede  [yàn] [dàn]	
+蜗	蝸	wō	蜗牛 wōniú snail	
+谆	諄	zhūn	谆谆 zhūnzhūn earnestly and tirelessly	
+簌		sù	a fine sieve; to sift	
+赂	賂	lù	贿赂 huìlù bribe	
+癞	癩	lài	leprosy	
+赦		shè	to pardon; amnesty  [cè]	
+痪	瘓	huàn	sick, ailing; 瘫痪 tānhuàn paralysis; 痪病 palsy  [tuǎn]	
+跄	蹌	qiàng	踉跄 liàngqiàng stagger   [qiāng]	
+踉		liàng	踉跄 liàngqiàng stagger   [liáng] [láng] [làng]	
+琶		pá	[pa] 琵琶 pípa pipa, kind of musical instrument	
+琵		pí	琵琶 pípa pipa, kind of musical instrument	
+迦		jiā	(used in proper names)  [xiè]	
+邱		qiū	(variant of 丘 qiū 'mound'); Surname	
+酶		méi	enzyme; ferment	
+斡		wò	斡旋 wòxuán mediate; good offices  [guǎn]	
+搔		sāo	scratch  [sào]	
+镍	鎳	niè	nickel (Ni)	
+嫦		Cháng	嫦娥 Cháng'é Goddess of the moon	
+妾		qiè	concubine	
+嘈		cáo	嘈杂 cáozá noisy  [cāo] 嘈嘈	
+喳		chā	喳喳 chācha whisper  [zhā] 喳喳 zhāzhā bird chatter  [zha]	
+咦		yí	(interj.) well, why  [xī]	
+匍		pú	匍匐 púfú crawl, creep; lie flat	
+麓		lù	(山麓 shānlù) foot of a hill or mountain	
+骥	驥	jì	thoroughbred horse; virtuous person	
+侬	儂	nóng	(dialect:) you; (poetry:) I	
+倪		ní	端倪 duānní clue; (surname)  [nì] [niè]	
+踞		jù	crouch, squat; sit	
+跷	蹺	qiāo	lift a leg or finger; on tiptoe; stilts	
+冕		miǎn	crown	
+剃		tì	shave	
+匡		kuāng	rectify; (surname)  [wāng]
+卉		huì	grass; 花卉 huāhuì ornamental plants
+厥		jué	faint, lose consciousness
+叼		diāo	to hold in the mouth
+吆		yāo	吆喝 yāohe cry out, shout
+咂		zā	sip, taste
+咛	嚀	níng	叮咛 warn
+啜		chuò	sip, suck; (啜泣 chuòqì) sob  [zhuó] [chuài]
+瞌		kē	瞌睡 kēshuì sleepy
+炽	熾	[chì	炽热 chìrè red-hot, blazing
+嚓		chā	(喀嚓 kāchā) crack, snap  [cā] (嚓嚓 cācā) screech
+涓		juān	tiny stream, streamlet; pure, clean; select  [yuàn] [xuàn]
+墟		xū	废墟 fèixū ruins
+壕		háo	moat, trench
+夥		huǒ	many, much; (used in place of 伙)
+嫖		piáo	visit prostitutes  [piào] [biāo]
+壑		hè	ravine, gully; big pool  [huò]
+塾		shú	私塾 sīshú old-style private school
+峪		yù	valley, ravine
+噤		jìn	keep silent; shiver
+巅	巔	diān	mountain peak, summit
+帛		bó	silks
+鹊	鵲	què	喜鹊 xǐque magpie
+驮	馱	tuó	carry on the back  [duò] 驮子 duòzi pack animal's load
+陨	隕	yǔn	陨石 yǔnshí aerolite, stony meteorite; 陨星 meteorite
+锨	杴	xiān	shovel
+怆	愴	chuàng	(书) sorrowful
+锚	錨	máo	anchor
+邂		xiè	meet unexpectedly
+拚		pīn	( = 拼)  [pàn] abandon  [biàn] [fèn] [fān]
+贻	貽	yí	(书) hand down, bequeath; give, present
+捶		chuí	beat, thump, pound  [duǒ]
+豌		wān	豌豆 wāndòu pea
+蛰	蟄	zhé	to hibernate; 惊蟄 Waking of Insects
+晦		huì	last day of a lunar month; dark, obscure; night
+缪	繆	Miào	(surname)  [móu] 未雨绸缪  [miù] 纰缪
+暧	曖	ài	暧昧 àimèi ambiguous; shady; dubious
+橘		jú	(橘子 júzi) tangerine (also written 桔 jú)
+猩		xīng	猩猩 xīngxing orangutan; 黑猩猩 chimpanzee
+沽		gū	buy  [gǔ]
+熠		yì	熠熠 yìyì glistening, bright
+殡	殯	bìn	put a corpse in the coffin
+槟	檳	bīng	槟榔 bīnglang betel-nut tree  [bīn] 槟子 bīnzi
+淳		chún	淳朴 chúnpǔ honest, simple, unsophisticated  [zhūn] [zhǔn]
+摹		mó	copy; trace  [mō]
+姣		jiāo	handsome, beautiful  [jiǎo] [xiáo]
+炖		dùn	to stew; warm sth. by putting container in hot water  [tún] wind & fire; red
+噗		pū	(sound:) puff
+啻		chì	(書) only; 不啻 bùchì not less than; as good as; not only  [dì]
+烬	燼	jìn	cinder; 灰烬 cinders, ashes
+咆		páo	咆哮 páoxiào roar
+烷		wán	alkane; 甲烷 methane; 乙烷 ethane; 丙烷 propane
+卯		mǎo	fourth 地支 Earthly Branch; mortise
+牒		dié	official note, certificate
+猾		huá	狡猾 jiǎohuá treacherous, cunning
+琉		liú	琉璃 liúli colored glaze; 琉璃瓦 liúliwǎ glazed tile
+璧		bì	round flat piece of jade with hole in middle
+霏		fēi	霏霏 fēifēi (of rain/snow/sleet:) fall thick and fast
+疵		cī	疵点 cīdiǎn flaw, fault, defect  [zī] [zhài] [jì]
+瘟		wēn	acute communicable diseases; plague; 瘟疫 wēnyì pestilence  [wò] [yūn]
+蹒	蹣	pán	蹒跚 limp, hobble (also written 盘跚)
+矜		jīn	(哀矜) take pity on; (骄矜) arrogant  [guān] 矜寡  [qín]
+磐		pán	磐石 huge rock
+祠		cí	ancestral temple  [sì]
+禧		xǐ	happiness; 恭贺新禧 Happy New Year  [xī]
+箍		gū	hoop; 金箍棒 jīngūbàng Sūn Wùkōng's weapon
+罹		lí	(書) suffer from
+竣		jùn	complete, finish
+缄	緘	jiān	
+缰	韁	jiāng	缰绳 jiāngsheng reins, halter
+楝		liàn	楝树 liànshù chinaberry
+翡		fěi	翡翠 fěicuì jadeite; halcyon
+梆		bāng	clapper
+肮	骯	āng	肮脏 āngzang dirty, filthy  [háng] [gāng]
+掸	撣	dǎn	brush lightly, dust
+腆		tiǎn	thick, abundant; (腼腆 miǎntian) shy
+舜		Shùn	name of a legendary Chinese monarch
+嗝		gé	belch; hiccup  [gě] 嗝儿了 die
+馏	餾	liú	蒸馏 zhēngliú distillation  [liù] to heat in steamer
+闰	閏	rùn	intercalary; 闰年 rùnnián leap year
+锹	鍬	qiāo	spade, shovel
+诛	誅	zhū	punish; put to death
+谛	諦	dì	真谛 zhēndì true meaning
+赁	賃	lìn	to rent or hire
+跛		bǒ	(跛脚)lame  [bì] (跛踬) stumble  [pō]
+跺		duò	stamp one's foot
+蹩		bié	sprain (ankle, wrist); 蹩脚 biéjiǎo inferior, shoddy
+辄	輒	zhé	sides of a carriage box
+遁		dùn	䷠ Retreat  [qūn] [xún]
+羔		gāo	羊羔 yánggāo lamb
+邑		yì	city; 采邑 càiyì fief; 通都大邑 tōngdū-dàyì metropolis  [è]
+邢		gěng xíng	(=􁆍郉) (!那) (Unihan:) surname; state in today's Hebei
+醺		xūn	tipsy, drunk
+糯		nuò	糯米 nuòmǐ glutinous rice
+钗	釵	chāi	hairpin
+钙	鈣	gài	calcium (Ca)
+钠	鈉	nà	sodium (Na)
+砾	礫	lì	砾石 lìshí gravel; 瓦砾 wǎlì rubble
+铿	鏗	kēng	(sound:) clang, clatter
+痹		bì	麻痹 mábì paralysis
+镑	鎊	bàng	pound (currency)
+涝	澇	lào	waterlog
+阜		fù	mound, hill; abundant; (radical 170, 阝 on LEFT side) (cf. 邑)
+隋		Suí	Sui Dynasty (581-618)  [duò] [tuǒ] [tuō]
+雯		wén	clouds that form decorative patterns
+骋	騁	chěng	驰骋 chíchěng (书) gallop
+戍		shù	defend, garrison
+恙		yàng	(書) illness
+徕	徠	lái	招徕 zhāolái solicit, canvass
+鼾		hān	(打鼾 dǎhān) snore
+嫣		yān	handsome, beautiful; 嫣红 bright red
+堑	塹	qiàn	moat, chasm; 堑壕 qiànháo trench
+俑		yǒng	figurine buried with dead in ancient tomb
+匕		bǐ	匕首 bǐshǒu dagger  [pìn]
+俸		fèng	pay, salary  [běng]
+唁		yàn	to extend condolences
+髻		jì	髮髻 fàjì hair worn in a bun or coil  [jié]
+唆		suō	make mischief, intrigue, excite  [shuà]
+啧	嘖	zé	tongue-click; dispute
+啬	嗇	sè	stingy, miserly
+喽	嘍	lou	(spoken, in suggestion or anticipation) [lóu] 喽罗 outlaw rank and file; lackey
+噙		qín	to hold in the mouth or the eyes
+蹂		róu	蹂躏 róulìn trample on; devastate  [rǒu]
+赈	賑	zhèn	relieve, aid; 赈款 zhènkuǎn relief fund
+诣	詣	yì	visit, go to; attainments
+蘑		mó	(蘑菇 mógu) mushroom
+娩		miǎn	childbirth  [wǎn] (=婉)  [wèn]
+岌		jí	lofty, towering (mountain); 岌岌 jíjí precarious
+帧	幀	zhēn	(量): 一帧油画 an oil painting; 帧频 frame frequency
+糜		méi	糜子 méizi broom corn millet  [mí] gruel; 糜烂 rotten
+徙		xǐ	迁徙 qiānxǐ move, migrate  [sī]
+怦		pēng	(sound of heartbeat)
+恸	慟	tòng	哀恸 āitòng profoundly sorrowful
+恿		yǒng	怂恿 sǒngyǒng incite, instigate  [tōng]
+瑙		nǎo	玛瑙 mǎnǎo agate
+惴		zhuì	惴惴 zhuìzhuì anxious  [chuǎn] [guà]
+抿		mǐn	to smooth with a wet brush; close, furl, tuck; sip
+拗		ǎo	bend & break  [ào] 拗口令 tongue-twister  [niù] stubborn  [yù]
+掣		chè	pull, tug; draw
+汕		Shàn	(汕头) port of Swatow  [shuàn]
+暨		jì	and; up to, until  [jiè]
+岖	嶇	qū	崎岖 qíqū rugged
+屹		yì	屹立 stand tall as a mountain  [gē]
+撅		juē	stick up; break; attack  [juè] [jué] [guì]
+圭		guī	jade tablet used as sceptre by ancient feudal lords
+杈		chà	branch of a tree  [chā] wooden fork; pitchfork
+嗖		sōu	(sound:) whiz  [sù] [sòu]
+栈	棧	zhàn	shed; carriage box; hearse
+榷		què	商榷 shāngquè discuss
+黏		nián	sticky
+鳄	鱷	è	鳄鱼 crocodile, alligator
+骏	駿	jùn	骏马 good, fast horse
+沏		qī	infuse  [qiè]
+褶		zhě	pleat, crease  [dié] [xí]
+蝗		huáng	locust
+蛀		zhù	eat into, bore through; (蛀虫 zhùchóng) moth etc.
+淅		xī	(书) wash rice
+芋		yù	taro  [yú] [xū] [yǔ]
+溥		pǔ	broad; vast; common; universal  [fū] [bù] [bó] [pò]
+脓	膿	nóng	pus
+漩		[xuán] [xuàn] (=㳬)(Unihan:) eddy, whirlpool	
+炬		jù	torch
+烽		fēng	beacon; 烽火 beacon-fire; flames of war
+箫	簫	xiāo	flute
+砚	硯	yàn	inkstone
+獗		jué	猖獗 chāngjué be rampant, run wild
+瑚		hú	珊瑚 shānhú coral
+灸		jiǔ	针灸 zhēnjiǔ acupuncture and moxibustion
+湍		tuān	湍急 tuānjí rapid, swift (current)  [zhuān]
+瑜		yú	瑜伽 yújiā Yoga
+甄		zhēn	discriminate, distinguish  [zhèn] [juàn]
+毓		yù	to feed, to rear
+畸		jī	畸形 jīxíng deformity, malformation  [qí]
+椿		chūn	(香椿) Chinese toon; (臭椿) tree of heaven
+盅		zhōng	a cup without a handle  [chōng]
+眈		dān	眈眈 dāndān staring, gazing; 虎视眈眈 eye covetously  [chěn]
+瞟		piǎo	glance sideways at  [piào] [piāo]
+恺	愷	kǎi	joyful
+窿		lóng	窟窿 kūlong hole; cavity; deficit, debit
+笺	箋	jiān	writing paper; letter; note
+埂		gěng	田埂 tiángěng ridge between fields
+垣		yuán	wall
+绮	綺	qǐ	woven silk; (绮丽 qílì) beautiful
+绯	緋	fēi	绯红 bright red, crimson
+唧		jī	squirt; 哼唧 hēngji mumble  [jié]
+哒	噠	Dā	(name of an ancient country); giddap!
+罄		qìng	use up, exhaust
+耷		dā	(书) big-eared; 耷拉 dāla droop, hang down  [zhé]
+膳		shàn	food, imperial meal
+茴		huí	茴香 huíxiāng fennel; aniseed
+豚		tún	young pig; 海豚 hǎitún dolphin; 豚鼠 túnshǔ guinea pig  [dūn] [dùn]
+蕊		ruǐ	(雄蕊 xióngruǐ) stamen; (雌蕊 círuǐ) pistil  [juǎn]
+蠕		rú	蠕虫 rúchóng worm; 蠕动 rúdòng squirm, wriggle
+蝎		xiē	蝎子 xiēzi scorpion  [hé]
+薇		wēi	蔷薇 qiángwēi rose
+蛐		qū	earthworm; 蛐蛐儿 qūqur cricket
+茁		zhuó	(茁长 zhuózhǎng) luxuriate; appear, emerge; 茁壮 zhuózhuàng sturdy  [zhú]
+螂		láng	螳螂 tángláng praying mantis; 蟑螂 zhānglang cockroach
+舀		yǎo	ladle, bale out
+衅	釁	xìn	quarrel, dispute
+褥		rù	cotton-padded mattress; 被褥 bèirù bedding  [nù]
+泾	涇	Jīng	泾河 (name of a river)
+檬		méng	柠檬 níngméng lemon
+檀		tán	(檀香) sandalwood; 檀香扇 sandalwood fan  [shàn]
+樟		zhāng	樟脑 zhāngnǎo camphor
+豺		chái	jackal; 豺狼 cháiláng jackals and wolves
+貂		diāo	marten
+柠	檸	níng	柠檬 níngméng lemon  [chǔ] [zhù]
+捱		ái	(=挨) suffer; delay  [āi]
+辕	轅	yuán	shafts of cart, neap (tongue of a wagon drawn by a pair of draft animals), yamen
+嶙		lín	嶙峋 línxún jagged, rugged  [lǐn]
+鄂		È	(surname); ( = 湖北 Hubei province)
+喑		yīn	silent, mute  [yǐn] [yìn]
+酚		fēn	phenol; 酚醛 phenolic aldehyde
+呸		pēi	(exclamation) bah! pooh!
+叱		chì	(书) shout at; 叱咤风云 all powerful  [huà] [é]
+钴	鈷	gǔ	cobalt (Co)
+铮	錚	zhēng	ancient soldiers' bell-shaped instrument  [zhèng]
+骡	騾	luó	(骡子 luózi) mule
+阕	闋	què	(measure word for music); cease
+陛		bì	陛下 bìxià Your Majesty
+闵	閔	Mǐn	(surname)
+霭	靄	ǎi	(书) mist, haze
+钵	缽	bō	alms bowl
+釉		yòu	glaze
+酉		yǒu	tenth of twelve 地支; (component: 'wine vessel')
+骼		gé	骨骼 gǔgé skeleton
+踮		diǎn	to stand on tiptoe
+鲫	鯽	jì	carp
+蛾		é	(飞蛾 fēi'é) moth  [yǐ]
+藕		ǒu	edible rootstock of lotus
+臊		sāo	smell of urine; foul smell  [sào] shy, bashful
+俟		sì	(书) await  [qí] 万俟 Mòqí (surname)
+盂		yú	broad-mouthed jar; 痰盂 tányú spittoon
+皿		mǐn	器皿 qìmǐn household utensils  [mǐng]
+痊		quán	(痊愈 quányù) recover from an illness
+匐		fú	匍匐 púfú crawl, creep; lie flat
+甬		yǒng	another name for Ningbo; 甬道 yǒngdào path, corridor  [dòng]
+吮		shǔn	suck
+咔		kā	咔嚓 kāchā snap; 咔哒 kādā click  [kǎ] 咔叽 kǎjī khaki  [nòng]
+嗬		hē	oh, ah
+棣		dì	(书) younger brother; 唐棣 bush cherry; white poplar  [tì] [dài]
+摒		bìng	get rid of; dismiss
+囤		dùn	grain bin  [tún] store up; hoard
+憩		qì	休憩 xiūqì take a rest
+徜		cháng	徜徉 chángyáng (书) wander about unhurriedly
+岱		dài	a sacred mountain in 山东
+坂	阪	bǎn	slope; rugged and barren place
+孀		shuāng	(孤孀 gūshuāng, 孀婺 shuāngwù) widow
+呓	囈	yì	呓语 talk in one's sleep
+孑		jié	(书) lonely; 孑孓 jiéjué wiggler
+孚		fú	inspire confidence in somebody; 中孚 ䷼ Inner Truth
+孺		rú	child
+寮		liáo	hut
+巳		sì	The 6th of the 12 地支 Earthly Branches  [yǐ]
+幌		huǎng	幌子 huǎngzi shop sign, signboard; pretence
+幔		màn	curtain
+陲		chuí	(书) frontiers, borders
+谩	謾	mán	deceive  [màn] disrespectful
+戮		lù	kill, slaughter
+蜈		wú	蜈蚣 wúgōng centipede
+蚣		gōng	蜈蚣 wúgōng centipede  [zhōng]
+撬		qiào	to pry open
+撵	攆	niǎn	expel
+茜		qiàn	alizarin red; madder  [xī] (used in people's names)
+茉		mò	茉莉 mòli jasmine
+札		zhá	strips of wood for writing on; 札记 zhájì reading notes  [yà]
+竽		yú	an ancient musical wind instrument
+枷		jiā	cangue; 枷锁 jiāsuǒ yoke, chains, shackles  [jià]
+柑		gān	柑橘 gānjú citrus; 柑子 gānzi Mandarin orange  [qián]
+桓		Huán	(surname)
+砺	礪	lì	whetstone; sharpen
+梓		zǐ	Chinese catalpa; cut blocks for printing; 梓里 home town
+椰		yē	coconut palm; 椰子 coconut
+楔		xiē	楔子 wedge; prologue
+痉	痙	jìng	痉挛 jìngluán spasm, convulsions
+湮		yān	(湮没 yānmò) fall into oblivion  [yīn] (=洇)
+毗		pí	(毗连 pílián) adjoin, be adjacent to
+弼		bì	(书) assist
+嘹		liáo	嘹亮 liáoliàng resonant; loud and clear  [liào]
+煜		yù	(熠煜) shine; 煜煜 dazzling; 煜熠 bright
+狞	獰	níng	狞笑 grin hideously; 狰狞 zhēngníng ferocious
+狰	猙	zhēng	狰狞 zhēngníng ferocious, savage, hideous
+瑕		xiá	flaw (in piece of jade or in general)
+町		tǐng	(书) boundary of a field  [dīng] (in place name)  [tīng] [zhèng] [tiǎn]
+疴	痾	kē	illness    [ē] [qià]
+疹		zhěn	rash  [chèn]
+痔		zhì	痔疮 haemorrhoids, piles
+遨		áo	遨游 áoyóu roam, travel
+蹑	躡	niè	walk on tiptoe; tread; walk with
+赡	贍	shàn	赡养 shànyǎng support, provide for
+讣	訃	fù	obituary
+盎	àng		盎然 àngrán overflowing
+蟋		xī	蟋蟀 xīshuài cricket
+蟀		shuài	蟋蟀 xīshuài cricket
+荃		quán	a fragrant herb mentioned in old books  [chuò]
+芡		qiàn	Gorgon euryale (an aquatic plant); 芡粉 cooking starch
+秸		jiē	秫秸 shújiē sorghum stalk  [jí]
+秆	稈	gǎn	stalk, stem
+缮	繕	shàn	write out, copy
+睾		gāo	睾丸 gāowán testicle  [hào]
+翎		líng	翎毛 língmáo plume; 翎子 tail feather worn on hat
+胯		kuà	hip  [kuǎ]
+胺		àn	amine  [è]
+臼		jiù	mortar; joint
+氤		yīn	氤氲 yīnyūn thick (mist or smoke)  [yán]
+苇	葦	wěi	reed
+樽		zūn	ancient wine vessel
+荚	莢	jiá	pod
+莅	蒞	lì	(莅临 lìlín) arrive, be present
+蒿		hāo	wormwood, artemisia; 茼蒿 tónghāo crowndaisy chrysanthemum  [gǎo]
+薰		xūn	fragrance of flowers; (=熏) sweet grass
+蘸		zhàn	dip in (ink, sauce, etc)
+妪	嫗	yù	(老妪 lǎoyù) (书) old woman
+妍		yán	beautiful
+蛆		jū	蝍蛆 jiéjū centipede; cricket   [qū] maggot
+壬		rén	Ninth of the ten heavenly stems (天干)
+噔		dēng	thump, thud; 咯噔 gēdēng click
+佃		diàn	rent land; 佃户 diànhù tenant farmer  [tián]
+鬃		zōng	鬃毛 zōngmáo hair on neck of pig, horse, etc.
+褛	褸	lǚ	褴褛 lánlǚ ragged, shabby
+讫	訖	qì	completed
+锭	錠	dìng	锭子 dìngzi spindle; 钢锭 gāngdìng steel ingot
+谗	讒	chán	false words; flatter; slander
+谚	諺	yàn	谚语 yànyǔ proverb, common saying
+赧		nǎn	blushing
+逑		qiú	to collect; to mate, to match; spouse
+辘	轆	lù	辘轳 lùlu windlass, winch
+诟	詬	gòu	shame; revile
+遛		liù	saunter, stroll; fill (crevice etc.)  [liú] 逗遛  [liū] (=溜)
+邸		dǐ	residence of high official
+裨		bì	(裨益 bìyì) (书) benefit   [pí] (书) secondary, minor
+酋		qiú	chieftan, chief of a tribe, sheik
+酗		xù	酗酒 xùjiǔ excessive drinking
+蜇		zhē	sting; 蜇针 stinger  [zhé] 海蜇 hǎizhé jellyfish
+蛹		yǒng	pupa; 蝶蛹 diéyǒng chrysalis
+酯		zhǐ	ester; 酯酶 zhǐméi esterase
+酰		xiān	acyl
+藓	蘚	xiǎn	moss; 苔藓 lichen
+銮	鑾	luán	small tinkling bell
+菁		jīng	lush, luxuriant; essence, cream
+铢	銖	zhū	ancient unit of weight, 1/24 两
+舫		fǎng	boat
+胰		yí	pancreas; 胰岛素 insulin; 胰液 pancreatic juice
+镳	鑣	biāo	horse's bit
+鞑	韃	dá	鞑靼 Dádá Tartar
+飨	饗	xiǎng	(书) provide with food; entertain
+皖		Wǎn	(another name for Anhui province)  [huàn]
+痘		dòu	smallpox
+猬	蝟	wèi	(刺猬 cìwei) hedgehog
+狩		shòu	狩猎 shòuliè hunting
+潼		Tóng	潼关 Tóngguān (place name)  [chōng] [zhōng]
+鹧	鷓	zhè	鹧鸪 zhègū Chinese francolin; partridge
+麒		qí	麒麟 qílín Chinese unicorn
+龇	齜	zī	龇牙 zīyá bare one's teeth
+柚		yòu	shaddock; pomelo  [yóu] 柚木 yóumù teak  [zhú] 杼柚  [zhóu]
+婀		ē	婀娜 ēnuó graceful  [ě]
+啾		jiū	啾啾 jiūjiū chirps (sound of birds)
+偻	僂	lǚ	instantly; 伛偻 yǔlǚ bent  [lóu] 佝偻 gōulóu rickety
+俾		bǐ	(书) in order to  [bēi] [bì] [pì]
+俪	儷	lì	pair, couple; husband & wife
+伉		kàng	伉俪 (书) married couple  [gāng] [kǎng]
+鳌	鰲	áo	giant turtle of legend
+饯	餞	jiàn	give a farewell dinner; 蜜饯 mìjiàn candied fruit
+袈		jiā	袈裟 jiāshā kasaya (Buddhist monk coat)
+螳		táng	螳螂 tángláng (praying) mantis
+蝌		kē	蝌蚪 kēdǒu tadpole
+蚪		dǒu	蝌蚪 kēdǒu tadpole
+苯		běn	benzene
+臾		yú	须臾 xūyú moment, instant  [yǔ] [yǒng] [kuì]
+绺	綹	liǔ	skein (of silk thread); lock (of hair)
+篙		gāo	punt-pole
+筏		fá	raft
+癸		guǐ	10th 天干
+痼		gù	chronic, inveterate
+橹	櫓	lǔ	scull, sweep
+朕		zhèn	(书) I, we (used only by the emperor)
+嗳	噯	ǎi	[ài] (interjection)
+厩	廄	jiù	stable, pen (for horses etc.); to gather; (surname)
+鳃	鰓	sāi	gill
+鲨	鯊	shā	鲨鱼 shāyú shark

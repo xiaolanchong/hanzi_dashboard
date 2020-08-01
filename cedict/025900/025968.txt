@@ -1,0 +1,491 @@
+數	数	shǔ	to count/to count as/to regard as/to enumerate (sb's shortcomings)
+數	数	shù	number/figure/several/CL:個|个[gè]
+數	数	shuò	frequently/repeatedly
+上證綜合指數	上证综合指数	Shàng zhèng zōng hé zhǐ shù	SSE (Shanghai Stock Exchange) Composite Index
+不可勝數	不可胜数	bù kě shèng shǔ	countless/innumerable
+不可數	不可数	bù kě shǔ	uncountable
+不可數名詞	不可数名词	bù kě shǔ míng cí	uncountable noun (in grammar of European languages)
+不可數集	不可数集	bù kě shuò jí	uncountable set (math.)
+不名數	不名数	bù míng shù	abstract number
+不計其數	不计其数	bù jì qí shù	lit. their number cannot be counted (idiom); fig. countless/innumerable
+不足齒數	不足齿数	bù zú chǐ shù	not worth mentioning/not worth considering
+中位數	中位数	zhōng wèi shù	median
+中子數	中子数	zhōng zǐ shù	neutron number
+乘數	乘数	chéng shù	multiplier
+九宮格數獨	九宫格数独	jiǔ gōng gé shù dú	sudoku (puzzle game)
+亂數	乱数	luàn shù	random number
+二次函數	二次函数	èr cì hán shù	quadratic function
+二項式係數	二项式系数	èr xiàng shì xì shù	a binomial coefficient (math.)/the number of combinations
+交換代數	交换代数	jiāo huàn dài shù	(math.) commutative algebra
+交換代數學	交换代数学	jiāo huàn dài shù xué	(math.) commutative algebra
+人口數	人口数	rén kǒu shù	population
+人數	人数	rén shù	number of people
+介電常數	介电常数	jiè diàn cháng shù	dielectric constant
+代數	代数	dài shù	algebra
+代數函數	代数函数	dài shù hán shù	(math.) algebraic function
+代數函數論	代数函数论	dài shù hán shù lùn	algebraic function theory (math.)
+代數和	代数和	dài shù hé	algebraic sum
+代數基本定理	代数基本定理	dài shù jī běn dìng lǐ	fundamental theorem of algebra
+代數學	代数学	dài shù xué	algebra (as branch of math.)
+代數學基本定理	代数学基本定理	dài shù xué jī běn dìng lǐ	fundamental theorem of algebra (every polynomial has a complex root)
+代數幾何	代数几何	dài shù jǐ hé	algebraic geometry
+代數幾何學	代数几何学	dài shù jǐ hé xué	algebraic geometry
+代數式	代数式	dài shù shì	algebraic formula
+代數拓撲	代数拓扑	dài shù tuò pū	algebraic topology (math.)
+代數數域	代数数域	dài shù shù yù	algebraic number field (math.)
+代數方程	代数方程	dài shù fāng chéng	algebraic equation/polynomial equation
+代數曲線	代数曲线	dài shù qū xiàn	algebraic curve
+代數曲面	代数曲面	dài shù qū miàn	algebraic surface
+代數簇	代数簇	dài shù cù	algebraic variety (math.)
+代數結構	代数结构	dài shù jié gòu	algebraic structure
+代數群	代数群	dài shù qún	algebraic group (math.)
+代數量	代数量	dài shù liàng	algebraic quantity
+件數	件数	jiàn shǔ	item count (of a consignment etc)
+作數	作数	zuò shù	valid/counting (as valid)
+使用數量	使用数量	shǐ yòng shù liàng	usage (i.e. extent of use)
+係數	系数	xì shù	coefficient/factor/modulus/ratio
+個人數字助理	个人数字助理	gè rén shù zì zhù lǐ	personal digital assistant (PDA)
+個數	个数	gè shù	number of items or individuals
+倍數	倍数	bèi shù	multiple/multiplier/factor
+倒數	倒数	dào shǔ	to count backwards (from 10 down to 0)/to count down/from the bottom (lines on a page)/from the back (rows of seats)
+倒數	倒数	dào shù	inverse number/reciprocal (math.)
+假分數	假分数	jiǎ fēn shù	improper fraction (with numerator ≥ denominator, e.g. seven fifths)/see also: proper fraction 真分數|真分数[zhēn fēn shù] and mixed number 帶分數|带分数[dài fēn shù]
+偶函數	偶函数	ǒu hán shù	even function (math.)
+偶數	偶数	ǒu shù	even number
+元數據	元数据	yuán shù jù	metadata
+充填因數	充填因数	chōng tián yīn shù	complementary factor
+充數	充数	chōng shù	to make up the number (i.e. to fill places up to a given number)/to serve as stopgap
+光纖分佈數據接口	光纤分布数据接口	guāng xiān fēn bù shù jù jiē kǒu	FDDI/Fiber Distributed Data Interface
+光纖分布式數據接口	光纤分布式数据接口	guāng xiān fēn bù shì shù jù jiē kǒu	Fiber Distributed Data Interface/FDDI
+全數	全数	quán shù	the entire sum/the whole amount
+公倍數	公倍数	gōng bèi shù	common multiple
+公約數	公约数	gōng yuē shù	common factor/common divisor
+共享函數庫	共享函数库	gòng xiǎng hán shù kù	shared library (computing)
+共軛虛數	共轭虚数	gòng è xū shù	conjugate imaginary number (math)
+共軛複數	共轭复数	gòng è fù shù	complex conjugate number (math.)
+冗數	冗数	rǒng shù	redundant number
+冪級數	幂级数	mì jí shù	power series (math.)
+冷熱度數	冷热度数	lěng rè dù shù	temperature (esp. of medical patient)
+函數	函数	hán shù	function (math.)
+分數	分数	fēn shù	(exam) grade/mark/score/fraction
+分數掛帥	分数挂帅	fēn shù guà shuài	preoccupied with school grades/overemphasis on test scores
+分數線	分数线	fēn shù xiàn	horizontal line (in a fraction)/minimum passing score
+初等代數	初等代数	chū děng dài shù	elementary algebra
+劫數	劫数	jié shù	predestined fate (Buddhism)
+劫數難逃	劫数难逃	jié shù nán táo	Destiny is inexorable, there is no fleeing it (idiom). Your doom is at hand.
+勁度係數	劲度系数	jìn dù xì shù	coefficient of restitution (in Hooke's law)
+十數	十数	shí shù	more than ten/a dozen or more
+半數	半数	bàn shù	half the number/half
+半數以上	半数以上	bàn shù yǐ shàng	more than half
+印數	印数	yìn shù	the amount of books etc printed at one impression/print run
+原函數	原函数	yuán hán shù	antiderivative
+原子序數	原子序数	yuán zǐ xù shù	atomic number
+參數	参数	cān shù	parameter
+反函數	反函数	fǎn hán shù	inverse function (math.)
+取樣數量	取样数量	qǔ yàng shù liàng	sample size (statistics)
+句數	句数	jù shù	number of sentences/number of lines (in verse etc)
+可數	可数	kě shǔ	countable/denumerable
+可數名詞	可数名词	kě shǔ míng cí	countable noun (in grammar of European languages)
+可數集	可数集	kě shǔ jí	countable set (math.)/denumerable set
+合成數	合成数	hé chéng shù	composite number (i.e. not prime, has a factorization)
+合數	合数	hé shù	composite number (i.e. not prime, has a factorization)
+吉尼係數	吉尼系数	Jí ní xì shù	see 基尼係數|基尼系数[Jī ní xì shù]
+同步數位階層	同步数位阶层	tóng bù shù wèi jiē céng	synchronous digital hierarchy/SDH
+名數	名数	míng shù	(grammar) number plus classifier/household (in census)
+向量代數	向量代数	xiàng liàng dài shù	vector algebra
+周期函數	周期函数	zhōu qī hán shù	periodic function
+和數	和数	hé shù	sum (math.)
+商數	商数	shāng shù	quotient (math.)
+單數	单数	dān shù	positive odd number (also written 奇數|奇数)/singular (grammar)
+噸數	吨数	dūn shù	tonnage
+四元數	四元数	sì yuán shù	quaternion (math.)
+回數	回数	huí shù	number of times (sth happens)/number of chapters in a classical novel/(math.) palindromic number
+回調函數	回调函数	huí diào hán shù	callback (computing)
+因數	因数	yīn shù	factor (of an integer)/divisor
+圈數	圈数	quān shù	number of laps
+國際數學聯盟	国际数学联盟	Guó jì Shù xué Lián méng	International Mathematical Union
+圓函數	圆函数	yuán hán shù	the trigonometric functions
+基尼係數	基尼系数	Jī ní xì shù	Gini coefficient (a measure of statistical dispersion)
+基數	基数	jī shù	cardinal number/(math.) radix/base
+基數詞	基数词	jī shù cí	cardinal numeral
+堅尼係數	坚尼系数	Jiān ní xì shù	see 基尼係數|基尼系数[Jī ní xì shù]
+堆壘數論	堆垒数论	duī lěi shù lùn	additive number theory (math.)
+報數	报数	bào shù	number off! (command in military drill)/count off!
+增量參數	增量参数	zēng liàng cān shù	incremental parameter
+壽數	寿数	shòu shu	predestined length of life
+壽數已盡	寿数已尽	shòu shù yǐ jǐn	to die (when one's predestined life span is up)
+多值函數	多值函数	duō zhí hán shù	multivalued function (math.)
+多數	多数	duō shù	majority/most
+多數決	多数决	duō shù jué	majority decision
+多數黨	多数党	duō shù dǎng	majority party
+大多數	大多数	dà duō shù	(great) majority
+大數	大数	Dà shù	Tarsus, Mediterranean city in Turkey, the birthplace of St Paul
+大數	大数	dà shù	a large number
+大麥克指數	大麦克指数	Dà Mài kè Zhǐ shù	see 巨無霸漢堡包指數|巨无霸汉堡包指数[Jù wú bà hàn bǎo bāo Zhǐ shù]
+奇函數	奇函数	jī hán shù	odd function (math.)
+奇數	奇数	jī shù	odd number
+套數	套数	tào shù	song cycle in Chinese opera/(fig.) a series of tricks/polite remarks/number of (things that are counted in 套[tào], like houses)
+奧數	奥数	Ào Shù	International Mathematical Olympiad (IMO)/abbr. for 國際奧林匹克數學競賽|国际奥林匹克数学竞赛[Guó jì Ào lín pǐ kè Shù xué Jìng sài]
+如數家珍	如数家珍	rú shǔ jiā zhēn	lit. as if enumerating one's family valuables (idiom)/fig. to be very familiar with a matter
+字數	字数	zì shù	number of written characters/number of words/word count
+字節數	字节数	zì jié shù	byte count
+定數	定数	dìng shù	constant (math.)/quota/fixed number (e.g. of places on a bus)/fixed quantity (e.g. load of truck)/destiny
+家數	家数	jiā shù	the distinctive style and techniques handed down from master to apprentice within a particular school
+寥寥可數	寥寥可数	liáo liáo kě shǔ	just a very few (idiom); tiny number/just a handful/not many at all/You count them on your fingers.
+實數	实数	shí shù	real number (math.)/actual value
+實數值	实数值	shí shù zhí	real-valued (math.)/taking real numbers as values (of a function)
+實數集	实数集	shí shù jí	set of real numbers
+實變函數	实变函数	shí biàn hán shù	function of a real variable (math.)
+實變函數論	实变函数论	shí biàn hán shù lùn	(math.) theory of functions of a real variable
+實際參數	实际参数	shí jì cān shù	(computing) actual parameter/argument
+對數	对数	duì shù	logarithm
+對數函數	对数函数	duì shù hán shù	logarithmic function
+導函數	导函数	dǎo hán shù	derived function/derivative f' of a function f
+導數	导数	dǎo shù	derivative (math.)
+小數	小数	xiǎo shù	small figure/small amount/the part of a number to the right of the decimal point (or radix point)/fractional part of a number/number between 0 and 1/decimal fraction
+小數點	小数点	xiǎo shù diǎn	decimal point
+少數	少数	shǎo shù	small number/few/minority
+少數民族	少数民族	shǎo shù mín zú	national minority/ethnic group
+少數民族鄉	少数民族乡	shǎo shù mín zú xiāng	ethnic township (formal village level subdivision of PRC county)
+尾數	尾数	wěi shù	remainder (after rounding a number)/decimal part (of number after the decimal point)/mantissa (i.e. fractional part of common logarithm in math.)/small change/balance (of an account)
+居民消費價格指數	居民消费价格指数	jū mín xiāo fèi jià gé zhǐ shù	consumer price index CPI
+屈指可數	屈指可数	qū zhǐ kě shǔ	can be counted on one's fingers (idiom)/very few
+巨無霸漢堡包指數	巨无霸汉堡包指数	Jù wú bà hàn bǎo bāo Zhǐ shù	Big Mac Index, a measure of the purchasing power parity (PPP) between currencies
+差數	差数	chā shù	difference (the result of subtraction)
+布爾代數	布尔代数	Bù ěr dài shù	Boolean algebra
+帶分數	带分数	dài fēn shù	mixed fraction/mixed number (i.e. with an integer part and a fraction part, e.g. four and three quarters)/see also: improper fraction 假分數|假分数[jiǎ fēn shù] and proper fraction 真分數|真分数[zhēn fēn shù]
+常數	常数	cháng shù	a constant (math.)
+平均數	平均数	píng jūn shù	mean (statistics)
+平方平均數	平方平均数	píng fāng píng jūn shù	root mean square (RMS)/quadratic root
+幾何平均數	几何平均数	jǐ hé píng jūn shù	geometric mean
+幾何級數	几何级数	jǐ hé jí shù	geometric series
+幾何級數增長	几何级数增长	jǐ hé jí shù zēng zhǎng	exponential increase
+序數	序数	xù shù	ordinal number
+底數	底数	dǐ shù	radix/base (math.)
+度數	度数	dù shu	number of degrees/reading (on a meter)/strength (alcohol, lenses etc)
+弦數	弦数	xián shù	number of strings (of an instrument)
+弧長參數	弧长参数	hú cháng cān shù	parametrization by arc length (of a space curve)
+得數	得数	dé shù	(math.) numerical answer/solution
+循環小數	循环小数	xún huán xiǎo shù	recurring decimal
+心中有數	心中有数	xīn zhōng yǒu shù	to know what's going on
+心中無數	心中无数	xīn zhōng wú shù	to have no idea/to be unsure
+心裡有數	心里有数	xīn lǐ yǒu shù	to know the score (idiom)/to be well aware of the situation
+恆河沙數	恒河沙数	Héng hé shā shù	countless as the grains of sand in the Ganges (idiom)
+恆生中資企業指數	恒生中资企业指数	Héng shēng Zhōng zī qǐ yè zhǐ shù	Hang Seng China affiliated index
+恒生指數	恒生指数	Héng Shēng zhǐ shù	Hang Seng index (of Hong Kong stock market)
+悉數	悉数	xī shǔ	to enumerate in detail/to explain clearly
+悉數	悉数	xī shù	all/every single one/the entire sum
+情緒商數	情绪商数	qíng xù shāng shù	emotional quotient (EQ)/emotional IQ
+感染人數	感染人数	gǎn rǎn rén shù	number of infected persons
+應用數學	应用数学	yìng yòng shù xué	applied mathematics
+抽象代數	抽象代数	chōu xiàng dài shù	abstract algebra
+招數	招数	zhāo shù	move (in chess, on stage, in martial arts)/gambit/trick/scheme/movement/same as 著數|着数[zhāo shù]
+指數	指数	zhǐ shù	(numerical, statistical) index/(math.) exponent/index/exponential (function, growth)
+指數函數	指数函数	zhǐ shù hán shù	exponential function
+指數基金	指数基金	zhǐ shù jī jīn	index fund
+指數套利	指数套利	zhǐ shù tào lì	index arbitrage
+指數期權	指数期权	zhǐ shù qī quán	index options
+擢髮難數	擢发难数	zhuó fà nán shǔ	lit. as difficult to count as hair pulled from sb's head (idiom)/fig. innumerable (crimes)
+收斂級數	收敛级数	shōu liǎn jí shù	convergent series (math.)
+放大倍數	放大倍数	fàng dà bèi shù	magnifying power/magnification
+整倍數	整倍数	zhěng bèi shù	integer multiple
+整數	整数	zhěng shù	whole number/integer (math.)/round figure
+整數倍數	整数倍数	zhěng shù bèi shù	integral multiple
+整數集合	整数集合	zhěng shù jí hé	set of integers (math.)
+整除數	整除数	zhěng chú shù	factor/exact divisor
+整體數位服務網路	整体数位服务网路	zhěng tǐ shù wèi fú wù wǎng lù	Integrated Service Digital Network/ISDN
+整體服務數位網路	整体服务数位网路	zhěng tǐ fú wù shù wèi wǎng lù	Integrated Services Digital Network/ISDN
+一夕數驚	一夕数惊	yī xī shù jīng	one scare after another (idiom)/in a constant state of tension
+一次函數	一次函数	yī cì hán shù	linear function (math.)
+三角函數	三角函数	sān jiǎo hán shù	trigonometric function
+數一數二	数一数二	shǔ yī shǔ èr	reckoned to be first or second best (idiom)/one of the very best/to list one by one
+數不上	数不上	shǔ bù shàng	not to deserve to be mentioned/not to qualify/below par
+數不勝數	数不胜数	shǔ bù shèng shǔ	too many to count (idiom); innumerable
+數不多	数不多	shù bù duō	a small number/one of a very few
+數不清	数不清	shǔ bù qīng	countless/innumerable
+數不盡	数不尽	shǔ bu jìn	countless
+數不著	数不着	shǔ bù zháo	see 數不上|数不上[shǔ bù shàng]
+數不過來	数不过来	shǔ bù guò lái	can't manage to count/too many to count
+數九	数九	shǔ jiǔ	nine periods of nine days each after winter solstice, the coldest time of the year
+數九天	数九天	shǔ jiǔ tiān	nine periods of nine days each after winter solstice, the coldest time of the year
+數九寒天	数九寒天	shǔ jiǔ hán tiān	nine periods of nine days each after winter solstice, the coldest time of the year
+數以億計	数以亿计	shù yǐ yì jì	countless/innumerable
+數以千計	数以千计	shù yǐ qiān jì	thousands (of sth)
+數以百計	数以百计	shù yǐ bǎi jì	hundreds of
+數以萬計	数以万计	shù yǐ wàn jì	tens of thousands/numerous
+數伏	数伏	shǔ fú	same as 三伏天[sān fú tiān], three periods forming the hottest periods of summer, from mid-July to mid-August, namely: 初伏 (mid-July), 中伏 (late July to early August), 末伏 (mid-August)
+數位	数位	shù wèi	digital
+數位信號	数位信号	shù wèi xìn hào	digital signal
+數位網路	数位网路	shù wèi wǎng lù	digital network
+數來寶	数来宝	shǔ lái bǎo	folk theater consisting of recitation accompanied by clapper board rhythm
+數值	数值	shù zhí	numerical value
+數值分析	数值分析	shù zhí fēn xī	numerical analysis (math.)
+數值解	数值解	shù zhí jiě	numerical solution
+數典忘祖	数典忘祖	shǔ diǎn wàng zǔ	to recount history but omit one's ancestors (idiom); to forget one's roots
+數出	数出	shǔ chū	to count out (a sum of money etc)
+數列	数列	shù liè	sequence of numbers/numerical series
+數十億	数十亿	shù shí yì	several billion
+數周	数周	shù zhōu	several weeks/also written 數週|数周
+數域	数域	shù yù	number field (math.)/subfield of the field of complex numbers
+數字	数字	shù zì	numeral/digit/number/figure/amount/digital (electronics etc)/CL:個|个[gè]
+數字信號	数字信号	shù zì xìn hào	digital signal
+數字分頻	数字分频	shù zì fēn pín	digital frequency sharing
+數字化	数字化	shù zì huà	to digitalize/digital
+數字命理學	数字命理学	shù zì mìng lǐ xué	numerology
+數字導覽設施	数字导览设施	shù zì dǎo lǎn shè shī	digital navigation equipment
+數字時鐘	数字时钟	shù zì shí zhōng	digital clock
+數字版權管理	数字版权管理	Shù zì Bǎn quán Guǎn lǐ	Digital Rights Management (DRM)
+數字用戶線路	数字用户线路	shù zì yòng hù xiàn lù	digital subscriber line (DSL)
+數字網	数字网	shù zì wǎng	digital network
+數字通信	数字通信	shù zì tōng xìn	digital communications
+數字鐘	数字钟	shù zì zhōng	digital clock
+數字電視	数字电视	shù zì diàn shì	digital television
+數字電路	数字电路	shù zì diàn lù	digital circuit
+數學	数学	shù xué	mathematics/mathematical
+數學公式	数学公式	shù xué gōng shì	formula
+數學分析	数学分析	shù xué fēn xī	mathematical analysis/calculus
+數學家	数学家	shù xué jiā	mathematician
+數學模型	数学模型	shù xué mó xíng	mathematical model
+數學物理	数学物理	shù xué wù lǐ	mathematical physics
+數學物理學	数学物理学	shù xué wù lǐ xué	mathematical physics
+數小時	数小时	shù xiǎo shí	several hours
+數年	数年	shù nián	several years/many years
+數得上	数得上	shǔ de shàng	to be considered as outstanding or special/to be reckoned with/notable
+數得著	数得着	shǔ de zháo	to be considered as outstanding or special/to be reckoned with/notable
+數念	数念	shǔ niàn	to enumerate one by one
+數控	数控	shù kòng	numerical control (machining)
+數控機床	数控机床	shù kòng jī chuáng	computer numerical control machine tool (CNC machine tool)
+數據	数据	shù jù	data/numbers/digital
+數據介面	数据介面	shù jù jiè miàn	data interface
+數據傳輸	数据传输	shù jù chuán shū	data transmission
+數據壓縮	数据压缩	shù jù yā suō	data compression
+數據庫	数据库	shù jù kù	database
+數據庫軟件	数据库软件	shù jù kù ruǎn jiàn	database software
+數據挖掘	数据挖掘	shù jù wā jué	data mining
+數據接口	数据接口	shù jù jiē kǒu	data interface
+數據機	数据机	shù jù jī	modem (Tw)
+數據段	数据段	shù jù duàn	data segment
+數據流	数据流	shù jù liú	data stream/data flow
+數據組	数据组	shù jù zǔ	dataset
+數據網絡	数据网络	shù jù wǎng luò	data network
+數據總線	数据总线	shù jù zǒng xiàn	data bus (computer)
+數據處理	数据处理	shù jù chǔ lǐ	data processing
+數據通信	数据通信	shù jù tōng xìn	data communication
+數據鏈路	数据链路	shù jù liàn lù	data link
+數據鏈路層	数据链路层	shù jù liàn lù céng	data link layer
+數據鏈路連接標識	数据链路连接标识	shù jù liàn lù lián jiē biāo zhì	data link connection identifier (DLCI)
+數數	数数	shǔ shù	to count/to reckon
+數月	数月	shù yuè	several months
+數模	数模	shù mó	digital-to-analog/abbr. for 數字到模擬|数字到模拟
+數模轉換器	数模转换器	shù mó zhuǎn huàn qì	digital-to-analog converter (DAC)
+數法	数法	shù fǎ	method of counting (e.g. decimal or Roman numbers)
+數清	数清	shǔ qīng	to count/to enumerate exactly
+數獨	数独	shù dú	sudoku (puzzle game)
+數珠	数珠	shù zhū	rosary/prayer beads
+數珠念佛	数珠念佛	shǔ zhū niàn fó	to count one's prayer beads and chant Buddha's name (idiom)
+數理	数理	shù lǐ	mathematical sciences
+數理分析	数理分析	shù lǐ fēn xī	mathematical analysis/calculus
+數理化	数理化	shù lǐ huà	abbr. for mathematics 數學|数学[shù xué], physics 物理[wù lǐ] and chemistry 化學|化学[huà xué]
+數理邏輯	数理逻辑	shù lǐ luó jí	mathematical logic/symbolic logic
+數百	数百	shù bǎi	several hundred
+數百萬	数百万	shù bǎi wàn	several million
+數目	数目	shù mù	amount/number
+數碼	数码	shù mǎ	number/numerals/figures/digital/amount/numerical code
+數碼化	数码化	shù mǎ huà	to digitalize (e.g. data)/digitalization
+數碼掃描	数码扫描	shù mǎ sǎo miáo	a digital scan
+數碼沖印	数码冲印	shù mǎ chōng yìn	digital printing
+數碼港	数码港	shù mǎ gǎng	cyberport
+數碼照相機	数码照相机	shù mǎ zhào xiàng jī	digital camera
+數碼相機	数码相机	shù mǎ xiàng jī	digital camera
+數碼通	数码通	Shù mǎ tōng	SmarTone-Vodafone (Hong Kong and Macau company)
+數種	数种	shù zhǒng	numerous types/many kinds
+數組	数组	shù zǔ	(computing) array
+數萬	数万	shù wàn	several tens of thousands/many thousand
+數落	数落	shǔ luo	to enumerate sb's shortcomings/to criticize/to scold/to talk on and on
+數見不鮮	数见不鲜	shuò jiàn bù xiān	a common occurrence (idiom)
+數詞	数词	shù cí	numeral
+數論	数论	shù lùn	number theory (math.)
+數軸	数轴	shù zhóu	number line
+數週	数周	shù zhōu	several weeks
+數量	数量	shù liàng	amount/quantity/CL:個|个[gè]/quantitative
+數量分析	数量分析	shù liàng fēn xī	quantitative analysis
+數量積	数量积	shù liàng jī	scalar product (of vectors)
+數量級	数量级	shù liàng jí	order of magnitude
+數量詞	数量词	shù liàng cí	numeral-classifier compound (e.g. 一次、三套、五本 etc)
+數額	数额	shù é	amount/sum of money/fixed number
+數黃道黑	数黄道黑	shǔ huáng dào hēi	to enumerate what is black and yellow (idiom); to criticize sb behind his back to incite quarrels/also written 數黑論黃|数黑论黄[shǔ hēi lùn huáng]
+數黑論白	数黑论白	shǔ hēi lùn bái	to enumerate what is black and yellow (idiom); to criticize sb behind his back to incite quarrels/also written 數黑論黃|数黑论黄[shǔ hēi lùn huáng]
+數黑論黃	数黑论黄	shǔ hēi lùn huáng	to enumerate what is black and yellow (idiom); to criticize sb behind his back to incite quarrels
+數點	数点	shǔ diǎn	to count/to itemize
+斷裂模數	断裂模数	duàn liè mó shù	modulus rupture
+日經平均指數	日经平均指数	Rì jīng píng jūn zhǐ shù	Nikkei 225 stock market index
+日經平均指數	日经平均指数	rì jīng píng jūn zhǐ shù	Nikkei index
+日經指數	日经指数	Rì jīng zhǐ shù	Nikkei 225 stock market index
+普朗克常數	普朗克常数	Pǔ lǎng kè cháng shù	Planck's constant h, approximately equal to 6.626 x 10^-34 joule.seconds or 4.135 x 10^-15 electron volt.seconds
+更僕難數	更仆难数	gēng pú nán shǔ	too many to count/very many/innumerable
+最大公約數	最大公约数	zuì dà gōng yuē shù	highest common factor HCF/greatest common divisor GCD
+最小公倍數	最小公倍数	zuì xiǎo gōng bèi shù	least common multiple
+有理數	有理数	yǒu lǐ shù	rational number (i.e. fraction of two integers, math.)
+有理數域	有理数域	yǒu lǐ shù yù	field of rational numbers (math.), usually denoted by Q
+有理數集	有理数集	yǒu lǐ shù jí	set of rational numbers (math.)
+未知數	未知数	wèi zhī shù	unknown quantity
+未知數兒	未知数儿	wèi zhī shù r5	erhua variant of 未知數|未知数[wèi zhī shù]
+本底計數	本底计数	běn dǐ jì shù	background count
+李代數	李代数	Lǐ dài shù	Lie algebra (math.)
+核電荷數	核电荷数	hé diàn hè shù	electric charge on nucleus/atomic number
+梅森素數	梅森素数	méi sēn sù shù	Mersenne prime number (math.)
+極少數	极少数	jí shǎo shù	extremely few/a small minority
+概數	概数	gài shù	approximate number/imprecise indication of quantity (e.g. 十幾|十几[shí jǐ], 兩三百|两三百[liǎng sān bǎi], 一千多[yī qiān duō])
+概率和數理統計	概率和数理统计	gài lǜ hé shù lǐ tǒng jì	probability and mathematical statistics
+模數	模数	mó shù	analog-to-digital/abbr. for 模擬到數字|模拟到数字
+模數轉換器	模数转换器	mó shù zhuǎn huàn qì	analog-to-digital converter (ADC)
+模糊數學	模糊数学	mó hu shù xué	fuzzy mathematics
+樣條函數	样条函数	yàng tiáo hán shù	spline function (math.)
+橢圓函數	椭圆函数	tuǒ yuán hán shù	(math.) elliptic function
+次數	次数	cì shù	number of times/frequency/order number (in a series)/power (math.)/degree of a polynomial (math.)
+正則參數	正则参数	zhèng zé cān shù	regular parametrization
+正整數	正整数	zhèng zhěng shù	positive integer
+正數	正数	zhèng shù	positive number
+歲數	岁数	suì shu	age (number of years old)
+歷數	历数	lì shǔ	to enumerate/to count (one by one)
+歷歷可數	历历可数	lì lì kě shǔ	each one distinguishable
+死亡人數	死亡人数	sǐ wáng rén shù	number of people killed/death toll
+段數	段数	duàn shù	rank/level
+母函數	母函数	mǔ hán shù	generating function (math.)
+民數記	民数记	Mín shù jì	Book of Numbers/Fourth Book of Moses
+氣數	气数	qì shu	fate/destiny/one's lot
+法定人數	法定人数	fǎ dìng rén shù	quorum
+泛代數	泛代数	fàn dài shù	universal algebra
+波函數	波函数	bō hán shù	wave function (in quantum mechanics)
+波數	波数	bō shù	wave number (reciprocal of frequency)
+浮點數	浮点数	fú diǎn shù	(computing) floating-point number/float/real
+消費價格指數	消费价格指数	xiāo fèi jià gé zhǐ shù	consumer price index CPI
+減數分裂	减数分裂	jiǎn shù fēn liè	meiosis (in sexual reproduction)
+渾身解數	浑身解数	hún shēn xiè shù	to give it your all/to go at it with all you've got/to throw your whole weight behind it/also pr. [hún shēn jiě shù]
+湊數	凑数	còu shù	to serve as a stopgap/to make up a shortfall in the number of people
+濫竽充數	滥竽充数	làn yú chōng shù	lit. to play the yu 竽 mouth organ to make up numbers (idiom); fig. to make up the numbers with inferior products/to masquerade as having an ability/token member of a group
+火山爆發指數	火山爆发指数	huǒ shān bào fā zhǐ shù	volcanic explosivity index (VEI)
+無數	无数	wú shù	countless/numberless/innumerable
+無理數	无理数	wú lǐ shù	irrational number
+無限小數	无限小数	wú xiàn xiǎo shù	infinitesimal/infinite decimal expansion
+物價指數	物价指数	wù jià zhǐ shù	price index
+特殊函數	特殊函数	tè shū hán shù	special functions (math.)
+百分數	百分数	bǎi fēn shù	percentage
+盡數	尽数	jìn shù	everything
+直接數據	直接数据	zhí jiē shù jù	data-direct (in LAN emulation)
+相交數	相交数	xiāng jiāo shù	intersection number (math.)
+真分數	真分数	zhēn fēn shù	proper fraction (with numerator < denominator, e.g. five sevenths)/see also: improper fraction 假分數|假分数[jiǎ fēn shù] and mixed number 帶分數|带分数[dài fēn shù]
+真數	真数	zhēn shù	logarithm
+眾數	众数	zhòng shù	plural/mode (statistics)
+票數	票数	piào shù	number of votes/poll count
+禮數	礼数	lǐ shù	etiquette/(old) gradation of etiquette with social status
+積分常數	积分常数	jī fēn cháng shù	constant of integration (math.)
+筆畫數	笔画数	bǐ huà shù	stroke count (number of brushstrokes of a Chinese character)
+等差數列	等差数列	děng chā shù liè	arithmetic progression
+等差級數	等差级数	děng chā jí shù	arithmetic series (such as 2+4+6+8+...)
+等比數列	等比数列	děng bǐ shù liè	geometric progression
+等比級數	等比级数	děng bǐ jí shù	geometric series (such as 1+2+4+8+...)
+答數	答数	dá shù	numerical answer (to a question in math.)/(Tw) (of troops) to shout numbers or phrases in unison (to keep in step or maintain morale)
+算數	算数	suàn shù	to count numbers/to keep to one's word/to hold (i.e. to remain valid)/to count (i.e. to be important)
+算術平均數	算术平均数	suàn shù píng jūn shù	arithmetic mean
+算術級數	算术级数	suàn shù jí shù	arithmetic series (such as 2+4+6+8+...)
+範數	范数	fàn shù	norm (math.)
+約數	约数	yuē shù	divisor (of a number)/approximate number
+純粹數學	纯粹数学	chún cuì shù xué	pure mathematics
+級數	级数	jí shù	(math.) series
+素數	素数	sù shù	prime number
+紫微斗數	紫微斗数	zǐ wēi dǒu shù	Zi Wei Dou Shu, a form of Chinese fortune-telling
+累加總數	累加总数	lěi jiā zǒng shù	cumulative total
+細數	细数	xì shǔ	countdown/breakdown/to list/to enumerate/to run through
+組合數學	组合数学	zǔ hé shù xué	combinatorial mathematics/combinatorics
+絕大多數	绝大多数	jué dà duō shù	absolute majority/overwhelming majority
+絕對大多數	绝对大多数	jué duì dà duō shù	an absolute majority/an overwhelming majority
+絕對數字	绝对数字	jué duì shù zì	absolute (as opposed to relative) number
+統計數據	统计数据	tǒng jì shù jù	statistical data
+綜合服務數位網絡	综合服务数位网络	zōng hé fú wù shù wèi wǎng luò	Integrated Services Digital Network/ISDN
+綜合業務數字網	综合业务数字网	zōng hé yè wù shù zì wǎng	Integrated Services Digital Network (ISDN) (computing)
+維基數據	维基数据	Wéi jī shù jù	Wikistats, (stats.wikimedia.org), online tool providing statistics for Wikimedia projects
+維數	维数	wéi shù	(math.) dimension/dimensionality
+線性代數	线性代数	xiàn xìng dài shù	linear algebra
+總數	总数	zǒng shù	total/sum/aggregate
+總次數	总次数	zǒng cì shù	total number of times
+置信係數	置信系数	zhì xìn xì shù	confidence coefficient (math.)
+羅馬數字	罗马数字	Luó mǎ shù zì	Roman numerals
+股票指數	股票指数	gǔ piào zhǐ shù	stock market index/share price index
+胸中無數	胸中无数	xiōng zhōng wú shù	see 心中無數|心中无数[xīn zhōng wú shù]
+自然數	自然数	zì rán shù	natural number
+自然數集	自然数集	zì rán shù jí	the set of natural numbers (math.)
+莫可指數	莫可指数	mò kě zhǐ shǔ	countless/innumerable
+著數	着数	zhāo shù	move (in chess, on stage, in martial arts)/gambit/trick/scheme/movement/same as 招數|招数[zhāo shù]
+蓋革計數器	盖革计数器	Gài gé jì shù qì	Geiger counter
+虛數	虚数	xū shù	imaginary number
+號數	号数	hào shù	number in a sequence/ordinal number/serial number
+行為數據	行为数据	xíng wéi shù jù	behavioral data (marketing)
+被除數	被除数	bèi chú shù	dividend
+補數	补数	bǔ shù	complementary number
+複數	复数	fù shù	plural/complex number (math.)
+複數域	复数域	fù shù yù	field of complex numbers (math.), usually denoted by C
+複數平面	复数平面	fù shù píng miàn	complex plane (math.)/Argand plane
+複數形式	复数形式	fù shù xíng shì	plural form (of a countable noun)
+複變函數	复变函数	fù biàn hán shù	function of a complex variable (math.)
+複變函數論	复变函数论	fù biàn hán shù lùn	(math.) theory of functions of a complex variable
+解數	解数	xiè shù	talent/ability/capability/martial arts technique/Taiwan pr. [jiě shù]
+解析函數	解析函数	jiě xī hán shù	(math.) an analytic function (of a complex variable)
+解析函數論	解析函数论	jiě xī hán shù lùn	(math.) complex analytic function theory
+計數	计数	jì shù	to count/reckoning
+計數器	计数器	jì shù qì	counter/register
+計數法	计数法	jì shù fǎ	calculation/reckoning
+計數率儀	计数率仪	jì shù lǜ yí	ratemeter
+計數管	计数管	jì shù guǎn	counter
+計數者	计数者	jì shù zhě	counter
+計算數學	计算数学	jì suàn shù xué	computational mathematics/numerical mathematics
+語數外	语数外	yǔ shù wài	Chinese, math & English (school subjects)
+說話算數	说话算数	shuō huà suàn shù	to keep one's promise/to mean what one says
+說話要算數	说话要算数	shuō huà yào suàn shù	promises must be kept
+調和平均數	调和平均数	tiáo hé píng jūn shù	harmonic mean
+識數	识数	shí shù	to know how to count and do sums/numerate/numeracy
+讀數	读数	dú shù	reading/data from meter
+變數	变数	biàn shù	variable (math.)
+負整數	负整数	fù zhěng shù	negative integer
+負數	负数	fù shù	negative number
+質因數	质因数	zhì yīn shù	prime factor (in arithmetic)
+質子數	质子数	zhì zǐ shù	proton number in nucleus/atomic number
+質數	质数	zhì shù	prime number
+質量數	质量数	zhì liàng shù	atomic weight of an element/atomic mass
+超越數	超越数	chāo yuè shù	transcendental number (math.)
+路數	路数	lù shù	social connections/stratagem/method/approach/movement (martial arts)/(sb's) background story
+身體質量指數	身体质量指数	shēn tǐ zhì liàng zhǐ shù	body mass index (BMI)
+連續函數	连续函数	lián xù hán shù	continuous function
+週期數	周期数	zhōu qī shù	periodic number
+運數	运数	yùn shù	one's fortune/destiny
+道瓊斯指數	道琼斯指数	Dào Qióng sī Zhǐ shù	Dow Jones Industrial Average
+金融時報指數	金融时报指数	Jīn róng Shí bào zhǐ shù	Financial Times stock exchange index (FTSE 100 or footsie)
+阿伏伽德羅常數	阿伏伽德罗常数	Ā fú jiā dé luó cháng shù	Avogadro's number (chemistry)
+阿拉伯數字	阿拉伯数字	Ā lā bó shù zì	Arabic numerals 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+除數	除数	chú shù	divisor (math.)
+隨機數	随机数	suí jī shù	random number
+隱函數	隐函数	yǐn hán shù	implicit function
+雙數	双数	shuāng shù	even number
+離散數學	离散数学	lí sàn shù xué	discrete mathematics
+零數	零数	líng shù	the part of a number which is discarded when rounding down
+雷諾數	雷诺数	Léi nuò shù	Reynolds number (ratio of inertial forces to viscous forces in fluid mechanics)
+電子層數	电子层数	diàn zǐ céng shù	electron shell number (chemistry)
+電子數據交換	电子数据交换	diàn zǐ shù jù jiāo huàn	electronic exchange of data
+非對稱式數據用戶線	非对称式数据用户线	fēi duì chèn shì shù jù yòng hù xiàn	Asymmetrical Digital Subscriber Line/ADSL
+非數字	非数字	fēi shù zì	non-numeric
+非正數	非正数	fēi zhèng shù	a nonpositive number (i.e. negative or zero)
+非負數	非负数	fēi fù shù	a nonnegative number (i.e. positive or zero)
+順序數	顺序数	shùn xù shù	ordinal number
+頻數	频数	pín shù	frequency
+頻數	频数	pín shuò	(literary) frequent/repeated
+頻數分佈	频数分布	pín shù fēn bù	frequency distribution
+餘數	余数	yú shù	remainder (in division)
+餘數定理	余数定理	yú shù dìng lǐ	the Remainder Theorem
+餘留無符號數	余留无符号数	yú liú wú fú hào shù	unsigned remainder (i.e. the remainder after rounding to the nearest integer)
+馬赫數	马赫数	Mǎ hè shù	Mach number (fluid mechanics)
+高數	高数	gāo shù	further math/advanced mathematics (school subject, abbr. for 高等數學|高等数学)
+高清數字電視	高清数字电视	gāo qīng shù zì diàn shì	high definition digital television
+高等代數	高等代数	gāo děng dài shù	higher algebra
+高維代數簇	高维代数簇	gāo wéi dài shù cù	(math.) higher dimensional algebraic variety
+點擊數	点击数	diǎn jī shù	number of clicks/number of hits (on a website)
+點數	点数	diǎn shù	to count and check/to tally/points (collected in some bonus scheme etc)

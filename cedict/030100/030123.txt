@@ -1,0 +1,38 @@
+疫	疫	yì	epidemic/plague
+主動免疫	主动免疫	zhǔ dòng miǎn yì	active immunity
+人類免疫缺陷病毒	人类免疫缺陷病毒	rén lèi miǎn yì quē xiàn bìng dú	human immunodeficiency virus (HIV)
+免疫	免疫	miǎn yì	immunity (to disease)
+免疫力	免疫力	miǎn yì lì	immunity
+免疫反應	免疫反应	miǎn yì fǎn yìng	immune response
+免疫學	免疫学	miǎn yì xué	immunology
+免疫應答	免疫应答	miǎn yì yīng dá	immune response
+免疫法	免疫法	miǎn yì fǎ	immunization
+免疫系統	免疫系统	miǎn yì xì tǒng	immune system
+出入境檢驗檢疫局	出入境检验检疫局	chū rù jìng jiǎn yàn jiǎn yì jú	entry-exit inspection and quarantine bureau
+口蹄疫	口蹄疫	kǒu tí yì	foot-and-mouth disease (FMD)/aphthous fever
+國家質量監督檢驗檢疫總局	国家质量监督检验检疫总局	Guó jiā Zhì liàng Jiān dū Jiǎn yàn Jiǎn yì Zǒng jú	AQSIQ/PRC State Administration of Quality Supervision, Inspection and Quarantine
+放射免疫測定	放射免疫测定	fàng shè miǎn yì cè dìng	radioimmunoassay
+檢疫	检疫	jiǎn yì	quarantine
+氣霧免疫	气雾免疫	qì wù miǎn yì	aerosol immunization
+流感疫苗	流感疫苗	liú gǎn yì miáo	flu shot/influenza vaccination
+減毒活疫苗	减毒活疫苗	jiǎn dú huó yì miáo	attenuated live vaccine
+獸疫	兽疫	shòu yì	epizootic
+三合一疫苗	三合一疫苗	sān hé yī yì miáo	DTP vaccination
+疫區	疫区	yì qū	epidemic area
+疫情	疫情	yì qíng	epidemic situation
+疫病	疫病	yì bìng	plague/a blight
+疫苗	疫苗	yì miáo	vaccine
+瘟疫	瘟疫	wēn yì	epidemic/plague/pestilence/diseased
+登革疫苗	登革疫苗	dēng gé yì miáo	dengue vaccine
+羊癢疫	羊痒疫	yáng yǎng yì	scrapie (prion disease of sheep)
+自動免疫	自动免疫	zì dòng miǎn yì	active immunity
+自體免疫疾病	自体免疫疾病	zì tǐ miǎn yì jí bìng	autoimmune disease
+衛生防疫	卫生防疫	wèi shēng fáng yì	epidemic-prevention
+被動免疫	被动免疫	bèi dòng miǎn yì	passive immunity
+防疫	防疫	fáng yì	disease prevention/protection against epidemic
+預防免疫	预防免疫	yù fáng miǎn yì	prophylactic inoculation
+鳥疫	鸟疫	niǎo yì	ornithosis
+鳥疫衣原體	鸟疫衣原体	niǎo yì yī yuán tǐ	Chlamydia ornithosis
+鼠疫	鼠疫	shǔ yì	plague
+鼠疫桿菌	鼠疫杆菌	shǔ yì gǎn jūn	Yersinia pestis/the bubonic plage bacillus
+鼠疫菌苗	鼠疫菌苗	shǔ yì jūn miáo	plague vaccine

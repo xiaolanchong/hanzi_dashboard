@@ -1,0 +1,298 @@
+量	量	liáng	to measure
+量	量	liàng	capacity/quantity/amount/to estimate/abbr. for 量詞|量词[liàng cí], classifier (in Chinese grammar)/measure word
+不可估量	不可估量	bù kě gū liàng	inestimable/incalculable/beyond measure
+不自量	不自量	bù zì liàng	not take a proper measure of oneself/to overrate one's own abilities
+不自量力	不自量力	bù zì liàng lì	to overestimate one's capabilities
+不變量	不变量	bù biàn liàng	invariant quantity/invariant (math.)
+中量級	中量级	zhōng liàng jí	middleweight (boxing etc)
+主法向量	主法向量	zhǔ fǎ xiàng liàng	principal normal vector (to a space curve)
+人不可貌相，海水不可斗量	人不可貌相，海水不可斗量	rén bù kě mào xiàng , hǎi shuǐ bù kě dǒu liáng	you can't judge a person by appearance, just as you can't measure the sea with a pint pot (idiom)
+代數量	代数量	dài shù liàng	algebraic quantity
+份量	份量	fèn liang	see 分量[fèn liang]
+估量	估量	gū liang	to estimate/to assess
+低劑量照射	低剂量照射	dī jì liàng zhào shè	low dose irradiation
+使用數量	使用数量	shǐ yòng shù liàng	usage (i.e. extent of use)
+使用量	使用量	shǐ yòng liàng	volume of use/usage amount
+價值量	价值量	jià zhí liàng	magnitude of value/labor value (in economics, the labor inherent in a commodity)
+儘量	尽量	jǐn liàng	as much as possible/to the greatest extent
+儲量	储量	chǔ liàng	remaining quantity/reserves (of natural resources, oil etc)
+充其量	充其量	chōng qí liàng	at most/at best
+光衝量	光冲量	guāng chōng liàng	radiant exposure
+光通量	光通量	guāng tōng liàng	luminous flux (physics)
+光量	光量	guāng liàng	quantity of light/luminosity
+分子量	分子量	fēn zǐ liàng	molecular mass
+分量	分量	fēn liàng	(vector) component
+分量	分量	fèn liang	quantity/weight/measure
+切向量	切向量	qiē xiàng liàng	tangent vector
+前途無量	前途无量	qián tú wú liàng	to have boundless prospects
+副法向量	副法向量	fù fǎ xiàng liàng	binormal vector (to a space curve)
+劑量	剂量	jì liàng	dosage/prescribed dose of medicine
+劑量效應	剂量效应	jì liàng xiào yìng	dose effect
+劑量當量	剂量当量	jì liàng dāng liàng	dose equivalent
+劑量監控	剂量监控	jì liàng jiān kòng	monitoring
+力量	力量	lì liang	power/force/strength
+力量均衡	力量均衡	lì liàng jūn héng	balance of power
+功德無量	功德无量	gōng dé wú liàng	no end of virtuous achievements (idiom); boundless beneficence
+動量	动量	dòng liàng	momentum
+動量詞	动量词	dòng liàng cí	verbal classifier (in Chinese grammar)/measure word applying mainly to verbs
+化學劑量計	化学剂量计	huà xué jì liàng jì	chemical dosimeter
+化學需氧量	化学需氧量	huà xué xū yǎng liàng	chemical oxygen demand (an environmental indicator)
+協變量	协变量	xié biàn liàng	covariate (statistics)
+印刷量	印刷量	yìn shuā liàng	print run
+原子質量	原子质量	yuán zǐ zhì liàng	atomic mass
+原子量	原子量	yuán zǐ liàng	atomic weight/atomic mass
+參量	参量	cān liàng	parameter (math)/quantity used as a parameter/modulus (math.)
+參量空間	参量空间	cān liàng kōng jiān	moduli space (math.)/parameter space
+取樣數量	取样数量	qǔ yàng shù liàng	sample size (statistics)
+同量	同量	tóng liàng	commensurable/commensurate
+同量異位素	同量异位素	tóng liàng yì wèi sù	nuclear isobar
+名量詞	名量词	míng liàng cí	nominal classifier (in Chinese grammar)/measure word applying mainly to nouns
+向量	向量	xiàng liàng	vector (math.)
+向量代數	向量代数	xiàng liàng dài shù	vector algebra
+向量圖形	向量图形	xiàng liàng tú xíng	vector graphics (computer)
+向量積	向量积	xiàng liàng jī	vector product (of vectors)
+向量空間	向量空间	xiàng liàng kōng jiān	vector space/linear space
+含沙量	含沙量	hán shā liàng	sand content/quantity of sediment (carried by a river)
+含量	含量	hán liàng	content/quantity contained
+吸收劑量	吸收剂量	xī shōu jì liàng	absorbed dose
+商量	商量	shāng liang	to consult/to talk over/to discuss
+單位切向量	单位切向量	dān wèi qiē xiàng liàng	unit tangent vector (math.)
+單位向量	单位向量	dān wèi xiàng liàng	unit vector (math.)
+器量	器量	qì liàng	tolerance
+因變量	因变量	yīn biàn liàng	dependent variable
+國家質量監督檢驗檢疫總局	国家质量监督检验检疫总局	Guó jiā Zhì liàng Jiān dū Jiǎn yàn Jiǎn yì Zǒng jú	AQSIQ/PRC State Administration of Quality Supervision, Inspection and Quarantine
+團結就是力量	团结就是力量	tuán jié jiù shì lì liang	unity is strength (revolutionary slogan and popular song of 1943)
+增量	增量	zēng liàng	increment
+增量參數	增量参数	zēng liàng cān shù	incremental parameter
+大地測量學	大地测量学	dà dì cè liáng xué	geodesy
+大容量	大容量	dà róng liàng	high capacity
+大量	大量	dà liàng	great amount/large quantity/bulk/numerous/generous/magnanimous
+大量殺傷武器	大量杀伤武器	dà liàng shā shāng wǔ qì	weapons of mass destruction
+大量生產	大量生产	dà liàng shēng chǎn	to manufacture in bulk/mass production
+威懾力量	威慑力量	wēi shè lì liang	deterrent force/deterrent
+存量	存量	cún liàng	reserves
+定量	定量	dìng liàng	quantity/fixed amount/ration
+定量分塊	定量分块	dìng liàng fēn kuài	chunking
+定量分析	定量分析	dìng liàng fēn xī	quantitative analysis
+客運量	客运量	kè yùn liàng	amount of passenger traffic
+容量	容量	róng liàng	capacity/volume/quantitative (science)
+容量分析	容量分析	róng liàng fēn xī	quantitative analysis/volumetric analysis
+寬宏大量	宽宏大量	kuān hóng dà liàng	magnanimous (idiom); generous
+寬洪大量	宽洪大量	kuān hóng dà liàng	magnanimous/generous/broad-minded
+小量	小量	xiǎo liàng	a small quantity
+少量	少量	shǎo liàng	a smidgen/a little bit/a few
+工作量	工作量	gōng zuò liàng	workload/volume of work
+巨量	巨量	jù liàng	huge quantity/massive
+巨量轉移	巨量转移	jù liàng zhuǎn yí	mass transfer (in LED panel manufacturing)
+常量	常量	cháng liàng	a constant (physics, math.)
+平均劑量	平均剂量	píng jūn jì liàng	average dose
+幾何量	几何量	jǐ hé liàng	geometric quantity
+度量	度量	dù liàng	measure/tolerance/breadth/magnanimity/(math.) metric
+度量衡	度量衡	dù liàng héng	measurement
+張量	张量	zhāng liàng	tensor (math.)
+彈性模量	弹性模量	tán xìng mó liàng	modulus of elasticity/coefficient of restitution
+微量	微量	wēi liàng	a smidgen/minute/micro-/trace (element)
+微量元素	微量元素	wēi liàng yuán sù	trace element (chemistry)
+微量白蛋白	微量白蛋白	wēi liàng bái dàn bái	microalbumin
+忖量	忖量	cǔn liàng	to turn things over in one's mind/to conjecture/to guess
+思量	思量	sī liang	to reckon/to consider/to turn over in one's mind
+慣量	惯量	guàn liàng	inertia (mechanics)
+戰略核力量	战略核力量	zhàn lüè hé lì liang	strategic nuclear force
+打擊軍事力量	打击军事力量	dǎ jī jūn shì lì liang	counterforce
+打量	打量	dǎ liang	to size sb up/to look sb up and down/to take the measure of/to suppose/to reckon
+批量	批量	pī liàng	batch/lot
+批量生產	批量生产	pī liàng shēng chǎn	to mass produce
+批量購買	批量购买	pī liàng gòu mǎi	to buy in bulk/bulk buying
+承載量	承载量	chéng zài liàng	carrying capacity
+掂量	掂量	diān liang	to weigh in the hand/to consider/to ponder
+排水量	排水量	pái shuǐ liàng	displacement
+排量	排量	pái liàng	discharge volume/engine capacity/engine displacement (volume of air fuel mixture drawn in during one cycle)
+攝入量	摄入量	shè rù liàng	intake (quantity)
+數量	数量	shù liàng	amount/quantity/CL:個|个[gè]/quantitative
+數量分析	数量分析	shù liàng fēn xī	quantitative analysis
+數量積	数量积	shù liàng jī	scalar product (of vectors)
+數量級	数量级	shù liàng jí	order of magnitude
+數量詞	数量词	shù liàng cí	numeral-classifier compound (e.g. 一次、三套、五本 etc)
+斤斤較量	斤斤较量	jīn jīn jiào liàng	to bicker at length over a trivial matter (idiom)
+旋量	旋量	xuán liàng	spinor (math.)
+暗能量	暗能量	àn néng liàng	dark energy (astronomy)
+曲率向量	曲率向量	qū lǜ xiàng liàng	curvature vector
+有商有量	有商有量	yǒu shāng yǒu liàng	to talk things through (idiom)/to have an exchange of views
+有膽量	有胆量	yǒu dǎn liàng	courageous
+服務質量	服务质量	fú wù zhì liàng	Quality of Service/QOS
+服藥過量	服药过量	fú yào guò liàng	overdose of drugs
+本徵向量	本征向量	běn zhēng xiàng liàng	eigenvector (math.)/also written 特徵向量|特征向量
+核威懾力量	核威慑力量	hé wēi shè lì liang	nuclear deterrent
+核當量	核当量	hé dāng liàng	nuclear yield
+梯恩梯當量	梯恩梯当量	tī ēn tī dāng liàng	TNT equivalent
+標量	标量	biāo liàng	scalar quantity
+次重量級	次重量级	cì zhòng liàng jí	middle heavyweight (boxing etc)
+正能量	正能量	zhèng néng liàng	positive energy/positivity
+武裝力量	武装力量	wǔ zhuāng lì liàng	armed force
+毒害劑量	毒害剂量	dú hài jì liàng	poisoning dose
+比量	比量	bǐ liang	to measure roughly (with the hand, a stick, string etc)
+氣量	气量	qì liàng	(lit. quantity of spirit)/moral character/degree of forbearance/broad-mindedness or otherwise/tolerance/magnanimity
+水量	水量	shuǐ liàng	volume of water/quantity of flow
+法向量	法向量	fǎ xiàng liàng	normal vector
+流量	流量	liú liàng	flow rate/rate/throughput/site traffic (Internet)
+流量明星	流量明星	liú liàng míng xīng	(neologism c. 2014) celebrity with a huge, devoted fan base/celebrity with a huge following on social media
+流量計	流量计	liú liàng jì	flowmeter
+海水不可斗量	海水不可斗量	hǎi shuǐ bù kě dǒu liáng	see 人不可貌相，海水不可斗量[rén bù kě mào xiàng , hǎi shuǐ bù kě dǒu liáng]
+海量	海量	hǎi liàng	huge volume
+消耗量	消耗量	xiāo hào liàng	rate of consumption
+淨含量	净含量	jìng hán liàng	net weight
+測量	测量	cè liáng	survey/to measure/to gauge/to determine
+測量工具	测量工具	cè liáng gōng jù	gauge/measuring tool
+測量船	测量船	cè liáng chuán	survey vessel
+瀏覽量	浏览量	liú lǎn liàng	(website) traffic/page views/volume of website traffic
+無量	无量	wú liàng	measureless/immeasurable
+無量壽	无量寿	Wú liàng shòu	boundless life (expression of good wishes)/Amitayus, the Buddha of measureless life, good fortune and wisdom
+煤儲量	煤储量	méi chǔ liàng	coal reserves
+熱量	热量	rè liàng	heat/quantity of heat/calorific value
+熱量單位	热量单位	rè liàng dān wèi	thermal unit/unit of heat
+物理量	物理量	wù lǐ liàng	physical quantity
+特徵向量	特征向量	tè zhēng xiàng liàng	eigenvector (math.)
+現量相違	现量相违	xiàn liàng xiāng wéi	to not fit one's perception of sth (idiom)
+現金流量	现金流量	xiàn jīn liú liàng	cash flow
+現金流量表	现金流量表	xiàn jīn liú liàng biǎo	cash flow statement
+生物劑量儀	生物剂量仪	shēng wù jì liàng yí	biological dosimeter
+生物量	生物量	shēng wù liàng	biomass
+生耗氧量	生耗氧量	shēng hào yǎng liàng	biological oxygen demand (BOD)
+產量	产量	chǎn liàng	output
+產量多	产量多	chǎn liàng duō	fruitful
+用量	用量	yòng liàng	quantity used/usage/consumption/dose
+當量	当量	dāng liàng	equivalent/yield
+當量劑量	当量剂量	dāng liàng jì liàng	equivalent dose
+發電量	发电量	fā diàn liàng	(generated) electrical energy
+盡量	尽量	jìn liàng	as much as possible/to the greatest extent
+看菜吃飯，量體裁衣	看菜吃饭，量体裁衣	kān cài chī fàn , liáng tǐ cái yī	eat depending on the dish, cut cloth according to the body (idiom); to fit the appetite to the dishes and the dress to the figure/to act according to actual circumstances/to live within one's means
+矢量	矢量	shǐ liàng	vector (math.)
+磁通量	磁通量	cí tōng liàng	magnetic flux
+稱量	称量	chēng liáng	to weigh
+空氣劑量	空气剂量	kōng qì jì liàng	air dose
+等效百萬噸當量	等效百万吨当量	děng xiào bǎi wàn dūn dāng liàng	equivalent megatonnage (EMT)
+累積劑量	累积剂量	lěi jī jì liàng	cumulative dose
+經濟力量	经济力量	jīng jì lì liang	economic strength
+總產量	总产量	zǒng chǎn liàng	total output
+總量	总量	zǒng liàng	total/overall amount
+考量	考量	kǎo liáng	to consider/to give serious consideration to sth/consideration
+耗油量	耗油量	hào yóu liàng	fuel consumption
+肺活量	肺活量	fèi huó liàng	(medicine) vital capacity
+能量	能量	néng liàng	energy/capabilities
+能量代謝	能量代谢	néng liàng dài xiè	energy metabolism
+能量守恆	能量守恒	néng liàng shǒu héng	conservation of energy (physics)
+膽量	胆量	dǎn liàng	courage/boldness/guts
+臨界質量	临界质量	lín jiè zhì liàng	critical mass
+自不量力	自不量力	zì bù liàng lì	to overestimate one's capabilities (idiom)
+自變量	自变量	zì biàn liàng	(math.) independent variable
+致死劑量	致死剂量	zhì sǐ jì liàng	lethal dose
+蘊藏量	蕴藏量	yùn cáng liàng	reserves/amount still in store
+血氧含量	血氧含量	xuè yǎng hán liàng	blood oxygen level
+血氧量	血氧量	xuè yǎng liàng	blood oxygen level
+衡量	衡量	héng liáng	to weigh/to examine/to consider
+衡量制	衡量制	héng liang zhì	system of weights and measures
+補充量	补充量	bǔ chōng liàng	complement/complementary quantity
+角動量	角动量	jiǎo dòng liàng	angular momentum
+計量	计量	jì liàng	measurement/to calculate
+計量制	计量制	jì liàng zhì	system of weights and measures
+計量棒	计量棒	jì liàng bàng	measuring rod/dipstick
+訪問量	访问量	fǎng wèn liàng	(web counter) hits
+變量	变量	biàn liàng	variable (math.)
+負能量	负能量	fù néng liàng	negative energy/negativity
+貨幣供應量	货币供应量	huò bì gōng yìng liàng	money supply
+資料量	资料量	zī liào liàng	quantity of data
+質量	质量	zhì liàng	quality/(physics) mass/CL:個|个[gè]
+質量保障	质量保障	zhì liàng bǎo zhàng	quality assurance (QA)
+質量塊	质量块	zhì liàng kuài	a mass/a body
+質量數	质量数	zhì liàng shù	atomic weight of an element/atomic mass
+質量檢查	质量检查	zhì liàng jiǎn chá	quality inspection
+質量管理	质量管理	zhì liàng guǎn lǐ	quality management
+足量	足量	zú liàng	sufficient amount/full amount
+身量	身量	shēn liang	height (of a person)/stature/fig. reputation/standing
+身體質量指數	身体质量指数	shēn tǐ zhì liàng zhǐ shù	body mass index (BMI)
+車載斗量	车载斗量	chē zài dǒu liáng	lit. measured in cartloads and gallons/fig. by the barrowload (i.e. lots and lots)/innumerable
+軍事力量	军事力量	jūn shì lì liang	military strength/military force(s)
+較量	较量	jiào liàng	to pit oneself against sb/to compete with sb/contest/battle/to haggle/to quibble
+載客量	载客量	zài kè liàng	passenger capacity
+載彈量	载弹量	zài dàn liàng	payload
+載重量	载重量	zài zhòng liàng	dead weight/weight capacity of a vehicle
+輕量級	轻量级	qīng liàng jí	lightweight (boxing etc)
+輸沙量	输沙量	shū shā liàng	quantity of sand (transported by a river)/sediment content
+輻射劑量	辐射剂量	fú shè jì liàng	radiation dose
+輻射劑量率	辐射剂量率	fú shè jì liàng lǜ	radiation dose rate
+轉動慣量	转动惯量	zhuǎn dòng guàn liàng	moment of inertia (mechanics)
+通信量	通信量	tōng xìn liàng	communications volume
+通量	通量	tōng liàng	flux
+運載量	运载量	yùn zài liàng	transport volume
+運輸量	运输量	yùn shū liàng	volume of freight
+運量	运量	yùn liàng	volume of freight
+過量	过量	guò liàng	excess/overdose
+適量	适量	shì liàng	appropriate amount
+酌量	酌量	zhuó liáng	to consider/to allow for/to use one's discretion/to measure (food and drink)
+酒量	酒量	jiǔ liàng	capacity for liquor/how much one can drink
+重量	重量	zhòng liàng	weight/CL:個|个[gè]
+重量單位	重量单位	zhòng liàng dān wèi	unit of weight
+重量噸	重量吨	zhòng liàng dūn	dead weight ton
+重量級	重量级	zhòng liàng jí	heavyweight (boxing etc)
+重量輕質	重量轻质	zhòng liàng qīng zhì	to value quantity over quality
+丈量	丈量	zhàng liáng	to measure/measurement
+三角測量法	三角测量法	sān jiǎo cè liáng fǎ	triangulation (surveying)
+量入為出	量入为出	liàng rù wéi chū	to assess one's income and spend accordingly (idiom); to live within one's means/You can only spend what you earn.
+量具	量具	liáng jù	measuring device
+量刑	量刑	liàng xíng	to assess punishment/to determine the sentence (on a criminal)
+量力	量力	liàng lì	to estimate one's strength
+量力而為	量力而为	liàng lì ér wéi	to weigh one's abilities and act accordingly/to act according to one's means/to cut one's coat according to one's cloth
+量力而行	量力而行	liàng lì ér xíng	to assess one's capabilities and act accordingly (idiom); to act within one's competence/One does what one can.
+量化	量化	liàng huà	to quantize/quantization/quantitative
+量化寬鬆	量化宽松	liàng huà kuān sōng	quantitative easing (finance)
+量化邏輯	量化逻辑	liàng huà luó ji	quantified logic
+量器	量器	liáng qì	measuring vessel/measuring apparatus
+量子	量子	liàng zǐ	quantum
+量子力學	量子力学	liàng zǐ lì xué	quantum mechanics
+量子化	量子化	liàng zǐ huà	quantization (physics)
+量子場論	量子场论	liàng zǐ chǎng lùn	quantum field theory
+量子沫	量子沫	liàng zǐ mò	quantum foam (in string theory, and science fiction)
+量子色動力學	量子色动力学	liàng zǐ sè dòng lì xué	quantum chromodynamics (particle physics)
+量子論	量子论	liàng zǐ lùn	quantum theory (physics)
+量子電動力學	量子电动力学	liàng zǐ diàn dòng lì xué	quantum electrodynamics QED
+量尺寸	量尺寸	liáng chǐ cùn	to take sb's measurements
+量度	量度	liáng dù	to measure/measurement
+量才錄用	量才录用	liàng cái lù yòng	to assess sb's capabilities and employ him accordingly (idiom); to employ sb competent for the task
+量杯	量杯	liáng bēi	measuring cup/graduated measuring cylinder
+量油尺	量油尺	liáng yóu chǐ	dipstick/oil measuring rod
+量測	量测	liáng cè	to measure/measurement
+量瓶	量瓶	liáng píng	measuring flask/graduated measuring cylinder
+量產	量产	liàng chǎn	to mass-produce
+量程	量程	liáng chéng	range (of scales or measuring equipment)
+量筒	量筒	liáng tǒng	graduated measuring cylinder/volumetric cylinder
+量綱	量纲	liàng gāng	dimension (unit)
+量腹	量腹	liàng fù	to estimate how much food is required for a meal
+量表	量表	liáng biǎo	gauge/meter/scale
+量規	量规	liáng guī	gauge (i.e. measuring device)
+量角器	量角器	liáng jiǎo qì	protractor/angle gauge
+量計	量计	liáng jì	gauge
+量詞	量词	liàng cí	classifier (in Chinese grammar)/measure word
+量變	量变	liàng biàn	quantitative change
+量販店	量贩店	liàng fàn diàn	wholesale store/hypermarket
+量販式	量贩式	liàng fàn shì	at wholesale price
+量身	量身	liáng shēn	to take sb's measurements/to measure sb up
+量身定製	量身定制	liáng shēn dìng zhì	tailor-made
+量體溫	量体温	liáng tǐ wēn	to take sb's temperature
+量體裁衣	量体裁衣	liáng tǐ cái yī	lit. measure the body then tailor the suit (idiom); fig. to act according to actual circumstances/To live within one's means.
+量體重	量体重	liáng tǐ zhòng	to weigh (body weight)
+銷量	销量	xiāo liàng	sales volume
+降水量	降水量	jiàng shuǐ liàng	precipitation (meteorology)/measured quantity of rain
+降雨量	降雨量	jiàng yǔ liàng	precipitation/quantity of rainfall
+雅量	雅量	yǎ liàng	magnanimity/tolerance/high capacity for drinking
+雨量	雨量	yǔ liàng	rainfall
+電荷量	电荷量	diàn hè liàng	electrical charge
+電量	电量	diàn liàng	quantity of electric charge or current
+電量表	电量表	diàn liàng biǎo	charge gauge/battery indicator/power meter/coulometer
+音量	音量	yīn liàng	sound volume
+顱測量	颅测量	lú cè liáng	Craniometry
+食量	食量	shí liàng	quantity of food
+餘量	余量	yú liàng	remnant/leftover/tolerance (i.e. allowed error)
+體量	体量	tǐ liàng	body weight/dimensions
+高熱量	高热量	gāo rè liàng	high calorie (foodstuff)/high heat content
+高能量	高能量	gāo néng liàng	high energy (physics)
+高質量	高质量	gāo zhì liàng	high quality

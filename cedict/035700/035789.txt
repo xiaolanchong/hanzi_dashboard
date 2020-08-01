@@ -1,0 +1,288 @@
+䛐	词	cí	old variant of 詞|词[cí]
+詞	词	cí	word/statement/speech/lyrics/CL:組|组[zǔ],個|个[gè]/a form of lyric poetry, flourishing in the Song dynasty 宋朝|宋朝[Sòng cháo]/CL:首[shǒu]
+不以詞害誌	不以词害志	bù yǐ cí hài zhì	don't let rhetoric spoil the message (idiom); don't get carried away with flowery speech to the detriment of what you want to say
+不及物動詞	不及物动词	bù jí wù dòng cí	intransitive verb
+不可數名詞	不可数名词	bù kě shǔ míng cí	uncountable noun (in grammar of European languages)
+不定冠詞	不定冠词	bù dìng guàn cí	indefinite article (e.g. English a, an)
+不定詞	不定词	bù dìng cí	infinitive
+不贊一詞	不赞一词	bù zàn yī cí	to keep silent/to make no comment
+主詞	主词	zhǔ cí	subject
+人稱代詞	人称代词	rén chēng dài cí	personal pronoun
+介係詞	介系词	jiè xì cí	preposition
+介詞	介词	jiè cí	preposition
+代名詞	代名词	dài míng cí	pronoun/synonym/byword
+代詞	代词	dài cí	pronoun
+供詞	供词	gòng cí	confession/statement/Taiwan pr. [gōng cí]
+借詞	借词	jiè cí	loanword/pretext
+借譯詞	借译词	jiè yì cí	calque
+假詞疊詞	假词叠词	jiǎ cí dié cí	pseudo-affixation
+偏正式合成詞	偏正式合成词	piān zhèng shì hé chéng cí	modified compound word
+傳統詞類	传统词类	chuán tǒng cí lèi	traditional parts of speech (grammar)
+冗詞	冗词	rǒng cí	tautology/superfluous words
+冗贅詞	冗赘词	rǒng zhuì cí	expletive (linguistics)
+冠形詞	冠形词	guān xíng cí	article (in grammar)
+冠詞	冠词	guàn cí	article (in grammar)
+分詞	分词	fēn cí	participle/word segmentation
+前置詞	前置词	qián zhì cí	preposition
+副詞	副词	fù cí	adverb
+功能詞	功能词	gōng néng cí	function word
+助動詞	助动词	zhù dòng cí	auxiliary verb/modal verb
+助詞	助词	zhù cí	particle (grammatical)
+動名詞	动名词	dòng míng cí	gerund
+動態助詞	动态助词	dòng tài zhù cí	aspect particle, such as 著|着[zhe], 了[le], 過|过[guò]
+動物性名詞	动物性名词	dòng wù xìng míng cí	animate noun
+動詞	动词	dòng cí	verb
+動詞結構	动词结构	dòng cí jié gòu	verbal construction (clause)
+動詞重疊	动词重叠	dòng cí chóng dié	verb reduplication
+動量詞	动量词	dòng liàng cí	verbal classifier (in Chinese grammar)/measure word applying mainly to verbs
+包攬詞訟	包揽词讼	bāo lǎn cí sòng	to canvas for lawsuits (idiom); to practice chicanery
+及物動詞	及物动词	jí wù dòng cí	transitive verb
+反義詞	反义词	fǎn yì cí	antonym
+反身代詞	反身代词	fǎn shēn dài cí	reflexive pronoun
+受詞	受词	shòu cí	object (linguistics)
+可數名詞	可数名词	kě shǔ míng cí	countable noun (in grammar of European languages)
+各執一詞	各执一词	gè zhí yī cí	each sticks to his own version (idiom); a dialogue of the deaf
+合成詞	合成词	hé chéng cí	compound word
+合義複詞	合义复词	hé yì fù cí	compound word such as 教室[jiào shì], 國家|国家[guó jiā], but unlike 玫瑰[méi guī], whose meaning is related to the component hanzi
+同源詞	同源词	tóng yuán cí	cognate/words having a common origin
+同義詞	同义词	tóng yì cí	synonym
+同音詞	同音词	tóng yīn cí	homophonic words
+同韻詞	同韵词	tóng yùn cí	words with the same phonetic ending/rhyme
+名源動詞	名源动词	míng yuán dòng cí	denominal verb
+名詞	名词	míng cí	noun
+名量詞	名量词	míng liàng cí	nominal classifier (in Chinese grammar)/measure word applying mainly to nouns
+含糊其詞	含糊其词	hán hú qí cí	to equivocate/to talk evasively (idiom)
+哀詞	哀词	āi cí	variant of 哀辭|哀辞[āi cí]
+唸唸有詞	念念有词	niàn niàn yǒu cí	variant of 念念有詞|念念有词[niàn niàn yǒu cí]
+單純詞	单纯词	dān chún cí	(linguistics) single-morpheme word/simple word
+單詞	单词	dān cí	word/CL:個|个[gè]
+單詞產生器模型	单词产生器模型	dān cí chǎn shēng qì mó xíng	logogen model
+單音詞	单音词	dān yīn cí	monosyllabic word
+嘆詞	叹词	tàn cí	interjection/exclamation
+嚴詞	严词	yán cí	forceful (criticism etc)/to use strong words
+固定詞組	固定词组	gù dìng cí zǔ	set phrase
+固有名詞	固有名词	gù yǒu míng cí	proper noun
+固有詞	固有词	gù yǒu cí	native words (i.e. not derived from Chinese, in Korean and Japanese etc)
+垂懸分詞	垂悬分词	chuí xuán fēn cí	hanging participle (error of grammar in English)
+基數詞	基数词	jī shù cí	cardinal numeral
+基本詞彙	基本词汇	jī běn cí huì	basic word
+填詞	填词	tián cí	to compose a poem (to a given tune)
+外來詞	外来词	wài lái cí	loanword
+多義詞	多义词	duō yì cí	polyseme/polysemous word
+多音節詞	多音节词	duō yīn jié cí	polysyllabic word/Chinese word made up of three or more characters
+大放厥詞	大放厥词	dà fàng jué cí	to prattle on self-importantly (idiom)
+委婉詞	委婉词	wěi wǎn cí	euphemism
+婉詞	婉词	wǎn cí	euphemism (tactful expression for sth unpleasant such as death)
+媚詞	媚词	mèi cí	flattery
+字母詞	字母词	zì mǔ cí	word that contains one or more letters of an alphabet (e.g. HSK, PK, WTO, PO文, PM2.5, γ射線|γ射线)
+字詞	字词	zì cí	letters or words/words or phrase
+定冠詞	定冠词	dìng guàn cí	definite article (grammar)
+宣誓供詞證明	宣誓供词证明	xuān shì gòng cí zhèng míng	affidavit/deposition (law)
+實詞	实词	shí cí	(linguistics) content word
+專名詞	专名词	zhuān míng cí	proper noun
+專有名詞	专有名词	zhuān yǒu míng cí	technical term/proper noun
+對口詞	对口词	duì kǒu cí	dialogue (for stage performance)
+對詞	对词	duì cí	to rehearse one's lines (of actor)
+強詞奪理	强词夺理	qiǎng cí duó lǐ	to twist words and force logic (idiom)/sophistry/loud rhetoric making up for fallacious argument/shoving false arguments down people's throats
+彈詞	弹词	tán cí	ballad tune in southern dialects, usually to sanxian 三弦 or pipa 琵琶 accompaniment
+形容詞	形容词	xíng róng cí	adjective
+形容詞短語	形容词短语	xíng róng cí duǎn yǔ	adjectival phrase
+後置詞	后置词	hòu zhì cí	postposition/suffix/word placed after
+後詞彙加工	后词汇加工	hòu cí huì jiā gōng	post-lexical access
+心理詞典	心理词典	xīn lǐ cí diǎn	mental lexicon
+念念有詞	念念有词	niàn niàn yǒu cí	to mumble/to mutter to oneself
+悼詞	悼词	dào cí	memorial speech/eulogy
+愛詞霸	爱词霸	Ài cí bà	iCIBA, online dictionary by Kingsoft Corporation, at www.iciba.com
+感嘆詞	感叹词	gǎn tàn cí	interjection (part of speech)/exclamation
+戲詞	戏词	xì cí	actor's lines (in theater)
+抽象詞	抽象词	chōu xiàng cí	abstract word
+拙於言詞	拙于言词	zhuō yú yán cí	to be unable to express oneself clearly (idiom)
+指示代詞	指示代词	zhǐ shì dài cí	demonstrative pronoun
+振振有詞	振振有词	zhèn zhèn yǒu cí	to speak forcefully and with justice (idiom); to argue with the courage of one's convictions
+挽詞	挽词	wǎn cí	an elegy/elegiac words
+接尾詞	接尾词	jiē wěi cí	suffix (in Japanese and Korean grammar)
+措詞	措词	cuò cí	wording/way of expressing something/turn of phrase/diction
+提詞	提词	tí cí	to prompt (an actor or reciter)
+提詞器	提词器	tí cí qì	teleprompter
+擬聲詞	拟声词	nǐ shēng cí	onomatopoeia
+支吾其詞	支吾其词	zhī wú qí cí	(idiom) to talk in a roundabout way to cover up the truth/evasive
+收詞	收词	shōu cí	to collect words/to harvest entries for a dictionary
+效忠誓詞	效忠誓词	xiào zhōng shì cí	pledge of allegiance
+敬詞	敬词	jìng cí	term of esteem/honorific (in Chinese grammar)/polite form of pronoun (in European grammar)
+數詞	数词	shù cí	numeral
+數量詞	数量词	shù liàng cí	numeral-classifier compound (e.g. 一次、三套、五本 etc)
+新詞	新词	xīn cí	new expression/neologism
+方位詞	方位词	fāng wèi cí	noun of locality (linguistics)
+普通名詞	普通名词	pǔ tōng míng cí	common noun (grammar)
+構詞	构词	gòu cí	composite word
+構詞學	构词学	gòu cí xué	morphology (linguistics)
+構詞法意識	构词法意识	gòu cí fǎ yì shí	morphological awareness
+歌詞	歌词	gē cí	song lyric/lyrics
+正詞法	正词法	zhèng cí fǎ	orthography (linguistics)
+派生詞	派生词	pài shēng cí	derivative word
+浮詞	浮词	fú cí	florid but insubstantial remarks/misleading way of saying sth
+淫詞穢語	淫词秽语	yín cí huì yǔ	obscene words/dirty talk
+淫詞褻語	淫词亵语	yín cí xiè yǔ	dirty words/dirty talk
+混成詞	混成词	hùn chéng cí	(linguistics) portmanteau
+溢美之詞	溢美之词	yì měi zhī cí	flattering words/inflated praise
+漢語大詞典	汉语大词典	Hàn yǔ Dà Cí diǎn	Hanyu Da Cidian, the largest Chinese dictionary, with over 375,000 word entries, first published 1986-1994
+潛臺詞	潜台词	qián tái cí	unspoken dialogue in a play, left for the audience to infer/subtext/(fig.) implicit assertion
+熟詞僻義	熟词僻义	shú cí pì yì	uncommon meaning of a common word
+熱詞	热词	rè cí	buzzword
+物主代詞	物主代词	wù zhǔ dài cí	possessive pronoun
+物主限定詞	物主限定词	wù zhǔ xiàn dìng cí	possessive (in grammar)
+狀態動詞	状态动词	zhuàng tài dòng cí	(linguistics) stative verb
+狀聲詞	状声词	zhuàng shēng cí	onomatopoeia
+獻詞	献词	xiàn cí	congratulatory message
+玩弄詞藻	玩弄词藻	wán nòng cí zǎo	to juggle with words (dishonestly)/to be a hypocrite and hide behind florid rhetoric
+現在分詞	现在分词	xiàn zài fēn cí	present participle (in English grammar)
+理屈詞窮	理屈词穷	lǐ qū cí qióng	faulty argument and poor rhetoric (idiom); unable to put forward any convincing arguments/without a leg to stand on
+生詞	生词	shēng cí	new word (in textbook)/word that is unfamiliar or not yet studied/CL:組|组[zǔ],個|个[gè]
+生詞本	生词本	shēng cí běn	vocabulary notebook
+生詞語	生词语	shēng cí yǔ	vocabulary words (in language-learning books)/new or unfamiliar words
+用詞	用词	yòng cí	usage (of a term)/wording/phrasing
+異形詞	异形词	yì xíng cí	variant spelling of the same Chinese word, e.g. 筆劃|笔划[bǐ huà] and 筆畫|笔画[bǐ huà]/exact synonym and homonym written with different characters
+異讀詞	异读词	yì dú cí	word having alternative pronunciations
+疑問代詞	疑问代词	yí wèn dài cí	interrogative pronoun (誰|谁, 什麼|什么, 哪兒|哪儿 etc)
+發刊詞	发刊词	fā kān cí	foreword/preface (to a publication)
+發語詞	发语词	fā yǔ cí	form word/in Classical Chinese, the first character of phrase having auxiliary grammatical function
+白香詞譜	白香词谱	Bái xiāng cí pǔ	Anthology of ci poems tunes (1795), edited by Xu Menglan 舒夢蘭|舒梦兰, with 100 accessible poems from Tang through to Qing times
+百科詞典	百科词典	bǎi kē cí diǎn	encyclopedic dictionary
+眾口一詞	众口一词	zhòng kǒu yī cí	all of one voice/unanimous
+砌詞捏控	砌词捏控	qì cí niē kòng	to make an accusation based on fabricated evidence (idiom)
+祝賀詞	祝贺词	zhù hè cí	congratulatory speech
+祝酒詞	祝酒词	zhù jiǔ cí	short speech given in proposing a toast
+禱詞	祷词	dǎo cí	litany (text of a prayer)
+答詞	答词	dá cí	reply/thank-you speech
+組詞	组词	zǔ cí	to combine words/word formation
+結構助詞	结构助词	jié gòu zhù cí	structural particle, such as 的[de], 地[de], 得[de] and 所[suǒ]
+維基詞典	维基词典	Wéi jī cí diǎn	Wiktionary (online dictionary)
+聯合式合成詞	联合式合成词	lián hé shì hé chéng cí	coordinative compound word
+聯綿詞	联绵词	lián mián cí	two-syllable word featuring alliteration or rhyme, such as 玲瓏|玲珑[líng lóng]
+能願動詞	能愿动词	néng yuàn dòng cí	modal verb (e.g. 肯[kěn], 能[néng], 會|会[huì], 要[yào], 該|该[gāi], 得[děi], 願意|愿意[yuàn yì], 可以[kě yǐ], 可能[kě néng], 敢[gǎn], 應該|应该[yīng gāi]
+致詞	致词	zhì cí	to make a speech/to make some remarks
+臺詞	台词	tái cí	an actor's lines/dialogue/Taiwanese word
+色厲詞嚴	色厉词严	sè lì cí yán	severe in both looks and speech (idiom)
+蕪詞	芜词	wú cí	superfluous words
+藉詞推搪	借词推搪	jiè cí tuī táng	to make a lot of excuses
+虛詞	虚词	xū cí	(linguistics) function word
+衍聲複詞	衍声复词	yǎn shēng fù cí	compound word such as 玫瑰[méi guī], 咖啡[kā fēi], whose meaning is unrelated to the component hanzi, which often cannot be used singly
+複合詞	复合词	fù hé cí	compound word
+複合詞素詞	复合词素词	fù hé cí sù cí	polymorphemic
+複詞	复词	fù cí	compound word/polysyllabic word
+複音詞	复音词	fù yīn cí	disyllabic word/polysyllabic word
+解說詞	解说词	jiě shuō cí	a commentary
+言詞	言词	yán cí	variant of 言辭|言辞[yán cí]
+訓詞	训词	xùn cí	instruction/admonition
+託詞	托词	tuō cí	to make an excuse/pretext/excuse
+詈詞	詈词	lì cí	insult/curse
+一面之詞	一面之词	yī miàn zhī cí	one side of the story/one-sided statement
+詞不達意	词不达意	cí bù dá yì	words do not convey the meaning/poorly expressed/senseless/inarticulate
+詞人	词人	cí rén	writer of 詞|词[cí] (a kind of Classical Chinese poem)/person of literary talent
+詞人墨客	词人墨客	cí rén mò kè	sb of literary abilities (idiom)
+詞令	词令	cí lìng	variant of 辭令|辞令[cí lìng]
+詞位	词位	cí wèi	lexeme
+詞優效應	词优效应	cí yōu xiào yìng	word superiority effect
+詞典	词典	cí diǎn	dictionary/also written 辭典|辞典[cí diǎn]/CL:部[bù],本[běn]
+詞典學	词典学	cí diǎn xué	lexicography
+詞匯	词汇	cí huì	variant of 詞彙|词汇[cí huì]
+詞句	词句	cí jù	words and sentences
+詞尾	词尾	cí wěi	suffix
+詞幹	词干	cí gàn	word stem (in linguistics)
+詞序	词序	cí xù	word order
+詞庫	词库	cí kù	word stock/lexicon
+詞彙	词汇	cí huì	vocabulary/list of words (e.g. for language teaching purposes)/word
+詞彙分解	词汇分解	cí huì fēn jiě	lexical decomposition
+詞彙判斷	词汇判断	cí huì pàn duàn	lexical decision
+詞彙判斷任務	词汇判断任务	cí huì pàn duàn rèn wu	lexical decision task (psychology)
+詞彙判斷作業	词汇判断作业	cí huì pàn duàn zuò yè	lexical decision task
+詞彙判斷法	词汇判断法	cí huì pàn duàn fǎ	lexical decision task
+詞彙學	词汇学	cí huì xué	lexicology (linguistics)
+詞彙通路	词汇通路	cí huì tōng lù	lexical route
+詞形	词形	cí xíng	form of words (e.g. inflection, conjugation)/morphology (linguistics)
+詞性	词性	cí xìng	part of speech (noun, verb, adjective etc)/lexical category
+詞性標註	词性标注	cí xìng biāo zhù	part-of-speech tagging
+詞意	词意	cí yì	meaning of word/sense
+詞族	词族	cí zú	word family (cognate words within a given language)
+詞根	词根	cí gēn	radical of a compound word (in European language)
+詞條	词条	cí tiáo	dictionary entry/lexical item/term
+詞法	词法	cí fǎ	morphology (linguistics)/word formation and inflection
+詞源	词源	cí yuán	etymology/origin of a word
+詞牌	词牌	cí pái	names of the tunes to which 詞|词[cí] poems are composed
+詞目	词目	cí mù	dictionary headword/lexical item/term
+詞相似效應	词相似效应	cí xiāng sì xiào yìng	word similarity effect
+詞眼	词眼	cí yǎn	key word
+詞約指明	词约指明	cí yuē zhǐ míng	concise but unambiguous (idiom)
+詞素	词素	cí sù	morpheme
+詞素結構	词素结构	cí sù jié gòu	morphological structure
+詞素通達模型	词素通达模型	cí sù tōng dá mó xíng	morpheme access model (MA model)
+詞組	词组	cí zǔ	phrase (grammar)
+詞綴	词缀	cí zhuì	prefix or suffix of a compound word/affix (linguistics)
+詞綴剝除	词缀剥除	cí zhuì bō chú	affix stripping/to determine the root of a word by removing prefix and suffix
+詞義	词义	cí yì	meaning of a word
+詞翰	词翰	cí hàn	book/written composition/(literary) penned words
+詞藻	词藻	cí zǎo	rhetoric/flowery language
+詞訟	词讼	cí sòng	lawsuit/legal case
+詞訟費	词讼费	cí sòng fèi	legal fees/costs (of a lawsuit)
+詞話	词话	cí huà	form of writing novels that comprise lots of poetry in the body of the text, popular in the Ming Dynasty
+詞語	词语	cí yǔ	word (general term including monosyllables through to short phrases)/term (e.g. technical term)/expression
+詞語彙	词语汇	cí yǔ huì	vocabulary
+詞跟語	词跟语	cí gēn yǔ	amorphous language
+詞通達模型	词通达模型	cí tōng dá mó xíng	word access model
+詞長效應	词长效应	cí cháng xiào yìng	word length effect
+詞項邏輯	词项逻辑	cí xiàng luó ji	categorical logic
+詞頭	词头	cí tóu	prefix
+詞頻	词频	cí pín	word frequency
+詞頻效應	词频效应	cí pín xiào yìng	word frequency effect (psych.)
+詞類	词类	cí lèi	(linguistics) part of speech/word class/lexical category
+詩詞	诗词	shī cí	verse
+誇大之詞	夸大之词	kuā dà zhī cí	hyperbole/exaggeration
+誇大其詞	夸大其词	kuā dà qí cí	to exaggerate
+誓詞	誓词	shì cí	oath/pledge
+語助詞	语助词	yǔ zhù cí	auxiliary word
+語氣助詞	语气助词	yǔ qì zhù cí	modal particle
+語氣詞	语气词	yǔ qì cí	modal particle
+語詞	语词	yǔ cí	word/significative/predicate
+謂詞	谓词	wèi cí	predicate (in logic and grammar)
+謙詞	谦词	qiān cí	modest word (grammar)
+謝詞	谢词	xiè cí	speech of thanks
+證詞	证词	zhèng cí	testimony
+譯詞	译词	yì cí	translated word (such as company 公司 or bus 巴士 or club 俱樂部|俱乐部)
+象聲詞	象声词	xiàng shēng cí	onomatopoeia
+貶詞	贬词	biǎn cí	derogatory term/expression of censure
+賀詞	贺词	hè cí	message of congratulation
+賓詞	宾词	bīn cí	predicate
+贅詞	赘词	zhuì cí	superfluous words/unnecessary detail
+贊詞	赞词	zàn cí	praise
+路透金融詞典	路透金融词典	Lù tòu jīn róng cí diǎn	Reuter's Financial Glossary
+辯詞	辩词	biàn cí	an excuse
+近義詞	近义词	jìn yì cí	synonym/close equivalent expression
+連接詞	连接词	lián jiē cí	conjunction
+連綴動詞	连缀动词	lián zhuì dòng cí	linking verb
+連綿詞	连绵词	lián mián cí	variant of 聯綿詞|联绵词[lián mián cí]
+連繫詞	连系词	lián xì cí	copula (linguistics)
+連詞	连词	lián cí	conjunction
+過去分詞	过去分词	guò qu fēn cí	past participle (in European grammar)
+遣詞	遣词	qiǎn cí	use of words
+重碼詞頻	重码词频	chóng mǎ cí pín	frequency of coincident codes
+量詞	量词	liàng cí	classifier (in Chinese grammar)/measure word
+金瓶梅詞話	金瓶梅词话	Jīn Píng Méi Cí Huà	Jinpingmei or the Golden Lotus (1617), Ming dynasty vernacular novel, formerly notorious and banned for its sexual content
+鍵詞	键词	jiàn cí	keyword
+閃爍其詞	闪烁其词	shǎn shuò qí cí	to speak evasively (idiom); beating about the bush
+開幕詞	开幕词	kāi mù cí	opening speech (at a conference)
+關係代名詞	关系代名词	guān xi dài míng cí	relative pronoun
+關鍵詞	关键词	guān jiàn cí	keyword
+限定詞	限定词	xiàn dìng cí	determiner (in grammar, i.e. article, demonstrative, possessive pronoun, noun genitive etc)
+陳詞	陈词	chén cí	to state one's views/speech/statement/plea
+陳詞濫調	陈词滥调	chén cí làn diào	cliché/commonplace/truism/stereotype
+集合名詞	集合名词	jí hé míng cí	collective noun (linguistics)
+離合詞	离合词	lí hé cí	separable word (in Chinese grammar)
+非動物性名詞	非动物性名词	fēi dòng wù xìng míng cí	inanimate noun
+非詞重復測驗	非词重复测验	fēi cí chóng fù cè yàn	nonword repetition test
+頌詞	颂词	sòng cí	commendation speech/eulogy/ode
+題詞	题词	tí cí	inscription/dedication
+類屬詞典	类属词典	lèi shǔ cí diǎn	thesaurus
+飾詞	饰词	shì cí	excuse/pretext
+首字母拚音詞	首字母拚音词	shǒu zì mǔ pīn yīn cí	acronym
+駁詞	驳词	bó cí	to refute
+麗詞	丽词	lì cí	beautiful wordage/also written 麗辭|丽辞[lì cí]

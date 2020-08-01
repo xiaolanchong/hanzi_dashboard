@@ -1,0 +1,13 @@
+鴣	鸪	gū	partridge/Francolinus chinensis
+四川山鷓鴣	四川山鹧鸪	Sì chuān shān zhè gū	(bird species of China) Sichuan partridge (Arborophila rufipectus)
+海南山鷓鴣	海南山鹧鸪	Hǎi nán shān zhè gū	(bird species of China) Hainan partridge (Arborophila ardens)
+環頸山鷓鴣	环颈山鹧鸪	huán jǐng shān zhè gū	(bird species of China) hill partridge (Arborophila torqueola)
+白眉山鷓鴣	白眉山鹧鸪	bái méi shān zhè gū	(bird species of China) white-necklaced partridge (Arborophila gingica)
+白頰山鷓鴣	白颊山鹧鸪	bái jiá shān zhè gū	(bird species of China) white-cheeked partridge (Arborophila atrogularis)
+紅喉山鷓鴣	红喉山鹧鸪	hóng hóu shān zhè gū	(bird species of China) rufous-throated partridge (Arborophila rufogularis)
+紅胸山鷓鴣	红胸山鹧鸪	hóng xiōng shān zhè gū	(bird species of China) chestnut-breasted partridge (Arborophila mandellii)
+綠腳山鷓鴣	绿脚山鹧鸪	lǜ jiǎo shān zhè gū	(bird species of China) green-legged partridge (Arborophila chloropus)
+臺灣山鷓鴣	台湾山鹧鸪	Tái wān shān zhè gū	(bird species of China) Taiwan partridge (Arborophila crudigularis)
+褐胸山鷓鴣	褐胸山鹧鸪	hè xiōng shān zhè gū	(bird species of China) bar-backed partridge (Arborophila brunneopectus)
+中華鷓鴣	中华鹧鸪	Zhōng huá zhè gū	(bird species of China) Chinese francolin (Francolinus pintadeanus)
+鷓鴣	鹧鸪	zhè gū	partridge

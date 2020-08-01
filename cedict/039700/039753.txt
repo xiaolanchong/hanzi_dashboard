@@ -1,0 +1,4 @@
+魎	魉	liǎng	sprite/fairy
+魍魎鬼怪	魍魉鬼怪	wǎng liǎng guǐ guài	ghoulies and bogeys/things that go bump in the night
+魍魎	魍魉	wǎng liǎng	sprites and goblins/monsters and demons
+魑魅魍魎	魑魅魍魉	chī mèi wǎng liǎng	demons and monsters (idiom)

@@ -1,0 +1,5 @@
+弈	弈	yì	ancient name for go (Chinese board game)
+博弈論	博弈论	bó yì lùn	game theory
+對弈	对弈	duì yì	to play go, chess etc
+博弈	博弈	bó yì	games (such as chess, dice etc)/gambling/contest
+零和博弈	零和博弈	líng hé bó yì	zero-sum game (economics)

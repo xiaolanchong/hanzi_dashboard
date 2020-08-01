@@ -1,0 +1,11 @@
+鸛	鹳	guàn	crane/stork
+彩鸛	彩鹳	cǎi guàn	(bird species of China) painted stork (Mycteria leucocephala)
+東方白鸛	东方白鹳	dōng fāng bái guàn	(bird species of China) oriental stork (Ciconia boyciana)
+白頸鸛	白颈鹳	bái jǐng guàn	(bird species of China) woolly-necked stork (Ciconia episcopus)
+白鸛	白鹳	bái guàn	(bird species of China) white stork (Ciconia ciconia)
+禿鸛	秃鹳	tū guàn	(bird species of China) lesser adjutant (Leptoptilos javanicus)
+鉗嘴鸛	钳嘴鹳	qián zuǐ guàn	(bird species of China) Asian openbill (Anastomus oscitans)
+鯨頭鸛	鲸头鹳	jīng tóu guàn	shoebill stork (Balaeniceps rex)
+大紅鸛	大红鹳	dà hóng guàn	(bird species of China) greater flamingo (Phoenicopterus roseus)
+鸛嘴翡翠	鹳嘴翡翠	guàn zuǐ fěi cuì	(bird species of China) stork-billed kingfisher (Pelargopsis capensis)
+黑鸛	黑鹳	hēi guàn	(bird species of China) black stork (Ciconia nigra)

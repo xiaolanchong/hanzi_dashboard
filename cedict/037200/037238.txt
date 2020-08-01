@@ -1,0 +1,36 @@
+酶	酶	méi	enzyme/ferment
+中毒酶	中毒酶	zhōng dú méi	inhibited enzyme
+內酰胺酶	内酰胺酶	nèi xiān àn méi	beta-lactamase (a bacterial inhibitor)
+凝血酶	凝血酶	níng xuè méi	thrombin (biochemistry)
+凝血酶原	凝血酶原	níng xuè méi yuán	prothrombin
+抑制酶	抑制酶	yì zhì méi	inhibiting enzyme
+氫酶	氢酶	qīng méi	hydrogenase (enzyme)
+消化酶	消化酶	xiāo huà méi	digestive enzyme
+溶酶儲存疾病	溶酶储存疾病	róng méi chǔ cún jí bìng	lysosomal storage disease (LSD)
+溶酶體	溶酶体	róng méi tǐ	lysosome
+澱粉酶	淀粉酶	diàn fěn méi	amylase
+激酶	激酶	jī méi	kinase (biochemistry)
+硫氰酸酶	硫氰酸酶	liú qíng suān méi	rhodanase
+神經氨酸酶	神经氨酸酶	shén jīng ān suān méi	neuraminidase (the N of virus such as bird flu H5N1)
+端粒酶	端粒酶	duān lì méi	telomerase
+老化酶	老化酶	lǎo huà méi	aged enzyme
+聚合酶	聚合酶	jù hé méi	polymerase (enzyme)
+胃蛋白酶	胃蛋白酶	wèi dàn bái méi	pepsin
+脫氫酶	脱氢酶	tuō qīng méi	dehydrogenase (enzyme)
+膽鹼酯酶	胆碱酯酶	dǎn jiǎn zhǐ méi	choline esterase (ChE), hydrolyzing enzyme in blood plasma
+觸酶	触酶	chù méi	catalase (enzyme)
+輔酶	辅酶	fǔ méi	coenzyme (chemistry)
+轉氨基酶	转氨基酶	zhuǎn ān jī méi	amino transferase (enzyme)
+轉氨酶	转氨酶	zhuǎn ān méi	transferase (enzyme)
+逆轉錄酶	逆转录酶	nì zhuǎn lù méi	reverse transcriptase
+連接酶	连接酶	lián jiē méi	ligase
+過氧化氫酶	过氧化氢酶	guò yǎng huà qīng méi	catalase (enzyme)/hydrogen peroxidase
+過氧物酶體	过氧物酶体	guò yǎng wù méi tǐ	peroxisome (type of organelle)
+酯酶	酯酶	zhǐ méi	esterase, enzyme that breaks up esters by hydrolysis
+丙酮酸脫氫酶	丙酮酸脱氢酶	bǐng tóng suān tuō qīng méi	pyruvate dehydrogenase
+酶原	酶原	méi yuán	zymogen/fermentogen
+釀酶	酿酶	niàng méi	zymase (enzyme in yeast involved in fermentation)
+限制酶	限制酶	xiàn zhì méi	restriction enzyme
+限制酶圖譜	限制酶图谱	xiàn zhì méi tú pǔ	restriction mapping (in genomics)/restriction pattern
+髓過氧化物酶	髓过氧化物酶	suǐ guò yǎng huà wù méi	myeloperoxidase (aka MPO) (molecular biology)
+黃酶	黄酶	huáng méi	yellow enzyme

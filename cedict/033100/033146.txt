@@ -1,0 +1,67 @@
+腺	腺	xiàn	gland
+下頜下腺	下颌下腺	xià hé xià xiàn	submandibular gland/submaxillary saliva gland
+乳腺	乳腺	rǔ xiàn	mammary gland
+乳腺炎	乳腺炎	rǔ xiàn yán	mastitis
+乳腺癌	乳腺癌	rǔ xiàn ái	breast cancer
+二磷酸腺苷	二磷酸腺苷	èr lín suān xiàn gān	adenosine diphosphate (ADP)
+內分泌腺	内分泌腺	nèi fēn mì xiàn	endocrine gland/gland producing internal secretion, e.g. hormone
+前列腺	前列腺	qián liè xiàn	prostate
+前列腺炎	前列腺炎	qián liè xiàn yán	prostatitis
+前列腺素	前列腺素	qián liè xiàn sù	prostaglandin
+副甲狀腺	副甲状腺	fù jiǎ zhuàng xiàn	parathyroid (Tw)
+副甲狀腺素	副甲状腺素	fù jiǎ zhuàng xiàn sù	parathyroid hormone (Tw)
+卵黃腺	卵黄腺	luǎn huáng xiàn	vitelline glands/vitellaria (in biology)
+唾液腺	唾液腺	tuò yè xiàn	salivary gland
+外分泌腺	外分泌腺	wài fēn mì xiàn	exocrine gland/gland producing external secretion (e.g. saliva)
+多腺染色體	多腺染色体	duō xiàn rǎn sè tǐ	polytene chromosome
+性腺	性腺	xìng xiàn	gonad/sex gland
+扁桃腺	扁桃腺	biǎn táo xiàn	tonsil
+扁桃腺炎	扁桃腺炎	biǎn táo xiàn yán	tonsillitis
+攝護腺	摄护腺	shè hù xiàn	prostate/also written 前列腺
+攝護腺腫大	摄护腺肿大	shè hù xiàn zhǒng dà	benign prostate hypertrophy/enlargement of prostate
+杜氏腺	杜氏腺	Dù shì xiàn	Dufour gland (produces female sex hormone in bees)
+杜氏腺體	杜氏腺体	Dù shì xiàn tǐ	Dufour gland (produces female sex hormone in bees)
+松果腺	松果腺	sōng guǒ xiàn	pineal body
+梅氏腺	梅氏腺	Méi shì xiàn	Mehlis gland
+毒腺	毒腺	dú xiàn	poison gland
+汗腺	汗腺	hàn xiàn	sweat gland
+消化腺	消化腺	xiāo huà xiàn	digestive glands
+淋巴腺	淋巴腺	lín bā xiàn	lymph node/lymphatic gland
+淚腺	泪腺	lèi xiàn	Lacrimal gland
+生殖腺	生殖腺	shēng zhí xiàn	reproductive gland/gonad/sex organ
+甲狀旁腺	甲状旁腺	jiǎ zhuàng páng xiàn	parathyroid
+甲狀腺	甲状腺	jiǎ zhuàng xiàn	thyroid gland
+甲狀腺功能亢進	甲状腺功能亢进	jiǎ zhuàng xiàn gōng néng kàng jìn	hyperthyroidism/abbr. to 甲亢[jiǎ kàng]
+甲狀腺素	甲状腺素	jiǎ zhuàng xiàn sù	thyroid hormone/thyroxine (used to treat underactive thyroid)
+甲狀腺腫	甲状腺肿	jiǎ zhuàng xiàn zhǒng	goiter (enlargement of thyroid gland)
+皮脂腺	皮脂腺	pí zhī xiàn	epidermal sebaceous glands/skin oil gland
+瞼腺炎	睑腺炎	jiǎn xiàn yán	sty (eyelid swelling)
+絨毛性腺激素	绒毛性腺激素	róng máo xìng xiàn jī sù	human chorionic gonadotropin (HCG)
+耳下腺	耳下腺	ěr xià xiàn	subauricular gland/parotid gland (salivary gland in the cheek)
+胰腺	胰腺	yí xiàn	pancreas
+胰腺炎	胰腺炎	yí xiàn yán	pancreatitis
+胸腺	胸腺	xiōng xiàn	thymus
+胸腺嘧啶	胸腺嘧啶	xiōng xiàn mì dìng	thymine nucleotide (T, pairs with adenine A 腺嘌呤 in DNA)
+腎上腺	肾上腺	shèn shàng xiàn	adrenal glands
+腎上腺皮質	肾上腺皮质	shèn shàng xiàn pí zhì	adrenal cortex
+腎上腺素	肾上腺素	shèn shàng xiàn sù	adrenaline
+腎上腺髓質	肾上腺髓质	shèn shàng xiàn suǐ zhì	adrenal medulla
+腮腺	腮腺	sāi xiàn	parotid gland/saliva gland in cheek
+腮腺炎	腮腺炎	sāi xiàn yán	mumps
+三磷酸腺苷	三磷酸腺苷	sān lín suān xiàn gān	adenosine triphosphate (ATP)
+腺嘌呤	腺嘌呤	xiàn piào lìng	adenine nucleotide (A, pairs with thymine T 胸腺嘧啶 in DNA and with uracil U 尿嘧啶 in RNA)
+腺嘌呤核苷三磷酸	腺嘌呤核苷三磷酸	xiàn piào lìng hé gān sān lín suān	adenosine triphosphate (ATP)
+腺垂體	腺垂体	xiàn chuí tǐ	pituitary gland
+腺樣	腺样	xiàn yàng	adenoid gland/pharyngeal tonsil
+腺毛	腺毛	xiàn máo	glandular hair/trichome
+腺病	腺病	xiàn bìng	adenosis (glandular disease)
+腺病毒	腺病毒	xiàn bìng dú	adenovirus
+腺癌	腺癌	xiàn ái	Adenocarcinoma
+腺苷	腺苷	xiàn gān	adenosine
+腺體	腺体	xiàn tǐ	gland
+舌下腺	舌下腺	shé xià xiàn	sublingual gland/saliva gland under tongue
+附屬腺	附属腺	fù shǔ xiàn	subordinate gland
+降腎上腺素	降肾上腺素	jiàng shèn shàng xiàn sù	noradrenalin
+頷下腺	颔下腺	hàn xià xiàn	submaxillary glands (biology)
+香腺	香腺	xiāng xiàn	perfume gland/musk gland
+鹼腺	碱腺	jiǎn xiàn	alkali gland

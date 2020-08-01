@@ -1,0 +1,54 @@
+頻	频	pín	frequency/frequently/repetitious
+倍頻器	倍频器	bèi pín qì	frequency multiplier
+分頻	分频	fēn pín	frequency sharing/subdivision of radio waveband
+基頻	基频	jī pín	fundamental frequency
+寬頻	宽频	kuān pín	broadband
+射頻	射频	shè pín	radio frequency (RF)
+射頻噪聲	射频噪声	shè pín zào shēng	radio frequency noise
+射頻干擾	射频干扰	shè pín gān rǎo	radio interference/RF interference
+射頻調諧器	射频调谐器	shè pín tiáo xié qì	RF tuner
+射頻識別	射频识别	shè pín shí bié	radio-frequency identification (RFID)
+工頻	工频	gōng pín	utility frequency/power frequency/mains frequency
+幀頻	帧频	zhēn pín	frame rate/frame frequency
+振頻	振频	zhèn pín	frequency of vibration
+捷報頻傳	捷报频传	jié bào pín chuán	victory reports pour in (idiom); news of success in an endless stream
+數字分頻	数字分频	shù zì fēn pín	digital frequency sharing
+甚高頻	甚高频	shèn gāo pín	very high frequency (VHF)
+異頻雷達收發機	异频雷达收发机	yì pín léi dá shōu fā jī	transponder/electronic device that responds to a radio code
+聲頻	声频	shēng pín	audio frequency
+視頻	视频	shì pín	video
+視頻會議	视频会议	shì pín huì yì	videoconferencing/videoconference
+視頻節目	视频节目	shì pín jié mù	video program
+視頻點播	视频点播	shì pín diǎn bō	video on demand
+角頻率	角频率	jiǎo pín lǜ	angular frequency
+詞頻	词频	cí pín	word frequency
+詞頻效應	词频效应	cí pín xiào yìng	word frequency effect (psych.)
+調頻	调频	tiáo pín	frequency modulation/FM
+變頻	变频	biàn pín	frequency conversion
+超聲頻	超声频	chāo shēng pín	ultrasonic/beyond human hearing
+超頻	超频	chāo pín	overclocking
+跳頻	跳频	tiào pín	frequency-hopping spread spectrum
+載頻	载频	zài pín	frequency of carrier wave
+重碼詞頻	重码词频	chóng mǎ cí pín	frequency of coincident codes
+音視頻	音视频	yīn shì pín	sound and video
+音頻	音频	yīn pín	audio/sound/audio frequency/sound frequency
+音頻文件	音频文件	yīn pín wén jiàn	audio file (computer)
+音頻設備	音频设备	yīn pín shè bèi	sound card/audio card (computer)
+中國無線電頻譜管理和監測	中国无线电频谱管理和监测	Zhōng guó wú xiàn diàn pín pǔ guǎn lǐ hé jiān cè	China state radio regulation committee SRRC
+頻仍	频仍	pín réng	frequent
+頻寬	频宽	pín kuān	frequency range/bandwidth
+頻帶	频带	pín dài	frequency range/bandwidth
+頻度	频度	pín dù	frequency
+頻數	频数	pín shù	frequency
+頻數	频数	pín shuò	(literary) frequent/repeated
+頻數分佈	频数分布	pín shù fēn bù	frequency distribution
+頻次	频次	pín cì	frequency
+頻段	频段	pín duàn	(radio) band/frequency band
+頻率	频率	pín lǜ	frequency
+頻率合成	频率合成	pín lǜ hé chéng	frequency synthesis
+頻率調制	频率调制	pín lǜ tiáo zhì	frequency modulation
+頻繁	频繁	pín fán	frequently/often
+頻譜	频谱	pín pǔ	frequency spectrum/spectrum/spectrogram
+頻道	频道	pín dào	frequency/(television) channel
+頻頻	频频	pín pín	repeatedly/again and again/continuously/constantly
+高頻	高频	gāo pín	high frequency

@@ -1,0 +1,4 @@
+焓	焓	hán	enthalpy
+熱焓	热焓	rè hán	enthalpy/heat content (thermodynamics)
+自由焓	自由焓	zì yóu hán	free enthalpy (thermodynamics)/Gibbs free energy
+顯焓	显焓	xiǎn hán	sensible enthalpy (thermodynamics)/energy required to go from one state to another

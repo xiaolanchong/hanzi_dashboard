@@ -1,0 +1,18 @@
+緯	纬	wěi	latitude/woof (horizontal thread in weaving)/weft
+南緯	南纬	nán wěi	latitude south
+地心緯度	地心纬度	dì xīn wěi dù	geocentric latitude (i.e. angle between the equatorial plane and straight line from center of the earth)
+地理緯度	地理纬度	dì lǐ wěi dù	geographic latitude (i.e. angle between the equatorial plane and the normal to the reference ellipsoid)
+經緯	经纬	jīng wěi	warp and woof/longitude and latitude/main points
+經緯儀	经纬仪	jīng wěi yí	theodolite
+經緯密度	经纬密度	jīng wěi mì dù	(textiles) thread count
+經緯線	经纬线	jīng wěi xiàn	lines of latitude and longitude/warp and woof
+北緯	北纬	běi wěi	latitude north
+緯圈	纬圈	wěi quān	line of latitude/parallel
+緯度	纬度	wěi dù	latitude
+緯紗	纬纱	wěi shā	woof (horizontal thread in weaving)/weft
+緯線	纬线	wěi xiàn	woof/line of latitude/parallel
+緯線圈	纬线圈	wěi xiàn quān	line of latitude/parallel
+緯錦	纬锦	wěi jǐn	woof brocade/woven fabric with many-colored woof
+蔣緯國	蒋纬国	Jiǎng Wěi guó	Chiang Wei-kuo (1916-1997), adopted son of Chiang Kai-shek 蔣介石|蒋介石
+讖緯	谶纬	chèn wěi	divination combined with mystical Confucian philosopy, prevalent during the Eastern Han Dynasty (25-220)
+高緯度	高纬度	gāo wěi dù	high latitude (i.e. near the poles)

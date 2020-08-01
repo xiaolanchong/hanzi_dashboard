@@ -1,0 +1,85 @@
+據	据	jù	according to/to act in accordance with/to depend on/to seize/to occupy
+依據	依据	yī jù	according to/basis/foundation
+借據	借据	jiè jù	receipt for a loan
+傳聞證據	传闻证据	chuán wén zhèng jù	hearsay (law)
+元數據	元数据	yuán shù jù	metadata
+光纖分佈數據接口	光纤分布数据接口	guāng xiān fēn bù shù jù jiē kǒu	FDDI/Fiber Distributed Data Interface
+光纖分布式數據接口	光纤分布式数据接口	guāng xiān fēn bù shì shù jù jiē kǒu	Fiber Distributed Data Interface/FDDI
+判據	判据	pàn jù	criterion/criteria
+割據	割据	gē jù	to set up an independent regime/to secede/segmentation/division/fragmentation
+單據	单据	dān jù	receipts/invoices/transaction records
+契據	契据	qì jù	deed
+字據	字据	zì jù	written pledge/contract/IOU
+實據	实据	shí jù	factual evidence
+引經據典	引经据典	yǐn jīng jù diǎn	lit. to quote the classics/to quote chapter and verse (idiom)
+憑據	凭据	píng jù	evidence
+佔據	占据	zhàn jù	to occupy/to hold
+據估計	据估计	jù gū jì	according to estimates
+據信	据信	jù xìn	according to belief/it is believed that
+據傳	据传	jù chuán	it is rumored that .../it is reported that ...
+據報	据报	jù bào	it is reported/according to reports
+據報導	据报导	jù bào dǎo	according to (news) reports
+據報道	据报道	jù bào dào	according to a report/It is reported that...
+據守	据守	jù shǒu	to guard/to hold a fortified position/entrenched
+據守天險	据守天险	jù shǒu tiān xiǎn	to guard a natural stronghold
+據實	据实	jù shí	according to the facts
+據實以告	据实以告	jù shí yǐ gào	to report according to the facts/to tell the truth/to tell it like it is
+據悉	据悉	jù xī	according to reports/it is reported (that)
+據情辦理	据情办理	jù qíng bàn lǐ	to handle a situation according to the circumstances (idiom)
+據我所知	据我所知	jù wǒ suǒ zhī	as far as I know/to the best of my knowledge
+據我看	据我看	jù wǒ kàn	in my view/in my opinion/from what I can see
+據料	据料	jù liào	according to forecasts/it is expected that...
+據有	据有	jù yǒu	to occupy/to hold/to possess
+據此	据此	jù cǐ	according to this/on the ground of the above/(formally introduces reported speech in writing)
+據為己有	据为己有	jù wéi jǐ yǒu	to take for one's own/to expropriate
+據理	据理	jù lǐ	according to reason/in principle
+據理力爭	据理力争	jù lǐ lì zhēng	to contend on strong grounds/to argue strongly for what is right
+據稱	据称	jù chēng	it is said/allegedly/according to reports/or so they say
+據統計	据统计	jù tǒng jì	according to statistics
+據聞	据闻	jù wén	accounts/one's understanding
+據說	据说	jù shuō	it is said that/reportedly
+據險	据险	jù xiǎn	to rely on natural barriers (for one's defense)
+據點	据点	jù diǎn	stronghold/defended military base/base for operations/strategic point/foothold/(market) presence
+收據	收据	shōu jù	receipt/CL:張|张[zhāng]
+數據	数据	shù jù	data/numbers/digital
+數據介面	数据介面	shù jù jiè miàn	data interface
+數據傳輸	数据传输	shù jù chuán shū	data transmission
+數據壓縮	数据压缩	shù jù yā suō	data compression
+數據庫	数据库	shù jù kù	database
+數據庫軟件	数据库软件	shù jù kù ruǎn jiàn	database software
+數據挖掘	数据挖掘	shù jù wā jué	data mining
+數據接口	数据接口	shù jù jiē kǒu	data interface
+數據機	数据机	shù jù jī	modem (Tw)
+數據段	数据段	shù jù duàn	data segment
+數據流	数据流	shù jù liú	data stream/data flow
+數據組	数据组	shù jù zǔ	dataset
+數據網絡	数据网络	shù jù wǎng luò	data network
+數據總線	数据总线	shù jù zǒng xiàn	data bus (computer)
+數據處理	数据处理	shù jù chǔ lǐ	data processing
+數據通信	数据通信	shù jù tōng xìn	data communication
+數據鏈路	数据链路	shù jù liàn lù	data link
+數據鏈路層	数据链路层	shù jù liàn lù céng	data link layer
+數據鏈路連接標識	数据链路连接标识	shù jù liàn lù lián jiē biāo zhì	data link connection identifier (DLCI)
+日據時代	日据时代	Rì jù shí dài	the era of Japanese occupation
+根據	根据	gēn jù	according to/based on/basis/foundation/CL:個|个[gè]
+根據地	根据地	gēn jù dì	base of operations
+根據規定	根据规定	gēn jù guī dìng	according to provisions/as stipulated in the rules
+理據	理据	lǐ jù	grounds/justification/logical basis/(linguistic) motivation
+盤據	盘据	pán jù	variant of 盤踞|盘踞[pán jù]
+直接數據	直接数据	zhí jiē shù jù	data-direct (in LAN emulation)
+真憑實據	真凭实据	zhēn píng shí jù	reliable evidence (idiom); conclusive proof/definitive evidence
+票據	票据	piào jù	negotiable instrument (draft, note etc)/voucher/receipt
+票據法	票据法	piào jù fǎ	negotiable instruments act
+竊據	窃据	qiè jù	to usurp/to claim unjustly/to expropriate
+統計數據	统计数据	tǒng jì shù jù	statistical data
+維基數據	维基数据	Wéi jī shù jù	Wikistats, (stats.wikimedia.org), online tool providing statistics for Wikimedia projects
+考據	考据	kǎo jù	textual criticism
+蟠據	蟠据	pán jù	variant of 盤踞|盘踞[pán jù]
+行為數據	行为数据	xíng wéi shù jù	behavioral data (marketing)
+論據	论据	lùn jù	grounds (for an argument)/contention/thesis
+證據	证据	zhèng jù	evidence/proof/testimony
+進退失據	进退失据	jìn tuì shī jù	no room to advance or to retreat (idiom); at a loss/in a hopeless situation
+間接證據	间接证据	jiàn jiē zhèng jù	indirect testimony/circumstantial evidence
+電子數據交換	电子数据交换	diàn zǐ shù jù jiāo huàn	electronic exchange of data
+非對稱式數據用戶線	非对称式数据用户线	fēi duì chèn shì shù jù yòng hù xiàn	Asymmetrical Digital Subscriber Line/ADSL
+預期收入票據	预期收入票据	yù qī shōu rù piào jù	revenue anticipation note (RAN, financing)

@@ -1,0 +1,860 @@
+心	心	xīn	heart/mind/intention/center/core/CL:顆|颗[kē],個|个[gè]
+一心一德	一心一德	yī xīn yī dé	of one heart and one mind (idiom)
+一心一意	一心一意	yī xīn yī yì	concentrating one's thoughts and efforts/single-minded/bent on/intently
+一心二用	一心二用	yī xīn èr yòng	to do two things at once (idiom)/to multitask/to divide one's attention
+一心多用	一心多用	yī xīn duō yòng	to multitask
+一條心	一条心	yī tiáo xīn	to be of one mind/to think or act alike
+一見傾心	一见倾心	yī jiàn qīng xīn	love at first sight
+一門心思	一门心思	yī mén xīn si	to set one's heart on sth (idiom)
+三心二意	三心二意	sān xīn èr yì	in two minds about sth (idiom)/half-hearted/shilly-shallying
+上心	上心	shàng xīn	carefully/meticulously/to set one's heart on sth
+上海環球金融中心	上海环球金融中心	Shàng hǎi Huán qiú Jīn róng Zhōng xīn	Shanghai World Financial Center (SWFC), skyscraper
+上進心	上进心	shàng jìn xīn	motivation/ambition
+下定決心	下定决心	xià dìng jué xīn	to make a firm resolution
+下決心	下决心	xià jué xīn	to determine/to resolve
+不做虧心事，不怕鬼敲門	不做亏心事，不怕鬼敲门	bù zuò kuī xīn shì , bù pà guǐ qiāo mén	He who never wrongs others does not fear the knock in the night./Rest with a clear conscience.
+不到黃河心不死	不到黄河心不死	bù dào Huáng Hé xīn bù sǐ	lit. not to stop until one reaches the Yellow River (idiom)/fig. to persevere until one reaches one's goal/to keep going while some hope is left
+不安好心	不安好心	bù ān hǎo xīn	to have bad intentions
+不得人心	不得人心	bù dé rén xīn	not to enjoy popular support/to be unpopular
+不死心	不死心	bù sǐ xīn	unwilling to give up/unresigned
+不甘心	不甘心	bù gān xīn	not reconciled to/not resigned to
+世上無難事，只怕有心人	世上无难事，只怕有心人	shì shàng wú nán shì , zhǐ pà yǒu xīn rén	there is nothing the determined person can't accomplish (idiom)/persistence will overcome
+世界貿易中心	世界贸易中心	Shì jiè Mào yì Zhōng xīn	World Trade Center
+世界金融中心	世界金融中心	Shì jiè Jīn róng Zhōng xīn	World Financial Center (New York City)
+世貿中心大樓	世贸中心大楼	Shì mào Zhōng xīn Dà lóu	World Trade Center (the twin towers destroyed by the 9-11 terrorists)
+中國中心主義	中国中心主义	Zhōng guó zhōng xīn zhǔ yì	Sinocentrism
+中國人權民運信息中心	中国人权民运信息中心	Zhōng guó Rén quán Mín yùn Xìn xī Zhōng xīn	Information Center for Human Rights and Democracy, Hong Kong
+中國國防科技信息中心	中国国防科技信息中心	Zhōng guó Guó fáng Kē jì Xìn xī Zhōng xīn	China Defense Science and Technology Information Center (CDSTIC)
+中心	中心	zhōng xīn	center/heart/core/CL:個|个[gè]
+中心區	中心区	zhōng xīn qū	central district
+中心埋置關係從句	中心埋置关系从句	zhōng xīn mái zhì guān xì cóng jù	center-embedded relative clauses
+中心矩	中心矩	zhōng xīn jǔ	(statistics) central moment
+中心粒	中心粒	zhōng xīn lì	centriole
+中心語	中心语	zhōng xīn yǔ	qualified word
+中心點	中心点	zhōng xīn diǎn	center/central point/focus
+中美文化研究中心	中美文化研究中心	Zhōng Měi Wén huà Yán jiū Zhōng xīn	Hopkins-Nanjing Center
+丹心	丹心	dān xīn	loyal heart/loyalty
+主心骨	主心骨	zhǔ xīn gǔ	backbone/mainstay/pillar/definite view/one's own judgment
+事業心	事业心	shì yè xīn	devotion to one's work/professional ambition
+二心	二心	èr xīn	disloyalty/half-heartedness/duplicity
+人心	人心	rén xīn	popular feeling/the will of the people
+人心不古	人心不古	rén xīn bù gǔ	the men of today are sadly degenerated (idiom)
+人心不足蛇吞象	人心不足蛇吞象	rén xīn bù zú shé tūn xiàng	a man who is never content is like a snake trying to swallow an elephant (idiom)
+人心所向	人心所向	rén xīn suǒ xiàng	that which is yearned for by the public
+人心果	人心果	rén xīn guǒ	sapodilla, a tropical fruit bearing tree
+人心渙散	人心涣散	rén xīn huàn sàn	(of a nation, government etc) demoralized/disunited
+人心隔肚皮	人心隔肚皮	rén xīn gé dù pí	there is no knowing what is in a man's heart (idiom)
+人心難測	人心难测	rén xīn nán cè	hard to fathom a person's mind (idiom)
+人面獸心	人面兽心	rén miàn shòu xīn	human face, beast's heart (idiom); two-faced/malicious and duplicitous
+仁心仁術	仁心仁术	rén xīn rén shù	benevolent heart and skillful execution (idiom, from Mencius); charitable in thought and deed
+仇外心理	仇外心理	chóu wài xīn lǐ	xenophobia
+以小人之心，度君子之腹	以小人之心，度君子之腹	yǐ xiǎo rén zhī xīn , duó jūn zǐ zhī fù	to gauge the heart of a gentleman with one's own mean measure (idiom)
+企圖心	企图心	qǐ tú xīn	ambition/ambitious
+低首下心	低首下心	dī shǒu xià xīn	to be fawningly submissive (idiom)
+佛口蛇心	佛口蛇心	fó kǒu shé xīn	words of a Buddha, heart of a snake (idiom); two-faced/malicious and duplicitous
+佛心	佛心	fó xīn	Buddha-like heart (full of compassion)/spirit of Buddha (awakened to reality and no longer clinging to appearances)
+促膝談心	促膝谈心	cù xī tán xīn	to sit side-by-side and have a heart-to-heart talk (idiom)
+信心	信心	xìn xīn	confidence/faith (in sb or sth)/CL:個|个[gè]
+信心百倍	信心百倍	xìn xīn bǎi bèi	brimming with confidence (idiom)
+修心養性	修心养性	xiū xīn yǎng xìng	to cultivate the heart and nurture the character (idiom); to improve oneself by meditation
+偏心	偏心	piān xīn	partial/biased/prejudiced/eccentric
+偏心率	偏心率	piān xīn lǜ	(math.) eccentricity
+偏心眼	偏心眼	piān xīn yǎn	bias/partiality/to be partial
+偏心矩	偏心矩	piān xīn jǔ	axis of eccentricity
+做賊心虛	做贼心虚	zuò zéi xīn xū	to feel guilty as a thief (idiom); to have sth on one's conscience
+傳心術	传心术	chuán xīn shù	telepathy
+傷心	伤心	shāng xīn	to grieve/to be broken-hearted/to feel deeply hurt
+傷心慘目	伤心惨目	shāng xīn cǎn mù	(idiom) too appalling to look at
+傷心致死	伤心致死	shāng xīn zhì sǐ	to grieve to death/to die of a broken-heart
+傷心蒿目	伤心蒿目	shāng xīn hāo mù	to grieve/broken-hearted
+傾心	倾心	qīng xīn	to admire wholeheartedly/to fall in love with
+傾心吐膽	倾心吐胆	qīng xīn tǔ dǎn	to pour out one's heart (idiom)
+僥倖心理	侥幸心理	jiǎo xìng xīn lǐ	trusting to luck/wishful thinking
+內心	内心	nèi xīn	heart/innermost being/(math.) incenter
+內心世界	内心世界	nèi xīn shì jiè	(one's) inner world
+內心戲	内心戏	nèi xīn xì	psychological drama
+內心深處	内心深处	nèi xīn shēn chù	deep in one's heart
+全心	全心	quán xīn	with heart and soul
+全心全意	全心全意	quán xīn quán yì	heart and soul/wholeheartedly
+全球發展中心	全球发展中心	Quán qiú Fā zhǎn Zhōng xīn	Center for Global Development (an environmental think tank)
+全身心	全身心	quán shēn xīn	wholeheartedly/(to devote oneself) heart and soul
+公德心	公德心	gōng dé xīn	civility/public spirit
+公心	公心	gōng xīn	desire for the public good/sense of fair play
+冠心病	冠心病	guān xīn bìng	coronary heart disease
+冰心	冰心	Bīng Xīn	Bing Xin (1900-1999), female poet and children's writer
+凈心修身	净心修身	jìng xīn xiū shēn	to have an untroubled heart and behave morally (idiom)
+凡心	凡心	fán xīn	reluctance to leave this world/heart set on the mundane
+刀子嘴巴，豆腐心	刀子嘴巴，豆腐心	dāo zi zuǐ ba , dòu fu xīn	lit. knife mouth but heart of bean curd; sharp tongue concealing a caring heart
+刀子嘴，豆腐心	刀子嘴，豆腐心	dāo zi zuǐ , dòu fu xīn	to have a sharp tongue but a soft heart (idiom)
+分心	分心	fēn xīn	to distract
+分析心理學	分析心理学	fēn xī xīn lǐ xué	analytical psychology/Jungian psychology
+切齒腐心	切齿腐心	qiè chǐ fǔ xīn	to detest sth or sb to the utmost extreme (idiom)
+初心	初心	chū xīn	(one's) original intention, aspiration etc/(Buddhism) "beginner's mind" (i.e. having an attitude of openness when studying a subject just as a beginner in that subject would)
+別出心裁	别出心裁	bié chū xīn cái	to hit on sth new (idiom); to display originality/to adopt an original approach
+別有用心	别有用心	bié yǒu yòng xīn	to have an ulterior motive (idiom)
+利慾心	利欲心	lì yù xīn	cupidity
+利慾薰心	利欲熏心	lì yù xūn xīn	blinded by greed (idiom)
+利祿薰心	利禄薰心	lì lù xūn xīn	to be eager for wealth and emolument (idiom)
+刻骨銘心	刻骨铭心	kè gǔ míng xīn	lit. carved in bones and engraved in the heart (idiom)/fig. etched in one's memory/unforgettable
+創傷後心理壓力緊張綜合症	创伤后心理压力紧张综合症	chuāng shāng hòu xīn lǐ yā lì jǐn zhāng zōng hé zhèng	post-traumatic stress disorder (PTSD)
+劉心武	刘心武	Liú Xīn wǔ	Liu Xinwu (1942-), novelist
+力不從心	力不从心	lì bù cóng xīn	less capable than desirable (idiom); not as strong as one would wish/the spirit is willing but the flesh is weak
+力心	力心	lì xīn	fulcrum/center of force
+動人心魄	动人心魄	dòng rén xīn pò	(idiom) breathtaking/deeply affecting
+動心	动心	dòng xīn	to be moved/to be tempted
+動魄驚心	动魄惊心	dòng pò jīng xīn	shaking one to the core (idiom); extremely disturbing/shattering/hair-raising
+勞心	劳心	láo xīn	to work with one's brains/to rack one's brains/to worry
+勞心勞力	劳心劳力	láo xīn láo lì	to tax one's mind and body/demanding (work)/dedicated (worker)/hard-working
+勞心苦思	劳心苦思	láo xīn kǔ sī	to rack one's brains/to think hard
+勾心鬥角	勾心斗角	gōu xīn dòu jiǎo	to fight and scheme against each other (idiom)/(in palace construction) elaborate and refined
+包心菜	包心菜	bāo xīn cài	cabbage
+包藏禍心	包藏祸心	bāo cáng huò xīn	to harbor evil intentions (idiom); concealing malice
+北京國家游泳中心	北京国家游泳中心	Běi jīng Guó jiā Yóu yǒng Zhōng xīn	Beijing National Aquatics Center, swimming venue of the Beijing 2008 Olympic Games
+北京環球金融中心	北京环球金融中心	Běi jīng Huán qiú Jīn róng Zhōng xīn	Beijing World Financial Center, skyscraper
+匠心獨運	匠心独运	jiàng xīn dú yùn	original and ingenious (idiom)/to show great creativity
+卷心菜	卷心菜	juǎn xīn cài	cabbage/CL:棵[kē]
+去中心化	去中心化	qù zhōng xīn huà	decentralization
+口不應心	口不应心	kǒu bù yìng xīn	to say one thing but mean another/to dissimulate
+口快心直	口快心直	kǒu kuài xīn zhí	see 心直口快[xīn zhí kǒu kuài]
+口是心非	口是心非	kǒu shì xīn fēi	duplicity/hypocrisy (idiom)
+古根罕噴氣推進研究中心	古根罕喷气推进研究中心	Gǔ gēn hǎn Pēn qì Tuī jìn Yán jiū Zhōng xīn	Guggenheim Aeronautical Laboratory at the California Institute of Technology (GALCIT, from 1926)/Guggenheim Jet Propulsion Center (from 1943)
+可心	可心	kě xīn	satisfying/to one's liking/to suit sb
+可心如意	可心如意	kě xīn rù yì	see 稱心如意|称心如意[chèn xīn rú yì]
+司馬昭之心路人皆知	司马昭之心路人皆知	Sī mǎ Zhāo zhī xīn lù rén jiē zhī	lit. Sima Zhao's intentions are obvious to everyone (idiom)/fig. an open secret
+吃了定心丸	吃了定心丸	chī le dìng xīn wán	to feel reassured
+吃熊心豹子膽	吃熊心豹子胆	chī xióng xīn bào zi dǎn	to eat bear heart and leopard gall (idiom)/to pluck up some courage
+合心	合心	hé xīn	acting together/to one's liking
+吊帶背心	吊带背心	diào dài bèi xīn	camisole (women's garment)
+同心	同心	Tóng xīn	Tongxin county in Wuzhong 吳忠|吴忠[Wú zhōng], Ningxia
+同心	同心	tóng xīn	to be of one mind/united/concentric
+同心協力	同心协力	tóng xīn xié lì	to work with a common purpose (idiom); to make concerted efforts/to pull together/to work as one
+同心同德	同心同德	tóng xīn tóng dé	of one mind (idiom)
+同心縣	同心县	Tóng xīn xiàn	Tongxin county in Wuzhong 吳忠|吴忠[Wú zhōng], Ningxia
+同理心	同理心	tóng lǐ xīn	empathy
+向心力	向心力	xiàng xīn lì	centripetal force/(fig.) cohering force/cohesion/team spirit
+呼叫中心	呼叫中心	hū jiào zhōng xīn	call center
+哀莫大於心死	哀莫大于心死	āi mò dà yú xīn sǐ	nothing sadder than a withered heart (idiom attributed to Confucius by Zhuangzi 莊子|庄子[Zhuāng zǐ])/no greater sorrow than a heart that never rejoices/the worst sorrow is not as bad as an uncaring heart/nothing is more wretched than apathy
+唯心主義	唯心主义	wéi xīn zhǔ yì	philosophy of idealism, the doctrine that external reality is a product of consciousness
+唯心論	唯心论	wéi xīn lùn	philosophy of idealism, the doctrine that external reality is a product of consciousness
+商務中心區	商务中心区	shāng wù zhōng xīn qū	central business district (e.g. CBD of Beijing)
+商業中心	商业中心	shāng yè zhōng xīn	business center/commerce center
+問心有愧	问心有愧	wèn xīn yǒu kuì	to have a guilty conscience
+問心無愧	问心无愧	wèn xīn wú kuì	lit. look into one's heart, no shame (idiom); with a clear conscience
+善心	善心	shàn xīn	kindness/benevolence/philanthropy/virtuous intentions
+喪心病狂	丧心病狂	sàng xīn bìng kuáng	deranged/demented/berserk (idiom)
+嘔心瀝血	呕心沥血	ǒu xīn lì xuè	lit. to spit out one's heart and spill blood (idiom)/to work one's heart out/blood, sweat and tears
+嘗盡心酸	尝尽心酸	cháng jìn xīn suān	to experience one's full share of sorrows (idiom)
+嘴快心直	嘴快心直	zuǐ kuài xīn zhí	outspoken and frank (idiom)
+嘴甜心苦	嘴甜心苦	zuǐ tián xīn kǔ	sweet mouth, bitter heart (idiom); insincere flattery
+嘴硬心軟	嘴硬心软	zuǐ yìng xīn ruǎn	see 刀子嘴，豆腐心[dāo zi zuǐ , dòu fu xīn]
+噁心	恶心	ě xīn	variant of 惡心|恶心[ě xīn]
+回心轉意	回心转意	huí xīn zhuǎn yì	to change one's mind (idiom)
+國際醫療中心	国际医疗中心	Guó jì Yī liáo Zhōng xīn	International Medical Center
+圓心	圆心	yuán xīn	center of circle
+地心	地心	dì xīn	the earth's core/geocentric
+地心吸力	地心吸力	dì xīn xī lì	gravitation
+地心引力	地心引力	dì xīn yǐn lì	earth's gravity
+地心緯度	地心纬度	dì xīn wěi dù	geocentric latitude (i.e. angle between the equatorial plane and straight line from center of the earth)
+地心說	地心说	dì xīn shuō	geocentric theory
+埔心	埔心	Bù xīn	Puhsin township in Changhua county 彰化縣|彰化县[Zhāng huà xiàn], Taiwan
+埔心鄉	埔心乡	Bù xīn xiāng	Puhsin township in Changhua county 彰化縣|彰化县[Zhāng huà xiàn], Taiwan
+報復心	报复心	bào fù xīn	vindictiveness
+境由心生	境由心生	jìng yóu xīn shēng	our mindset frames how we view the world
+外心	外心	wài xīn	(of a married person) interest in a third person/(old) (of a minister etc) disloyal disposition/(math.) circumcenter (of a polygon)
+多心	多心	duō xīn	oversensitive/suspicious
+大心	大心	dà xīn	(Tw) considerate/thoughtful (from Taiwanese 貼心|贴心, Tai-lo pr. [tah-sim])
+大快人心	大快人心	dà kuài rén xīn	to the satisfaction of everyone
+天下無難事，只怕有心人	天下无难事，只怕有心人	tiān xià wú nán shì , zhǐ pà yǒu xīn rén	lit. nothing is difficult on this earth, if your mind is set (idiom)
+天地良心	天地良心	tiān dì liáng xīn	in all honesty/truth to tell
+天心	天心	Tiān xīn	Tianxin district of Changsha city 長沙市|长沙市[Cháng shā shì], Hunan
+天心	天心	tiān xīn	center of the sky/will of heaven/will of the Gods/the monarch's will
+天心區	天心区	Tiān xīn qū	Tianxin district of Changsha city 長沙市|长沙市[Cháng shā shì], Hunan
+天津環球金融中心	天津环球金融中心	Tiān jīn Huán qiú Jīn róng Zhōng xīn	Tianjin World Financial Center, skyscraper a.k.a. the Tianjin Tower or Jin Tower/abbr. to 津塔[Jīn tǎ]
+夾心	夹心	jiā xīn	to fill with stuffing (e.g. in cooking)/stuffed
+夾心餅乾	夹心饼干	jiā xīn bǐng gān	sandwich cookie/(jocularly) sb who is caught between two opposing parties/sb who is between the hammer and the anvil
+好奇心	好奇心	hào qí xīn	interest in sth/curiosity/inquisitive
+好心	好心	hǎo xīn	kindness/good intentions
+好心倒做了驢肝肺	好心倒做了驴肝肺	hǎo xīn dào zuò le lǘ gān fēi	lit. to mistake good intentions for a donkey's liver and lungs (idiom)/fig. to mistake good intentions for ill intent
+娛樂中心	娱乐中心	yú lè zhōng xīn	amusement park/recreation center/entertainment center
+存心	存心	cún xīn	deliberately
+孝心	孝心	xiào xīn	filial piety (a Confucian obligation)/respect and obedience to one's parents
+安好心	安好心	ān hǎo xīn	to have good intentions
+安心	安心	ān xīn	at ease/to feel relieved/to set one's mind at rest/to keep one's mind on sth
+完形心理學	完形心理学	wán xíng xīn lǐ xué	Gestalt psychology (concerned with treating a subject as a coherent whole)
+完形心理治療	完形心理治疗	wán xíng xīn lǐ zhì liáo	Gestalt psychotherapy
+定心丸	定心丸	dìng xīn wán	tranquilizer/sth that sets one's mind at ease
+客觀唯心主義	客观唯心主义	kè guān wéi xīn zhǔ yì	objective idealism (in Hegel's philosophy)
+害人之心不可有，防人之心不可無	害人之心不可有，防人之心不可无	hài rén zhī xīn bù kě yǒu , fáng rén zhī xīn bù kě wú	refrain from hurting others, yet guard against those trying to hurt you (proverb)
+寒心	寒心	hán xīn	disillusioned/bitterly disappointed/terrified
+實心	实心	shí xīn	sincere/solid
+實心皮球	实心皮球	shí xīn pí qiú	medicine ball
+實驗心理學	实验心理学	shí yàn xīn lǐ xué	experimental psychology
+寬心	宽心	kuān xīn	relieved/comforted/to relieve anxieties/at ease/relaxed/reassuring/happy
+寬心丸	宽心丸	kuān xīn wán	reassuring explanation/consolatory words
+寬心丸兒	宽心丸儿	kuān xīn wán r5	erhua variant of 寬心丸|宽心丸[kuān xīn wán]
+將心比心	将心比心	jiāng xīn bǐ xīn	to put oneself in sb else's shoes (idiom)
+專心	专心	zhuān xīn	to concentrate/absorption/concentration/engrossed
+專心一意	专心一意	zhuān xīn yī yì	to concentrate on
+專心致志	专心致志	zhuān xīn zhì zhì	with single-hearted devotion (idiom)
+尋開心	寻开心	xún kāi xīn	to make fun of/to seek diversion
+對心	对心	duì xīn	congenial/to one's liking
+對心兒	对心儿	duì xīn r5	erhua variant of 對心|对心[duì xīn]
+小心	小心	xiǎo xīn	to be careful/to take care
+小心眼	小心眼	xiǎo xīn yǎn	narrow-minded/petty
+小心眼兒	小心眼儿	xiǎo xīn yǎn r5	small-minded/petty/narrow-minded
+小心翼翼	小心翼翼	xiǎo xīn yì yì	cautious and solemn (idiom); very carefully/prudent/gently and cautiously
+小心謹慎	小心谨慎	xiǎo xīn jǐn shèn	cautious and timid (idiom); prudent/careful
+小食中心	小食中心	xiǎo shí zhōng xīn	Food court
+居心	居心	jū xīn	to harbor (evil) intentions/to be bent on/a tranquil heart or mind
+居心不良	居心不良	jū xīn bù liáng	to harbor evil intentions (idiom)
+居心何在	居心何在	jū xīn hé zài	What's (he) up to?/What's the motive behind all this?
+居心叵測	居心叵测	jū xīn pǒ cè	harboring unfathomable motives (idiom)
+居心險惡	居心险恶	jū xīn xiǎn è	to have sinister motives
+工於心計	工于心计	gōng yú xīn jì	scheming/calculating
+巴心巴肝	巴心巴肝	bā xīn bā gān	with all one's heart (dialect)
+市中心	市中心	shì zhōng xīn	city center/downtown
+平常心	平常心	píng cháng xīn	levelheadedness/calmness/equanimity
+平心而論	平心而论	píng xīn ér lùn	to be honest, ...
+平生不做虧心事，半夜敲門心不驚	平生不做亏心事，半夜敲门心不惊	píng shēng bù zuò kuī xīn shì , bàn yè qiāo mén xīn bù jīng	He who never wrongs others does not fear the knock in the night./Rest with a clear conscience.
+廢物點心	废物点心	fèi wù diǎn xin	(coll.) a good-for-nothing/loser
+張心	张心	zhāng xīn	to be troubled/to be concerned
+強心劑	强心剂	qiáng xīn jì	cardiac stimulant
+強心針	强心针	qiáng xīn zhēn	heart-strengthening shot/fig. a shot in the arm
+往心裡去	往心里去	wǎng xīn li qù	to take sth to heart/to take sth seriously
+後心	后心	hòu xīn	middle of the back
+得心應手	得心应手	dé xīn yìng shǒu	lit. what the heart wishes, the hand accomplishes (idiom) skilled at the job/entirely in one's element/going smoothly and easily
+從心所欲	从心所欲	cóng xīn suǒ yù	whatever you like/to do as one pleases
+德意志學術交流中心	德意志学术交流中心	Dé yì zhì Xué shù Jiāo liú Zhōng xīn	German Academic Exchange Service (DAAD)
+一心	一心	yī xīn	wholeheartedly/heart and soul
+心上人	心上人	xīn shàng rén	sweetheart/one's beloved
+心下	心下	xīn xià	in mind
+心不在焉	心不在焉	xīn bù zài yān	absent-minded/preoccupied/inattentive/with one's thoughts wandering
+心中	心中	xīn zhōng	central point/in one's thoughts/in one's heart
+心中有數	心中有数	xīn zhōng yǒu shù	to know what's going on
+心中有鬼	心中有鬼	xīn zhōng yǒu guǐ	to harbor ulterior motives (idiom)
+心中無數	心中无数	xīn zhōng wú shù	to have no idea/to be unsure
+心亂如麻	心乱如麻	xīn luàn rú má	one's thoughts in a whirl (idiom); confused/disconcerted/upset
+心事	心事	xīn shì	a load on one's mind/worry/CL:宗[zōng],樁|桩[zhuāng]
+心儀	心仪	xīn yí	to admire
+心切	心切	xīn qiè	eager/impatient/guileless
+心力	心力	xīn lì	mental and physical efforts
+心力交瘁	心力交瘁	xīn lì jiāo cuì	to be both mentally and physically exhausted (idiom)
+心力衰竭	心力衰竭	xīn lì shuāi jié	heart failure
+心勁	心劲	xīn jìn	thoughts/what one has in one's heart
+心動	心动	xīn dòng	heartbeat/heart rate/(fig.) emotionally affected/aroused (of desire, emotion, interest etc)
+心動圖	心动图	xīn dòng tú	cardiogram (medicine)
+心動女	心动女	xīn dòng nǚ	(coll.) the girl of your dreams
+心包	心包	xīn bāo	pericardium
+心口	心口	xīn kǒu	pit of the stomach/solar plexus/words and thoughts
+心口不一	心口不一	xīn kǒu bù yī	heart and mouth at variance (idiom); keeping one's real intentions to oneself/saying one thing but meaning sth different
+心口如一	心口如一	xīn kǒu rú yī	lit. heart and mouth as one (idiom); to say what you think/honest and straightforward
+心土	心土	xīn tǔ	subsoil
+心地	心地	xīn dì	character
+心地善良	心地善良	xīn dì shàn liáng	kindhearted/good-natured
+心坎	心坎	xīn kǎn	bottom of one's heart
+心塞	心塞	xīn sāi	(coll.) to feel sick at heart/to feel stifled/to feel crushed
+心境	心境	xīn jìng	mood/mental state/frame of mind
+心如刀割	心如刀割	xīn rú dāo gē	to feel as if having one's heart cut out (idiom)/to be torn with grief
+心如刀絞	心如刀绞	xīn rú dāo jiǎo	to feel a pain like a knife being twisted in one's heart (idiom)
+心如止水	心如止水	xīn rú zhǐ shuǐ	to be at peace with oneself
+心孔	心孔	xīn kǒng	see 心竅|心窍[xīn qiào]
+心存不滿	心存不满	xīn cún bù mǎn	to be discontented/to be dissatisfied
+心存懷疑	心存怀疑	xīn cún huái yí	to be suspicious
+心學	心学	xīn xué	School of Mind/Neo-Confucian Idealistic School (from Song to mid-Qing times, c. 1000-1750, typified by the teachings of Wang Yangming 王陽明|王阳明[Wáng Yáng míng])
+心安理得	心安理得	xīn ān lǐ dé	to have a clear conscience/to have no qualms about sth
+心安神閑	心安神闲	xīn ān shén xián	with one's heart at ease and one's spirit at rest (idiom)
+心室	心室	xīn shì	ventricle (heart)
+心宿二	心宿二	Xīn xiù èr	Antares, the brightest star in Scorpio 天蠍座|天蝎座[Tiān xiē zuò]
+心寒	心寒	xīn hán	bitterly disappointed/frightened
+心寬體胖	心宽体胖	xīn kuān tǐ pán	big-hearted and serene (idiom); contented and easy-going
+心尖	心尖	xīn jiān	bottom tip of the heart/fig. innermost feelings/coll. my darling
+心平氣和	心平气和	xīn píng qì hé	tranquil and even-tempered (idiom); calmly and without stress
+心底	心底	xīn dǐ	bottom of one's heart
+心廣體胖	心广体胖	xīn guǎng tǐ pán	big-hearted and serene (idiom); contended and easy-going
+心弦	心弦	xīn xián	heartstrings
+心影兒	心影儿	xīn yǐng ér	(Taiwan usage) child in need of help (orphaned, abandoned, abused etc)
+心律不整	心律不整	xīn lǜ bù zhěng	arrhythmia
+心律不齊	心律不齐	xīn lǜ bù qí	arrhythmia
+心律失常	心律失常	xīn lǜ shī cháng	arrhythmia
+心得	心得	xīn dé	what one has learned (through experience, reading etc)/knowledge/insight/understanding/tips/CL:項|项[xiàng],個|个[gè]
+心得安	心得安	xīn dé ān	propranolol (beta-blocker used to treat high blood pressure)
+心心相印	心心相印	xīn xīn xiāng yìn	two hearts beat as one (idiom); a kindred spirit
+心志	心志	xīn zhì	will/resolution/aspiration
+心思	心思	xīn si	mind/thoughts/inclination/mood
+心急	心急	xīn jí	anxious/impatient
+心急吃不了熱豆腐	心急吃不了热豆腐	xīn jí chī bu liǎo rè dòu fu	hasty men don't get to eat hot tofu (idiom)/one just has to be patient/haste will ruin everything
+心急火燎	心急火燎	xīn jí huǒ liǎo	to burn with anxiety
+心怦怦跳	心怦怦跳	xīn pēng pēng tiào	The heart thumps wildly. (idiom)
+心性	心性	xīn xìng	one's nature/temperament
+心悅誠服	心悦诚服	xīn yuè chéng fú	to submit cheerfully/to accept willingly (idiom)
+心悸	心悸	xīn jì	palpitation
+心情	心情	xīn qíng	mood/frame of mind/CL:個|个[gè]
+心想	心想	xīn xiǎng	to think to oneself/to think/to assume
+心想事成	心想事成	xīn xiǎng shì chéng	to have one's wishes come true/wish you the best!
+心意	心意	xīn yì	regard/kindly feelings/intention
+心愛	心爱	xīn ài	beloved
+心態	心态	xīn tài	attitude (of the heart)/state of one's psyche/way of thinking/mentality
+心慌	心慌	xīn huāng	to be flustered/(dialect) irregular heart-beat
+心慌意亂	心慌意乱	xīn huāng yì luàn	confused/rattled/flustered
+心懷	心怀	xīn huái	to harbor (thoughts)/to cherish/to entertain (illusions)
+心懷叵測	心怀叵测	xīn huái pǒ cè	see 居心叵測|居心叵测[jū xīn pǒ cè]
+心戰	心战	xīn zhàn	psychological warfare/(literary) to be inwardly terrorized
+心房	心房	xīn fáng	heart (as the seat of emotions)/cardiac atrium
+心房顫動	心房颤动	xīn fáng chàn dòng	atrial fibrillation
+心扉	心扉	xīn fēi	inner heart/soul
+心拙口夯	心拙口夯	xīn zhuō kǒu bèn	variant of 心拙口笨[xīn zhuō kǒu bèn]
+心拙口笨	心拙口笨	xīn zhuō kǒu bèn	dull-witted and tongue-tied
+心搏	心搏	xīn bó	heartbeat/pulse
+心摺	心折	xīn zhé	convinced/to admire from the heart/enchanted
+心智	心智	xīn zhì	wisdom
+心智圖	心智图	xīn zhì tú	mind map
+心曠神怡	心旷神怡	xīn kuàng shén yí	lit. heart untroubled, spirit pleased (idiom); carefree and relaxed
+心有靈犀一點通	心有灵犀一点通	xīn yǒu líng xī yī diǎn tōng	hearts linked as one, just as the proverbial rhinoceros communicates emotion telepathically through his single horn (idiom); fig. two hearts beat as one
+心有餘悸	心有余悸	xīn yǒu yú jì	to have lingering fears/trepidation remaining after a trauma (idiom)
+心有餘而力不足	心有余而力不足	xīn yǒu yú ér lì bù zú	the will is there, but not the strength (idiom)/the spirit is willing but the flesh is weak
+心有餘，力不足	心有余，力不足	xīn yǒu yú , lì bù zú	The will is there, but not the strength (idiom, from Confucian Analects)./I really want to do it, but don't have the resources./The spirit is willing but the flesh is weak.
+心服	心服	xīn fú	to accept wholeheartedly/to embrace/to be won over
+心服口服	心服口服	xīn fú kǒu fú	to accept wholeheartedly/to embrace/to be won over
+心材	心材	xīn cái	pith/central core (of tree)
+心根	心根	xīn gēn	the innermost depths of one's heart/(Buddhism) manas (the mind)
+心梗	心梗	xīn gěng	abbr. for 心肌梗塞[xīn jī gěng sāi], myocardial infarction/heart attack
+心機	心机	xīn jī	thinking/scheme
+心毒	心毒	xīn dú	cruel/vicious
+心毒手辣	心毒手辣	xīn dú shǒu là	vicious and ruthless
+心氣	心气	xīn qì	intention/motive/state of mind/ambition/aspiration/heart 氣|气[qì] (TCM)
+心流	心流	xīn liú	(psychology) flow/being "in the zone"
+心滿意足	心满意足	xīn mǎn yì zú	perfectly contented (idiom)/perfectly satisfied
+心潮澎湃	心潮澎湃	xīn cháo péng pài	to be overwhelmed by emotions
+心灰意冷	心灰意冷	xīn huī yì lěng	discouraged/downhearted
+心灰意懶	心灰意懒	xīn huī yì lǎn	discouraged/downhearted
+心無二用	心无二用	xīn wú èr yòng	one cannot concentrate on two things at the same time
+心焦	心焦	xīn jiāo	worried/anxious
+心照	心照	xīn zhào	intuitive sympathy/to understand tacitly
+心照不宣	心照不宣	xīn zhào bù xuān	a tacit mutual understanding
+心煩	心烦	xīn fán	to feel agitated/to be troubled/to be annoyed/an upset or distraction
+心煩意亂	心烦意乱	xīn fán yì luàn	lit. heart distracted, thoughts in turmoil (idiom); distraught with anxiety
+心煩氣躁	心烦气躁	xīn fán qì zào	agitated/annoyed (idiom)
+心狠手辣	心狠手辣	xīn hěn shǒu là	vicious and merciless (idiom)
+心猿意馬	心猿意马	xīn yuán yì mǎ	lit. heart like a frisky monkey, mind like a cantering horse (idiom); fig. capricious (derog.)/to have ants in one's pants/hyperactive/adventurous and uncontrollable
+心率	心率	xīn lǜ	heart rate
+心理	心理	xīn lǐ	psychology/mentality
+心理作用	心理作用	xīn lǐ zuò yòng	psychological effect/subjective experience affected more by one's expectations than by objective reality/figment of the imagination
+心理學	心理学	xīn lǐ xué	psychology
+心理學家	心理学家	xīn lǐ xué jiā	psychologist
+心理戰	心理战	xīn lǐ zhàn	psychological warfare/psychological operations/psyop
+心理統計學	心理统计学	xīn lǐ tǒng jì xué	psychometrics/quantitative psychology
+心理詞典	心理词典	xīn lǐ cí diǎn	mental lexicon
+心理防線	心理防线	xīn lǐ fáng xiàn	psychological barrier
+心瓣	心瓣	xīn bàn	heart valve
+心甘	心甘	xīn gān	to be willing/to be satisfied
+心甘情願	心甘情愿	xīn gān qíng yuàn	delighted to (do sth, idiom)/perfectly happy to do/most willing to do
+心田	心田	xīn tián	heart (one's innermost being)
+心疑	心疑	xīn yí	to suspect
+心疼	心疼	xīn téng	to love dearly/to feel sorry for sb/to regret/to grudge/to be distressed
+心病	心病	xīn bìng	anxiety/sore point/secret worry/mental disorder/heart disease (medicine)
+心痛	心痛	xīn tòng	to feel distressed about sth/heartache/cardiac pain
+心目	心目	xīn mù	mind
+心目中	心目中	xīn mù zhōng	in one's eyes/in one's estimation
+心直口快	心直口快	xīn zhí kǒu kuài	frank and outspoken (idiom)/straight speaking/to say what one thinks
+心直嘴快	心直嘴快	xīn zhí zuǐ kuài	frank and outspoken/straight speaking/to say what one thinks
+心眼	心眼	xīn yǎn	heart/intention/conscience/consideration/cleverness/tolerance
+心眼兒	心眼儿	xīn yǎn r5	one's thoughts/mind/intention/willingness to accept new ideas/baseless suspicions
+心眼多	心眼多	xīn yǎn duō	to have unfounded doubts/overconcerned
+心眼大	心眼大	xīn yǎn dà	magnanimous/considerate/thoughtful/able to think of everything that needs to be thought of
+心眼好	心眼好	xīn yǎn hǎo	well-intentioned/good-natured/kindhearted
+心眼小	心眼小	xīn yǎn xiǎo	see 小心眼[xiǎo xīn yǎn]
+心知肚明	心知肚明	xīn zhī dù míng	to be well aware
+心砰砰跳	心砰砰跳	xīn pēng pēng tiào	variant of 心怦怦跳[xīn pēng pēng tiào]
+心硬	心硬	xīn yìng	hardhearted/callous
+心碎	心碎	xīn suì	heartbroken/extreme depth of sorrow
+心神	心神	xīn shén	mind/state of mind/attention/(Chinese medicine) psychic constitution
+心神不安	心神不安	xīn shén bù ān	to feel ill at ease
+心神不寧	心神不宁	xīn shén bù níng	to feel ill at ease
+心神不屬	心神不属	xīn shén bù zhǔ	see 心不在焉[xīn bù zài yān]
+心神專註	心神专注	xīn shén zhuān zhù	to concentrate one's attention/to be fully focused
+心神恍惚	心神恍惚	xīn shén huǎng hū	perturbed (idiom)
+心秀	心秀	xīn xiù	not manifesting one's inner quality
+心窄	心窄	xīn zhǎi	narrow-minded/intolerant
+心窩兒	心窝儿	xīn wō r5	one's breast/the pit of one's stomach
+心竅	心窍	xīn qiào	the mind/capacity for clear thinking
+心算	心算	xīn suàn	mental arithmetic/to calculate in one's head/planning/preparation
+心細	心细	xīn xì	careful/scrupulous
+心結	心结	xīn jié	a matter that gnaws at one's mind/preoccupation/sore point/rancor
+心絞痛	心绞痛	xīn jiǎo tòng	angina
+心經	心经	Xīn jīng	the Heart Sutra
+心緒	心绪	xīn xù	state of mind/mood
+心緒不佳	心绪不佳	xīn xù bù jiā	out of sorts/gloomy
+心緒不寧	心绪不宁	xīn xù bù níng	unquiet state of mind
+心羨	心羡	xīn xiàn	to admire
+心聲	心声	xīn shēng	thoughts/feelings/aspirations/heartfelt wishes/inner voice
+心肌	心肌	xīn jī	myocardium
+心肌梗塞	心肌梗塞	xīn jī gěng sè	myocardial infarction/heart attack
+心肌梗死	心肌梗死	xīn jī gěng sǐ	myocardial infarction/heart attack
+心肌炎	心肌炎	xīn jī yán	myocarditis
+心肝	心肝	xīn gān	darling/(in negative sentences) heart/humanity
+心肝寶貝	心肝宝贝	xīn gān bǎo bèi	precious darling (often refers to one's child)/sweetheart
+心肺復甦術	心肺复苏术	xīn fèi fù sū shù	cardiopulmonary resuscitation (CPR)
+心胸	心胸	xīn xiōng	heart/mind/ambition/aspiration
+心胸狹窄	心胸狭窄	xīn xiōng xiá zhǎi	narrow-minded (idiom); petty/ungenerous
+心胸狹隘	心胸狭隘	xīn xiōng xiá ài	narrow/petty-minded
+心胸開闊	心胸开阔	xīn xiōng kāi kuò	broad-minded/open-minded
+心腸	心肠	xīn cháng	heart/intention/one's inclination/state of mind/to have the heart for sth/mood
+心腹	心腹	xīn fù	trusted aide/confidant/reliable agent/to confide
+心腹之患	心腹之患	xīn fù zhī huàn	lit. calamity within one's bosom (idiom); major trouble hidden within
+心膽	心胆	xīn dǎn	courage
+心膽俱裂	心胆俱裂	xīn dǎn jù liè	to be scared out of one's wits (idiom)
+心臟	心脏	xīn zàng	heart/CL:顆|颗[kē],個|个[gè]
+心臟搭橋手術	心脏搭桥手术	xīn zàng dā qiáo shǒu shù	coronary bypass operation
+心臟收縮壓	心脏收缩压	xīn zàng shōu suō yā	systolic blood pressure
+心臟疾患	心脏疾患	xīn zàng jí huàn	heart disease
+心臟病	心脏病	xīn zàng bìng	heart disease
+心臟移殖	心脏移殖	xīn zàng yí zhí	heart transplant
+心臟舒張壓	心脏舒张压	xīn zàng shū zhāng yā	diastolic blood pressure
+心臟雜音	心脏杂音	xīn zàng zá yīn	heart murmur
+心花怒放	心花怒放	xīn huā nù fàng	to burst with joy (idiom)/to be over the moon/to be elated
+心葉椴	心叶椴	xīn yè duàn	small-leaf linden (Tilia cordata)
+心蕩神馳	心荡神驰	xīn dàng shén chí	to be infatuated with
+心虛	心虚	xīn xū	lacking in confidence/diffident/to have a guilty conscience
+心血	心血	xīn xuè	heart's blood/expenditure (for some project)/meticulous care
+心血來潮	心血来潮	xīn xuè lái cháo	to be prompted by a sudden impulse/carried away by a whim/to have a brainstorm
+心血管	心血管	xīn xuè guǎn	cardiovascular
+心血管疾病	心血管疾病	xīn xuè guǎn jí bìng	cardiovascular disease
+心術	心术	xīn shù	designs/schemes/intentions/scheming/calculating (of a person)
+心裡	心里	xīn li	chest/heart/mind
+心裡有數	心里有数	xīn lǐ yǒu shù	to know the score (idiom)/to be well aware of the situation
+心裡有譜	心里有谱	xīn lǐ yǒu pǔ	to have a plan in mind
+心裡有鬼	心里有鬼	xīn li yǒu guǐ	to have secret motives/to have a guilty conscience
+心裡癢癢	心里痒痒	xīn lǐ yǎng yang	lit. itchy heart/to be itching to do sth (idiom)
+心裡美蘿蔔	心里美萝卜	xīn li měi luó bo	Chinese roseheart radish (shinrimei radish), green on the outside, purple-red on the inside, a favorite Beijing vegetable
+心裡話	心里话	xīn li huà	(to express one's) true feelings/what is on one's mind/secret mind
+心計	心计	xīn jì	scheming/shrewdness
+心許	心许	xīn xǔ	to consent tacitly/unspoken approval
+心跡	心迹	xīn jì	true motive/true feelings
+心路	心路	xīn lù	scheme/artifice/tolerance/intention/motive/train of thought/brains/wit/ideas
+心跳	心跳	xīn tiào	heartbeat/pulse
+心跳過緩	心跳过缓	xīn tiào guò huǎn	bradycardia
+心軟	心软	xīn ruǎn	to be softhearted/to be tenderhearted/to be kindhearted
+心軸	心轴	xīn zhóu	central axis/spindle
+心輪	心轮	xīn lún	anāhata or anahata, the heart chakra 查克拉, residing in the chest
+心酸	心酸	xīn suān	to feel sad
+心醉	心醉	xīn zuì	enchanted/fascinated/charmed
+心醉神迷	心醉神迷	xīn zuì shén mí	ecstatic/enraptured
+心重	心重	xīn zhòng	overanxious/neurotic
+心雜音	心杂音	xīn zá yīn	see 心臟雜音|心脏杂音[xīn zàng zá yīn]
+心電圖	心电图	xīn diàn tú	electrocardiogram (ECG)
+心電感應	心电感应	xīn diàn gǎn yìng	telepathy
+心靈	心灵	xīn líng	bright/smart/quick-witted/heart/thoughts/spirit
+心靈上	心灵上	xīn líng shàng	spiritual
+心靈感應	心灵感应	xīn líng gǎn yìng	telepathy
+心靈手巧	心灵手巧	xīn líng shǒu qiǎo	capable/clever/dexterous
+心靜	心静	xīn jìng	tranquil/calm
+心靜自然涼	心静自然凉	xīn jìng zì rán liáng	a calm heart keeps you cool (idiom)
+心音	心音	xīn yīn	sound of the heart/heartbeat
+心領	心领	xīn lǐng	I appreciate your kindness (conventional reply to turn down an offer)
+心領神悟	心领神悟	xīn lǐng shén wù	to understand tacitly (idiom)/to know intuitively/to understand thoroughly
+心領神會	心领神会	xīn lǐng shén huì	to understand tacitly (idiom)/to know intuitively/to understand thoroughly
+心頭	心头	xīn tóu	heart/thoughts/mind
+心頭肉	心头肉	xīn tóu ròu	favorite
+心願	心愿	xīn yuàn	cherished desire/dream/craving/wish/aspiration
+心願單	心愿单	xīn yuàn dān	wish list
+心餘力絀	心余力绌	xīn yú lì chù	see 心有餘而力不足|心有余而力不足[xīn yǒu yú ér lì bù zú]
+心馳神往	心驰神往	xīn chí shén wǎng	one's thoughts fly to a longed-for place or person/to long for/infatuated/fascinated
+心驚	心惊	xīn jīng	fearful/apprehensive
+心驚肉跳	心惊肉跳	xīn jīng ròu tiào	lit. heart alarmed, body leaping (idiom); fear and trepidation in the face of disaster
+心驚膽戰	心惊胆战	xīn jīng dǎn zhàn	lit. heart alarmed, trembling in fear (idiom); prostrate with fear/scared witless
+心驚膽顫	心惊胆颤	xīn jīng dǎn chàn	see 心驚膽戰|心惊胆战[xīn jīng dǎn zhàn]
+心高氣傲	心高气傲	xīn gāo qì ào	proud and arrogant
+忍心	忍心	rěn xīn	to have the heart to do sth/to steel oneself to a task
+忠心	忠心	zhōng xīn	good faith/devotion/loyalty/dedication
+忠心耿耿	忠心耿耿	zhōng xīn gěng gěng	loyal and devoted (idiom); faithful and true
+快感中心	快感中心	kuài gǎn zhōng xīn	pleasure center
+怒氣攻心	怒气攻心	nù qì gōng xīn	(TCM) sudden strong emotions attacking the heart, leading to faints etc/(fig.) to fly into a fit of anger
+思之心痛	思之心痛	sī zhī xīn tòng	a thought that causes heartache (idiom)
+怦然心動	怦然心动	pēng rán xīn dòng	to feel a rush of excitement (idiom)
+怵目驚心	怵目惊心	chù mù jīng xīn	lit. shocks the eye, astonishes the heart (idiom); shocking/horrible to see/a ghastly sight/also written 觸目驚心|触目惊心
+恆心	恒心	héng xīn	perseverance
+悉心	悉心	xī xīn	to put one's heart (and soul) into sth/with great care
+惡心	恶心	ě xīn	nausea/to feel sick/disgust/nauseating/to embarrass (deliberately)
+惡心	恶心	è xīn	bad habit/vicious habit/vice
+惹人心煩	惹人心烦	rě rén xīn fán	to annoy people/to be a pain in the neck
+惻怛之心	恻怛之心	cè dá zhī xīn	see 惻隱之心|恻隐之心[cè yǐn zhī xīn]
+惻隱之心	恻隐之心	cè yǐn zhī xīn	compassion
+愛心	爱心	ài xīn	compassion/kindness/care for others/love/CL:片[piàn]/charity (bazaar, golf day etc)/heart (the symbol ♥)
+愛心傘	爱心伞	ài xīn sǎn	courtesy umbrella (one made available for borrowing)
+愛美之心，人皆有之	爱美之心，人皆有之	ài měi zhī xīn , rén jiē yǒu zhī	everyone loves beauty (idiom)
+憂心	忧心	yōu xīn	concerned/worried/disturbed/anxious
+憂心忡忡	忧心忡忡	yōu xīn chōng chōng	deeply worried and sick at heart (idiom)
+懷恨在心	怀恨在心	huái hèn zài xīn	to harbor hard feelings
+成心	成心	chéng xīn	intentional/deliberate/on purpose
+戒心	戒心	jiè xīn	vigilance/wariness
+戮力同心	戮力同心	lù lì tóng xīn	concerted efforts in a common cause (idiom); united and working together
+戳心灌髓	戳心灌髓	chuō xīn guàn suǐ	sarcasm
+手心	手心	shǒu xīn	palm (of one's hand)/control (extended meaning from having something in the palm of one's hand)
+手心手背都是肉	手心手背都是肉	shǒu xīn shǒu bèi dōu shì ròu	lit. both the palm and the back of the hand are made of flesh (idiom)/fig. to both be of equal importance/to value both equally
+手掌心	手掌心	shǒu zhǎng xīn	see 手心[shǒu xīn]
+打心眼裡	打心眼里	dǎ xīn yǎn li	from the bottom of one's heart/heartily/sincerely
+扣人心弦	扣人心弦	kòu rén xīn xián	to excite/to thrill/exciting/thrilling/cliff-hanging
+把心放在肚子裡	把心放在肚子里	bǎ xīn fàng zài dù zi lǐ	(coll.) to be completely at ease
+投影中心	投影中心	tóu yǐng zhōng xīn	center of projection
+指揮中心	指挥中心	zhǐ huī zhōng xīn	command center
+挖空心思	挖空心思	wā kōng xīn si	to dig for thoughts (idiom); to search everything for an answer/to rack one's brains
+捫心無愧	扪心无愧	mén xīn wú kuì	lit. look into one's heart, no shame (idiom); with a clear conscience
+捫心自問	扪心自问	mén xīn zì wèn	to ask oneself honestly/to search in one's heart
+捲心菜	卷心菜	juǎn xīn cài	variant of 卷心菜[juǎn xīn cài]
+掉以輕心	掉以轻心	diào yǐ qīng xīn	treat sth lightly/to lower one's guard
+掌心	掌心	zhǎng xīn	hollow of the palm
+掏心掏肺	掏心掏肺	tāo xīn tāo fèi	to be totally devoted (to a person)
+掛心	挂心	guà xīn	to worry/to be on one's mind
+推心	推心	tuī xīn	to treat sincerely/to confide in
+推心置腹	推心置腹	tuī xīn zhì fù	to give one's bare heart into sb else's keeping (idiom); sb has one's absolute confidence/to trust completely/to confide in sb with entire sincerity
+提心	提心	tí xīn	worry
+提心吊膽	提心吊胆	tí xīn diào dǎn	(saying) to be very scared and on edge
+揪心	揪心	jiū xīn	lit. grips the heart/worried/anxious
+揪心扒肝	揪心扒肝	jiū xīn bā gān	(idiom) extremely anxious/anguished
+揪心揪肺	揪心揪肺	jiū xīn jiū fèi	heart-wrenching
+操心	操心	cāo xīn	to worry about
+擔心	担心	dān xīn	anxious/worried/uneasy/to worry/to be anxious
+收心	收心	shōu xīn	to concentrate on the task/to curb one's evil instincts
+收攏人心	收拢人心	shōu lǒng rén xīn	to win people's hearts
+放不下心	放不下心	fàng bu xià xīn	cannot stop worrying
+放在心上	放在心上	fàng zài xīn shàng	to care about/to take seriously/to take to heart
+放心	放心	fàng xīn	to feel relieved/to feel reassured/to be at ease
+散心	散心	sàn xīn	to drive away cares/to relieve boredom
+散心解悶	散心解闷	sàn xīn jiě mèn	to divert one's mind from boredom (idiom)
+於心不忍	于心不忍	yú xīn bù rěn	can't bear to
+日心說	日心说	rì xīn shuō	heliocentric theory/the theory that the sun is at the center of the universe
+春心	春心	chūn xīn	amorous feelings/stirrings of love
+昧心	昧心	mèi xīn	against one's conscience
+昧良心	昧良心	mèi liáng xīn	it goes against one's conscience
+暢貨中心	畅货中心	chàng huò zhōng xīn	outlet store (Tw)
+會心	会心	huì xīn	knowing (of a smile, look etc)
+有口無心	有口无心	yǒu kǒu wú xīn	to speak harshly but without any bad intent (idiom)
+有同情心	有同情心	yǒu tóng qíng xīn	sympathetic
+有嘴無心	有嘴无心	yǒu zuǐ wú xīn	to talk without any intention of acting on it/empty prattle
+有好奇心	有好奇心	yǒu hào qí xīn	curious
+有心	有心	yǒu xīn	to have a mind to/to intend to/deliberately/considerate
+有心人	有心人	yǒu xīn rén	resolute person/person with aspirations/people who feel/people who use their heads
+有心眼	有心眼	yǒu xīn yǎn	clever/sharp
+有意栽花花不發，無心插柳柳成陰	有意栽花花不发，无心插柳柳成阴	yǒu yì zāi huā huā bù fā , wú xīn chā liǔ liǔ chéng yīn	lit. you plant a garden and the flowers do not bloom, you poke a stick in the mud and it grows into a tree/fig. things do not always turn out as one would expect/well-laid plans may fail, and success may come where you least expect it
+有決心	有决心	yǒu jué xīn	determined
+有良心	有良心	yǒu liáng xīn	conscientious
+有雄心	有雄心	yǒu xióng xīn	ambitious
+木人石心	木人石心	mù rén shí xīn	lit. body made of wood, heart made of stone (idiom)/fig. heartless
+枕心	枕心	zhěn xīn	bare pillow (i.e. the pillow without pillow-case)
+林心如	林心如	Lín Xīn rú	Ruby Lin (1976-), Taiwanese actress and pop singer
+核心	核心	hé xīn	core/nucleus
+桃心	桃心	táo xīn	heart symbol ♥
+桃花心木	桃花心木	táo huā xīn mù	mahogany
+橫心	横心	héng xīn	to steel oneself/to harden one's heart
+權慾薰心	权欲熏心	quán yù xūn xīn	obsessed by a craving for power/power-hungry
+歇心	歇心	xiē xīn	to drop the matter/to stop worrying
+歐洲核子中心	欧洲核子中心	Ōu zhōu Hé zǐ Zhōng xīn	European Organization for Nuclear Research CERN, at Geneva
+歐洲核子研究中心	欧洲核子研究中心	Ōu zhōu Hé zǐ Yán jiū Zhōng xīn	European Organization for Nuclear Research CERN, at Geneva
+歡心	欢心	huān xīn	favor/liking/love/jubilation/joy
+歸心	归心	guī xīn	converted to (religion)
+歸心似箭	归心似箭	guī xīn sì jiàn	with one's heart set on speeding home (idiom)
+歸心者	归心者	guī xīn zhě	religious convert
+死心	死心	sǐ xīn	to give up/to admit failure/to drop the matter/to reconcile oneself to loss/to have no more illusions about
+死心塌地	死心塌地	sǐ xīn tā dì	to be hell-bent on/dead set on sth/unswerving
+死心眼兒	死心眼儿	sǐ xīn yǎn r5	stubborn/obstinate/having a one-track mind
+死心踏地	死心踏地	sǐ xīn tà dì	see 死心塌地[sǐ xīn tā dì]
+殫心	殚心	dān xīn	to devote one's entire mind
+比心	比心	bǐ xīn	(Internet slang) to form a hand heart using one's thumb and forefinger (or by using both hands)
+民心	民心	mín xīn	popular sentiment
+氣體離心	气体离心	qì tǐ lí xīn	gas centrifuge
+求好心切	求好心切	qiú hǎo xīn qiè	to demand the highest standards of sb (or oneself) (idiom)/to strive to achieve the best possible results/to be a perfectionist
+汗背心	汗背心	hàn bèi xīn	tank top/sleeveless undershirt
+決心	决心	jué xīn	determination/resolution/determined/firm and resolute/to make up one's mind/CL:個|个[gè]
+沁人心脾	沁人心脾	qìn rén xīn pí	to penetrate deeply into the heart (idiom)/to gladden the heart/to refresh the mind
+沒心沒肺	没心没肺	méi xīn méi fèi	simple-minded/thoughtless/heartless/nitwitted
+沒心眼	没心眼	méi xīn yǎn	outspoken/artless/tactless
+河心	河心	hé xīn	middle of the river
+洗心革面	洗心革面	xǐ xīn gé miàn	lit. to wash one's heart and renew one's face (idiom); to repent sincerely and mend one's mistaken ways/to turn over a new leaf
+洗浴中心	洗浴中心	xǐ yù zhōng xīn	bathing and recreation center
+活動中心	活动中心	huó dòng zhōng xīn	activity center/CL:處|处[chù]
+浮力調整背心	浮力调整背心	fú lì tiáo zhěng bèi xīn	BCD/Buoyancy Compensation Device (diving)
+深入人心	深入人心	shēn rù rén xīn	to enter deeply into people's hearts/to have a real impact on the people (idiom)
+深得民心	深得民心	shēn dé mín xīn	to win the hearts of the people/to be popular among the masses
+測心術	测心术	cè xīn shù	mind reading
+滾油煎心	滚油煎心	gǔn yóu jiān xīn	to suffer mental anguish (idiom)
+滿心	满心	mǎn xīn	one's whole heart/from the bottom of one's heart
+漠不關心	漠不关心	mò bù guān xīn	not the least bit concerned/completely indifferent
+漫不經心	漫不经心	màn bù jīng xīn	careless/heedless/absent-minded/indifferent
+潛心	潜心	qián xīn	to concentrate fully on sth/single-minded
+灰心	灰心	huī xīn	to lose heart/to be discouraged
+灰心喪氣	灰心丧气	huī xīn sàng qì	downhearted/downcast/in despair
+無心	无心	wú xīn	unintentionally/not in the mood to
+無心插柳	无心插柳	wú xīn chā liǔ	(idiom) (of a good outcome) unanticipated/serendipitous/fortuitous
+無心插柳柳成陰	无心插柳柳成阴	wú xīn chā liǔ liǔ chéng yīn	lit. idly poke a stick in the mud and it grows into a tree to shade you/(fig.) unintentional actions may bring unexpected success/also written 無心插柳柳成蔭|无心插柳柳成荫
+無所用心	无所用心	wú suǒ yòng xīn	not paying attention to anything (idiom); to idle time away
+煞費苦心	煞费苦心	shà fèi kǔ xīn	to take a lot of trouble (idiom); painstaking/at the cost of a lot of effort
+煩心事	烦心事	fán xīn shì	trouble/worry
+熱心	热心	rè xīn	enthusiasm/zeal/zealous/zest/enthusiastic/ardent/warmhearted
+熱心腸	热心肠	rè xīn cháng	warmhearted/willing to help others
+燈心	灯心	dēng xīn	lampwick
+燈心草	灯心草	dēng xīn cǎo	rush (botany)/Juncaceae
+燒心	烧心	shāo xīn	to worry
+爽心悅目	爽心悦目	shuǎng xīn yuè mù	beautiful and heartwarming
+爽心美食	爽心美食	shuǎng xīn měi shí	comfort food
+牛心	牛心	niú xīn	mulishness/obstinacy
+牽心	牵心	qiān xīn	to worry/concerned
+牽心掛腸	牵心挂肠	qiān xīn guà cháng	to worry deeply about sth/extremely concerned
+狗咬呂洞賓，不識好人心	狗咬吕洞宾，不识好人心	gǒu yǎo Lǚ Dòng bīn , bù shí hǎo rén xīn	a dog biting Lü Dongbin (idiom)/to ill reward a person's kindness
+狠心	狠心	hěn xīn	callous/heartless
+狼子野心	狼子野心	láng zǐ yě xīn	ambition of wild wolves (idiom); rapacious designs
+狼心狗肺	狼心狗肺	láng xīn gǒu fèi	lit. heart of wolf and lungs of dog (idiom)/cruel and unscrupulous
+獅心王理查	狮心王理查	Shī xīn wáng Lǐ chá	Richard the Lionheart (1157-1199), King Richard I of England 1189-1199
+獨具匠心	独具匠心	dú jù jiàng xīn	original and ingenious (idiom)/to show great creativity
+獨出心裁	独出心裁	dú chū xīn cái	to display originality (idiom); to do things differently
+王心凌	王心凌	Wáng Xīn líng	stage name of Cyndi Wang/see 王君如[Wáng Jūn rú]
+玻璃心	玻璃心	bō li xīn	(slang) overly sensitive/butthurt
+甘心	甘心	gān xīn	to be willing to/to resign oneself to
+甘心情願	甘心情愿	gān xīn qíng yuàn	willingly and gladly (idiom)
+甜心	甜心	tián xīn	delighted to oblige/sweetheart
+用心	用心	yòng xīn	motive/intention/to be diligent or attentive/careful
+用心良苦	用心良苦	yòng xīn liáng kǔ	to ponder earnestly/to give a lot of thought to sth
+用盡心機	用尽心机	yòng jìn xīn jī	to tax one's ingenuity
+留心	留心	liú xīn	to be careful/to pay attention to
+留心眼兒	留心眼儿	liú xīn yǎn r5	to be on the alert/to keep one's eyes open
+異心	异心	yì xīn	disloyalty/infidelity
+當心	当心	dāng xīn	to take care/to look out
+疑心	疑心	yí xīn	suspicion/to suspect
+疾控中心	疾控中心	jí kòng zhōng xīn	Centers for Disease Control and Prevention (CDC)/abbr. for 疾病預防控製中心|疾病预防控制中心[jí bìng yù fáng kòng zhì zhōng xīn]
+疾病控制中心	疾病控制中心	jí bìng kòng zhì zhōng xīn	Centers for Disease Control (CDC)
+疾病預防中心	疾病预防中心	jí bìng yù fáng zhōng xīn	Center for Disease Control (US)
+痛心	痛心	tòng xīn	grieved/pained
+痛心疾首	痛心疾首	tòng xīn jí shǒu	bitter and hateful (idiom)/to grieve and lament (over sth)
+痴心	痴心	chī xīn	infatuation
+痴心妄想	痴心妄想	chī xīn wàng xiǎng	to be carried away by one's wishful thinking (idiom)/to labor under a delusion/wishful thinking
+發展研究中心	发展研究中心	Fā zhǎn Yán jiū Zhōng xīn	Development Research Center (PRC State Council institution)
+白鼻心	白鼻心	bái bí xīn	palm civet (Paguma larvata)
+皇天不負苦心人	皇天不负苦心人	Huáng tiān bù fù kǔ xīn rén	Heaven will not disappoint the person who tries (idiom). If you try hard, you're bound to succeed eventually.
+盡心	尽心	jìn xīn	with all of one's heart
+盡心盡力	尽心尽力	jìn xīn jìn lì	making an all-out effort (idiom); to try one's heart out/to do one's utmost
+盡心竭力	尽心竭力	jìn xīn jié lì	to spare no effort (idiom); to do one's utmost
+目挑心招	目挑心招	mù tiǎo xīn zhāo	the eye incites, the heart invites (idiom); flirtatious/making eyes at sb
+省心	省心	shěng xīn	to cause no trouble/to be spared worry/worry-free
+眉心	眉心	méi xīn	(the space) between the eyebrows
+眉心輪	眉心轮	méi xīn lún	ājñā or ajna, the brow or third eye chakra 查克拉, residing in the forehead/also written 眉間輪|眉间轮[méi jiān lún]
+真心	真心	zhēn xīn	sincere/heartfelt/CL:片[piàn]
+真心實意	真心实意	zhēn xīn shí yì	genuine and sincere (idiom)/wholehearted
+真心話大冒險	真心话大冒险	Zhēn xīn huà Dà Mào xiǎn	The Moment of Truth (TV show)/Truth or Dare (game)
+眷眷之心	眷眷之心	juàn juàn zhī xīn	nostalgia/home-sickness/longing for departed beloved
+眼不見，心不煩	眼不见，心不烦	yǎn bù jiàn , xīn bù fán	what the eye doesn't see, the heart doesn't grieve over (idiom)
+瞞心昧己	瞒心昧己	mán xīn mèi jǐ	to blot out one's conscience
+知人知面不知心	知人知面不知心	zhī rén zhī miàn bù zhī xīn	one may know a person for a long time without understanding his true nature (idiom)
+知心	知心	zhī xīn	caring/intimate
+研究中心	研究中心	yán jiū zhōng xīn	research center
+破膽寒心	破胆寒心	pò dǎn hán xīn	to be scared out of one's wits
+碎心裂膽	碎心裂胆	suì xīn liè dǎn	in mortal fear (idiom)
+神女有心，襄王無夢	神女有心，襄王无梦	shén nǚ yǒu xīn , Xiāng Wáng wú mèng	lit. the fairy is willing, but King Xiang doesn't dream (idiom)/(said of a woman's unrequited love)
+私心	私心	sī xīn	selfishness/selfish motives
+種族中心主義	种族中心主义	zhǒng zú zhōng xīn zhǔ yì	ethnocentrism
+稱心	称心	chèn xīn	satisfactory/agreeable
+稱心如意	称心如意	chèn xīn rú yì	after one's heart (idiom); gratifying and satisfactory/everything one could wish
+空心	空心	kōng xīn	hollow/(of vegetables) to become hollow or spongy inside/(of a basketball) to swish through (not touching the hoop)
+空心	空心	kòng xīn	on an empty stomach
+空心兒	空心儿	kòng xīn r5	erhua variant of 空心[kòng xīn]
+空心大老官	空心大老官	kōng xīn dà lǎo guān	fake important personage/sham
+空心牆	空心墙	kōng xīn qiáng	cavity wall/hollow wall
+空心球	空心球	kōng xīn qiú	hollow ball/(basketball) swish shot
+空心老大	空心老大	kōng xīn lǎo dà	pretentious and vacuous person
+空心菜	空心菜	kōng xīn cài	see 蕹菜[wèng cài]
+空心蘿蔔	空心萝卜	kōng xīn luó bo	useless person
+空心麵	空心面	kōng xīn miàn	macaroni
+空腹高心	空腹高心	kōng fù gāo xīn	ambitious despite a lack of talent (idiom)
+窩心	窝心	wō xīn	aggrieved/dejected/(Tw, southern China) to be moved by a kind gesture etc/to feel gratified/to feel warm inside
+童心	童心	tóng xīn	childish heart/childish innocence
+竭心	竭心	jié xīn	to do one's utmost
+筆心	笔心	bǐ xīn	pencil lead/refill (for a ball-point pen)
+粗心	粗心	cū xīn	careless/thoughtless
+粗心大意	粗心大意	cū xīn dà yì	negligent/careless/inadvertent
+精心	精心	jīng xīn	with utmost care/fine/meticulous/detailed
+糟心	糟心	zāo xīn	vexed/annoyed/upset
+紅心	红心	hóng xīn	heart ♥ (in card games)/red, heart-shaped symbol/bullseye
+累心	累心	lèi xīn	taxing (mentally or emotionally)
+細心	细心	xì xīn	careful/attentive
+缺心少肺	缺心少肺	quē xīn shǎo fèi	brainless/stupid
+缺心眼	缺心眼	quē xīn yǎn	stupid/senseless/dim-witted
+缺心眼兒	缺心眼儿	quē xīn yǎn r5	erhua variant of 缺心眼[quē xīn yǎn]
+美心	美心	Měi xīn	Maxine (name)
+耐心	耐心	nài xīn	to be patient/patience
+耐心幫助	耐心帮助	nài xīn bāng zhù	forbearance/tolerance/patient help
+耐心煩	耐心烦	nài xīn fán	(coll.) patience
+耽心	耽心	dān xīn	variant of 擔心|担心[dān xīn]
+聊表寸心	聊表寸心	liáo biǎo cùn xīn	(of a gift) to be a small token of one's feelings
+聖心	圣心	shèng xīn	Sacred Heart (Christian)
+聖心節	圣心节	shèng xīn jié	Feast of the Sacred Heart
+肯尼迪航天中心	肯尼迪航天中心	Kěn ní dí Háng tiān Zhōng xīn	Kennedy space center, Cape Canaveral 卡納維拉爾角|卡纳维拉尔角[Kǎ nà wéi lā ěr jiǎo], Florida
+肺心病	肺心病	fèi xīn bìng	pulmonary heart disease (medicine)
+背心	背心	bèi xīn	sleeveless garment (vest, waistcoat, singlet, tank top etc)/CL:件[jiàn]
+腳心	脚心	jiǎo xīn	arch of the foot
+膽戰心驚	胆战心惊	dǎn zhàn xīn jīng	to tremble with fear (idiom)/scared witless
+膽顫心驚	胆颤心惊	dǎn chàn xīn jīng	panic-stricken
+膽驚心顫	胆惊心颤	dǎn jīng xīn chàn	see 心驚膽戰|心惊胆战[xīn jīng dǎn zhàn]
+自信心	自信心	zì xìn xīn	self-confidence
+自卑心理	自卑心理	zì bēi xīn lǐ	sense of inferiority/inferiority complex
+自尊心	自尊心	zì zūn xīn	self-respect/self-esteem/ego
+舒心	舒心	shū xīn	comfortable/happy
+航天中心	航天中心	háng tiān zhōng xīn	space center
+般若波羅密多心經	般若波罗密多心经	bō rě bō luó mì duō xīn jīng	the Heart Sutra
+船到江心，補漏遲	船到江心，补漏迟	chuán dào jiāng xīn , bǔ lòu chí	It's too late to plug the leak once ship is in the middle of the river. (idiom)
+良工心苦	良工心苦	liáng gōng xīn kǔ	expert craft from hard practice (idiom); hard-won skill/A masterpiece demands suffering.
+良心	良心	liáng xīn	conscience
+良心喂狗	良心喂狗	liáng xīn wèi gǒu	to have fed one's conscience to the dogs (idiom)/devoid of conscience
+良心未泯	良心未泯	liáng xīn wèi mǐn	not totally heartless/still having a shred of conscience
+良心犯	良心犯	liáng xīn fàn	prisoner of conscience
+良苦用心	良苦用心	liáng kǔ yòng xīn	to ponder earnestly/to give a lot of thought to sth
+芝心	芝心	zhī xīn	stuffed crust (pizza)/cheesy crust
+花心	花心	huā xīn	fickle (in love affairs)/dissipated/unfaithful/heart of a flower (pistil and stamen)
+花心大蘿蔔	花心大萝卜	huā xīn dà luó bo	(coll.) womanizer/skirt-chaser
+花心思	花心思	huā xīn sī	to think through/to invest effort in thinking about/to consider thoroughly
+花貌蓬心	花貌蓬心	huā mào péng xīn	florid outside appearance, unkempt interior (idiom)
+芳心	芳心	fāng xīn	the affection, or heart, of a young woman
+苞藏禍心	苞藏祸心	bāo cáng huò xīn	to harbor evil intentions (idiom); concealing malice
+苦口婆心	苦口婆心	kǔ kǒu pó xīn	earnest and well-meaning advice (idiom); to persuade patiently
+苦心	苦心	kǔ xīn	painstaking effort/to take a lot of trouble/laborious at pains
+苦心孤詣	苦心孤诣	kǔ xīn gū yì	to make painstaking efforts (idiom); after much trouble/to work hard at sth
+苦心經營	苦心经营	kǔ xīn jīng yíng	to build up an enterprise through painstaking efforts
+茶飯無心	茶饭无心	chá fàn wú xīn	no heart for tea or rice (idiom); melancholic and suffering/to have no appetite
+菜心	菜心	cài xīn	choy sum/Chinese flowering cabbage/stem of any Chinese cabbage
+萬眾一心	万众一心	wàn zhòng yī xīn	millions of people all of one mind (idiom); the people united
+萬箭穿心	万箭穿心	wàn jiàn chuān xīn	lit. to have one's heart pierced by thousands of arrows (idiom)/fig. overcome with sorrow/to lambaste/to rip sb to shreds
+蓬心	蓬心	péng xīn	narrow and bending/unkempt interior
+薰心	熏心	xūn xīn	(of greed, lust etc) to dominate one's thoughts
+虐心	虐心	nüè xīn	heartbreaking/tear-jerking
+處心積慮	处心积虑	chǔ xīn jī lǜ	to plot actively (idiom)/scheming/calculating
+虛心	虚心	xū xīn	open-minded/humble
+虛心使人進步，驕傲使人落後	虚心使人进步，骄傲使人落后	xū xīn shǐ rén jìn bù , jiāo ào shǐ rén luò hòu	Modesty leads to progress, arrogance makes you drop behind (favorite slogan of Mao Zedong)
+虛心好學	虚心好学	xū xīn hào xué	modest and studious (idiom)
+虛榮心	虚荣心	xū róng xīn	vanity
+虧心	亏心	kuī xīn	a guilty conscience
+虧心事	亏心事	kuī xīn shì	shameful deed
+蠱惑人心	蛊惑人心	gǔ huò rén xīn	to stir up public sentiment by false statements (idiom)/to resort to demagogy
+衷心	衷心	zhōng xīn	heartfelt/wholehearted/cordial
+西子捧心	西子捧心	Xī zǐ pěng xīn	lit. Xishi clasps at her heart (idiom)/fig. a woman's lovely looks, despite the pangs of illness
+要買人心	要买人心	yāo mǎi rén xīn	variant of 邀買人心|邀买人心[yāo mǎi rén xīn]
+見獵心喜	见猎心喜	jiàn liè xīn xǐ	lit. seeing others go hunting, one is excited by memories of the thrill of the hunt (idiom)/fig. seeing others do what one loves to do, one is inspired to try it again
+觸目傷心	触目伤心	chù mù shāng xīn	distressing sight (idiom)
+觸目驚心	触目惊心	chù mù jīng xīn	lit. shocks the eye, astonishes the heart (idiom); shocking/horrible to see/a ghastly sight
+言為心聲	言为心声	yán wéi xīn shēng	one's words reflect one's thinking (idiom)
+言者無意，聽者有心	言者无意，听者有心	yán zhě wú yì , tīng zhě yǒu xīn	to take a casual remark to heart (idiom)
+記在心裡	记在心里	jì zài xīn li	to keep in mind/to store in one's heart/to remember perfectly
+許下願心	许下愿心	xǔ xià yuàn xīn	to express a wish (to a deity)
+誅心之論	诛心之论	zhū xīn zhī lùn	a devastating criticism/to expose hidden motives
+認知心理學	认知心理学	rèn zhī xīn lǐ xué	cognitive psychology
+認知神經心理學	认知神经心理学	rèn zhī shén jīng xīn lǐ xué	cognitive neuropsychology
+語重心長	语重心长	yǔ zhòng xīn cháng	meaningful and heartfelt words (idiom); sincere and earnest wishes
+誠心	诚心	chéng xīn	sincerity
+誠心實意	诚心实意	chéng xīn shí yì	earnestly and sincerely (idiom)/with all sincerity
+誠心所願	诚心所愿	chéng xīn suǒ yuàn	so be it/amen
+誠心正意	诚心正意	chéng xīn zhèng yì	see 誠心誠意|诚心诚意[chéng xīn chéng yì]
+誠心誠意	诚心诚意	chéng xīn chéng yì	earnestly and sincerely (idiom); with all sincerity
+談心	谈心	tán xīn	to have a heart-to-heart chat
+證券櫃檯買賣中心	证券柜台买卖中心	Zhèng quàn Guì tái Mǎi mài Zhōng xīn	GreTai Securities Market (GTSM)
+讀心	读心	dú xīn	to read sb's mind
+變心	变心	biàn xīn	to cease to be faithful
+貌合心離	貌合心离	mào hé xīn lí	the appearance of unity, but divided at heart (idiom); seeming harmony belies underlying disagreement
+負心	负心	fù xīn	ungrateful/heartless/to fail to be loyal to one's love
+負心漢	负心汉	fù xīn hàn	traitor to one's love/heartless rat
+財迷心竅	财迷心窍	cái mí xīn qiào	mad about money (idiom)
+貪心	贪心	tān xīn	greedy
+貪心不足	贪心不足	tān xīn bù zú	avaricious and insatiable (idiom); greedy and never satisfied
+責任心	责任心	zé rèn xīn	sense of responsibility
+貳心	贰心	èr xīn	variant of 二心[èr xīn]
+費心	费心	fèi xīn	to take a lot of trouble (over sb or sth)/may I trouble you (to do sth)
+費盡心思	费尽心思	fèi jìn xīn si	to rack one's brains (idiom); to take great pains to think sth through
+費盡心機	费尽心机	fèi jìn xīn jī	to rack one's brains for schemes (idiom)/to beat one's brains out
+貼心	贴心	tiē xīn	intimate/close/considerate
+貼心貼肺	贴心贴肺	tiē xīn tiē fèi	considerate and caring/very close/intimate
+貿易中心	贸易中心	mào yì zhōng xīn	trade center/shopping mall
+賊心	贼心	zéi xīn	evil intentions
+賞心悅目	赏心悦目	shǎng xīn yuè mù	warms the heart and delights the eye (idiom)/pleasing/delightful
+賠小心	赔小心	péi xiǎo xīn	to be conciliatory or apologetic/to tread warily in dealing with sb
+質心	质心	zhì xīn	center of gravity/barycenter
+購物中心	购物中心	gòu wù zhōng xīn	shopping center
+赤子之心	赤子之心	chì zǐ zhī xīn	pure and innocent like the heart of a newborn/sincere
+赤膽忠心	赤胆忠心	chì dǎn zhōng xīn	lit. red-bellied devotion (idiom); wholehearted loyalty/to serve sb with body and soul
+走心	走心	zǒu xīn	to take care/to be mindful/(Internet slang) to be moved by sth/poignant/to have deep feelings for sb/to lose one's heart to sb
+趁心	趁心	chèn xīn	variant of 稱心|称心[chèn xīn]
+路遙知馬力，日久見人心	路遥知马力，日久见人心	lù yáo zhī mǎ lì , rì jiǔ jiàn rén xīn	just as distance determines the stamina of a horse, so does time reveal a person's true heart (proverb)
+身在曹營心在漢	身在曹营心在汉	shēn zài Cáo yíng xīn zài Hàn	live in Cao camp but have the heart in Han camp (idiom)/to be somewhere while longing to be somewhere else
+身心	身心	shēn xīn	body and mind/mental and physical
+身心交病	身心交病	shēn xīn jiāo bìng	worn out in body and soul (idiom)
+身心交瘁	身心交瘁	shēn xīn jiāo cuì	worn out in body and soul (idiom)
+身心俱疲	身心俱疲	shēn xīn jù pí	physically and emotionally exhausted
+身心爽快	身心爽快	shēn xīn shuǎng kuài	refreshment
+身心科	身心科	shēn xīn kē	psychiatry
+身心障礙	身心障碍	shēn xīn zhàng ài	disability
+軸心	轴心	zhóu xīn	axle/(fig.) central element/key element/axis (alliance of nations)
+軸心國	轴心国	Zhóu xīn guó	Axis powers (World War II)
+逆反心理	逆反心理	nì fǎn xīn lǐ	reverse psychology
+逆心	逆心	nì xīn	unfavorable/undesired
+通信中心	通信中心	tōng xìn zhōng xīn	communications center
+通心粉	通心粉	tōng xīn fěn	macaroni
+通心菜	通心菜	tōng xīn cài	see 蕹菜[wèng cài]
+通心麵	通心面	tōng xīn miàn	macaroni
+進取心	进取心	jìn qǔ xīn	enterprising spirit/initiative
+遂心	遂心	suì xīn	to one's liking
+遂心如意	遂心如意	suì xīn rú yì	totally satisfying
+遐心	遐心	xiá xīn	the wish to abandon or keep aloof/the desire to live in retirement
+違心	违心	wéi xīn	false/untrue to one's convictions/against one's will/disloyal
+違心之言	违心之言	wéi xīn zhī yán	false assertion/speech against one's own convictions
+邀買人心	邀买人心	yāo mǎi rén xīn	to buy popular support/to court favor
+邪惡軸心	邪恶轴心	xié è zhóu xīn	the Axis of Evil
+醉心	醉心	zuì xīn	enthralled/fascinated
+醉心於	醉心于	zuì xīn yú	to be infatuated with
+醫學中心	医学中心	yī xué zhōng xīn	medical center
+重心	重心	zhòng xīn	center of gravity/central core/main part
+野心	野心	yě xīn	ambition/wild schemes/careerism
+鉤心鬥角	钩心斗角	gōu xīn dòu jiǎo	variant of 勾心鬥角|勾心斗角[gōu xīn dòu jiǎo]
+銘心刻骨	铭心刻骨	míng xīn kè gǔ	engraved in one's heart and carved in one's bones (idiom); to remember a benefactor as long as one lives/undying gratitude
+銘心鏤骨	铭心镂骨	míng xīn lòu gǔ	engraved in one's heart and carved in one's bones (idiom); to remember a benefactor as long as one lives/undying gratitude
+錦心繡口	锦心绣口	jǐn xīn xiù kǒu	(of writing) elegant and ornate
+鐫心銘骨	镌心铭骨	juān xīn míng gǔ	etched in one's bones and heart (idiom); ever-present memory (esp. resentment)
+鐫骨銘心	镌骨铭心	juān gǔ míng xīn	etched in one's bones and heart (idiom); ever-present memory (esp. resentment)
+鐵了心	铁了心	tiě le xīn	determined/unshakable
+鐵石心腸	铁石心肠	tiě shí xīn cháng	to have a heart of stone/hard-hearted/unfeeling
+鑽心	钻心	zuān xīn	to sneak in/to infiltrate/to be piercingly painful/to be unbearable (of pain, itch etc)
+鑽心蟲	钻心虫	zuān xīn chóng	boring insect/snout moth's larva (Aphomia gullaris or Plodia interpuncuella or Heliothus armigera etc), major agricultural pest
+長點心眼	长点心眼	zhǎng diǎn xīn yǎn	to watch out/to keep one's wits about one
+開心	开心	kāi xīn	to feel happy/to rejoice/to have a great time/to make fun of sb
+開心果	开心果	kāi xīn guǒ	pistachio nuts/fig. amusing person
+開心顏	开心颜	kāi xīn yán	to rejoice/smiling
+閑心	闲心	xián xīn	leisurely mood/relaxed frame of mind
+關心	关心	guān xīn	to be concerned about/to care about
+隨心	随心	suí xīn	to fulfill one's desire/to find sth satisfactory
+隨心所欲	随心所欲	suí xīn suǒ yù	to follow one's heart's desires/to do as one pleases (idiom)
+雄心	雄心	xióng xīn	great ambition/lofty aspiration
+雄心勃勃	雄心勃勃	xióng xīn bó bó	aggressive and grand (idiom); ambitious/pushy
+雞心領	鸡心领	jī xīn lǐng	(of clothing) V-neck
+離心	离心	lí xīn	to be at odds with/centrifugal (force)
+離心分離機	离心分离机	lí xīn fēn lí jī	centrifuge
+離心力	离心力	lí xīn lì	centrifugal force
+離心機	离心机	lí xīn jī	centrifuge
+靜心	静心	jìng xīn	meditation
+面心立方最密堆積	面心立方最密堆积	miàn xīn lì fāng zuì mì duī jī	face-centered cubic (FCC) (math.)
+面惡心善	面恶心善	miàn è xīn shàn	to have a mean-looking face but a heart of gold (idiom)
+革面洗心	革面洗心	gé miàn xǐ xīn	lit. to renew one's face and wash one's heart (idiom); to repent sincerely and mend one's mistaken ways/to turn over a new leaf
+靶心	靶心	bǎ xīn	center of target/bull's eye
+頁心	页心	yè xīn	type page
+順心	顺心	shùn xīn	happy/satisfactory
+願心	愿心	yuàn xīn	a wish/a request (to a deity)
+飯氣攻心	饭气攻心	fàn qì gōng xīn	food coma/postprandial somnolence
+飽暖思淫欲，飢寒起盜心	饱暖思淫欲，饥寒起盗心	bǎo nuǎn sī yín yù , jī hán qǐ dào xīn	lechery springs from warmth and nourishment, kleptomania springs from hunger and cold (idiom)
+飽食終日，無所用心	饱食终日，无所用心	bǎo shí zhōng rì , wú suǒ yòng xīn	to eat three square meals a day and do no work (idiom)/to be sated with food and remain idle
+香港文化中心	香港文化中心	Xiāng gǎng Wén huà Zhōng xīn	Hong Kong Cultural Center
+驚心	惊心	jīng xīn	staggering/shocking/frightened
+驚心動魄	惊心动魄	jīng xīn dòng pò	shaking one to the core/extremely disturbing/hair-raising (idiom)
+驚心膽顫	惊心胆颤	jīng xīn dǎn chàn	frightening/frightened (idiom)
+鬧心	闹心	nào xīn	to be vexed or annoyed/to feel queasy
+鬼由心生	鬼由心生	guǐ yóu xīn shēng	devils are born in the heart (idiom)/fears originate in the mind
+鬼迷心竅	鬼迷心窍	guǐ mí xīn qiào	to be obsessed/to be possessed
+麵包心	面包心	miàn bāo xīn	crumb (soft interior of a loaf of bread)
+黃鼠狼給雞拜年，沒安好心	黄鼠狼给鸡拜年，没安好心	huáng shǔ láng gěi jī bài nián , méi ān hǎo xīn	see 黃鼠狼給雞拜年|黄鼠狼给鸡拜年[huáng shǔ láng gěi jī bài nián]
+黑心	黑心	hēi xīn	ruthless and lacking in conscience/vicious mind full of hatred and jealousy/black core (flaw in pottery)
+黑心食品	黑心食品	hēi xīn shí pǐn	contaminated food product unscrupulously marketed as wholesome
+點心	点心	diǎn xin	light refreshments/pastry/dimsum (in Cantonese cooking)/dessert
+齊心	齐心	qí xīn	to be of one mind/to work as one
+齊心協力	齐心协力	qí xīn xié lì	to work with a common purpose (idiom); to make concerted efforts/to pull together/to work as one
+齊心合力	齐心合力	qí xīn hé lì	to work as one (idiom); united in a concerted effort/working hard together

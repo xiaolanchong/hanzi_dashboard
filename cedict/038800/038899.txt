@@ -1,0 +1,372 @@
+音	音	yīn	sound/noise/note (of musical scale)/tone/news/syllable/reading (phonetic value of a character)
+一錘定音	一锤定音	yī chuí dìng yīn	lit. to fix the tone with a single hammer blow/fig. to make the final decision
+七聲音階	七声音阶	qī shēng yīn jiē	heptatonic scale
+三元音	三元音	sān yuán yīn	triphthong (such as putonghua uei etc)
+三音	三音	sān yīn	third (musical interval, e.g. do-mi)
+三音度	三音度	sān yīn dù	third (musical interval)
+上海音樂學院	上海音乐学院	Shàng hǎi Yīn yuè Xué yuàn	Shanghai Conservatory of Music
+中國好聲音	中国好声音	Zhōng guó Hǎo Shēng yīn	The Voice of China, PRC reality talent show
+中央音樂學院	中央音乐学院	Zhōng yāng Yīn yuè Xué yuàn	Central Conservatory of Music
+串音	串音	chuàn yīn	crosstalk/to overhear
+主音	主音	zhǔ yīn	keynote/principal tone/tonic/vowel
+二分音符	二分音符	èr fēn yīn fú	minim (music)
+二重母音	二重母音	èr chóng mǔ yīn	diphthong
+五聲音階	五声音阶	wǔ shēng yīn jiē	pentatonic scale
+五音	五音	wǔ yīn	five notes of pentatonic scale, roughly do, re, mi, sol, la/five classes of initial consonants of Chinese phonetics, namely: 喉音[hóu yīn], 牙音[yá yīn], 舌音[shé yīn], 齒音|齿音[chǐ yīn], 唇音[chún yīn]
+五音不全	五音不全	wǔ yīn bù quán	tone deaf/unable to sing in tune
+五音度	五音度	wǔ yīn dù	fifth (musical interval)
+亞音節單位	亚音节单位	yà yīn jié dān wèi	subsyllabic unit
+今音	今音	jīn yīn	modern (i.e. not ancient) pronunciation of a Chinese character
+低音	低音	dī yīn	bass
+低音喇叭	低音喇叭	dī yīn lǎ ba	woofer
+低音大提琴	低音大提琴	dī yīn dà tí qín	double bass/contrabass
+低音大號	低音大号	dī yīn dà hào	bass tuba/euphonium
+低音提琴	低音提琴	dī yīn tí qín	double bass/contrabass
+低音炮	低音炮	dī yīn pào	subwoofer
+低音管	低音管	dī yīn guǎn	bassoon/also written 巴頌管|巴颂管 or 巴松管
+修音	修音	xiū yīn	voicing (adjustment of timbre, loudness etc of organ or other musical instrument)
+假音	假音	jiǎ yīn	falsetto, same as 假聲|假声
+假高音	假高音	jiǎ gāo yīn	falsetto, same as 假聲|假声
+元音	元音	yuán yīn	vowel
+元音和諧	元音和谐	yuán yīn hé xié	vowel harmony (in phonetics of Altaic languages)
+元音失讀	元音失读	yuán yīn shī dú	vowel devoicing
+先期錄音	先期录音	xiān qī lù yīn	prerecording/to prerecord
+全度音	全度音	quán dù yīn	whole tone (musical interval)
+全音	全音	quán yīn	whole tone (musical interval)
+八分音符	八分音符	bā fēn yīn fú	quaver/eighth note
+八音	八音	bā yīn	ancient classification system for musical instruments, based on the material of which the instrument is made (metal 金, stone 石, clay 土, leather 革, silk 絲|丝, wood 木, gourd 匏, bamboo 竹)/the eight kinds of sound produced by instruments in these categories/music
+八音盒	八音盒	bā yīn hé	musical box
+出神音樂	出神音乐	chū shén yīn yuè	trance (music genre)
+分音符	分音符	fēn yīn fú	dieresis/umlaut/diacritical mark separating two adjacent syllables
+切分音	切分音	qiē fēn yīn	syncopation
+切音	切音	qiè yīn	to indicate the phonetic value of a word using other words
+前鼻音	前鼻音	qián bí yīn	alveolar nasal/consonant n produced in the nose with the tongue against the alveolar ridge
+北京音	北京音	Běi jīng yīn	Beijing pronunciation
+半音	半音	bàn yīn	semitone
+半音程	半音程	bàn yīn chéng	semitone
+印度音樂	印度音乐	Yìn dù yīn yuè	Bhangra, Indian music (music genre)
+卷舌元音	卷舌元音	juǎn shé yuán yīn	retroflex vowel (e.g. the final r of putonghua)
+口音	口音	kǒu yīn	oral speech sounds (linguistics)
+口音	口音	kǒu yin	voice/accent
+古典音樂	古典音乐	gǔ diǎn yīn yuè	classical music
+古音	古音	gǔ yīn	ancient (esp. pre-Qin) pronunciation of a Chinese character/classical speech sounds
+可讀音性	可读音性	kě dú yīn xìng	pronounceability
+合成語音	合成语音	hé chéng yǔ yīn	assembled phonology
+合音	合音	hé yīn	backup vocal (music)/(phonetic) contraction
+同音	同音	tóng yīn	unison/homophone
+同音字	同音字	tóng yīn zì	homophonic characters
+同音詞	同音词	tóng yīn cí	homophonic words
+吸音	吸音	xī yīn	sound-absorbing
+和音	和音	hé yīn	harmony (pleasing combination of sounds)
+唇音	唇音	chún yīn	labial consonant
+唇齒音	唇齿音	chún chǐ yīn	labiodental (e.g. the consonant f in standard Chinese)
+喉塞音	喉塞音	hóu sè yīn	glottal stop
+喉擦音	喉擦音	hóu cā yīn	guttural fricative
+喉音	喉音	hóu yīn	guttural sound/(linguistics) glottal (or laryngeal) consonant
+單音節	单音节	dān yīn jié	monosyllabic/a monosyllable
+單音詞	单音词	dān yīn cí	monosyllabic word
+嗓音	嗓音	sǎng yīn	voice
+噪音	噪音	zào yīn	rumble/noise/static (in a signal)
+噪音盒	噪音盒	zào yīn hé	boombox/ghetto blaster
+四分音符	四分音符	sì fēn yīn fú	crotchet (music)
+回鈴音	回铃音	huí líng yīn	ringback tone
+回音	回音	huí yīn	echo/reply/turn (ornament in music)
+國語注音符號第一式	国语注音符号第一式	Guó yǔ zhù yīn fú hào dì yī shì	Mandarin Phonetic Symbols 1 (official name of the phonetic system of writing Chinese used in Taiwan)/Bopomofo/abbr. to 注音一式[zhù yīn yī shì]
+國際音標	国际音标	guó jì yīn biāo	international phonetic alphabet
+國音	国音	guó yīn	official state pronunciation
+基音	基音	jī yīn	fundamental tone
+塞擦音	塞擦音	sè cā yīn	affricate (phonetics)
+塞音	塞音	sè yīn	plosive/stop consonant
+多音	多音	duō yīn	polyphony
+多音多義字	多音多义字	duō yīn duō yì zì	character having several readings and meanings
+多音字	多音字	duō yīn zì	character with two or more readings
+多音節詞	多音节词	duō yīn jié cí	polysyllabic word/Chinese word made up of three or more characters
+女高音	女高音	nǚ gāo yīn	soprano
+威妥瑪拼音	威妥玛拼音	Wēi Tuǒ mǎ pīn yīn	Wade-Giles system (romanization of Chinese)
+威氏註音法	威氏注音法	Wēi shì zhù yīn fǎ	Wade-Giles transliteration scheme for Chinese
+威瑪拼音	威玛拼音	Wēi mǎ pīn yīn	Wade-Giles system (romanization of Chinese)
+娃娃音	娃娃音	wá wa yīn	childlike voice/babyish voice
+子音	子音	zǐ yīn	consonant
+字音	字音	zì yīn	phonetic value of a character
+定音	定音	dìng yīn	to call the tune/to make the final decision
+定音鼓	定音鼓	dìng yīn gǔ	timpani
+實況錄音	实况录音	shí kuàng lù yīn	live recording
+尾音	尾音	wěi yīn	final sound of a syllable/rhyme (e.g. in European languages)
+屬音	属音	shǔ yīn	dominant (music)
+巴音布克草原	巴音布克草原	Bā yīn bù kè cǎo yuán	Bayanbulak grasslands in Uldus basin of Tianshan mountains
+巴音滿都呼	巴音满都呼	Bā yīn mǎn dū hū	Bayan Mandahu, village in Bayan Nur 巴彥淖爾|巴彦淖尔[Bā yàn nào ěr], Inner Mongolia, noted for Cretaceous dinosaur fossils
+巴音郭楞州	巴音郭楞州	Bā yīn guō léng zhōu	abbr. for Bayingolin Mongol Autonomous Prefecture in Xinjiang/abbr. for 巴音郭楞蒙古自治州[Bā yīn guō léng Měng gǔ Zì zhì zhōu]
+巴音郭楞蒙古自治州	巴音郭楞蒙古自治州	Bā yīn guō léng Měng gǔ Zì zhì zhōu	Bayingolin Mongol Autonomous Prefecture in Xinjiang
+平舌音	平舌音	píng shé yīn	alveolar/consonants z, c, s produced with the tip of the tongue on the alveolar ridge
+延音線	延音线	yán yīn xiàn	tie (music)
+弦外之音	弦外之音	xián wài zhī yīn	overtone (music)/(fig.) connotation/implied meaning
+弱音踏板	弱音踏板	ruò yīn tà bǎn	soft pedal (on piano)/una corda pedal
+強音踏板	强音踏板	qiáng yīn tà bǎn	loud pedal (on piano)/sustaining pedal
+影音	影音	yǐng yīn	recorded media (CD and DVD)/sound and movies
+後鼻音	后鼻音	hòu bí yīn	velar nasal/consonant ng or ŋ produced in the nose with the back of the tongue against the soft palate
+心臟雜音	心脏杂音	xīn zàng zá yīn	heart murmur
+心雜音	心杂音	xīn zá yīn	see 心臟雜音|心脏杂音[xīn zàng zá yīn]
+心音	心音	xīn yīn	sound of the heart/heartbeat
+忙音	忙音	máng yīn	busy signal (telephony)
+抖音	抖音	Dǒu yīn	TikTok, app for creating and sharing short videos
+拼音	拼音	pīn yīn	phonetic writing/pinyin (Chinese romanization)
+拼音字母	拼音字母	pīn yīn zì mǔ	phonetic letters
+拼音文字	拼音文字	pīn yīn wén zì	phonetic alphabet/alphabetic writing system
+拼音階段	拼音阶段	pīn yīn jiē duàn	alphabetic stage
+拾音器	拾音器	shí yīn qì	pickup (electro-acoustic transducer)
+按鍵音	按键音	àn jiàn yīn	keypad tone/key tone
+捲舌元音	卷舌元音	juǎn shé yuán yīn	retroflex vowel (e.g. the final r of putonghua)
+提示音	提示音	tí shì yīn	beep
+摩擦音	摩擦音	mó cā yīn	fricative (phonetics)
+撥號音	拨号音	bō hào yīn	dial tone
+播音	播音	bō yīn	to transmit/to broadcast
+播音員	播音员	bō yīn yuán	announcer/broadcaster
+擦音	擦音	cā yīn	fricative
+擬音	拟音	nǐ yīn	to make a sound effect/sound effect/(historical linguistics) to reconstruct the sound system of an archaic language
+擴音	扩音	kuò yīn	to amplify (sound)
+擴音器	扩音器	kuò yīn qì	megaphone/loudspeaker/amplifier/microphone
+擴音機	扩音机	kuò yīn jī	amplifier/loudspeaker/hearing aid
+收尾音	收尾音	shōu wěi yīn	final (i.e. final consonant or stop of some syllables in Asian phonetics)
+收音	收音	shōu yīn	to receive a radio signal/to make an audio recording/(of an auditorium etc) to have good acoustics/(vocal training, linguistics) ending (of a word or syllable)
+收音機	收音机	shōu yīn jī	radio/CL:臺|台[tái]
+放音	放音	fàng yīn	playback (of recorded sound)
+方音	方音	fāng yīn	dialectal accent
+最低音	最低音	zuì dī yīn	lowest voice/lowest pitch/lowest note
+最高音	最高音	zuì gāo yīn	highest voice/highest pitch/highest note
+有氣音	有气音	yǒu qì yīn	aspirated consonant (in phonetics)
+本位音	本位音	běn wèi yīn	(music) natural note
+杳無音信	杳无音信	yǎo wú yīn xìn	to have no news whatever
+根音	根音	gēn yīn	root of chord
+梵漢對音	梵汉对音	fàn hàn duì yīn	Sanskrit-Chinese transliteration
+樂音	乐音	yuè yīn	musical note/tone
+標準音	标准音	biāo zhǔn yīn	standard pronunciation/standard tone (e.g. A = 440 Hz)
+標音法	标音法	biāo yīn fǎ	phonetic transcription/system of representing spoken sounds
+正音	正音	zhèng yīn	standard pronunciation/to correct sb's pronunciation
+母音	母音	mǔ yīn	vowel
+母音調和	母音调和	mǔ yīn tiáo hé	vowel harmony (in phonetics)
+民間音樂	民间音乐	mín jiān yīn yuè	folk music
+泛音	泛音	fàn yīn	overtone/a harmonic
+波音	波音	Bō yīn	Boeing (aerospace company)
+波音	波音	bō yīn	mordent (music)
+注音	注音	zhù yīn	to indicate the pronunciation of Chinese characters using Pinyin or Bopomofo etc/phonetic notation/(specifically) Bopomofo (abbr. for 注音符號|注音符号[zhù yīn fú hào])
+注音一式	注音一式	zhù yīn yī shì	Mandarin Phonetic Symbols 1/Bopomofo/abbr. for 國語注音符號第一式|国语注音符号第一式[Guó yǔ zhù yīn fú hào dì yī shì]
+注音字母	注音字母	zhù yīn zì mǔ	see 注音符號|注音符号[zhù yīn fú hào]
+注音符號	注音符号	zhù yīn fú hào	Mandarin phonetic symbols (MPS), phonetic alphabet for Chinese used esp. in Taiwan, also known colloquially as Bopomofo (after the first four letters of the alphabet:ㄅㄆㄇㄈ)
+流行音樂	流行音乐	liú xíng yīn yuè	pop music
+消音	消音	xiāo yīn	to silence
+消音器	消音器	xiāo yīn qì	silencer
+混音	混音	hùn yīn	(audio) mixing
+清音	清音	qīng yīn	(phonetics) voiceless sound
+渺無音信	渺无音信	miǎo wú yīn xìn	to receive no news whatsoever about sb
+滅音器	灭音器	miè yīn qì	muffler (of an internal combustion engine)
+滑音	滑音	huá yīn	glissando
+漢語拼音	汉语拼音	Hàn yǔ Pīn yīn	Hanyu Pinyin, the romanization system used in the PRC since the 1960s
+濁塞音	浊塞音	zhuó sè yīn	(linguistics) voiced stop
+濁輔音	浊辅音	zhuó fǔ yīn	voiced consonant (linguistics)
+濁音	浊音	zhuó yīn	(phonetics) voiced sound/sonant
+爆音	爆音	bào yīn	sonic boom
+爵士音樂	爵士音乐	jué shì yīn yuè	jazz (loanword)
+牙音	牙音	yá yīn	velar consonants of Middle Chinese
+玉音	玉音	yù yīn	(deferential) your letter
+現代音樂	现代音乐	xiàn dài yīn yuè	modern music/contemporary music
+琶音	琶音	pá yīn	(music) arpeggio
+瑪竇福音	玛窦福音	Mǎ dòu Fú yīn	Gospel according to St Matthew
+環球音樂集團	环球音乐集团	Huán qiú Yīn yuè Jí tuán	Universal Music Group
+男中音	男中音	nán zhōng yīn	baritone
+男低音	男低音	nán dī yīn	bass (music)/lower register male voice
+男高音	男高音	nán gāo yīn	tenor
+男高音部	男高音部	nán gāo yīn bù	tenor part
+畫外音	画外音	huà wài yīn	voice-over/background narration
+疊音鈸	叠音钹	dié yīn bó	ride cymbal (drum kit component)
+發音	发音	fā yīn	to pronounce/pronunciation/to emit sound
+發音器官	发音器官	fā yīn qì guān	vocal organs/vocal cords
+發音體	发音体	fā yīn tǐ	sound producing object (soundboard, vibrating string, membrane etc)
+盒式錄音磁帶	盒式录音磁带	hé shì lù yīn cí dài	cassette tape
+真聲最高音	真声最高音	zhēn shēng zuì gāo yīn	highest true (non-falsetto) voice
+知音	知音	zhī yīn	intimate friend/soul mate
+短時語音記憶	短时语音记忆	duǎn shí yǔ yīn jì yì	short-term phonological memory
+破音字	破音字	pò yīn zì	character with two or more readings/character where different readings convey different meanings (Tw)
+碎音鈸	碎音钹	suì yīn bó	crash cymbal (drum kit component)
+福音	福音	fú yīn	good news/glad tidings/gospel
+福音書	福音书	fú yīn shū	gospel
+空谷足音	空谷足音	kōng gǔ zú yīn	the sound of footsteps in a deserted valley (idiom)/sth hard to come by/sth wonderful and rare
+符類福音	符类福音	fú lèi fú yīn	synoptic gospels (i.e. Matthew, Mark and Luke, with similar accounts and chronology)
+粵語拼音	粤语拼音	Yuè yǔ Pīn yīn	Cantonese romanization/Jyutping, one of the many Cantonese romanization systems
+約翰福音	约翰福音	Yuē hàn Fú yīn	Gospel according to St John
+純音	纯音	chún yīn	pure tone
+組合音響	组合音响	zǔ hé yīn xiǎng	hi-fi system/stereo sound system/abbr. to 音響|音响[yīn xiǎng]
+網絡語音	网络语音	wǎng luò yǔ yīn	VoIP (Voice over IP) (computing)/to speak with others over the Internet
+美國之音	美国之音	Měi guó Zhī Yīn	Voice of America (VOA)
+翹舌音	翘舌音	qiào shé yīn	retroflex sound (e.g. in Mandarin zh, ch, sh, r)
+聲音	声音	shēng yīn	voice/sound/CL:個|个[gè]
+聽話聽聲，鑼鼓聽音	听话听声，锣鼓听音	tīng huà tīng shēng , luó gǔ tīng yīn	to understand the unspoken implications (idiom)
+背景音樂	背景音乐	bèi jǐng yīn yuè	background music (BGM)/soundtrack/musical setting
+胸音	胸音	xiōng yīn	chest voice
+自然發音	自然发音	zì rán fā yīn	phonics (Tw)
+舌尖前音	舌尖前音	shé jiān qián yīn	alveolar/consonants z, c, s produced with the tip of the tongue on the alveolar ridge
+舌尖後音	舌尖后音	shé jiān hòu yīn	retroflex sound (e.g. in Mandarin zh, ch, sh, r)
+舌尖音	舌尖音	shé jiān yīn	apical consonant (produced with the tip of the tongue, i.e. d or t)
+舌尖顫音	舌尖颤音	shé jiān chàn yīn	alveolar trill (e.g. Russian r sound)
+舌音	舌音	shé yīn	coronal consonants of Middle Chinese
+舒適音	舒适音	shū shì yīn	comfortable voice (well within one's range of pitch)
+舞台音樂	舞台音乐	wǔ tái yīn yuè	musical theater
+若望福音	若望福音	Ruò wàng Fú yīn	Gospel according to St John
+華納音樂集團	华纳音乐集团	Huà nà Yīn yuè Jí tuán	Warner Music Group
+萬國音標	万国音标	Wàn guó Yīn biāo	International Phonetic Alphabet (IPA)
+號音	号音	hào yīn	bugle call
+表音	表音	biǎo yīn	phonetic/phonological/transliteration
+袖珍音響	袖珍音响	xiù zhēn yīn xiǎng	pocket stereo/walkman
+補足音程	补足音程	bǔ zú yīn chéng	complementary interval/addition musical interval adding to an octave
+複合元音	复合元音	fù hé yuán yīn	diphthong (such as putonghua ɑi, ei etc)
+複合母音	复合母音	fù hé mǔ yīn	diphthong/compound vowel
+複音形	复音形	fù yīn xíng	diphthong/liaison
+複音詞	复音词	fù yīn cí	disyllabic word/polysyllabic word
+觀世音	观世音	Guān shì yīn	Guanyin, the Bodhisattva of Compassion or Goddess of Mercy (Sanskrit Avalokiteśvara)
+觀世音菩薩	观世音菩萨	Guān shì yīn Pú sà	Guanyin, the Bodhisattva of Compassion or Goddess of Mercy (Sanskrit Avalokiteśvara)
+觀音	观音	Guān yīn	Guanyin, the Bodhisattva of Compassion or Goddess of Mercy (Sanskrit Avalokiteśvara)
+觀音菩薩	观音菩萨	Guān yīn Pú sà	Guanyin, the Bodhisattva of Compassion or Goddess of Mercy (Sanskrit Avalokiteśvara)
+觀音鄉	观音乡	Guān yīn xiāng	Guanyin or Kuanyin township in Taoyuan county 桃園縣|桃园县[Táo yuán xiàn], north Taiwan
+訓民正音	训民正音	Xùn mín Zhèng yīn	Korean text HunMin JongUm promulgated by Sejong Daewang in 1418 to introduce hangeul
+註音法	注音法	zhù yīn fǎ	phonetic transcription/system of representing spoken sounds
+話音	话音	huà yīn	one's speaking voice/tone/implication
+語音	语音	yǔ yīn	speech sounds/pronunciation/colloquial (rather than literary) pronunciation of a Chinese character/phonetic/audio/voice/(Internet) to voice chat/voice message
+語音信箱	语音信箱	yǔ yīn xìn xiāng	voice mailbox/voicemail
+語音信號	语音信号	yǔ yīn xìn hào	voice signal
+語音合成	语音合成	yǔ yīn hé chéng	speech synthesis
+語音失語症	语音失语症	yǔ yīn shī yǔ zhèng	phonetic aphasia
+語音學	语音学	yǔ yīn xué	phonetics
+語音意識	语音意识	yǔ yīn yì shí	phonetic awareness
+語音技巧	语音技巧	yǔ yīn jì qiǎo	phonological skill
+語音指令	语音指令	yǔ yīn zhǐ lìng	speech command (for computer speech recognition)
+語音識別	语音识别	yǔ yīn shí bié	speech recognition
+語音通訊通道	语音通讯通道	yǔ yīn tōng xùn tōng dào	voice (communications) channel
+調音	调音	tiáo yīn	to tune (a musical instrument)
+諧音	谐音	xié yīn	homonym/homophone/harmonic (component of sound)
+諧音列	谐音列	xié yīn liè	harmonic series
+譯音	译音	yì yīn	phonetic transcription/transliteration
+讀音	读音	dú yīn	pronunciation/literary (rather than colloquial) pronunciation of a Chinese character
+讀音錯誤	读音错误	dú yīn cuò wù	mistake of pronunciation
+變化音	变化音	biàn huà yīn	(music) accidental (a note foreign to the key signature)
+變音記號	变音记号	biàn yīn jì hao	(music) accidental (symbol such as a sharp (♯), flat (♭), natural (♮) etc)
+走音	走音	zǒu yīn	off-key/out of tune (music)
+超音波	超音波	chāo yīn bō	ultrasound/ultrasonic wave
+超音速	超音速	chāo yīn sù	supersonic
+路加福音	路加福音	Lù jiā Fú yīn	Gospel according to St Luke
+軟齦音	软龈音	ruǎn yín yīn	velar sound (linguistics)
+輔音	辅音	fǔ yīn	consonant
+輕音樂	轻音乐	qīng yīn yuè	light music
+逆回音	逆回音	nì huí yīn	inverted turn (ornament in music)
+通用拼音	通用拼音	tōng yòng pīn yīn	the common use romanization system introduced in Taiwan in 2003
+連音	连音	lián yīn	tuplet (music)/sandhi (phonetics)
+連音符	连音符	lián yīn fú	tuplet (music)
+邊音	边音	biān yīn	lateral consonant (phonetics)
+郵政式拼音	邮政式拼音	Yóu zhèng shì Pīn yīn	Chinese postal romanization, developed in the early 1900s, used until the 1980s
+鄉村音樂	乡村音乐	xiāng cūn yīn yuè	country music (country & western music genre)
+鄉音	乡音	xiāng yīn	local accent/accent of one's native place
+配音	配音	pèi yīn	dubbing (filmmaking)
+重音	重音	zhòng yīn	accent (of a word)/stress (on a syllable)
+重音節	重音节	zhòng yīn jié	accented syllable/stress
+錄音	录音	lù yīn	to record (sound)/sound recording/CL:個|个[gè]
+錄音帶	录音带	lù yīn dài	audio tape/CL:盤|盘[pán],盒[hé]
+錄音機	录音机	lù yīn jī	(tape) recording machine/tape recorder/CL:臺|台[tái]
+鐵觀音	铁观音	Tiě guān yīn	Tieguanyin tea (a variety of oolong tea)
+閉元音	闭元音	bì yuán yīn	close vowel
+閉音節	闭音节	bì yīn jié	closed syllable
+隔音	隔音	gé yīn	soundproofing
+雙元音	双元音	shuāng yuán yīn	diphthong
+雙唇音	双唇音	shuāng chún yīn	bilabial consonant (b, p, or m)
+雙音節	双音节	shuāng yīn jié	bisyllable
+雜音	杂音	zá yīn	noise
+電音	电音	diàn yīn	electronic music (genre)
+震音	震音	zhèn yīn	tremolo
+靜音	静音	jìng yīn	quiet/silent/mute
+非音	非音	fēi yīn	(ling) unstressed (syllable)
+靡靡之音	靡靡之音	mǐ mǐ zhī yīn	decadent or obscene music
+韓素音	韩素音	Hán Sù yīn	Han Suyin (1917-2012), Eurasian physician and author
+一槌定音	一槌定音	yī chuí dìng yīn	variant of 一錘定音|一锤定音[yī chuí dìng yīn]
+音位	音位	yīn wèi	phoneme
+音信	音信	yīn xìn	message
+音值	音值	yīn zhí	phonetic value
+音像	音像	yīn xiàng	audio and video/audiovisual
+音叉	音叉	yīn chā	tuning fork
+音名	音名	yīn míng	names of the notes of a musical scale (e.g. C, D, E or do, re, mi)
+音域	音域	yīn yù	vocal range/register (music)
+音容	音容	yīn róng	voice and features/(sb's) appearance
+音帶	音带	yīn dài	audio tape
+音律	音律	yīn lǜ	tuning/temperament
+音拴	音拴	yīn shuān	organ stop (button activating a row of pipes)
+音效	音效	yīn xiào	sound effect
+音樂	音乐	yīn yuè	music/CL:張|张[zhāng],曲[qǔ],段[duàn]
+音樂之聲	音乐之声	Yīn yuè zhī shēng	The Sound of Music, Broadway musical (1959) and Academy Award-winning movie (1965)
+音樂光碟	音乐光碟	yīn yuè guāng dié	music CD
+音樂學	音乐学	yīn yuè xué	musicology
+音樂學院	音乐学院	yīn yuè xué yuàn	music academy/conservatory
+音樂家	音乐家	yīn yuè jiā	musician
+音樂廳	音乐厅	yīn yuè tīng	concert hall/auditorium
+音樂會	音乐会	yīn yuè huì	concert/CL:場|场[chǎng]
+音樂節	音乐节	yīn yuè jié	music festival
+音樂院	音乐院	yīn yuè yuàn	conservatory/music college
+音樂電視	音乐电视	yīn yuè diàn shì	Music Television MTV
+音標	音标	yīn biāo	phonetic symbol
+音步	音步	yīn bù	foot (syllabic unit in verse)/meter/scansion
+音波	音波	yīn bō	sound wave
+音爆	音爆	yīn bào	sonic boom
+音痴	音痴	yīn chī	tone deaf
+音程	音程	yīn chéng	interval (music)
+音符	音符	yīn fú	(music) note/phonetic component of a Chinese character/phonetic symbol/phonogram
+音管	音管	yīn guǎn	pipe (of an organ)
+音箱	音箱	yīn xiāng	loudspeaker box/speaker (audio equipment)/resonating chamber of a musical instrument/sound box
+音節	音节	yīn jié	syllable
+音節體	音节体	yīn jié tǐ	syllabic script
+音級	音级	yīn jí	a note on a musical scale
+音素	音素	yīn sù	phoneme
+音義	音义	yīn yì	sound and meaning
+音耗	音耗	yīn hào	message
+音色	音色	yīn sè	tone/timbre/sound color
+音視	音视	yīn shì	sound and video
+音視頻	音视频	yīn shì pín	sound and video
+音訊	音讯	yīn xùn	letters/mail/news/messages/correspondence
+音調	音调	yīn diào	pitch of voice (high or low)/pitch (of a musical note)/tone
+音譯	音译	yīn yì	transliteration (rendering phonetic value, e.g. of English words in Chinese characters)/characters giving phonetic value of Chinese word or name (when the correct characters may be unknown)/transcription (linguistics)/to transcribe phonetic symbols
+音讀	音读	yīn dú	reading or phonetic value of a character
+音變	音变	yīn biàn	phonetic change
+音質	音质	yīn zhì	tone/sound quality/timbre
+音軌	音轨	yīn guǐ	sound track/track number (e.g. on a CD)
+音速	音速	yīn sù	speed of sound
+音量	音量	yīn liàng	sound volume
+音長	音长	yīn cháng	sound duration/length of a musical note
+音階	音阶	yīn jiē	musical scale
+音集協	音集协	Yīn Jí Xié	China Audio-Video Copyright Association (CAVCA)
+音韻	音韵	yīn yùn	music/rhyme and rhythm/initial, 音[yīn], and final and tone, 韻|韵[yùn], of a Chinese character/phoneme
+音韻學	音韵学	yīn yùn xué	Chinese phonetics (concerned also with rhyme in poetry)
+音響	音响	yīn xiǎng	sound/acoustics/audio/hi-fi system/stereo sound system/abbr. for 組合音響|组合音响[zǔ hé yīn xiǎng]
+音響效果	音响效果	yīn xiǎng xiào guǒ	sound effects
+音響組合	音响组合	yīn xiǎng zǔ hé	stereo system
+音響設備	音响设备	yīn xiǎng shè bèi	sound equipment/stereo
+音頻	音频	yīn pín	audio/sound/audio frequency/sound frequency
+音頻文件	音频文件	yīn pín wén jiàn	audio file (computer)
+音頻設備	音频设备	yīn pín shè bèi	sound card/audio card (computer)
+音高	音高	yīn gāo	pitch (music)/tone
+響音	响音	xiǎng yīn	sonorant
+顎齦音	颚龈音	è yín yīn	prepalatal or palatal sound (linguistics)/palato-alveolar consonant (linguistics)
+顫音	颤音	chàn yīn	vibrato (of stringed instrument)/trill (in phonetics)
+餘音	余音	yú yīn	lingering sound
+餘音繞梁	余音绕梁	yú yīn rào liáng	reverberates around the rafters (idiom); fig. sonorous and resounding (esp. of singing voice)
+饒舌音樂	饶舌音乐	ráo shé yīn yuè	rap music
+首字母拚音詞	首字母拚音词	shǒu zì mǔ pīn yīn cí	acronym
+首尾音	首尾音	shǒu wěi yīn	onset and rime
+首音	首音	shǒu yīn	onset (linguistics)
+馬可福音	马可福音	Mǎ kě Fú yīn	Gospel according to St Mark
+馬太福音	马太福音	Mǎ tài Fú yīn	Gospel according to St Matthew
+高音	高音	gāo yīn	high pitch/soprano/treble
+高音喇叭	高音喇叭	gāo yīn lǎ ba	tweeter
+高音部	高音部	gāo yīn bù	upper register/soprano part
+鼻音	鼻音	bí yīn	nasal sound
+齒唇音	齿唇音	chǐ chún yīn	see 唇齒音|唇齿音[chún chǐ yīn]
+齒音	齿音	chǐ yīn	dental consonant
+齒齦音	齿龈音	chǐ yín yīn	alveolar, apical, or supradental sound (linguistics)
+齦擦音	龈擦音	yín cā yīn	alveolar fricative (linguistics)
+齦輔音	龈辅音	yín fǔ yīn	palato-alveolar consonant (linguistics)
+齦音	龈音	yín yīn	alveolar sound (linguistics)
+齦顎音	龈颚音	yín è yīn	prepalatal sound (linguistics)
+齦齶音	龈腭音	yín è yīn	alveo-palatal sound (linguistics)

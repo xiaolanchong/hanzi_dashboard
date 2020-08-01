@@ -1,0 +1,8 @@
+醚	醚	mí	ether
+乙醚	乙醚	yǐ mí	ether/diethyl ether C2H5OC2H5
+二丁醚	二丁醚	èr dīng mí	dibutyl ether
+二正丙醚	二正丙醚	èr zhèng bǐng mí	di-n-propyl ether
+正丁醚	正丁醚	zhèng dīng mí	butyl ether
+甲醚	甲醚	jiǎ mí	methyl ether CH3OCH3
+石油醚	石油醚	shí yóu mí	petroleum ether
+丙醚	丙醚	bǐng mí	n-propyl ether

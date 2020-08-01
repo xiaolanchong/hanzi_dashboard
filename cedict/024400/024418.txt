@@ -1,0 +1,272 @@
+形	形	xíng	to appear/to look/form/shape
+七角形	七角形	qī jiǎo xíng	heptagon
+七邊形	七边形	qī biān xíng	heptagon
+三角形	三角形	sān jiǎo xíng	triangle
+三邊形	三边形	sān biān xíng	triangle
+不定形	不定形	bù dìng xíng	indeterminate form
+不等邊三角形	不等边三角形	bù děng biān sān jiǎo xíng	scalene triangle
+不規則三角形	不规则三角形	bù guī zé sān jiǎo xíng	scalene triangle (math.)
+不規則四邊形	不规则四边形	bù guī zé sì biān xíng	irregular quadrilateral/trapezium
+之字形	之字形	zhī zì xíng	Z-shaped/zigzag
+九邊形	九边形	jiǔ biān xíng	nonagon
+五形	五形	wǔ xíng	Wuxing - "Five Animals" - Martial Art
+五筆字形	五笔字形	wǔ bǐ zì xíng	Chinese character input method for entering characters by numbered strokes/variant of 五筆字型|五笔字型[wǔ bǐ zì xíng]
+五角形	五角形	wǔ jiǎo xíng	pentagon
+五邊形	五边形	wǔ biān xíng	pentagon
+人形	人形	rén xíng	human shape/in human form/of human appearance/doll/puppet
+位形	位形	wèi xíng	configuration
+位形空間	位形空间	wèi xíng kōng jiān	configuration space (math.)
+信息圖形	信息图形	xìn xī tú xíng	infographic
+傘形	伞形	sǎn xíng	umbrella-shaped
+傘形科	伞形科	sǎn xíng kē	Umbelliferae or Apiaceae, plant family containing carrot, coriander etc
+全等圖形	全等图形	quán děng tú xíng	congruent figure (geometry)
+全等形	全等形	quán děng xíng	congruent figure
+兩性異形	两性异形	liǎng xìng yì xíng	sexual dimorphism
+八字形	八字形	bā zì xíng	shape resembling the character 八 or 8/V-shape/splayed/figure of eight
+八角形	八角形	bā jiǎo xíng	octagon
+八邊形	八边形	bā biān xíng	octagon
+六角形	六角形	liù jiǎo xíng	hexagon
+六邊形	六边形	liù biān xíng	hexagon
+共形	共形	gòng xíng	conformal
+冠形詞	冠形词	guān xíng cí	article (in grammar)
+凸多胞形	凸多胞形	tū duō bāo xíng	convex polytope
+凸多邊形	凸多边形	tū duō biān xíng	convex polygon
+凹凸形	凹凸形	āo tū xíng	crenelated/corrugated
+分形	分形	fēn xíng	fractal
+分形幾何	分形几何	fēn xíng jǐ hé	fractal geometry
+分形幾何學	分形几何学	fēn xíng jǐ hé xué	fractal geometry
+剪切形變	剪切形变	jiǎn qiē xíng biàn	shearing/shear deformation
+動態圖形	动态图形	dòng tài tú xíng	animated graphics/animation
+匿影藏形	匿影藏形	nì yǐng cáng xíng	to hide from public view/to conceal one's identity/to lay low
+十二角形	十二角形	shí èr jiǎo xíng	dodecagon
+十二邊形	十二边形	shí èr biān xíng	dodecagon
+十字形	十字形	shí zì xíng	cruciform/cross shape
+十角形	十角形	shí jiǎo xíng	decagon
+十邊形	十边形	shí biān xíng	decagon
+半圓形	半圆形	bàn yuán xíng	semicircular
+卵圓形	卵圆形	luǎn yuán xíng	oval/ellipsoidal
+卵形	卵形	luǎn xíng	oval/egg-shaped (leaves in botany)
+原形	原形	yuán xíng	original shape/true appearance (under the disguise)/true character
+原形畢露	原形毕露	yuán xíng bì lù	original identity fully revealed (idiom); fig. to unmask and expose the whole truth
+叉形	叉形	chā xíng	forked
+同素異形體	同素异形体	tóng sù yì xíng tǐ	allotropy
+向量圖形	向量图形	xiàng liàng tú xíng	vector graphics (computer)
+唇形科	唇形科	chún xíng kē	Labiatae, the taxonomic family including lavender, mint
+喇叭形	喇叭形	lǎ ba xíng	flared/funnel-shape/trumpet-shape
+喜形於色	喜形于色	xǐ xíng yú sè	face light up with delight (idiom); to beam with joy
+四角形	四角形	sì jiǎo xíng	square/quadrilateral
+四邊形	四边形	sì biān xíng	quadrilateral
+回形針	回形针	huí xíng zhēn	paper clip
+固形物	固形物	gù xíng wù	solid particles in liquid
+圓形	圆形	yuán xíng	round/circular
+圓形劇場	圆形剧场	yuán xíng jù chǎng	amphitheater
+圓形木材	圆形木材	yuán xíng mù cái	log
+圓形麵包	圆形面包	yuán xíng miàn bāo	bun
+圓柱形	圆柱形	yuán zhù xíng	cylindrical
+圓珠形離子交換劑	圆珠形离子交换剂	yuán zhū xíng lí zǐ jiāo huàn jì	bead-type ion exchanger
+圓錐形	圆锥形	yuán zhuī xíng	conical/coniform
+圖形	图形	tú xíng	picture/figure/diagram/graph/depiction/graphical
+圖形卡	图形卡	tú xíng kǎ	graphics card
+圖形用戶界面	图形用户界面	tú xíng yòng hù jiè miàn	graphical user interface (GUI)
+圖形界面	图形界面	tú xíng jiè miàn	Graphical User Interface (GUI) (computing)
+土木形骸	土木形骸	tǔ mù xíng hái	earth and wood framework (idiom); plain and undecorated body
+地形	地形	dì xíng	topography/terrain/landform
+地形圖	地形图	dì xíng tú	topographic map
+外形	外形	wài xíng	figure/shape/external form/contour
+多形核白細胞	多形核白细胞	duō xíng hé bái xì bāo	polymorphonuclear leukocyte
+多胞形	多胞形	duō bāo xíng	polytope
+多角形	多角形	duō jiǎo xíng	polygon/same as 多邊形|多边形
+多邊形	多边形	duō biān xíng	polygon
+奇形怪狀	奇形怪状	qí xíng guài zhuàng	fantastic oddities of every description (idiom); grotesquely shaped
+如影隨形	如影随形	rú yǐng suí xíng	as the shadow follows the body (idiom)/closely associated with each other/to follow relentlessly
+字形	字形	zì xíng	form of a Chinese character/variant of 字型[zì xíng]
+完形	完形	wán xíng	total form/coherent whole/Gestalt/holistic
+完形填空	完形填空	wán xíng tián kòng	cloze (pedagogy)
+完形心理學	完形心理学	wán xíng xīn lǐ xué	Gestalt psychology (concerned with treating a subject as a coherent whole)
+完形心理治療	完形心理治疗	wán xíng xīn lǐ zhì liáo	Gestalt psychotherapy
+完形測驗	完形测验	wán xíng cè yàn	Gestalt test
+官場現形記	官场现形记	Guān chǎng Xiàn xíng Jì	Observations on the Current State of Officialdom, late Qing novel by Li Baojia 李寶嘉|李宝嘉[Lǐ Bǎo jià]
+山形	山形	Shān xíng	Yamagata prefecture in the north of Japan's main island Honshū 本州[Běn zhōu]
+山形縣	山形县	Shān xíng xiàn	Yamagata prefecture in the north of Japan's main island Honshū 本州[Běn zhōu]
+已成形	已成形	yǐ chéng xíng	preformed
+帕斯卡三角形	帕斯卡三角形	pà sī kǎ sān jiǎo xíng	Pascal's Triangle (math.)
+帕斯卡六邊形	帕斯卡六边形	pà sī kǎ liù biān xíng	Pascal's hexagon
+平行四邊形	平行四边形	píng xíng sì biān xíng	parallelogram
+弓形	弓形	gōng xíng	circular segment
+弧形	弧形	hú xíng	curve/arc/arch
+彈性形變	弹性形变	tán xìng xíng biàn	elastic deformation
+彎月形透鏡	弯月形透镜	wān yuè xíng tòu jìng	meniscus lens
+U形轉彎	U形转弯	U xíng zhuǎn wān	U-turn
+形上	形上	xíng shàng	metaphysics
+形似	形似	xíng sì	similar in shape and appearance
+形像	形像	xíng xiàng	form/image
+形制	形制	xíng zhì	form/shape/structure/design
+形勝	形胜	xíng shèng	advantageous/strategic (position)
+形勢	形势	xíng shì	circumstances/situation/terrain/CL:個|个[gè]
+形勢嚴峻	形势严峻	xíng shì yán jùn	in grave difficulties/the situation is grim
+形同	形同	xíng tóng	tantamount to/to be like
+形同虛設	形同虚设	xíng tóng xū shè	to exist in name only/empty shell/useless (idiom)
+形同陌路	形同陌路	xíng tóng mò lù	to be estranged
+形單影隻	形单影只	xíng dān yǐng zhī	lonely soul/solitary
+形婚	形婚	xíng hūn	sham marriage, esp. a marriage between a gay man and a lesbian arranged in response to parental expectations of a conventional marriage/abbr. for 形式婚姻
+形容	形容	xíng róng	to describe/description/appearance/look
+形容詞	形容词	xíng róng cí	adjective
+形容詞短語	形容词短语	xíng róng cí duǎn yǔ	adjectival phrase
+形容辭	形容辞	xíng róng cí	adjective
+形式	形式	xíng shì	outer appearance/form/shape/formality/CL:個|个[gè]
+形式主義	形式主义	xíng shì zhǔ yì	Formalism (art)
+形式化	形式化	xíng shì huà	formalization/formalized
+形式發票	形式发票	xíng shì fā piào	pro forma invoice
+形形色色	形形色色	xíng xíng sè sè	all kinds of/all sorts of/every (different) kind of
+形影不離	形影不离	xíng yǐng bù lí	inseparable (as form and shadow)
+形影相弔	形影相吊	xíng yǐng xiāng diào	with only body and shadow to comfort each other (idiom)/extremely sad and lonely
+形影相隨	形影相随	xíng yǐng xiāng suí	lit. body and shadow follow each other (idiom)/fig. inseparable
+形意拳	形意拳	Xíng yì quán	Xingyiquan (Chinese martial art)
+形態	形态	xíng tài	shape/form/pattern/morphology
+形態學	形态学	xíng tài xué	morphology (in biology or linguistics)
+形態發生素	形态发生素	xíng tài fā shēng sù	morphogen
+形成	形成	xíng chéng	to form/to take shape
+形成層	形成层	xíng chéng céng	vascular cambium (layer of tissue responsible for growth inside wood)
+形於色	形于色	xíng yú sè	to show one's feelings/to show it in one's face
+形旁	形旁	xíng páng	part of Chinese character indicating the meaning/also called significative or radical
+形核	形核	xíng hé	nucleation
+形狀	形状	xíng zhuàng	form/shape/CL:個|个[gè]
+形神	形神	xíng shén	body and soul/physical and spiritual/material form and internal spirit
+形符	形符	xíng fú	semantic component of a phono-semantic character (e.g. component刂[dāo] in 刻[kè])
+形而上學	形而上学	xíng ér shàng xué	metaphysics
+形聲	形声	xíng shēng	ideogram plus phonetic (one of the Six Methods 六書|六书 of forming Chinese characters)/also known as phonogram, phonetic compound or picto-phonetic character
+形聲字	形声字	xíng shēng zì	phono-semantic compound character
+形色	形色	xíng sè	shape and color/appearance/facial expression
+形譯	形译	xíng yì	derivation of a Chinese loanword from Japanese by using the same characters (or variants) but applying Chinese pronunciation (e.g. 場合|场合[chǎng hé], derived from Japanese 場合, pronounced "ba'ai")
+形變	形变	xíng biàn	deformation/bending
+形象	形象	xíng xiàng	image/form/figure/CL:個|个[gè]/visualization/vivid
+形象大使	形象大使	xíng xiàng dà shǐ	person who represents an organization and enhances its image/ambassador
+形象藝術	形象艺术	xíng xiàng yì shù	visual arts
+形貌	形貌	xíng mào	appearance
+形質	形质	xíng zhì	form/structure/design
+形跡	形迹	xíng jì	manner/bearing/trace/mark/trail/etiquette
+形骸	形骸	xíng hái	the human body/skeleton
+形體	形体	xíng tǐ	figure/physique/form and structure
+彪形	彪形	biāo xíng	husky/burly
+彪形大漢	彪形大汉	biāo xíng dà hàn	burly chap/husky fellow
+得意忘形	得意忘形	dé yì wàng xíng	so pleased as to lose one's sense of measure/beside oneself with joy
+微整形	微整形	wēi zhěng xíng	non-surgical cosmetic procedure (injection of Botox, hyaluronic acid etc)
+怒形於色	怒形于色	nù xíng yú sè	to betray anger (idiom); fury written across one's face
+情形	情形	qíng xing	circumstances/situation/CL:個|个[gè]
+意識形態	意识形态	yì shí xíng tài	ideology
+成形	成形	chéng xíng	to take shape/shaping/forming
+扁形動物	扁形动物	piān xíng dòng wù	flatworm/phylum of Platyhelminthes
+扁形動物門	扁形动物门	piān xíng dòng wù mén	flatworm/phylum of Platyhelminthes
+扁鍬形蟲	扁锹形虫	biǎn qiāo xíng chóng	giant stag beetle (Dorcus titanus)
+扇形	扇形	shàn xíng	circular sector
+拱形	拱形	gǒng xíng	arch
+改變形像	改变形像	gǎi biàn xíng xiàng	transfiguration
+放浪形骸	放浪形骸	fàng làng xíng hái	to abandon all restraint (idiom)
+整形	整形	zhěng xíng	shaping/reshaping/plastic surgery or orthopedics (abbr. of 整形外科[zhěng xíng wài kē])
+整形外科	整形外科	zhěng xíng wài kē	plastic surgery/orthopedics
+整形外科醫生	整形外科医生	zhěng xíng wài kē yī shēng	plastic surgeon
+方形	方形	fāng xíng	square/square-shaped
+月牙形	月牙形	yuè yá xíng	crescent
+有形	有形	yǒu xíng	material/tangible/visible/shapely
+核變形	核变形	hé biàn xíng	nuclear deformation
+條形	条形	tiáo xíng	a bar/a strip
+條形圖	条形图	tiáo xíng tú	bar chart
+條形燃料	条形燃料	tiáo xíng rán liào	fuel rods
+條形碼	条形码	tiáo xíng mǎ	barcode
+梯形	梯形	tī xíng	trapezoid/ladder-shaped/terraced
+梯次隊形	梯次队形	tī cì duì xíng	echelon formation (military)
+楔形	楔形	xiē xíng	cuneiform (letters)/wedge-shape
+楔形文字	楔形文字	xiē xíng wén zì	cuneiform (Babylonian script)
+楔形物	楔形物	xiē xíng wù	wedge
+概形	概形	gài xíng	scheme (in algebraic geometry)
+模形	模形	mó xíng	pattern
+橢圓形	椭圆形	tuǒ yuán xíng	oval
+橢圓形辦公室	椭圆形办公室	tuǒ yuán xíng bàn gōng shì	Oval office (in the White House)
+正六邊形	正六边形	zhèng liù biān xíng	regular hexagon
+正多胞形	正多胞形	zhèng duō bāo xíng	convex polytope
+正弦形	正弦形	zhèng xián xíng	sinusoidal (shaped like a sine wave)
+正方形	正方形	zhèng fāng xíng	square
+沒有形狀	没有形状	méi yǒu xíng zhuàng	shapeless
+波形	波形	bō xíng	wave form
+流形	流形	liú xíng	manifold (math.)
+流於形式	流于形式	liú yú xíng shì	to become a mere formality
+消除對婦女一切形式歧視公約	消除对妇女一切形式歧视公约	Xiāo chú duì Fù nǚ Yī qiè Xíng shì Qí shì Gōng yuē	Convention on the Elimination of All Forms of Discrimination Against Women
+無定形碳	无定形碳	wú dìng xíng tàn	amorphous carbon
+無形	无形	wú xíng	incorporeal/virtual/formless/invisible (assets)/intangible
+無形中	无形中	wú xíng zhōng	imperceptibly/virtually
+無形貿易	无形贸易	wú xíng mào yì	invisibles (trade)
+無形輸出	无形输出	wú xíng shū chū	invisible export
+無法形容	无法形容	wú fǎ xíng róng	unspeakable/indescribable
+現代形式	现代形式	xiàn dài xíng shì	the modern form
+現形	现形	xiàn xíng	to become visible/to appear/to manifest one's true nature
+球形	球形	qiú xíng	spherical/ball-shaped
+環形	环形	huán xíng	ring-shaped
+環形公路	环形公路	huán xíng gōng lù	ring road/beltway
+環形山	环形山	huán xíng shān	crater/ring-shaped mountain
+環形結構	环形结构	huán xíng jié gòu	ring configuration
+環形路	环形路	huán xíng lù	circular road/circuit
+異形	异形	yì xíng	not the usual type/atypical/heterotype
+異形詞	异形词	yì xíng cí	variant spelling of the same Chinese word, e.g. 筆劃|笔划[bǐ huà] and 筆畫|笔画[bǐ huà]/exact synonym and homonym written with different characters
+畸形	畸形	jī xíng	deformity/abnormality
+畸形兒	畸形儿	jī xíng ér	deformed child/child with birth defect
+畸形秀	畸形秀	jī xíng xiù	freak show
+直角三角形	直角三角形	zhí jiǎo sān jiǎo xíng	a right angled triangle
+相形見絀	相形见绌	xiāng xíng jiàn chù	to pale by comparison (idiom)
+矩形	矩形	jǔ xíng	rectangle
+矯形	矫形	jiǎo xíng	orthopedic (e.g. surgery)
+矯形外科	矫形外科	jiǎo xíng wài kē	orthopedic surgery
+矯形牙套	矫形牙套	jiǎo xíng yá tào	orthodontic brace
+矯形醫生	矫形医生	jiǎo xíng yī shēng	orthopedic doctor
+碎形	碎形	suì xíng	fractal (math.)
+神勞形瘁	神劳形瘁	shén láo xíng cuì	to be completely drained both emotionally and physically (idiom)
+穹形	穹形	qióng xíng	arched/vaulted/dome-shaped
+第一基本形式	第一基本形式	dì yī jī běn xíng shì	(math.) first fundamental form
+等腰三角形	等腰三角形	děng yāo sān jiǎo xíng	isosceles triangle
+等邊三角形	等边三角形	děng biān sān jiǎo xíng	equilateral triangle
+線形圖	线形图	xiàn xíng tú	line chart
+臉形	脸形	liǎn xíng	variant of 臉型|脸型, shape of face/physiognomy
+自慚形穢	自惭形秽	zì cán xíng huì	to feel ashamed of one's inferiority (idiom)/to feel inferior
+菱形	菱形	líng xíng	rhombus
+蛇形	蛇形	shé xíng	S-shaped/serpentine/coiled like a snake
+蛛形綱	蛛形纲	zhū xíng gāng	Arachnids (class of arthropods)
+蜥形綱	蜥形纲	xī xíng gāng	Sauropsida, class within Chordata containing reptiles
+蝶形領帶	蝶形领带	dié xíng lǐng dài	bow tie
+蝶形領結	蝶形领结	dié xíng lǐng jié	bow tie
+螺旋形	螺旋形	luó xuán xíng	spiral
+蠕形動物	蠕形动物	rú xíng dòng wù	soft-bodied organisms/vermes (obsolete taxonomic term)
+血栓形成	血栓形成	xuè shuān xíng chéng	thrombosis
+複數形式	复数形式	fù shù xíng shì	plural form (of a countable noun)
+複音形	复音形	fù yīn xíng	diphthong/liaison
+詞形	词形	cí xíng	form of words (e.g. inflection, conjugation)/morphology (linguistics)
+變形	变形	biàn xíng	deformation/to become deformed/to change shape/to morph
+變形蟲	变形虫	biàn xíng chóng	amoeba
+變形金剛	变形金刚	Biàn xíng jīn gāng	Transformers (franchise)
+象形	象形	xiàng xíng	pictogram/one of the Six Methods 六書|六书 of forming Chinese characters/Chinese character derived from a picture/sometimes called hieroglyph
+象形字	象形字	xiàng xíng zì	pictogram (one of the Six Methods 六書|六书 of forming Chinese characters)/Chinese character derived from a picture/sometimes called hieroglyph
+象形文字	象形文字	xiàng xíng wén zì	pictogram/hieroglyph
+賦形劑	赋形剂	fù xíng jì	(pharm.) vehicle/excipient
+走形	走形	zǒu xíng	out of shape/to lose shape/to deform
+走形兒	走形儿	zǒu xíng r5	out of shape/to lose shape/to deform
+走形式	走形式	zǒu xíng shì	to go through the formalities
+身形	身形	shēn xíng	figure (esp. a woman's)
+遁形	遁形	dùn xíng	to vanish/to hide/to cover one's traces
+重形式輕內容	重形式轻内容	zhòng xíng shì qīng nèi róng	heavy on form, light on substance/to stress form at the expense of content
+鋸齒形	锯齿形	jù chǐ xíng	sawtooth shape/zigzag
+錐形	锥形	zhuī xíng	conical
+錐形瓶	锥形瓶	zhuī xíng píng	Erlenmeyer flask
+鍬形蟲	锹形虫	qiāo xíng chóng	stag beetle (generic term for the beetles in the family of lucanidae)
+鐮形血球貧血症	镰形血球贫血症	lián xíng xuè qiú pín xuè zhèng	sickle-cell anaemia/sickle-cell disease
+長方形	长方形	cháng fāng xíng	rectangle
+隊形	队形	duì xíng	formation
+隱形	隐形	yǐn xíng	invisible
+隱形眼鏡	隐形眼镜	yǐn xíng yǎn jìng	contact lens/CL:隻|只[zhī],副[fù]
+雀形目	雀形目	què xíng mù	order Passeriformes (perching birds)
+雛形	雏形	chú xíng	embryonic form/fledgling stage/prototype
+雛形土	雏形土	Chú xíng tǔ	Cambosols (Chinese Soil Taxonomy)
+面形	面形	miàn xíng	shape of face
+顯形	显形	xiǎn xíng	to show one's true nature (derog.)/to betray oneself
+馬蹄形	马蹄形	mǎ tí xíng	horseshoe shape
+馬鹿易形	马鹿易形	mǎ lù yì xíng	to distinguish horse and deer easily/to know right from wrong
+體形	体形	tǐ xíng	figure/bodily form
+鵑形目	鹃形目	juān xíng mù	Cuculiformes, order of birds including cuckoo
+龍形拳	龙形拳	lóng xíng quán	Long Xing Quan - "Dragon Fist" - Martial Art

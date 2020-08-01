@@ -1,0 +1,6 @@
+鈸	钹	bó	cymbals
+水鈸	水钹	shuǐ bó	splash cymbal (drum kit component)
+疊音鈸	叠音钹	dié yīn bó	ride cymbal (drum kit component)
+碎音鈸	碎音钹	suì yīn bó	crash cymbal (drum kit component)
+腳踏鈸	脚踏钹	jiǎo tà bó	hi-hat (drum kit component)
+中國鈸	中国钹	Zhōng guó bó	China cymbal (drum kit component)

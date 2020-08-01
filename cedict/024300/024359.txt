@@ -1,0 +1,19 @@
+弧	弧	hú	arc
+同軸圓弧	同轴圆弧	tóng zhóu yuán hú	coaxial circular arc/concentric arc (in spherical geometry)
+圓弧	圆弧	yuán hú	arc of a circle/circular arc
+大括弧	大括弧	dà kuò hú	square brackets
+島弧	岛弧	dǎo hú	island arc (geology)/forearc
+反射弧	反射弧	fǎn shè hú	reflex arc
+弧光	弧光	hú guāng	arc light
+弧光燈	弧光灯	hú guāng dēng	arc lamp
+弧度	弧度	hú dù	radian/arc/curve/curvature
+弧形	弧形	hú xíng	curve/arc/arch
+弧線	弧线	hú xiàn	arc
+弧線長	弧线长	hú xiàn cháng	arc length/length of a curve segment
+弧長	弧长	hú cháng	arc length (the length of a curve segment)
+弧長參數	弧长参数	hú cháng cān shù	parametrization by arc length (of a space curve)
+括弧	括弧	kuò hú	parenthesis
+群島弧	群岛弧	qún dǎo hú	island arc (geology)
+電弧	电弧	diàn hú	electric arc
+電弧焊	电弧焊	diàn hú hàn	electric arc welding
+餘弧	余弧	yú hú	complementary arc

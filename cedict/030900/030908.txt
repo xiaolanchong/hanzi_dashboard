@@ -1,0 +1,126 @@
+碼	码	mǎ	weight/number/code/to pile/to stack/classifier for length or distance (yard), happenings etc
+亂碼	乱码	luàn mǎ	mojibake (nonsense characters displayed when software fails to render text according to its intended character encoding)
+二維碼	二维码	èr wéi mǎ	two-dimensional barcode/QR code
+二進制編碼	二进制编码	èr jìn zhì biān mǎ	binary code/binary encoding
+五筆編碼	五笔编码	wǔ bǐ biān mǎ	five-stroke code, Chinese character input method
+交換碼	交换码	jiāo huàn mǎ	interchange code/computer coding for characters, including Chinese
+代碼	代码	dài mǎ	code
+代碼段	代码段	dài mǎ duàn	code segment
+代碼頁	代码页	dài mǎ yè	code page
+偽代碼	伪代码	wěi dài mǎ	pseudocode
+傳真號碼	传真号码	chuán zhēn hào mǎ	fax number
+價碼	价码	jià mǎ	price tag
+內碼	内码	nèi mǎ	internal code
+兩碼事	两码事	liǎng mǎ shì	two quite different things/another kettle of fish
+加碼	加码	jiā mǎ	to ratchet up/to raise (expectations etc)/to increase (a quota, a position in the market etc)/to up the ante/(computing) to encode
+區域碼	区域码	qū yù mǎ	region code (DVD)
+區碼	区码	qū mǎ	area code/telephone dialing code
+十二碼	十二码	shí èr mǎ	12-yard (sports)/penalty kick
+原始碼	原始码	yuán shǐ mǎ	source code (computing) (Tw, HK)
+反密碼子	反密码子	fǎn mì mǎ zi	anticodon
+單一碼	单一码	dān yī mǎ	Unicode/also written 統一碼|统一码
+四角號碼	四角号码	sì jiǎo hào mǎ	four corner code (input method for Chinese characters)
+國家代碼	国家代码	guó jiā dài mǎ	country code
+國家標準中文交換碼	国家标准中文交换码	guó jiā biāo zhǔn Zhōng wén jiāo huàn mǎ	CNS 11643, Chinese character coding adopted in Taiwan, 1986-1992
+國家標準碼	国家标准码	guó jiā biāo zhǔn mǎ	Guo Biao or GB, the standard PRC encoding, abbr. 國標碼|国标码
+國標碼	国标码	guó biāo mǎ	Guo Biao or GB, the standard PRC encoding, abbr. for 國家標準碼|国家标准码
+基因碼	基因码	jī yīn mǎ	genetic code
+大五碼	大五码	dà wǔ mǎ	Big5 Chinese character coding (developed by Taiwanese companies from 1984)
+天星碼頭	天星码头	Tiān xīng mǎ tóu	Star Ferry terminal, Hong Kong
+子網屏蔽碼	子网屏蔽码	zǐ wǎng píng bì mǎ	subnet mask (computing)
+字根通用碼	字根通用码	zì gēn tōng yòng mǎ	common coding for components of Chinese character/same as Zheng coding 鄭碼|郑码[Zhèng mǎ]
+字碼	字码	zì mǎ	character code
+密碼	密码	mì mǎ	secret code/ciphertext/password/PIN
+密碼保護	密码保护	mì mǎ bǎo hù	password protection
+密碼子	密码子	mì mǎ zi	codon
+密碼學	密码学	mì mǎ xué	cryptography
+密碼鎖	密码锁	mì mǎ suǒ	combination lock
+密碼電報	密码电报	mì mǎ diàn bào	coded telegram/ciphered cable
+尺碼	尺码	chǐ mǎ	size/fitting (of apparel)
+層層加碼	层层加码	céng céng jiā mǎ	to increase bit by bit/repeated increments
+惡意代碼	恶意代码	è yì dài mǎ	malicious code (e.g. virus)/malware
+戲碼	戏码	xì mǎ	item (on a program)
+打碼	打码	dǎ mǎ	to pixelate an image/to key in captcha authentication codes
+掃碼	扫码	sǎo mǎ	to scan a QR code or barcode
+摩斯密碼	摩斯密码	Mó sī mì mǎ	Morse code
+摩斯電碼	摩斯电码	Mó sī diàn mǎ	Morse code
+摩爾斯電碼	摩尔斯电码	Mó ěr sī diàn mǎ	Morse code
+數碼	数码	shù mǎ	number/numerals/figures/digital/amount/numerical code
+數碼化	数码化	shù mǎ huà	to digitalize (e.g. data)/digitalization
+數碼掃描	数码扫描	shù mǎ sǎo miáo	a digital scan
+數碼沖印	数码冲印	shù mǎ chōng yìn	digital printing
+數碼港	数码港	shù mǎ gǎng	cyberport
+數碼照相機	数码照相机	shù mǎ zhào xiàng jī	digital camera
+數碼相機	数码相机	shù mǎ xiàng jī	digital camera
+數碼通	数码通	Shù mǎ tōng	SmarTone-Vodafone (Hong Kong and Macau company)
+明碼	明码	míng mǎ	non-secret code (such as Morse code, Chinese telegraph code, ASCII etc)/plaintext (cryptography)/(of prices) clearly marked
+曼徹斯特編碼	曼彻斯特编码	Màn chè sī tè biān mǎ	Manchester encoding
+有碼	有码	yǒu mǎ	pixelated or censored (of video)
+校驗碼	校验码	jiào yàn mǎ	check digit
+條形碼	条形码	tiáo xíng mǎ	barcode
+條碼	条码	tiáo mǎ	barcode
+棧橋式碼頭	栈桥式码头	zhàn qiáo shì mǎ tou	jetty/pier
+機械碼	机械码	jī xiè mǎ	machine code
+法碼	法码	fǎ mǎ	variant of 砝碼|砝码[fǎ mǎ]
+源代碼	源代码	yuán dài mǎ	source code (computing)
+源碼	源码	yuán mǎ	source code (computing)
+無碼	无码	wú mǎ	unpixelated or uncensored (of video)
+王碼	王码	Wáng mǎ	Wang code, same as 五筆字型|五笔字型[wǔ bǐ zì xíng], five stroke input method for Chinese characters by numbered strokes, invented by Wang Yongmin 王永民[Wáng Yǒng mín] in 1983
+略碼	略码	lüè mǎ	code
+砝碼	砝码	fǎ mǎ	standard weight (used on a balance scale)
+中文標準交換碼	中文标准交换码	Zhōng wén biāo zhǔn jiāo huàn mǎ	CSIC, Chinese standard interchange code used from 1992
+碼分多址	码分多址	Mǎ Fēn Duō Zhǐ	Code Division Multiple Access (CDMA) (telecommunications)
+碼子	码子	mǎ zi	number (e.g. page or house number)/numeral (e.g. Arabic or Chinese numeral)/code sign/plus or minus sound/counter/chip (e.g. in gambling games)/price tag/ready cash at one's disposal (old)
+碼字	码字	mǎ zì	numeral/digit/counter
+碼放	码放	mǎ fàng	to pile up/to stack up
+碼率	码率	mǎ lǜ	bitrate
+碼線	码线	mǎ xiàn	yard line (sports)
+碼表	码表	mǎ biǎo	dial or meter for displaying speed, time, or other measurements/cyclocomputer/code table (computing)
+碼農	码农	mǎ nóng	menial programmer (computing)
+碼長城	码长城	mǎ Cháng chéng	(coll.) to play mahjong
+碼頭	码头	mǎ tóu	dock/pier/wharf/CL:個|个[gè]
+示例代碼	示例代码	shì lì dài mǎ	sample code (computing)
+程序碼	程序码	chéng xù mǎ	source code (computing)
+程式碼	程式码	chéng shì mǎ	source code (computing) (Tw)
+籌碼	筹码	chóu mǎ	bargaining chip/gaming chip/casino token
+統一碼	统一码	tǒng yī mǎ	Unicode
+編碼	编码	biān mǎ	to code/to encode/code
+編碼器	编码器	biān mǎ qì	encoder
+編碼字符集	编码字符集	biān mǎ zì fú jí	coded character set
+編碼系統	编码系统	biān mǎ xì tǒng	coding system
+美國資訊交換標準碼	美国资讯交换标准码	Měi guó zī xùn jiāo huàn biāo zhǔn mǎ	ASCII, American Standard Code for Information Interchange
+船到碼頭，車到站	船到码头，车到站	chuán dào mǎ tóu , chē dào zhàn	The ship has docked, the carriage has reached the station./The job is over, it's time to relax. (idiom)
+草碼	草码	cǎo mǎ	the ten numerals 〡,〢,〣,〤,〥,〦,〧,〨,〩,十 nowadays mainly used in traditional trades such as Chinese medicine
+莫爾斯電碼	莫尔斯电码	Mò ěr sī diàn mǎ	Morse code
+萬國碼	万国码	wàn guó mǎ	Unicode/also written 統一碼|统一码
+蘇州碼子	苏州码子	Sū zhōu mǎ zi	Suzhou numerals, i.e. the ten numerals 〡,〢,〣,〤,〥,〦,〧,〨,〩,十 nowadays mainly used in traditional trades such as Chinese medicine/also called 草碼|草码[cǎo mǎ]
+號碼	号码	hào mǎ	number/CL:堆[duī],個|个[gè]
+號碼牌	号码牌	hào mǎ pái	number plate/car license plate/CL:條|条[tiáo],塊|块[kuài],片[piàn]
+補碼	补码	bǔ mǎ	complementary code/binary code with 0 and 1 interchanged
+解碼	解码	jiě mǎ	to decode/to decipher
+解碼器	解码器	jiě mǎ qì	decoder
+識別碼	识别码	shí bié mǎ	identifier
+譯碼器	译码器	yì mǎ qì	decoder
+起碼	起码	qǐ mǎ	at the minimum/at the very least
+路碼表	路码表	lù mǎ biǎo	odometer
+身份證號碼	身份证号码	shēn fèn zhèng hào mǎ	I.D. number
+身分證號碼	身分证号码	shēn fèn zhèng hào mǎ	variant of 身份證號碼|身份证号码[shēn fèn zhèng hào mǎ]/I.D. number
+轉碼	转码	zhuǎn mǎ	(computing) transcoding/to convert (from one encoding to another)
+追蹤號碼	追踪号码	zhuī zōng hào mǎ	tracking number (of a package shipment)
+通用漢字標準交換碼	通用汉字标准交换码	tōng yòng Hàn zì biāo zhǔn jiāo huàn mǎ	UCS, Chinese character coding adopted in PRC 1986/abbr. to 通用碼|通用码[tōng yòng mǎ]
+通用碼	通用码	tōng yòng mǎ	common coding/same as 通用漢字標準交換碼|通用汉字标准交换码[tōng yòng Hàn zì biāo zhǔn jiāo huàn mǎ]
+連續譯碼階段	连续译码阶段	lián xù yì mǎ jiē duàn	sequential decoding stage
+郵局編碼	邮局编码	yóu jú biān mǎ	postcode
+郵政區碼	邮政区码	yóu zhèng qū mǎ	PRC postcode, e.g. 361000 for Xiamen or Amoy 廈門|厦门[Xià mén], Fujian
+郵政編碼	邮政编码	yóu zhèng biān mǎ	postal code/zip code
+鄭碼	郑码	Zhèng mǎ	Zheng coding/original Chinese character coding based on component shapes, created by Zheng Yili 鄭易里|郑易里[Zhèng Yì lǐ], underlying most stroke-based Chinese input methods/also called common coding 字根通用碼|字根通用码[zì gēn tōng yòng mǎ]
+重碼	重码	chóng mǎ	repeated code/coincident code (i.e. two characters or words having the same encoding)
+重碼	重码	zhòng mǎ	weight code
+重碼詞頻	重码词频	chóng mǎ cí pín	frequency of coincident codes
+開放源代碼	开放源代码	kāi fàng yuán dài mǎ	see 開放源碼|开放源码[kāi fàng yuán mǎ]
+開放源碼	开放源码	kāi fàng yuán mǎ	open source (computing)
+開放源碼軟件	开放源码软件	kāi fàng yuán mǎ ruǎn jiàn	open source software (OSS)
+電話區碼	电话区码	diàn huà qū mǎ	area code/telephone dialing code
+頁碼	页码	yè mǎ	page number
+餘碼	余码	yú mǎ	excess code (i.e. the unused bits in binary-coded decimal)
+驗證碼	验证码	yàn zhèng mǎ	verification code/CAPTCHA, a type of challenge-response test (computing)

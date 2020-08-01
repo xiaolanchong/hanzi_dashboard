@@ -1,0 +1,7 @@
+瞼	睑	jiǎn	eyelid
+上瞼	上睑	shàng jiǎn	upper eyelid
+下眼瞼	下眼睑	xià yǎn jiǎn	lower eyelid
+眼瞼	眼睑	yǎn jiǎn	eyelid
+上眼瞼	上眼睑	shàng yǎn jiǎn	upper eyelid
+瞼腺炎	睑腺炎	jiǎn xiàn yán	sty (eyelid swelling)
+第三眼瞼	第三眼睑	dì sān yǎn jiǎn	nictitating membrane (zoology)

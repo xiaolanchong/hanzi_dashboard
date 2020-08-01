@@ -1,0 +1,14 @@
+烴	烃	tīng	hydrocarbon
+炔烴	炔烃	quē tīng	(chemistry) alkyne
+烯烴	烯烃	xī tīng	olefine/alkene (chemistry)
+氫氟烴	氢氟烃	qīng fú tīng	hydrofluorocarbon
+烴化作用	烃化作用	tīng huà zuò yòng	alkylation
+烴蠟	烃蜡	tīng là	hydrocarbon wax
+烷烴	烷烃	wán tīng	alkane
+環烴	环烃	huán tīng	cyclic hydrocarbon (i.e. involving benzene ring)
+環烷烴	环烷烃	huán wán tīng	cycloalkane
+脂環烴	脂环烃	zhī huán tīng	alicyclic hydrocarbon (i.e. involving ring other than benzene ring)
+芳烴	芳烃	fāng tīng	aromatic hydrocarbon
+芳香烴	芳香烃	fāng xiāng tīng	aromatic hydrocarbon (i.e. involving benzene ring)
+鏈烴	链烃	liàn tīng	chain hydrocarbon
+鹵代烴	卤代烃	lǔ dài tīng	haloalkane (obtained from hydrocarbon by substituting halogen for hydrogen, e.g. chlorobenzene or the CFCs)

@@ -1,0 +1,14 @@
+{
+  "name": "hanzi_dashboard",
+  "version": "1.0.0",
+  "description": "Popular hanzi lists with definition",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hanzi"
+  ],
+  "author": "Eugene Gorbachev",
+  "license": "ISC"
+}

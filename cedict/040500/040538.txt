@@ -1,0 +1,8 @@
+鶿	鹚	cí	cormorant
+鷀	鹚	cí	variant of 鶿|鹚[cí]
+海鸕鶿	海鸬鹚	hǎi lú cí	(bird species of China) pelagic cormorant (Phalacrocorax pelagicus)
+紅臉鸕鶿	红脸鸬鹚	hóng liǎn lú cí	(bird species of China) red-faced cormorant (Phalacrocorax urile)
+普通鸕鶿	普通鸬鹚	pǔ tōng lú cí	(bird species of China) great cormorant (Phalacrocorax carbo)
+暗綠背鸕鶿	暗绿背鸬鹚	àn lǜ bèi lú cí	(bird species of China) Japanese cormorant (Phalacrocorax capillatus)
+鸕鶿	鸬鹚	lú cí	cormorant
+黑頸鸕鶿	黑颈鸬鹚	hēi jǐng lú cí	(bird species of China) little cormorant (Phalacrocorax niger)

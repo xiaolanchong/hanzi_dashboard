@@ -1,0 +1,22 @@
+疹	疹	zhěn	measles/rash
+單純皰疹	单纯疱疹	dān chún pào zhěn	herpes simplex (med.)
+單純皰疹病毒	单纯疱疹病毒	dān chún pào zhěn bìng dú	herpes simplex virus (HSV, med.)
+地方性斑疹傷寒	地方性斑疹伤寒	dì fāng xìng bān zhěn shāng hán	murine typhus fever
+帶狀皰疹	带状疱疹	dài zhuàng pào zhěn	shingles/herpes zoster (medicine)
+德國麻疹	德国麻疹	Dé guó má zhěn	German measles/rubella
+斑疹傷寒	斑疹伤寒	bān zhěn shāng hán	typhus
+斑疹熱	斑疹热	bān zhěn rè	spotted fever
+濕疹	湿疹	shī zhěn	eczema
+丘疹	丘疹	qiū zhěn	pimple
+疹子	疹子	zhěn zi	rash
+痲疹	痲疹	má zhěn	variant of 麻疹[má zhěn]
+皮疹	皮疹	pí zhěn	a rash
+皰疹	疱疹	pào zhěn	blister/bleb (watery blister)/herpes (medicine)
+皰疹病毒	疱疹病毒	pào zhěn bìng dú	herpes virus (med.)
+糠疹	糠疹	kāng zhěn	pityriasis (medicine)
+膿痂疹	脓痂疹	nóng jiā zhěn	impetigo (medicine)
+蕁麻疹	荨麻疹	xún má zhěn	urticaria/nettle rash/hives
+風疹	风疹	fēng zhěn	rubella/urticaria
+麻疹	麻疹	má zhěn	measles
+鼠型斑疹傷寒	鼠型斑疹伤寒	shǔ xíng bān zhěn shāng hán	murine typhus
+鼠蚤型斑疹傷寒	鼠蚤型斑疹伤寒	shǔ zǎo xíng bān zhěn shāng hán	murine typhus fever

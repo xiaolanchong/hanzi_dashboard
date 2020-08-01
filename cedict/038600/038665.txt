@@ -1,0 +1,44 @@
+霉	霉	méi	bacteria/fungi/moldy
+黴	霉	méi	variant of 霉[méi]
+倒霉蛋	倒霉蛋	dǎo méi dàn	(coll.) poor devil/unfortunate man
+倒霉蛋兒	倒霉蛋儿	dǎo méi dàn r5	erhua variant of 倒霉蛋[dǎo méi dàn]
+克林霉素	克林霉素	kè lín méi sù	clindamycin
+克霉唑	克霉唑	kè méi zuò	clotrimazole (antifungal agent)
+單端孢霉烯類毒素	单端孢霉烯类毒素	dān duān bāo méi xī lèi dú sù	trichothecenes (TS, T-2)
+單端孢霉烯類毒素中毒症	单端孢霉烯类毒素中毒症	dān duān bāo méi xī lèi dú sù zhōng dú zhèng	trichothecenes toxicosis
+帶霉	带霉	dài méi	musty/moldy
+慶大霉素	庆大霉素	qìng dà méi sù	gentamycin (antibiotic)
+新霉素	新霉素	xīn méi sù	neomycin (antibiotic)
+曲霉毒素	曲霉毒素	qǔ méi dú sù	aspergillus
+林可霉素	林可霉素	lín kě méi sù	lincomycin
+氨苄青霉素	氨苄青霉素	ān biàn qīng méi sù	ampicillin (medicine)
+氯林可霉素	氯林可霉素	lǜ lín kě méi sù	clindamycin
+氯潔霉素	氯洁霉素	lǜ jié méi sù	clindamycin
+氯霉素	氯霉素	lǜ méi sù	chloramphenicol/chloromycetin
+玉米赤霉烯酮	玉米赤霉烯酮	yù mǐ chì méi xī tóng	zearalenone
+發霉	发霉	fā méi	to become moldy
+紅霉素	红霉素	hóng méi sù	erythromycin
+紅黴素	红霉素	hóng méi sù	erythromycin
+組織漿黴菌病	组织浆霉菌病	zǔ zhī jiāng méi jūn bìng	histoplasmosis
+肺炎黴漿菌	肺炎霉浆菌	fèi yán méi jiāng jūn	Mycoplasma pneumoniae
+苄星青霉素	苄星青霉素	biàn xīng qīng méi sù	benzathine benzylpenicillin (aka benzathine penicillin G)
+觸霉頭	触霉头	chù méi tóu	to cause sth unfortunate to happen (to oneself or sb else)/to do sth inauspicious/to have a stroke of bad luck
+防霉	防霉	fáng méi	rot proof/resistance to rot
+阿奇霉素	阿奇霉素	ā qí méi sù	azithromycin (macrolide antibiotic)/Zithromax
+倒血霉	倒血霉	dǎo xuè méi	to have rotten luck (stronger version of 倒霉[dǎo méi])
+霉氣	霉气	méi qì	a moldy smell/damp and rotten/fig. rotten bad luck
+霉爛	霉烂	méi làn	mold/rot
+霉病	霉病	méi bìng	mildew/fungal growth
+霉素	霉素	méi sù	teichomycin/-mycin
+霉菌	霉菌	méi jūn	mold
+霉菌毒素	霉菌毒素	méi jūn dú sù	mycotoxin
+霉蠹	霉蠹	méi dù	to become mildewed and worm-eaten (of books)/to mildew and rot
+霉運	霉运	méi yùn	ill luck/misfortune
+霉雨	霉雨	méi yǔ	Asian rainy season/monsoon/(usually written 梅雨)
+青霉素	青霉素	qīng méi sù	penicillin
+青黴素	青霉素	qīng méi sù	penicillin
+黃曲霉	黄曲霉	huáng qū méi	Aspergillus flavus (fungus typically found on crops)
+黃曲霉毒素	黄曲霉毒素	huáng qū méi dú sù	aflatoxin
+黃曲霉菌	黄曲霉菌	huáng qū méi jūn	Aspergillus flavus (fungus typically found on crops)
+倒霉	倒霉	dǎo méi	to have bad luck/to be out of luck
+黴漿菌肺炎	霉浆菌肺炎	méi jiāng jūn fèi yán	mycoplasma pneumonia

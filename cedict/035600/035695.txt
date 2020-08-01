@@ -1,0 +1,52 @@
+譯	译	yì	to translate/to interpret
+互譯	互译	hù yì	two-way translation
+今譯	今译	jīn yì	modern language version/modern translation/contemporary translation
+借譯	借译	jiè yì	loan translation/to calque
+借譯詞	借译词	jiè yì cí	calque
+傳譯	传译	chuán yì	to translate/to interpret
+即指即譯	即指即译	jí zhǐ jí yì	point-and-translate (computing)
+口譯	口译	kǒu yì	interpreting
+口譯員	口译员	kǒu yì yuán	interpreter/oral translator
+同步口譯	同步口译	tóng bù kǒu yì	simultaneous interpretation (Tw)
+同聲傳譯	同声传译	tóng shēng chuán yì	simultaneous interpretation
+同聲翻譯	同声翻译	tóng shēng fān yì	simultaneous translation
+形譯	形译	xíng yì	derivation of a Chinese loanword from Japanese by using the same characters (or variants) but applying Chinese pronunciation (e.g. 場合|场合[chǎng hé], derived from Japanese 場合, pronounced "ba'ai")
+意譯	意译	yì yì	meaning (of foreign expression)/translation of the meaning (as opposed to literal translation 直譯|直译)/paraphrase/free translation
+摘譯	摘译	zhāi yì	quoted (from)/translation of selected passages
+改譯	改译	gǎi yì	to correct (improve) a translation
+機器翻譯	机器翻译	jī qì fān yì	machine translation
+機械翻譯	机械翻译	jī xiè fān yì	machine translation
+漢英互譯	汉英互译	Hàn Yīng hù yì	Chinese and English two-way translation
+直譯	直译	zhí yì	literal translation
+直譯器	直译器	zhí yì qì	interpreter (computing)
+破譯	破译	pò yì	to break a code/to crack a riddle/to solve an enigma/a breakthrough
+筆譯	笔译	bǐ yì	written translation
+編譯	编译	biān yì	to translate and edit/translator-editor/(computing) to compile (source code)
+編譯器	编译器	biān yì qì	compiler
+編譯家	编译家	biān yì jiā	translator and editor
+義譯	义译	yì yì	formation of a loanword using a combination of characters or words that suggests its meaning (as opposed to transliteration 音譯|音译[yīn yì]) (e.g. 超文本[chāo wén běn], 火車|火车[huǒ chē])
+翻譯	翻译	fān yì	to translate/to interpret/translator/interpreter/translation/interpretation/CL:個|个[gè],位[wèi],名[míng]
+翻譯家	翻译家	fān yì jiā	translator (of writings)
+翻譯者	翻译者	fān yì zhě	translator/interpreter
+英漢對譯	英汉对译	Yīng Hàn duì yì	English-Chinese parallel text
+英譯	英译	Yīng yì	English translation
+被譯	被译	bèi yì	translated
+中譯語通	中译语通	Zhōng yì Yǔ tōng	Global Tone Communication Technology Co., Ltd (GTCOM), Chinese big data and AI company
+譯名	译名	yì míng	translated names/transliteration
+譯員	译员	yì yuán	interpreter/translator (esp. oral)
+譯寫	译写	yì xiě	to translate/to render foreign words/to transliterate
+譯意風	译意风	yì yì fēng	simultaneous interpretation facilities (loanword from "earphone")
+譯成	译成	yì chéng	to translate into (Chinese, English etc)
+譯文	译文	yì wén	translated text
+譯本	译本	yì běn	translation (translated version of a text)
+譯碼器	译码器	yì mǎ qì	decoder
+譯者	译者	yì zhě	translator (of writing)
+譯自	译自	yì zì	translation from/loan from (e.g. English word)
+譯詞	译词	yì cí	translated word (such as company 公司 or bus 巴士 or club 俱樂部|俱乐部)
+譯語	译语	yì yǔ	target language (linguistics)
+譯音	译音	yì yīn	phonetic transcription/transliteration
+轉譯	转译	zhuǎn yì	to translate (to another language)/to convert
+通譯	通译	tōng yì	(old) to translate/to interpret/translator/interpreter
+連續譯碼階段	连续译码阶段	lián xù yì mǎ jiē duàn	sequential decoding stage
+重譯	重译	chóng yì	to translate again (i.e. to redo the same translation)/to translate repeatedly from one language to the next (so multiplying errors)
+音譯	音译	yīn yì	transliteration (rendering phonetic value, e.g. of English words in Chinese characters)/characters giving phonetic value of Chinese word or name (when the correct characters may be unknown)/transcription (linguistics)/to transcribe phonetic symbols

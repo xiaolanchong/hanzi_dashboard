@@ -1,0 +1,34 @@
+輻	辐	fú	spoke of a wheel
+光輻射	光辐射	guāng fú shè	light radiation
+剩餘輻射	剩余辐射	shèng yú fú shè	residual radiation
+密封輻射源	密封辐射源	mì fēng fú shè yuán	sealed radiation source
+強輻射區	强辐射区	qiáng fú shè qū	radioactive hot spot
+本底輻射	本底辐射	běn dǐ fú shè	background radiation
+核輻射	核辐射	hé fú shè	nuclear radiation
+熱輻射	热辐射	rè fú shè	thermal radiation
+瞬時輻射	瞬时辐射	shùn shí fú shè	prompt radiation
+瞬發輻射	瞬发辐射	shùn fā fú shè	prompt radiation
+穿透輻射	穿透辐射	chuān tòu fú shè	penetrating radiation
+輪輻	轮辐	lún fú	wheel spoke
+伽馬輻射	伽马辐射	jiā mǎ fú shè	gamma radiation
+輻射	辐射	fú shè	radiation
+輻射偵察	辐射侦察	fú shè zhēn chá	radiation detection
+輻射儀	辐射仪	fú shè yí	radiation meter
+輻射分解	辐射分解	fú shè fēn jiě	radiolysis
+輻射劑量	辐射剂量	fú shè jì liàng	radiation dose
+輻射劑量率	辐射剂量率	fú shè jì liàng lǜ	radiation dose rate
+輻射場	辐射场	fú shè chǎng	radiation field
+輻射對稱	辐射对称	fú shè duì chèn	radial symmetry
+輻射強度	辐射强度	fú shè qiáng dù	radiation intensity
+輻射敏感性	辐射敏感性	fú shè mǐn gǎn xìng	radiosensitivity
+輻射散射	辐射散射	fú shè sàn shè	radiation scattering
+輻射波	辐射波	fú shè bō	radiation (wave)/radiated wave
+輻射直接效應	辐射直接效应	fú shè zhí jiē xiào yìng	direct effect of radiation
+輻射能	辐射能	fú shè néng	radiation energy (e.g. solar)
+輻射計	辐射计	fú shè jì	radiometer
+輻射警告標志	辐射警告标志	fú shè jǐng gào biāo zhì	radiation warning symbol
+輻射防護	辐射防护	fú shè fáng hù	radiation protection
+輻條	辐条	fú tiáo	(wheel) spoke
+輻照	辐照	fú zhào	irradiation
+電離輻射	电离辐射	diàn lí fú shè	ionization radiation/nuclear radiation
+黑體輻射	黑体辐射	hēi tǐ fú shè	black body radiation (in thermodynamics)

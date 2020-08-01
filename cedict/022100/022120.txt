@@ -1,0 +1,441 @@
+器	器	qì	device/tool/utensil/CL:臺|台[tái]
+不打不成器	不打不成器	bù dǎ bù chéng qì	spare the rod and spoil the child (idiom)
+不擴散核武器條約	不扩散核武器条约	Bù Kuò sàn Hé wǔ qì Tiáo yuē	Treaty on the Non-Proliferation of Nuclear Weapons
+中石器時代	中石器时代	Zhōng shí qì Shí dài	Mesolithic Era
+中繼器	中继器	zhōng jì qì	repeater
+二級頭呼吸器	二级头呼吸器	èr jí tóu hū xī qì	(diving) regulator/demand valve
+交換器	交换器	jiāo huàn qì	(telecom or network) switch
+人體器官	人体器官	rén tǐ qì guān	human organ
+什器	什器	shí qì	various kinds of everyday utensils
+仿真服務器	仿真服务器	fǎng zhēn fú wù qì	emulation server
+伺服器	伺服器	sì fú qì	server (computer) (Tw)
+伽利略探測器	伽利略探测器	Jiā lì lüè tàn cè qì	Galileo probe
+便器	便器	biàn qì	toilet/urinal
+倍增器	倍增器	bèi zēng qì	multiplier
+倍頻器	倍频器	bèi pín qì	frequency multiplier
+偉器	伟器	wěi qì	great talent
+停車計時器	停车计时器	tíng chē jì shí qì	parking meter
+健慰器	健慰器	jiàn wèi qì	sex toy
+偵毒器	侦毒器	zhēn dú qì	detection unit
+偵測器	侦测器	zhēn cè qì	detector
+備用二級頭呼吸器	备用二级头呼吸器	bèi yòng èr jí tóu hū xī qì	backup regulator/octopus (diving)
+傳動器	传动器	chuán dòng qì	drive (engine)
+傳感器	传感器	chuán gǎn qì	sensor/transducer
+傳聲器	传声器	chuán shēng qì	microphone
+儀器	仪器	yí qì	instrument/apparatus/CL:臺|台[tái]
+儀器表	仪器表	yí qì biǎo	gauge
+儀表放大器	仪表放大器	yí biǎo fàng dà qì	instrumentation amplifier
+元器件	元器件	yuán qì jiàn	component
+充電器	充电器	chōng diàn qì	battery charger
+兇器	凶器	xiōng qì	lethal weapon/murder weapon
+先進武器	先进武器	xiān jìn wǔ qì	advanced weapon
+光伏器件	光伏器件	guāng fú qì jiàn	photovoltaic device (e.g. solar cell)
+光學儀器	光学仪器	guāng xué yí qì	optical instrument
+光接收器	光接收器	guāng jiē shōu qì	optical receiver
+光檢測器	光检测器	guāng jiǎn cè qì	optical detector
+光發送器	光发送器	guāng fā sòng qì	optical transmitter
+光盤驅動器	光盘驱动器	guāng pán qū dòng qì	CD or DVD drive/abbr. to 光驅|光驱
+光耦合器	光耦合器	guāng ǒu hé qì	optocoupler (electronics)
+光隔離器	光隔离器	guāng gé lí qì	opto-isolator (electronics)
+兵器	兵器	bīng qì	weaponry/weapons/arms
+兵器術	兵器术	bīng qì shù	martial arts involving weapons
+冰凝器	冰凝器	bīng níng qì	cryophorus
+分析器	分析器	fēn xī qì	analyzer
+分角器	分角器	fēn jiǎo qì	a protractor (device to divide angles)
+分配器	分配器	fēn pèi qì	dispenser (for consumables such as liquid soap)/splitter (for cable TV signal etc)
+刨絲器	刨丝器	bào sī qì	grater/shredder
+利器	利器	lì qì	sharp weapon/effective implement/outstandingly able individual
+制動器	制动器	zhì dòng qì	brake
+剝皮器	剥皮器	bō pí qì	peeler (e.g. for vegetables)
+加濕器	加湿器	jiā shī qì	humidifier
+加速器	加速器	jiā sù qì	accelerator (computing)/particle accelerator
+助聽器	助听器	zhù tīng qì	hearing aid
+動態存儲器	动态存储器	dòng tài cún chǔ qì	dynamic memory
+化學武器	化学武器	huà xué wǔ qì	chemical weapon
+化學武器儲備	化学武器储备	huà xué wǔ qì chǔ bèi	chemical weapons storage
+化學武器防護	化学武器防护	huà xué wǔ qì fáng hù	chemical weapon defense
+化學激光器	化学激光器	huà xué jī guāng qì	chemical laser
+化油器	化油器	huà yóu qì	carburetor
+北京核武器研究所	北京核武器研究所	Běi jīng hé wǔ qì yán jiū suǒ	Nuclear Weapon Institute in Beijing
+千噸級核武器	千吨级核武器	qiān dūn jí hé wǔ qì	kiloton weapon
+半導體探測器	半导体探测器	bàn dǎo tǐ tàn cè qì	semiconductor detector
+原子武器	原子武器	yuán zǐ wǔ qì	atomic weapon
+反用換流器	反用换流器	fǎn yòng huàn liú qì	inverter, device that converts AC electricity to DC and vice versa
+取景器	取景器	qǔ jǐng qì	viewfinder (of a camera etc)
+口器	口器	kǒu qì	mouthparts (of animal or insect)
+可擦寫可編程只讀存儲器	可擦写可编程只读存储器	kě cā xiě kě biān chéng zhī dú cún chǔ qì	EPROM (erasable programmable read-only memory)
+史前古器物	史前古器物	shǐ qián gǔ qì wù	prehistoric artifacts/ancient artifacts
+合成器	合成器	hé chéng qì	synthesizer
+同步加速器	同步加速器	tóng bù jiā sù qì	synchrotron
+吸入器	吸入器	xī rù qì	inhaler
+吸塵器	吸尘器	xī chén qì	vacuum cleaner/dust catcher
+吸奶器	吸奶器	xī nǎi qì	breast pump
+吸氣器	吸气器	xī qì qì	inhaler
+呼叫器	呼叫器	hū jiào qì	pager/beeper
+呼吸器	呼吸器	hū xī qì	ventilator (artificial breathing apparatus used in hospitals)
+呼吸調節器	呼吸调节器	hū xī tiáo jié qì	regulator (diving)
+單詞產生器模型	单词产生器模型	dān cí chǎn shēng qì mó xíng	logogen model
+一致資源定址器	一致资源定址器	yī zhì zī yuán dìng zhǐ qì	uniform resource locator (URL), i.e. web address
+器件	器件	qì jiàn	device/component
+器具	器具	qì jù	implement/ware
+器宇軒昂	器宇轩昂	qì yǔ xuān áng	variant of 氣宇軒昂|气宇轩昂[qì yǔ xuān áng]
+器官	器官	qì guān	organ (part of body tissue)/apparatus
+器官捐獻者	器官捐献者	qì guān juān xiàn zhě	organ donor
+器官移殖	器官移殖	qì guān yí zhí	organ transplant
+器材	器材	qì cái	equipment/material
+器械	器械	qì xiè	apparatus/instrument/equipment/weapon
+器樂	器乐	qì yuè	instrumental music
+器物	器物	qì wù	implement/utensil/article/object
+器皿	器皿	qì mǐn	household utensils
+器質性	器质性	qì zhì xìng	(of medical disorders) organic
+器重	器重	qì zhòng	to regard sth as valuable/to think highly of (a younger person, a subordinate etc)
+器量	器量	qì liàng	tolerance
+噴灑器	喷洒器	pēn sǎ qì	a spray
+噴火器	喷火器	pēn huǒ qì	flamethrower
+噴霧器	喷雾器	pēn wù qì	nebulizer/spray/atomizer
+回旋加速器	回旋加速器	huí xuán jiā sù qì	cyclotron (particle accelerator)
+固體熱容激光器	固体热容激光器	gù tǐ rè róng jī guāng qì	solid state hot condensed laser (SSHCL)
+國美電器	国美电器	Guó měi Diàn qì	GOME Electrical Appliances (founded in Beijing, 1987)
+國際商業機器	国际商业机器	Guó jì Shāng yè Jī qì	International Business Machines/IBM
+土器	土器	tǔ qì	earthenware
+均衡器	均衡器	jūn héng qì	equalizer (electronics, audio)
+坐便器	坐便器	zuò biàn qì	pedestal type WC
+域名服務器	域名服务器	yù míng fú wù qì	domain name server
+報警器	报警器	bào jǐng qì	alarm (e.g. burglar or fire alarm)/warning device
+壓力容器	压力容器	yā lì róng qì	pressure vessel/autoclave
+壓縮器	压缩器	yā suō qì	compressor
+壓蒜器	压蒜器	yā suàn qì	garlic press
+多工器	多工器	duō gōng qì	multiplexer
+多端中繼器	多端中继器	duō duān zhōng jì qì	multiport repeater
+大器	大器	dà qì	very capable person/precious object
+大器晚成	大器晚成	dà qì wǎn chéng	lit. it takes a long time to make a big pot (idiom); fig. a great talent matures slowly/in the fullness of time a major figure will develop into a pillar of the state/Rome wasn't built in a day
+大規模殺傷性武器	大规模杀伤性武器	dà guī mó shā shāng xìng wǔ qì	weapons of mass destruction
+大量殺傷武器	大量杀伤武器	dà liàng shā shāng wǔ qì	weapons of mass destruction
+奧丁諧振器	奥丁谐振器	Ào dīng xié zhèn qì	Oudin coil/Oudin resonator
+媒體接口連接器	媒体接口连接器	méi tǐ jiē kǒu lián jiē qì	medium interface connector
+子宮內避孕器	子宫内避孕器	zǐ gōng nèi bì yùn qì	intrauterine device (IUD)
+存儲器	存储器	cún chǔ qì	memory (computing)
+孵化器	孵化器	fū huà qì	incubator/apparatus for incubating eggs
+定標器	定标器	dìng biāo qì	scaler
+客戶服務器結構	客户服务器结构	kè hù fú wù qì jié gòu	client server architecture
+客戶機服務器環境	客户机服务器环境	kè hù jī fú wù qì huán jìng	client-server environment
+宮內節育器	宫内节育器	gōng nèi jié yù qì	intrauterine device (IUD)
+家用電器	家用电器	jiā yòng diàn qì	domestic electric appliance
+容器	容器	róng qì	receptacle/vessel/(computing) container
+寄存器	寄存器	jì cún qì	processor register (computing)
+射頻調諧器	射频调谐器	shè pín tiáo xié qì	RF tuner
+對空火器	对空火器	duì kōng huǒ qì	anti-aircraft gun
+導彈武器技術控制制度	导弹武器技术控制制度	dǎo dàn wǔ qì jì shù kòng zhì zhì dù	Missile Technology Control Regime (MTCR)
+小便器	小便器	xiǎo biàn qì	urinal
+小型核武器	小型核武器	xiǎo xíng hé wǔ qì	mini-nuke
+工欲善其事，必先利其器	工欲善其事，必先利其器	gōng yù shàn qí shì , bì xiān lì qí qì	To do a good job, an artisan needs the best tools (idiom). Good tools are prerequisite to the successful execution of a job
+差速器	差速器	chā sù qì	differential (gear)
+布灑器	布洒器	bù sǎ qì	disperser
+常規武器	常规武器	cháng guī wǔ qì	conventional weapon
+廣告攔截器	广告拦截器	guǎng gào lán jié qì	ad-blocker
+廣播和未知服務器	广播和未知服务器	guǎng bō hé wèi zhī fú wù qì	Broadcast and Unknown Server/BUS
+弦樂器	弦乐器	xián yuè qì	string instrument
+弦鳴樂器	弦鸣乐器	xián míng yuè qì	string instrument
+彈撥樂器	弹拨乐器	tán bō yuè qì	plucked string instrument/CL:件[jiàn]
+彞器	彝器	yí qì	ritual objects/sacral vessels
+微處理器	微处理器	wēi chǔ lǐ qì	microprocessor
+德州儀器	德州仪器	Dé zhōu Yí qì	Texas Instruments
+快閃存儲器	快闪存储器	kuài shǎn cún chǔ qì	(computing) flash memory
+性器	性器	xìng qì	sex organ
+性器官	性器官	xìng qì guān	sexual organ
+性器期	性器期	xìng qì qī	phallic stage (psychology)
+恆溫器	恒温器	héng wēn qì	thermostat
+感受器	感受器	gǎn shòu qì	sensory receptor
+感應器	感应器	gǎn yìng qì	inductor (elec.)
+感測器	感测器	gǎn cè qì	sensor (Tw)
+感覺器	感觉器	gǎn jué qì	sense organ
+感覺器官	感觉器官	gǎn jué qì guān	sense organs/the five senses
+成器	成器	chéng qì	to make sth of oneself/to become a person who is worthy of respect
+戰略核武器	战略核武器	zhàn lüè hé wǔ qì	strategic nuclear weapon
+戰術核武器	战术核武器	zhàn shù hé wǔ qì	tactical nuclear weapons
+手動變速器	手动变速器	shǒu dòng biàn sù qì	manual gearbox/manual transmission
+打印服務器	打印服务器	dǎ yìn fú wù qì	print server
+打孔器	打孔器	dǎ kǒng qì	hole puncher
+打擊樂器	打击乐器	dǎ jī yuè qì	percussion instrument
+打蛋器	打蛋器	dǎ dàn qì	egg beater
+打製石器	打制石器	dǎ zhì shí qì	a chipped stone (paleolithic) implement
+投票機器	投票机器	tóu piào jī qì	voting machine
+投鼠忌器	投鼠忌器	tóu shǔ jì qì	lit. to refrain from shooting at the rat for fear of breaking the vases (idiom)/to not act against an evil so as to prevent harm to innocents
+拉力器	拉力器	lā lì qì	chest expander (exercise equipment)
+拾音器	拾音器	shí yīn qì	pickup (electro-acoustic transducer)
+指示器	指示器	zhǐ shì qì	indicator
+振蕩器	振荡器	zhèn dàng qì	oscillator
+捉捕器	捉捕器	zhuō bǔ qì	trap (for animals etc)
+捕鼠器	捕鼠器	bǔ shǔ qì	mousetrap
+捲線器	卷线器	juǎn xiàn qì	fishing reel
+捲髮器	卷发器	juǎn fà qì	hair curler
+掃描器	扫描器	sǎo miáo qì	scanner
+探測器	探测器	tàn cè qì	detector/probe/craft
+接收器	接收器	jiē shōu qì	receiver
+接收器靈敏度	接收器灵敏度	jiē shōu qì líng mǐn dù	receiver sensitivity
+接觸器	接触器	jiē chù qì	contactor
+推進器	推进器	tuī jìn qì	propeller/propulsion unit/thruster
+提字器	提字器	tí zì qì	teleprompter
+提詞器	提词器	tí cí qì	teleprompter
+揚聲器	扬声器	yáng shēng qì	speaker
+換熱器	换热器	huàn rè qì	heat exchanger
+揮發性存儲器	挥发性存储器	huī fā xìng cún chǔ qì	volatile memory
+搶答器	抢答器	qiǎng dá qì	lockout buzzer system (as used by game show contestants)
+撥弦樂器	拨弦乐器	bō xián yuè qì	plucked string or stringed instrument/plucked instrument
+擊弦類樂器	击弦类乐器	jī xián lèi yuè qì	hammered string musical instrument
+擴胸器	扩胸器	kuò xiōng qì	chest expander (exercise equipment)
+擴音器	扩音器	kuò yīn qì	megaphone/loudspeaker/amplifier/microphone
+放大器	放大器	fàng dà qì	amplifier
+放射性武器	放射性武器	fàng shè xìng wǔ qì	radiological weapon
+散熱器	散热器	sàn rè qì	radiator (for heating a room)/radiator (for cooling an engine)
+散熱器護柵	散热器护栅	sàn rè qì hù shān	radiator grille
+整流器	整流器	zhěng liú qì	rectifier (transforming alternating electric current to direct current)
+數模轉換器	数模转换器	shù mó zhuǎn huàn qì	digital-to-analog converter (DAC)
+文件服務器	文件服务器	wén jiàn fú wù qì	file server
+文本編輯器	文本编辑器	wén běn biān jí qì	text editor
+斗筲之器	斗筲之器	dǒu shāo zhī qì	person narrow-minded and shortsighted
+料器	料器	liào qì	glassware/colored glass household vessel
+新石器	新石器	Xīn shí qì	Neolithic
+新石器時代	新石器时代	Xīn shí qì Shí dài	Neolithic Era
+斷路器	断路器	duàn lù qì	circuit breaker
+暗器	暗器	àn qì	concealed weapon
+服務器	服务器	fú wù qì	server (computer)/CL:臺|台[tái]
+木器	木器	mù qì	wooden articles
+木管樂器	木管乐器	mù guǎn yuè qì	woodwind instrument
+松下電器	松下电器	Sōng xià Diàn qì	Panasonic Corporation (formerly Matsushita Electric Industrial Co.)
+核武器	核武器	hé wǔ qì	nuclear weapon
+棧存儲器	栈存储器	zhàn cún chǔ qì	stack memory (computing)
+榴彈發射器	榴弹发射器	liú dàn fā shè qì	grenade launcher
+樂器	乐器	yuè qì	musical instrument/CL:件[jiàn]
+標稱核武器	标称核武器	biāo chēng hé wǔ qì	nominal weapon
+模擬器	模拟器	mó nǐ qì	emulator
+模擬放大器	模拟放大器	mó nǐ fàng dà qì	analog amplifier
+模數轉換器	模数转换器	mó shù zhuǎn huàn qì	analog-to-digital converter (ADC)
+橋式整流器	桥式整流器	qiáo shì zhěng liú qì	bridge rectifier (electricity)
+橋接器	桥接器	qiáo jiē qì	bridge (networking)
+機器	机器	jī qì	machine/CL:臺|台[tái],部[bù],個|个[gè]
+機器人	机器人	jī qì rén	mechanical person/robot/android
+機器人學	机器人学	jī qì rén xué	robotics
+機器翻譯	机器翻译	jī qì fān yì	machine translation
+機器腳踏車	机器脚踏车	jī qì jiǎo tà chē	(dialect) motorcycle/abbr. to 機車|机车[jī chē]
+檢測器	检测器	jiǎn cè qì	detector
+欲善其事，必先利其器	欲善其事，必先利其器	yù shàn qí shì , bì xiān lì qí qì	To do a good job, an artisan needs the best tools (idiom). Good tools are prerequisite to the successful execution of a job
+武器	武器	wǔ qì	weapon/arms/CL:種|种[zhǒng]
+武器可用物質	武器可用物质	wǔ qì kě yòng wù zhì	weapons-usable material
+武器禁運	武器禁运	wǔ qì jìn yùn	embargo on arms sale
+武器系統	武器系统	wǔ qì xì tǒng	weapon system
+武器級	武器级	wǔ qì jí	weapons-grade
+武器級別材料	武器级别材料	wǔ qì jí bié cái liào	weapons-grade material
+氣鳴樂器	气鸣乐器	qì míng yuè qì	aerophone (music)
+汽化器	汽化器	qì huà qì	carburetor/vaporizer
+沖牙器	冲牙器	chōng yá qì	water pick/oral irrigator
+泌尿器	泌尿器	mì niào qì	urinary tract/urinary organs
+注射器	注射器	zhù shè qì	syringe
+洗滌器	洗涤器	xǐ dí qì	washing appliance
+浮潛器具	浮潜器具	fú qián qì jù	diving equipment
+消聲器	消声器	xiāo shēng qì	noise reduction equipment
+消費器件	消费器件	xiāo fèi qì jiàn	consumer
+消音器	消音器	xiāo yīn qì	silencer
+液晶顯示器	液晶显示器	yè jīng xiǎn shì qì	liquid crystal display
+淨水器	净水器	jìng shuǐ qì	water purifier
+清潔器	清洁器	qīng jié qì	cleaner
+減速器	减速器	jiǎn sù qì	moderator/reducer (mechanical gearbox)
+減震器	减震器	jiǎn zhèn qì	shock-absorber
+測徑器	测径器	cè jìng qì	calipers
+測試器	测试器	cè shì qì	testing apparatus/monitoring device/checker/meter
+測謊器	测谎器	cè huǎng qì	lie detector/polygraph
+源器官	源器官	yuán qì guān	source organ
+滅火器	灭火器	miè huǒ qì	fire extinguisher
+滅音器	灭音器	miè yīn qì	muffler (of an internal combustion engine)
+滴漏計時器	滴漏计时器	dī lòu jì shí qì	hourglass/water clock/clepsydra
+漆器	漆器	qī qì	lacquerware
+激光器	激光器	jī guāng qì	laser
+濾器	滤器	lǜ qì	filter/strainer
+濾塵器	滤尘器	lǜ chén qì	dust filter
+濾波器	滤波器	lǜ bō qì	filter
+濾清器	滤清器	lǜ qīng qì	a filter
+瀏覽器	浏览器	liú lǎn qì	browser (software)
+火器	火器	huǒ qì	firearm/CL:架[jià]
+火焰噴射器	火焰喷射器	huǒ yàn pēn shè qì	flamethrower
+炊器	炊器	chuī qì	cooking vessels (archaeology)
+炻器	炻器	shí qì	stoneware
+烘手器	烘手器	hōng shǒu qì	hand dryer
+無人飛行器	无人飞行器	wú rén fēi xíng qì	drone/unmanned aerial vehicle
+無針注射器	无针注射器	wú zhēn zhù shè qì	jet injector
+煮蛋計時器	煮蛋计时器	zhǔ dàn jì shí qì	egg timer
+熱核武器	热核武器	rè hé wǔ qì	fusion weapon/thermonuclear weapon
+熱水器	热水器	rè shuǐ qì	water heater
+燒寫器	烧写器	shāo xiě qì	programmer (electronics)
+牙齒矯正器	牙齿矫正器	yá chǐ jiǎo zhèng qì	orthodontic braces
+玉器	玉器	yù qì	jade artifact
+玩器	玩器	wán qì	elegant plaything/object to appreciate
+瓦器	瓦器	wǎ qì	pottery
+瓷器	瓷器	cí qì	chinaware/porcelain
+生化武器	生化武器	shēng huà wǔ qì	biological weapon
+生殖器	生殖器	shēng zhí qì	reproductive organ/genitals
+生殖器官	生殖器官	shēng zhí qì guān	reproductive organ
+生物傳感器	生物传感器	shēng wù chuán gǎn qì	biosensor
+生物反應器	生物反应器	shēng wù fǎn yìng qì	bioreactor
+生物武器	生物武器	shēng wù wǔ qì	biological weapon
+發射器	发射器	fā shè qì	radio transmitter
+發射機應答器	发射机应答器	fā shè jī yìng dá qì	transponder/electronic device that responds to a radio code
+發聲器	发声器	fā shēng qì	sound device
+發聲器官	发声器官	fā shēng qì guān	vocal organs/vocal cords
+發送器	发送器	fā sòng qì	transmitter
+發音器官	发音器官	fā yīn qì guān	vocal organs/vocal cords
+百萬噸級核武器	百万吨级核武器	bǎi wàn dūn jí hé wǔ qì	megaton weapon
+盛器	盛器	chéng qì	vessel/receptacle
+監視器	监视器	jiān shì qì	security camera/surveillance monitor
+直線加速器	直线加速器	zhí xiàn jiā sù qì	linear accelerator
+直線性加速器	直线性加速器	zhí xiàn xìng jiā sù qì	linear accelerator
+直角器	直角器	zhí jiǎo qì	a set square (carpenter's tool)
+直譯器	直译器	zhí yì qì	interpreter (computing)
+直髮器	直发器	zhí fà qì	hair straightener
+石器	石器	shí qì	stone tool/stone implement
+石器時代	石器时代	Shí qì Shí dài	Stone Age
+磁器	磁器	cí qì	variant of 瓷器[cí qì]
+磁盤驅動器	磁盘驱动器	cí pán qū dòng qì	disk drive
+磨製石器	磨制石器	mó zhì shí qì	a polished stone (neolithic) implement
+示波器	示波器	shì bō qì	oscillograph/oscilloscope
+神器	神器	shén qì	magical object/object symbolic of imperial power/fine weapon
+祭器	祭器	jì qì	ritual dishes/sacrificial vessels
+禁止核武器試驗條約	禁止核武器试验条约	jìn zhǐ hé wǔ qì shì yàn tiáo yuē	nuclear test ban treaty
+禮器	礼器	lǐ qì	ritual object/sacrificial vessel
+移液器	移液器	yí yè qì	pipette
+空氣取樣器	空气取样器	kōng qì qǔ yàng qì	air sampler
+空氣淨化器	空气净化器	kōng qì jìng huà qì	air purifier
+竊聽器	窃听器	qiè tīng qì	tapping device/bug
+竹器	竹器	zhú qì	utensil made of bamboo
+等化器	等化器	děng huà qì	equalizer (electronics, audio) (HK, Tw)
+管樂器	管乐器	guǎn yuè qì	wind instrument/woodwind
+節拍器	节拍器	jié pāi qì	metronome
+粒子加速器	粒子加速器	lì zǐ jiā sù qì	particle accelerator
+精密儀器	精密仪器	jīng mì yí qì	precision instruments
+系列放大器	系列放大器	xì liè fàng dà qì	series amplifier
+累加器	累加器	lěi jiā qì	accumulator (computing)
+細胞器	细胞器	xì bāo qì	organelle
+細胞器官	细胞器官	xì bāo qì guān	organelle
+細胞培養器	细胞培养器	xì bāo péi yǎng qì	cell cultivator
+細菌武器	细菌武器	xì jūn wǔ qì	biological weapon (using germs)
+給皂器	给皂器	jǐ zào qì	soap dispenser
+網絡瀏覽器	网络浏览器	wǎng luò liú lǎn qì	network browser/Internet browser
+編碼器	编码器	biān mǎ qì	encoder
+編譯器	编译器	biān yì qì	compiler
+編輯器	编辑器	biān jí qì	editor (software)
+緩衝器	缓冲器	huǎn chōng qì	buffer (computer science)
+緩降器	缓降器	huǎn jiàng qì	cable reel and harness used to lower oneself to safety (e.g. from a building on fire)
+繼電器	继电器	jì diàn qì	relay (electronics)
+聚變武器	聚变武器	jù biàn wǔ qì	fusion-type weapon
+聯軸器	联轴器	lián zhòu qì	(mechanics) coupler/coupling
+聽診器	听诊器	tīng zhěn qì	stethoscope
+脫胎漆器	脱胎漆器	tuō tāi qī qì	bodiless lacquerware
+臟器	脏器	zàng qì	internal organs
+自拍器	自拍器	zì pāi qì	camera self-timer (for delayed shutter release)
+自拍神器	自拍神器	zì pāi shén qì	selfie stick
+舊石器時代	旧石器时代	Jiù shí qì Shí dài	Paleolithic Era
+航天器	航天器	háng tiān qì	spacecraft
+航空器	航空器	háng kōng qì	aircraft
+蒸餾器	蒸馏器	zhēng liú qì	still (i.e. distilling apparatus)
+蓋革計數器	盖革计数器	Gài gé jì shù qì	Geiger counter
+薄胎瓷器	薄胎瓷器	bó tāi cí qì	eggshell china
+薰蕕不同器	薰莸不同器	xūn yóu bù tóng qì	lit. fragrant herbs and foul herbs do not go into the same vessel (idiom)/bad people and good people do not mix
+藏器待時	藏器待时	cáng qì dài shí	to conceal one's abilities and wait (idiom); to lie low and await the opportune moment
+蘇寧電器	苏宁电器	Sū níng diàn qì	Suning Appliance (PRC electrical retailer)
+處理器	处理器	chǔ lǐ qì	processor
+蜂鳴器	蜂鸣器	fēng míng qì	buzzer
+裂變武器	裂变武器	liè biàn wǔ qì	fission weapon
+解碼器	解码器	jiě mǎ qì	decoder
+解釋器	解释器	jiě shì qì	interpreter (computing)
+觸發器	触发器	chù fā qì	flip-flop (electronics)
+計價器	计价器	jì jià qì	fare meter/taximeter
+計數器	计数器	jì shù qì	counter/register
+計時器	计时器	jì shí qì	timer/chronograph/timepiece/clock/timekeeping device (sundial, water clock)
+計步器	计步器	jì bù qì	pedometer
+計算器	计算器	jì suàn qì	calculator/calculating machine
+記憶器	记忆器	jì yì qì	memristor (memory transistor)
+記錄器	记录器	jì lù qì	recorder
+調光器	调光器	tiáo guāng qì	dimmer
+調制解調器	调制解调器	tiáo zhì jiě tiáo qì	modem
+調節器	调节器	tiáo jié qì	regulator
+調酒器	调酒器	tiáo jiǔ qì	(cocktail) shaker
+警報器	警报器	jǐng bào qì	siren
+譯碼器	译码器	yì mǎ qì	decoder
+讀卡器	读卡器	dú kǎ qì	card reader
+變壓器	变压器	biàn yā qì	transformer
+變流器	变流器	biàn liú qì	converter
+變矩器	变矩器	biàn jǔ qì	(automobile) torque converter
+變速器	变速器	biàn sù qì	gearbox/speed changer/gear
+變阻器	变阻器	biàn zǔ qì	rheostat (variable resistor)
+貯存器	贮存器	zhù cún qì	storage device (computing)
+起搏器	起搏器	qǐ bó qì	artificial pacemaker
+起釘器	起钉器	qǐ dīng qì	staple remover
+跨接器	跨接器	kuà jiē qì	jumper (electronics)
+路由器	路由器	lù yóu qì	router (computing)
+蹲便器	蹲便器	dūn biàn qì	squat toilet
+輕武器	轻武器	qīng wǔ qì	light weapon
+轉換器	转换器	zhuǎn huàn qì	converter/transducer
+通用電器	通用电器	Tōng yòng Diàn qì	General Electric/GE
+連接器	连接器	lián jiē qì	connector
+連通器	连通器	lián tōng qì	communicating vessels (in scientific experiment)
+過濾器	过滤器	guò lǜ qì	filtering apparatus/(machine) filter
+遙控器	遥控器	yáo kòng qì	remote control
+適配器	适配器	shì pèi qì	adapter (device)
+避雷器	避雷器	bì léi qì	lightning arrester
+配電器	配电器	pèi diàn qì	distributor (automobile)
+酒器	酒器	jiǔ qì	drinking vessel/wine cup
+醫療器械	医疗器械	yī liáo qì xiè	medical equipment
+重器	重器	zhòng qì	treasure
+重武器	重武器	zhòng wǔ qì	heavy weapon
+量器	量器	liáng qì	measuring vessel/measuring apparatus
+量角器	量角器	liáng jiǎo qì	protractor/angle gauge
+銀器	银器	yín qì	silverware
+銅器	铜器	tóng qì	copper ware/bronze ware
+銅管樂器	铜管乐器	tóng guǎn yuè qì	brass instruments
+鍵盤樂器	键盘乐器	jiàn pán yuè qì	keyboard instrument (piano, organ etc)
+鎖存器	锁存器	suǒ cún qì	latch (electronic)
+鎦銀器	镏银器	liú yín qì	gilded silverware/CL:件[jiàn]
+鎮流器	镇流器	zhèn liú qì	electrical ballast
+鐵器	铁器	tiě qì	hardware/ironware
+開瓶器	开瓶器	kāi píng qì	bottle opener
+閱讀器	阅读器	yuè dú qì	reader (software)
+防衛武器	防卫武器	fáng wèi wǔ qì	defensive weapon
+阻抗變換器	阻抗变换器	zǔ kàng biàn huàn qì	impedance converter
+除濕器	除湿器	chú shī qì	dehumidifier
+陶器	陶器	táo qì	pottery
+陶瓷器	陶瓷器	táo cí qì	pottery/chinaware
+隨機存取存儲器	随机存取存储器	suí jī cún qǔ cún chǔ qì	random access memory (RAM)
+集中器	集中器	jí zhōng qì	concentrator
+集線器	集线器	jí xiàn qì	hub (network)
+離合器	离合器	lí hé qì	clutch (mechanics)
+電位器	电位器	diàn wèi qì	potentiometer
+電器	电器	diàn qì	(electrical) appliance/device
+電子器件	电子器件	diàn zǐ qì jiàn	electric equipment
+電容器	电容器	diàn róng qì	capacitor
+電抗器	电抗器	diàn kàng qì	inductor/reactor (in an electrical circuit)
+電源供應器	电源供应器	diàn yuán gōng yìng qì	power supply (of an appliance etc)
+電纜調制解調器	电缆调制解调器	diàn lǎn tiáo zhì jiě tiáo qì	cable modem
+電荷耦合器件	电荷耦合器件	diàn hè ǒu hé qì jiàn	charge-coupled device (CCD) (electronics)
+電阻器	电阻器	diàn zǔ qì	resistor
+霧化器	雾化器	wù huà qì	nebulizer/spray/atomizer
+青銅器	青铜器	qīng tóng qì	bronze implement/refers to ancient bronze artifacts, from c. 2,000 BC
+青銅器時代	青铜器时代	Qīng tóng qì Shí dài	the Bronze Age/also written 青銅時代|青铜时代[Qīng tóng Shí dài]
+靜態存儲器	静态存储器	jìng tài cún chǔ qì	static memory
+非核武器國家	非核武器国家	fēi hé wǔ qì guó jiā	non-nuclear weapon states (NNWS)
+響器	响器	xiǎng qì	percussion instrument
+預防器	预防器	yù fáng qì	prophylactic equipment/condom
+類器官	类器官	lèi qì guān	organoid (regenerative medicine)
+顯示器	显示器	xiǎn shì qì	monitor (computer)
+風阻尼器	风阻尼器	fēng zǔ ní qì	wind damper (engineering)
+飛行記錄器	飞行记录器	fēi xíng jì lù qì	flight recorder/black box
+飲水器	饮水器	yǐn shuǐ qì	water dispenser
+駐車制動器	驻车制动器	zhù chē zhì dòng qì	parking brake
+驅動器	驱动器	qū dòng qì	drive
+驗鈔器	验钞器	yàn chāo qì	money counter and counterfeit detection machine
+驗電器	验电器	yàn diàn qì	electroscope
+骨器	骨器	gǔ qì	bone tool (archaeology)
+體重器	体重器	tǐ zhòng qì	scales (to measure body weight)
+體鳴樂器	体鸣乐器	tǐ míng yuè qì	idiophone
+高速緩衝存儲器	高速缓冲存储器	gāo sù huǎn chōng cún chǔ qì	cache (computing)
+點煙器	点烟器	diǎn yān qì	cigarette lighter (in a car)/12-volt cigarette lighter receptacle
+鼠標器	鼠标器	shǔ biāo qì	mouse (computer)
+齒列矯正器	齿列矫正器	chǐ liè jiǎo zhèng qì	see 牙齒矯正器|牙齿矫正器[yá chǐ jiǎo zhèng qì]

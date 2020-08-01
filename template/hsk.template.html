@@ -1,0 +1,24 @@
+{% set lang="zh-Hans" %}
+{% extends "base.template.html" %}
+
+{% block title %}
+    <title>2600 иероглифов HSK</title>
+{% endblock %}
+
+{% block body %}
+    <h1>2600 иероглифов HSK</h1>
+    <section>
+        Список ханьцзы (китайских иероглифов) экзамена HSK 1-6 (汉语水平考试).
+        Начертания иероглифов даны в соответствии со стандартом КНР. Начертания на других страницах могут отличаться, см. <a href="https://en.wikipedia.org/wiki/Han_unification">унификация Хань</a>.
+    </section>
+
+    {% include 'dict_selection.template.html' %}
+ 
+    <section class="hanzi-board">
+         {%- for hanzi, level in records -%}
+         <span class="kanji_widget level-dark-{{level}} hanzi-simp">{{ hanzi }}</span>
+         {%- endfor -%}
+    </section>
+    <div>Источник: <a href="hhttp://hanzidb.org/character-list/hsk">HanziDb</a>
+    </div>
+{% endblock %}

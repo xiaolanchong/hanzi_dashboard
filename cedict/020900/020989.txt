@@ -1,0 +1,63 @@
+函	函	hán	envelope/case/letter
+圅	函	hán	variant of 函[hán]
+二次函數	二次函数	èr cì hán shù	quadratic function
+代數函數	代数函数	dài shù hán shù	(math.) algebraic function
+代數函數論	代数函数论	dài shù hán shù lùn	algebraic function theory (math.)
+來函	来函	lái hán	incoming letter/letter from afar/same as 来信
+便函	便函	biàn hán	an informal letter sent by an organization
+信函	信函	xìn hán	letter/piece of correspondence (incl. email)
+偶函數	偶函数	ǒu hán shù	even function (math.)
+公函	公函	gōng hán	official letter
+共享函數庫	共享函数库	gòng xiǎng hán shù kù	shared library (computing)
+一次函數	一次函数	yī cì hán shù	linear function (math.)
+函人	函人	hán rén	armor maker
+函件	函件	hán jiàn	letters/correspondence
+函大	函大	hán dà	abbr. for 函授大學|函授大学[hán shòu dà xué], open university
+函子	函子	hán zi	functor (math.)
+函式庫	函式库	hán shì kù	library (partition on computer hard disk)
+函授	函授	hán shòu	to teach by correspondence
+函授大學	函授大学	hán shòu dà xué	open university
+函授課程	函授课程	hán shòu kè chéng	correspondence course
+函數	函数	hán shù	function (math.)
+函洞	函洞	hán dòng	variant of 涵洞[hán dòng]
+函谷關	函谷关	Hán gǔ Guān	Hangu Pass in modern day Henan Province, strategic pass forming the eastern gate of the Qin State during the Warring States Period (770-221 BC)
+函購	函购	hán gòu	mail order
+函辦	函办	hán bàn	see 函送法辦|函送法办[hán sòng fǎ bàn]
+函送	函送	hán sòng	(formal) to inform by letter/to submit in writing
+函送法辦	函送法办	hán sòng fǎ bàn	to bring to justice/to hand over to the law
+函館	函馆	Hán guǎn	Hakodate, main port of south Hokkaidō 北海道[Běi hǎi dào], Japan
+原函數	原函数	yuán hán shù	antiderivative
+反函數	反函数	fǎn hán shù	inverse function (math.)
+周期函數	周期函数	zhōu qī hán shù	periodic function
+唁函	唁函	yàn hán	a message of condolence
+回函	回函	huí hán	a reply (in writing)
+回調函數	回调函数	huí diào hán shù	callback (computing)
+三角函數	三角函数	sān jiǎo hán shù	trigonometric function
+圓函數	圆函数	yuán hán shù	the trigonometric functions
+地函	地函	dì hán	(geology) (the earth's) mantle (Tw)
+多值函數	多值函数	duō zhí hán shù	multivalued function (math.)
+奇函數	奇函数	jī hán shù	odd function (math.)
+密函	密函	mì hán	secret letter
+實變函數	实变函数	shí biàn hán shù	function of a real variable (math.)
+實變函數論	实变函数论	shí biàn hán shù lùn	(math.) theory of functions of a real variable
+對數函數	对数函数	duì shù hán shù	logarithmic function
+導函數	导函数	dǎo hán shù	derived function/derivative f' of a function f
+指數函數	指数函数	zhǐ shù hán shù	exponential function
+書函	书函	shū hán	letter/correspondence/slipcase
+樣條函數	样条函数	yàng tiáo hán shù	spline function (math.)
+橢圓函數	椭圆函数	tuǒ yuán hán shù	(math.) elliptic function
+母函數	母函数	mǔ hán shù	generating function (math.)
+泛函分析	泛函分析	fàn hán fēn xī	(math.) functional analysis
+波函數	波函数	bō hán shù	wave function (in quantum mechanics)
+熱函	热函	rè hán	enthalpy/heat content (thermodynamics)
+特殊函數	特殊函数	tè shū hán shù	special functions (math.)
+致函	致函	zhì hán	to send a letter
+複變函數	复变函数	fù biàn hán shù	function of a complex variable (math.)
+複變函數論	复变函数论	fù biàn hán shù lùn	(math.) theory of functions of a complex variable
+解析函數	解析函数	jiě xī hán shù	(math.) an analytic function (of a complex variable)
+解析函數論	解析函数论	jiě xī hán shù lùn	(math.) complex analytic function theory
+賀函	贺函	hè hán	letter of congratulations/greeting card (e.g. for New Year)
+連續函數	连续函数	lián xù hán shù	continuous function
+邀請函	邀请函	yāo qǐng hán	invitation letter/CL:封[fēng]
+隱函數	隐函数	yǐn hán shù	implicit function
+黑函	黑函	hēi hán	poison pen letter (Tw)

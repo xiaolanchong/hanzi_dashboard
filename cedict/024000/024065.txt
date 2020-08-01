@@ -1,0 +1,56 @@
+幣	币	bì	money/coins/currency/silk
+人民幣	人民币	rén mín bì	Renminbi (RMB)/Chinese Yuan (CNY)
+人民幣元	人民币元	rén mín bì yuán	Renminbi Yuan (RMB), PRC currency unit
+代幣	代币	dài bì	token (used instead of money for slot machines, in game arcades etc)
+偽幣	伪币	wěi bì	counterfeit currency
+儲備貨幣	储备货币	chǔ bèi huò bì	reserve currency
+儲幣	储币	chǔ bì	to deposit money/savings
+冥幣	冥币	míng bì	false paper money burned as an offering to the dead
+加密貨幣	加密货币	jiā mì huò bì	cryptocurrency
+劣幣驅逐良幣	劣币驱逐良币	liè bì qū zhú liáng bì	bad money drives out good money (economics)
+卑辭厚幣	卑辞厚币	bēi cí hòu bì	humble expression for generous donation
+古幣	古币	gǔ bì	old coin
+台幣	台币	Tái bì	New Taiwan dollar
+單一貨幣	单一货币	dān yī huò bì	single currency
+國際貨幣基金	国际货币基金	Guó jì Huò bì Jī jīn	International Monetary Fund (IMF)
+國際貨幣基金組織	国际货币基金组织	Guó jì Huò bì Jī jīn Zǔ zhī	International Monetary Fund (IMF)
+外幣	外币	wài bì	foreign currency
+一角銀幣	一角银币	yī jiǎo yín bì	dime
+幣值	币值	bì zhí	value of a currency
+幣別	币别	bì bié	specific currency
+幣制	币制	bì zhì	currency system
+投幣	投币	tóu bì	coin-operated/to insert coins
+投幣口	投币口	tóu bì kǒu	coin slot
+投硬幣	投硬币	tóu yìng bì	coin-operated/to insert a coin
+新台幣	新台币	Xīn tái bì	New Taiwan dollar (NTD)
+本位貨幣	本位货币	běn wèi huò bì	local currency/our own currency/abbr. to 本幣|本币
+本幣	本币	běn bì	local currency/our own currency/abbr. for 本位貨幣|本位货币
+歐洲貨幣	欧洲货币	Ōu zhōu huò bì	Euro/European currency
+比特幣	比特币	bǐ tè bì	bitcoin (virtual currency)
+泉幣	泉币	quán bì	coin (archaic)
+法定貨幣	法定货币	fǎ dìng huò bì	fiat currency
+法幣	法币	fǎ bì	Fabi, first currency issued by the 國民黨|国民党[Guó mín dǎng] in 1935, in use until 1948
+港幣	港币	Gǎng bì	Hong Kong currency/Hong Kong dollar
+澳幣	澳币	Ào bì	Australian dollar
+瑞波幣	瑞波币	Ruì bō bì	Ripple (digital currency)
+百度幣	百度币	Bǎi dù bì	virtual currency created by Baidu for use on its websites (coin.baidu.com)
+硬幣	硬币	yìng bì	coin/CL:枚[méi]
+硬幣坯	硬币坯	yìng bì pī	coin blank
+紙幣	纸币	zhǐ bì	bank notes/paper currency/CL:張|张[zhāng]
+萊特幣	莱特币	Lái tè bì	Litecoin (cryptocurrency)
+變造幣	变造币	biàn zào bì	illegally modified or altered currency
+貨幣	货币	huò bì	currency/monetary/money
+貨幣主義	货币主义	huò bì zhǔ yì	monetarism
+貨幣供應量	货币供应量	huò bì gōng yìng liàng	money supply
+貨幣兌換	货币兑换	huò bì duì huàn	currency exchange
+貨幣危機	货币危机	huò bì wēi jī	monetary crisis
+貨幣市場	货币市场	huò bì shì chǎng	money market
+貨幣貶值	货币贬值	huò bì biǎn zhí	currency devaluation/to devaluate a currency
+輔幣	辅币	fǔ bì	fractional currency (coin or note of value smaller than the country's unit of currency)/token (used instead of money for slot machines etc)
+造幣廠	造币厂	zào bì chǎng	mint/CL:座[zuò]
+邊幣	边币	biān bì	Border Region currency, issued by the Communist Border Region governments during the War against Japan and the War of Liberation
+金幣	金币	jīn bì	gold coin
+銀幣	银币	yín bì	silver coinage
+錢幣	钱币	qián bì	money
+鑄幣	铸币	zhù bì	coin/to mint (coins)
+電子貨幣	电子货币	diàn zǐ huò bì	electronic money

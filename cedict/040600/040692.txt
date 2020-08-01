@@ -1,0 +1,6 @@
+黴	霉	méi	variant of 霉[méi]
+組織漿黴菌病	组织浆霉菌病	zǔ zhī jiāng méi jūn bìng	histoplasmosis
+肺炎黴漿菌	肺炎霉浆菌	fèi yán méi jiāng jūn	Mycoplasma pneumoniae
+青黴素	青霉素	qīng méi sù	penicillin
+紅黴素	红霉素	hóng méi sù	erythromycin
+黴漿菌肺炎	霉浆菌肺炎	méi jiāng jūn fèi yán	mycoplasma pneumonia

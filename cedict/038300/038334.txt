@@ -1,0 +1,3 @@
+閾	阈	yù	threshold
+聽閾	听阈	tīng yù	audibility threshold
+閾值	阈值	yù zhí	threshold

@@ -1,0 +1,10 @@
+鴒	鸰	líng	wagtail/lark
+山鶺鴒	山鹡鸰	shān jí líng	(bird species of China) forest wagtail (Dendronanthus indicus)
+日本鶺鴒	日本鹡鸰	Rì běn jí líng	(bird species of China) Japanese wagtail (Motacilla grandis)
+灰鶺鴒	灰鹡鸰	huī jí líng	(bird species of China) grey wagtail (Motacilla cinerea)
+白鶺鴒	白鹡鸰	bái jí líng	(bird species of China) white wagtail (Motacilla alba)
+西黃鶺鴒	西黄鹡鸰	xī huáng jí líng	(bird species of China) western yellow wagtail (Motacilla flava)
+大斑鶺鴒	大斑鹡鸰	dà bān jí líng	(bird species of China) white-browed wagtail (Motacilla maderaspatensis)
+鶺鴒	鹡鸰	jí líng	wagtail
+黃頭鶺鴒	黄头鹡鸰	huáng tóu jí líng	(bird species of China) citrine wagtail (Motacilla citreola)
+黃鶺鴒	黄鹡鸰	huáng jí líng	(bird species of China) eastern yellow wagtail (Motacilla tschutschensis)

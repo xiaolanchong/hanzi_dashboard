@@ -1,0 +1,304 @@
+網	网	wǎng	net/network
+三天打魚，兩天曬網	三天打鱼，两天晒网	sān tiān dǎ yú , liǎng tiān shài wǎng	lit. to fish for three days and sun-dry the nets for two days (proverb)/fig. not to persevere in doing sth/to do sth by fits and starts
+上網	上网	shàng wǎng	to go online/to connect to the Internet/(of a document etc) to be uploaded to the Internet/(tennis, volleyball etc) to move in close to the net
+上網本	上网本	shàng wǎng běn	netbook
+下網	下网	xià wǎng	to cast a fishing net/(computing) to go offline
+不是魚死就是網破	不是鱼死就是网破	bù shì yú sǐ jiù shì wǎng pò	lit. either the fish dies or the net gets torn (idiom)/fig. it's a life-and-death struggle/it's either him or me
+中國教育和科研計算機網	中国教育和科研计算机网	Zhōng guó Jiào yù hé Kē yán Jì suàn jī Wǎng	China Education and Research Network (CERNET)/abbr. to 中國教育網|中国教育网[Zhōng guó Jiào yù Wǎng]
+中國教育網	中国教育网	Zhōng guó Jiào yù Wǎng	abbr. for 中國教育和科研計算機網|中国教育和科研计算机网[Zhōng guó Jiào yù hé Kē yán Jì suàn jī Wǎng]
+中國新聞網	中国新闻网	Zhōng guó Xīn wén Wǎng	China News Service website (chinanews.com)
+中新網	中新网	Zhōng xīn wǎng	ChinaNews (China News Service)
+主幹網絡	主干网络	zhǔ gàn wǎng luò	core network
+主幹網路	主干网路	zhǔ gàn wǎng lù	core network/backbone network
+互聯網	互联网	Hù lián wǎng	Internet
+互聯網站	互联网站	hù lián wǎng zhàn	Internet site
+互聯網絡	互联网络	hù lián wǎng luò	network
+交換以太網絡	交换以太网络	jiāo huàn yǐ tài wǎng luò	switched Ethernet
+交換網路	交换网路	jiāo huàn wǎng lù	switched network
+人人網	人人网	Rén rén Wǎng	Renren (Chinese social networking website)
+人民網	人民网	Rén mín wǎng	online version of the People's Daily, 人民日報|人民日报[Rén mín Rì bào]
+令牌環網	令牌环网	lìng pái huán wǎng	token ring network
+以太網	以太网	Yǐ tài wǎng	Ethernet
+以太網絡	以太网络	Yǐ tài wǎng luò	Ethernet
+以太網絡端口	以太网络端口	yǐ tài wǎng luò duān kǒu	Ethernet port
+以太網路	以太网路	Yǐ tài wǎng lù	Ethernet
+企業內網路	企业内网路	qǐ yè nèi wǎng lù	intranet/company-internal network
+企業間網路	企业间网路	qǐ yè jiān wǎng lù	extranet/company-external network
+僵屍網絡	僵尸网络	jiāng shī wǎng luò	botnet/zombie network/slave network (used by spammers)
+光面內質網	光面内质网	guāng miàn nèi zhì wǎng	smooth endoplasmic reticulum
+入口網	入口网	rù kǒu wǎng	Web portal/(enterprise) portal
+內聯網	内联网	nèi lián wǎng	intranet
+內質網	内质网	nèi zhì wǎng	endoplasmic reticulum (ER)
+內部網	内部网	nèi bù wǎng	intranet
+全球資訊網	全球资讯网	quán qiú zī xùn wǎng	world wide web/WWW
+公共交換電話網路	公共交换电话网路	gōng gòng jiāo huàn diàn huà wǎng lù	public switched telephone network/PSTN
+公用交換電話網	公用交换电话网	gōng yòng jiāo huàn diàn huà wǎng	public switched telephone network/PSTN
+公眾電信網路	公众电信网路	gōng zhòng diàn xìn wǎng lù	public telephone network
+公網	公网	gōng wǎng	(computing) public network/wide area network/Internet
+公路網	公路网	gōng lù wǎng	road network
+分佈式網絡	分布式网络	fēn bù shì wǎng luò	distributed network
+分銷網絡	分销网络	fēn xiāo wǎng luò	distribution network
+刑網	刑网	xíng wǎng	legal net/the long arm of the law
+加值型網路	加值型网路	jiā zhí xíng wǎng lù	value added network/VAN
+動態網頁	动态网页	dòng tài wǎng yè	dynamic webpage
+區域網絡	区域网络	qū yù wǎng luò	local area network/LAN
+區域網路	区域网路	qū yù wǎng lù	local area network/LAN
+區域網路技術	区域网路技术	qū yù wǎng lù jì shù	LAN technology
+卓越網	卓越网	Zhuó yuè Wǎng	Joyo.com
+吸引子網絡	吸引子网络	xī yǐn zǐ wǎng luò	attractor network
+因特網	因特网	Yīn tè wǎng	Internet
+因特網提供商	因特网提供商	yīn tè wǎng tí gōng shāng	Internet service provider (ISP)
+因特網聯通	因特网联通	yīn tè wǎng lián tōng	Internet connection
+固網電信	固网电信	gù wǎng diàn xìn	landline (fixed-line) telecommunications
+國家互聯網信息辦公室	国家互联网信息办公室	Guó jiā Hù lián wǎng Xìn xī Bàn gōng shì	Cyberspace Administration of China (CAC)
+國家電網公司	国家电网公司	Guó jiā Diàn wǎng Gōng sī	State Grid Corporation of China
+國際互聯網絡	国际互联网络	guó jì hù lián wǎng luò	Internet
+國際網絡	国际网络	guó jì wǎng luò	global network/Internet
+圍網	围网	wéi wǎng	seine net/wire mesh fence/fence screen
+土豆網	土豆网	Tǔ dòu Wǎng	Tudou, a Chinese video-sharing website
+城域網	城域网	chéng yù wǎng	metropolitan area network
+基網	基网	jī wǎng	base net (in geodetic survey)
+墜入情網	坠入情网	zhuì rù qíng wǎng	to fall in love
+壁網球	壁网球	bì wǎng qiú	jai alai (sports)
+天網恢恢	天网恢恢	tiān wǎng huī huī	lit. heaven's net has wide meshes, but nothing escapes it (idiom, from Laozi 73)/fig. the way of Heaven is fair, but the guilty will not escape/you can't run from the long arm of the law
+天網恢恢，疏而不失	天网恢恢，疏而不失	tiān wǎng huī huī , shū ér bù shī	lit. heaven's net has wide meshes, but nothing escapes it (idiom, from Laozi 73)/fig. the way of Heaven is fair, but the guilty will not escape/you can't run from the long arm of the law
+天網恢恢，疏而不漏	天网恢恢，疏而不漏	tiān wǎng huī huī , shū ér bù lòu	lit. heaven's net has wide meshes, but nothing escapes it (idiom, from Laozi 73)/fig. the way of Heaven is fair, but the guilty will not escape/you can't run from the long arm of the law
+天羅地網	天罗地网	tiān luó dì wǎng	inescapable net (idiom)/trap/dragnet
+子網	子网	zǐ wǎng	subnetwork
+子網屏蔽碼	子网屏蔽码	zǐ wǎng píng bì mǎ	subnet mask (computing)
+安全網	安全网	ān quán wǎng	safety net
+官網	官网	guān wǎng	official website (abbr. for 官方網站|官方网站[guān fāng wǎng zhàn])
+封網	封网	fēng wǎng	to intercept at the net (volleyball, tennis etc)/(computing) to seal off a network
+專用網路	专用网路	zhuān yòng wǎng lù	dedicated network
+局域網	局域网	jú yù wǎng	local area network (LAN)
+局部連結網絡	局部连结网络	jú bù lián jié wǎng luò	local connectionist network
+巨細胞病毒視網膜炎	巨细胞病毒视网膜炎	jù xì bāo bìng dú shì wǎng mó yán	cytomegalovirus retinitis, a disease of the retina that can lead to blindness/CMV retinitis
+廣域網	广域网	guǎng yù wǎng	wide area network/WAN
+廣域網路	广域网路	guǎng yù wǎng lù	wide area network/WAN
+廣播網	广播网	guǎng bō wǎng	network
+廣播網路	广播网路	guǎng bō wǎng lù	broadcast network
+快速以太網絡	快速以太网络	kuài sù yǐ tài wǎng luò	Fast Ethernet
+情網	情网	qíng wǎng	snare of love
+打網	打网	dǎ wǎng	to net sth/to catch sth with a net
+抄網	抄网	chāo wǎng	dip net
+拖網	拖网	tuō wǎng	dragnet/trawl/trawlnet
+排污地下主管網	排污地下主管网	pái wū dì xià zhǔ guǎn wǎng	underground sewage network
+搜狐網	搜狐网	Sōu hú Wǎng	Sohu, Chinese web portal and online media company
+撒網	撒网	sā wǎng	to throw a net
+撒網捕風	撒网捕风	sā wǎng bǔ fēng	lit. the wind cannot be caught in a net/to waste one's effort (idiom)
+擦網球	擦网球	cā wǎng qiú	net ball/let (tennis etc)
+攔網	拦网	lán wǎng	to intercept at the net (volleyball, tennis etc)/to block
+攜程旅行網	携程旅行网	Xié chéng Lǚ xíng Wǎng	Ctrip.com, PRC travel agency
+整體數位服務網路	整体数位服务网路	zhěng tǐ shù wèi fú wù wǎng lù	Integrated Service Digital Network/ISDN
+整體服務數位網路	整体服务数位网路	zhěng tǐ fú wù shù wèi wǎng lù	Integrated Services Digital Network/ISDN
+數位網路	数位网路	shù wèi wǎng lù	digital network
+數字網	数字网	shù zì wǎng	digital network
+數據網絡	数据网络	shù jù wǎng luò	data network
+新浪網	新浪网	Xīn làng Wǎng	Sina, Chinese web portal and online media company
+新聞網	新闻网	xīn wén wǎng	news agency
+新華網	新华网	Xīn huá Wǎng	Xinhua News Network
+易遊網	易游网	Yì yóu Wǎng	ezTravel, Taiwanese travel agency
+星型網	星型网	Xīng xíng wǎng	Star network
+暗網	暗网	Àn wǎng	(computing) Dark Web
+曬黑網	晒黑网	shài hēi wǎng	consumer protection website www.shaihei.com
+有線新聞網	有线新闻网	Yǒu xiàn Xīn wén Wǎng	Cable Network News (CNN)
+格網	格网	gé wǎng	(math.) lattice
+法網	法网	Fǎ wǎng	French Open (tennis tournament)
+法網	法网	fǎ wǎng	the net of justice/rigorous process of the law/the long arm of the law
+法網灰灰，疏而不漏	法网灰灰，疏而不漏	fǎ wǎng huī huī , shū ér bù lòu	The net of justice is wide, but no-one escapes.
+法網難逃	法网难逃	fǎ wǎng nán táo	it is hard to escape the net of justice (idiom)
+洗衣網	洗衣网	xǐ yī wǎng	mesh laundry bag (for keeping garments separate from others in the washing machine)
+流網	流网	liú wǎng	drift net (fishing)
+淘寶網	淘宝网	Táo bǎo Wǎng	Taobao Marketplace, a Chinese website for online shopping
+深海圍網	深海围网	shēn hǎi wéi wǎng	purse-seine net (fishing)
+溫布爾登網球公開賽	温布尔登网球公开赛	Wēn bù ěr dēng Wǎng qiú Gōng kāi sài	Wimbledon Championships (tennis)
+溫網	温网	Wēn wǎng	Wimbledon Championships (tennis)/abbr. for 溫布爾登網球公開賽|温布尔登网球公开赛[Wēn bù ěr dēng Wǎng qiú Gōng kāi sài]
+漁網	渔网	yú wǎng	fishing net/fishnet
+漏網之魚	漏网之鱼	lòu wǎng zhī yú	a fish that escaped the net (idiom)/(fig.) sb or sth that slips through the net
+漏網游魚	漏网游鱼	lòu wǎng yóu yú	see 漏網之魚|漏网之鱼[lòu wǎng zhī yú]
+澳網	澳网	Ào wǎng	Australian Open (tennis tournament)
+濾網	滤网	lǜ wǎng	filter/a sieve
+無結網	无结网	wú jié wǎng	knotless netting (textiles)
+無網格法	无网格法	wú wǎng gé fǎ	meshless method (numerical simulation)/meshfree method
+無線網路	无线网路	wú xiàn wǎng lù	wireless network
+球網	球网	qiú wǎng	net (for ball games)
+用戶到網絡接口	用户到网络接口	yòng hù dào wǎng luò jiē kǒu	user-network interface/UNI
+用戶到網絡的接口	用户到网络的接口	yòng hù dào wǎng luò de jiē kǒu	User-Network Interface/UNI
+異質網路	异质网路	yì zhì wǎng lù	heterogeneous network
+社交網站	社交网站	shè jiāo wǎng zhàn	social networking site
+神經元網	神经元网	shén jīng yuán wǎng	neural network
+神經網	神经网	shén jīng wǎng	neural net
+神經網絡	神经网络	shén jīng wǎng luò	neural network
+神經網路	神经网路	shén jīng wǎng lù	neural network (artificial or biological)
+秋荼密網	秋荼密网	qiū tú mì wǎng	flowering autumn grass, fine net (idiom); fig. abundant and exacting punishments prescribed by law
+移動通信網絡	移动通信网络	yí dòng tōng xìn wǎng luò	cell phone network
+簡單網絡管理協議	简单网络管理协议	jiǎn dān wǎng luò guǎn lǐ xié yì	Simple Network Management Protocol/SNMP
+糙面內質網	糙面内质网	cāo miàn nèi zhì wǎng	rough endoplasmic reticulum
+結網	结网	jié wǎng	to spin a web (spider)/to weave a net (e.g. for fishing)
+絲網	丝网	sī wǎng	silk screen/screen (printing)
+綜合服務數位網絡	综合服务数位网络	zōng hé fú wù shù wèi wǎng luò	Integrated Services Digital Network/ISDN
+綜合業務數字網	综合业务数字网	zōng hé yè wù shù zì wǎng	Integrated Services Digital Network (ISDN) (computing)
+一網打盡	一网打尽	yī wǎng dǎ jìn	lit. to catch everything in the one net (idiom)/fig. to scoop up the whole lot/to capture them all in one go
+網上	网上	wǎng shàng	online
+網上廣播	网上广播	wǎng shàng guǎng bō	online broadcast/webcast
+網信辦	网信办	Wǎng xìn bàn	Cyberspace Administration of China
+網傳	网传	wǎng chuán	(of video clips, rumors etc) to circulate on the Internet
+網卡	网卡	wǎng kǎ	network adapter card (computing)
+網友	网友	wǎng yǒu	online friend/Internet user
+網吧	网吧	wǎng bā	Internet café
+網咖	网咖	wǎng kā	Internet café (Tw)
+網址	网址	wǎng zhǐ	website/web address/URL
+網孔	网孔	wǎng kǒng	mesh
+網室	网室	wǎng shì	netted enclosure (protecting crops)
+網師園	网师园	Wǎng shī yuán	Master of the Nets Garden in Suzhou, Jiangsu
+網店	网店	wǎng diàn	online shop
+網戀	网恋	wǎng liàn	online love affair/cyberdate/Internet dating
+網易	网易	Wǎng yì	NetEase
+網景	网景	Wǎng jǐng	Netscape
+網杓	网杓	wǎng sháo	skimmer (kitchen utensil)
+網架	网架	wǎng jià	rack
+網格	网格	wǎng gé	grid/mesh/lattice
+網模	网模	wǎng mó	model for online fashion sites etc
+網橋	网桥	wǎng qiáo	(network) bridge
+網段	网段	wǎng duàn	network segment
+網民	网民	wǎng mín	web user/netizen
+網片	网片	wǎng piàn	mesh/netting
+網特	网特	wǎng tè	anonymous state-sponsored Internet commentator/abbr. for 網絡特工|网络特工
+網狀泡沫	网状泡沫	wǎng zhuàng pào mò	reticulated foam
+網狀脈	网状脉	wǎng zhuàng mài	netted veins/reticulated veins (of a leaf etc)/stockwork (geology)
+網球	网球	wǎng qiú	tennis/tennis ball/CL:個|个[gè]
+網球場	网球场	wǎng qiú chǎng	tennis court
+網球賽	网球赛	wǎng qiú sài	tennis match/tennis competition/CL:場|场[chǎng]
+網癮	网瘾	wǎng yǐn	Internet addiction/net addiction/web addiction
+網盤	网盘	wǎng pán	online storage space/cloud file storage
+網眼	网眼	wǎng yǎn	mesh
+網禁	网禁	wǎng jìn	Internet censorship
+網站	网站	wǎng zhàn	website/network station/node
+網管	网管	wǎng guǎn	network management/webmaster
+網管員	网管员	wǎng guǎn yuán	network manager/network administrator
+網管接口	网管接口	wǎng guǎn jiē kǒu	network management interface
+網管系統	网管系统	wǎng guǎn xì tǒng	network management
+網箱	网箱	wǎng xiāng	net cage (fish farming)
+網約車	网约车	wǎng yuē chē	app-based taxi
+網紅	网红	wǎng hóng	Internet celebrity
+網絡	网络	Wǎng luò	Internet
+網絡	网络	wǎng luò	network (computing, telecommunications, transport etc)
+網絡俚語	网络俚语	wǎng luò lǐ yǔ	Internet slang/netspeak/cyberspeak
+網絡協議	网络协议	wǎng luò xié yì	network protocol
+網絡地址轉換	网络地址转换	wǎng luò dì zhǐ zhuǎn huàn	(computing) network address translation
+網絡客	网络客	wǎng luò kè	web user/guest user
+網絡層	网络层	wǎng luò céng	network layer
+網絡層協議	网络层协议	wǎng luò céng xié yì	network layer protocol
+網絡廣告	网络广告	wǎng luò guǎng gào	online advertising
+網絡應用	网络应用	wǎng luò yìng yòng	network application
+網絡成癮	网络成瘾	wǎng luò chéng yǐn	Internet addiction/net addiction/web addiction
+網絡打印機	网络打印机	wǎng luò dǎ yìn jī	network printer
+網絡打手	网络打手	Wǎng luò dǎ shǒu	see 網絡水軍|网络水军[Wǎng luò shuǐ jūn]
+網絡技術	网络技术	wǎng luò jì shù	network technology
+網絡操作系統	网络操作系统	wǎng luò cāo zuò xì tǒng	network operating system
+網絡日記	网络日记	wǎng luò rì jì	blog/weblog/same as 博客[bó kè]
+網絡欺詐	网络欺诈	wǎng luò qī zhà	phishing
+網絡水軍	网络水军	Wǎng luò shuǐ jūn	"Internet Navy"/paid Internet posters/astroturfers
+網絡瀏覽器	网络浏览器	wǎng luò liú lǎn qì	network browser/Internet browser
+網絡特工	网络特工	wǎng luò tè gōng	anonymous state-sponsored Internet commentator
+網絡環境	网络环境	wǎng luò huán jìng	network environment
+網絡用語	网络用语	wǎng luò yòng yǔ	see 網絡語言|网络语言[wǎng luò yǔ yán]
+網絡直徑	网络直径	wǎng luò zhí jìng	network diameter
+網絡科技	网络科技	wǎng luò kē jì	network technology
+網絡空間	网络空间	wǎng luò kōng jiān	cyberspace
+網絡管理	网络管理	wǎng luò guǎn lǐ	network management
+網絡管理員	网络管理员	wǎng luò guǎn lǐ yuán	network administrator
+網絡管理系統	网络管理系统	wǎng luò guǎn lǐ xì tǒng	network management system/NMS
+網絡紅人	网络红人	wǎng luò hóng rén	Internet celebrity
+網絡規劃人員	网络规划人员	wǎng luò guī huà rén yuán	network planner
+網絡設備	网络设备	wǎng luò shè bèi	network equipment
+網絡設計	网络设计	wǎng luò shè jì	network design/network plan
+網絡語言	网络语言	wǎng luò yǔ yán	Internet language/Internet slang/netspeak/cyberspeak
+網絡語音	网络语音	wǎng luò yǔ yīn	VoIP (Voice over IP) (computing)/to speak with others over the Internet
+網絡遷移	网络迁移	wǎng luò qiān yí	network migration
+網絡鐵路	网络铁路	wǎng luò tiě lù	Network Rail (UK railway organization)
+網綜	网综	wǎng zōng	online variety show (contracted form of 網絡綜藝節目|网络综艺节目)
+網罟	网罟	wǎng gǔ	net used to catch fish (or other animals such as birds)/(fig.) the net of justice 法網|法网[fǎ wǎng]
+網罟座	网罟座	Wǎng gǔ zuò	Reticulum (constellation)
+網羅	网罗	wǎng luó	net for fishing or bird catching/(fig.) fetters/to snare (a valuable new team member etc)/to bring together under the one umbrella
+網膜	网膜	wǎng mó	retina (anatomy)
+網蝽	网蝽	wǎng chūn	lace bug/Tingidae
+網蟲	网虫	wǎng chóng	Internet addict
+網袋	网袋	wǎng dài	string bag/mesh bag/net bag
+網襪	网袜	wǎng wà	fishnet stockings
+網誌	网志	wǎng zhì	blog/weblog/same as 博客[bó kè]
+網語	网语	wǎng yǔ	netspeak/cyberspeak
+網賺	网赚	wǎng zhuàn	to make money online
+網購	网购	wǎng gòu	Internet shopping/to purchase online
+網路	网路	wǎng lù	network (computer, telecom)/Internet/Taiwanese term for 網絡|网络[wǎng luò]
+網路作業系統	网路作业系统	wǎng lù zuò yè xì tǒng	network operating system
+網路平台	网路平台	wǎng lù píng tái	network platform
+網路應用	网路应用	wǎng lù yìng yòng	network application
+網路服務	网路服务	wǎng lù fú wù	network service
+網路架構	网路架构	wǎng lù jià gòu	network infrastructure
+網路特務	网路特务	wǎng lù tè wu	anonymous state-sponsored Internet commentator
+網路環境	网路环境	wǎng lù huán jìng	network environment
+網路節點	网路节点	wǎng lù jié diǎn	network node
+網路節點介面	网路节点介面	wǎng lù jié diǎn jiè miàn	network node interface
+網路鏈接層	网路链接层	wǎng lù liàn jiē céng	network link layer
+網通	网通	Wǎng tōng	China Netcom (CNC), former telecommunication service provider in PRC
+網遊	网游	wǎng yóu	online game/abbr. for 網絡遊戲|网络游戏
+網銀	网银	wǎng yín	online banking/abbr. for 網上銀行|网上银行[wǎng shàng yín háng]
+網開一面	网开一面	wǎng kāi yī miàn	open the net on one side (idiom); let the caged bird fly/to give one's opponent a way out/lenient treatment
+網開三面	网开三面	wǎng kāi sān miàn	to leave the net open on three sides (idiom); let the caged bird fly/to give one's opponent a way out/lenient treatment
+網關	网关	wǎng guān	network router/gateway (to Internet or between networks)
+網際	网际	wǎng jì	Internet/net/cyber-
+網際協定	网际协定	wǎng jì xié dìng	Internet protocol/IP
+網際網絡	网际网络	wǎng jì wǎng luò	Internet
+網際網路	网际网路	wǎng jì wǎng lù	Internet
+網際色情	网际色情	wǎng jì sè qíng	cyberporn
+網頁	网页	wǎng yè	web page
+網頁地址	网页地址	wǎng yè dì zhǐ	webaddress/URL
+網頁設計	网页设计	wǎng yè shè jì	web design
+網飛	网飞	Wǎng fēi	Netflix, American entertainment company
+網點	网点	wǎng diǎn	node in a network/branch/website
+羅網	罗网	luó wǎng	net/fishing net/bird net
+美國有線新聞網	美国有线新闻网	Měi guó Yǒu xiàn Xīn wén Wǎng	Cable Network News (CNN)
+美網	美网	Měi wǎng	US Open (tennis tournament)
+聯網	联网	lián wǎng	network/cyber-
+臨淵羨魚，不如退而結網	临渊羡鱼，不如退而结网	lín yuān xiàn yú , bù rú tuì ér jié wǎng	better to go home and weave a net than to stand by the pond longing for fish (idiom)/one should take practical steps to achieve one's aim
+自投羅網	自投罗网	zì tóu luó wǎng	to walk right into the trap
+英特網	英特网	Yīng tè wǎng	variant of 因特網|因特网[Yīn tè wǎng], Internet
+草根網民	草根网民	cǎo gēn wǎng mín	grassroots netizens
+荊楚網	荆楚网	jīng chǔ wǎng	IPTV (PRC media network)
+荊楚網視	荆楚网视	jīng chǔ wǎng shì	IPTV (PRC media network)
+萬維天羅地網	万维天罗地网	Wàn wéi Tiān luó Dì wǎng	World Wide Web (WWW)/lit. ten-thousand dimensional net covering heaven and earth/term coined by China News Digest and abbreviated to 萬維網|万维网[Wàn wéi wǎng]
+萬維網	万维网	Wàn wéi wǎng	World Wide Web (WWW)
+萬維網聯合體	万维网联合体	wàn wéi wǎng lián hé tǐ	W3C, global Internet steering committee
+落入法網	落入法网	luò rù fǎ wǎng	to fall into the net of justice (idiom); finally arrested
+落網	落网	luò wǎng	(of a bird, fish etc) to be caught in a net/(of a tennis ball) to hit the net/(of a criminal) to be captured
+虛擬專用網絡	虚拟专用网络	xū nǐ zhuān yòng wǎng luò	virtual private network (VPN)
+虛擬私人網絡	虚拟私人网络	xū nǐ sī rén wǎng luò	virtual private network (VPN)
+虛擬網絡	虚拟网络	xū nǐ wǎng luò	virtual network
+蛛網	蛛网	zhū wǎng	spider web/cobweb
+蜘蛛網	蜘蛛网	zhī zhū wǎng	cobweb/spider web
+視網膜	视网膜	shì wǎng mó	retina
+豆瓣網	豆瓣网	Dòu bàn Wǎng	Douban, PRC social networking website
+超高速乙太網路	超高速乙太网路	chāo gāo sù yǐ tài wǎng lù	Gigabit Ethernet
+蹭網	蹭网	cèng wǎng	(coll.) to use sb else's Internet connection (with or without permission)
+通信網絡	通信网络	tōng xìn wǎng luò	communications network
+運輸網	运输网	yùn shū wǎng	transport network
+鐵絲網	铁丝网	tiě sī wǎng	wire netting/CL:道[dào]
+長途網路	长途网路	cháng tú wǎng lù	long distance network
+門戶網站	门户网站	mén hù wǎng zhàn	web portal
+開放式網絡	开放式网络	kāi fàng shì wǎng luò	open network
+間諜網	间谍网	jiàn dié wǎng	spy network
+防油濺網	防油溅网	fáng yóu jiàn wǎng	splatter screen
+難逃法網	难逃法网	nán táo fǎ wǎng	It is hard to escape the dragnet of the law/the long arm of the law
+電信網路	电信网路	diàn xìn wǎng lù	telecommunications network
+電子網絡	电子网络	diàn zǐ wǎng luò	electronic network
+電網	电网	diàn wǎng	electrical network
+電腦網	电脑网	diàn nǎo wǎng	computer network/Internet
+電腦網路	电脑网路	diàn nǎo wǎng lù	computer network
+電話網	电话网	diàn huà wǎng	telephone network
+電話網路	电话网路	diàn huà wǎng lù	telephone network
+骨幹網路	骨干网路	gǔ gàn wǎng lù	backbone network
+高速網絡	高速网络	gāo sù wǎng luò	high speed network
+髮網	发网	fà wǎng	hairnet
+魚死網破	鱼死网破	yú sǐ wǎng pò	lit. either the fish dies or the net splits/a life and death struggle (idiom)
+魚網	鱼网	yú wǎng	variant of 漁網|渔网[yú wǎng]

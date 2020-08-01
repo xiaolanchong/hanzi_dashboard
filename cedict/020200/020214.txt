@@ -1,0 +1,150 @@
+件	件	jiàn	item/component/classifier for events, things, clothes etc
+中間件	中间件	zhōng jiān jiàn	middleware
+事件	事件	shì jiàn	event/happening/incident/CL:個|个[gè]
+事件相關電位	事件相关电位	shì jiàn xiāng guān diàn wèi	event-related potential
+亞羅號事件	亚罗号事件	Yà luó Hào Shì jiàn	the Arrow Incident of 1856 (used as pretext for the second Opium War)
+付款條件	付款条件	fù kuǎn tiáo jiàn	terms of payment
+三件套式西裝	三件套式西装	sān jiàn tào shì xī zhuāng	three-piece suit
+件數	件数	jiàn shǔ	item count (of a consignment etc)
+作件	作件	zuò jiàn	workpiece
+信件	信件	xìn jiàn	letter (sent by mail)
+假證件	假证件	jiǎ zhèng jiàn	false documents
+偶然事件	偶然事件	ǒu rán shì jiàn	random accident/chance event
+備件	备件	bèi jiàn	spare parts
+元件	元件	yuán jiàn	element/component
+元器件	元器件	yuán qì jiàn	component
+充要條件	充要条件	chōng yào tiáo jiàn	necessary and sufficient condition
+先決條件	先决条件	xiān jué tiáo jiàn	precondition/prerequisite
+光伏器件	光伏器件	guāng fú qì jiàn	photovoltaic device (e.g. solar cell)
+免費軟件	免费软件	miǎn fèi ruǎn jiàn	freeware
+六四事件	六四事件	Liù Sì Shì jiàn	Tiananmen Incident of June 4, 1989
+函件	函件	hán jiàn	letters/correspondence
+前件	前件	qián jiàn	antecedent (logic)
+前提條件	前提条件	qián tí tiáo jiàn	preconditions
+勒索軟件	勒索软件	lè suǒ ruǎn jiàn	ransomware (computing)
+南京大屠殺事件	南京大屠杀事件	Nán jīng Dà tú shā Shì jiàn	The Rape of Nanking (1997 documentary book by Iris Chang 張純如|张纯如)
+原件	原件	yuán jiàn	the original/original document/master copy
+反應堆燃料元件	反应堆燃料元件	fǎn yìng duī rán liào yuán jiàn	fuel element
+器件	器件	qì jiàn	device/component
+固件	固件	gù jiàn	firmware
+坯件	坯件	pī jiàn	blank (for a coin etc)/breed or strain
+垃圾郵件	垃圾邮件	lā jī yóu jiàn	junk mail/spam/unsolicited mail
+外加附件	外加附件	wài jiā fù jiàn	add-on (software)/plug-in (software)
+大件	大件	dà jiàn	large/bulky/big-ticket item
+大屠殺事件	大屠杀事件	dà tú shā shì jiàn	massacre/Holocaust
+套件	套件	tào jiàn	kit (equipment)
+客戶機軟件	客户机软件	kè hù jī ruǎn jiàn	client software
+寄件人	寄件人	jì jiàn rén	sender
+寄件者	寄件者	jì jiàn zhě	see 寄件人[jì jiàn rén]
+密件	密件	mì jiàn	secret documents/abbr. for 機密文件|机密文件
+工件	工件	gōng jiàn	workpiece
+德雷福斯案件	德雷福斯案件	Dé léi fú sī àn jiàn	Dreyfus affair 1894-1906, notorious political scandal in France case involving antisemitism and miscarriage of justice
+必要條件	必要条件	bì yào tiáo jiàn	requirement/necessary condition (math)
+快件	快件	kuài jiàn	express delivery/express mail or luggage
+惡意軟件	恶意软件	è yì ruǎn jiàn	malware (computing)
+應用軟件	应用软件	yìng yòng ruǎn jiàn	application software
+批件	批件	pī jiàn	approved document/document with written instructions
+抄件	抄件	chāo jiàn	duplicate (copy)
+控件	控件	kòng jiàn	a control (e.g. button, text box etc) (computing)
+插件	插件	chā jiàn	plug-in (software component)
+收件人	收件人	shōu jiàn rén	recipient (of mail)/To: (email header)
+收件匣	收件匣	shōu jiàn xiá	inbox (email)
+收件箱	收件箱	shōu jiàn xiāng	inbox
+散件	散件	sǎn jiàn	spare parts/odds and ends
+數據庫軟件	数据库软件	shù jù kù ruǎn jiàn	database software
+文件	文件	wén jiàn	document/file/CL:份[fèn]
+文件大小	文件大小	wén jiàn dà xiǎo	file size
+文件夾	文件夹	wén jiàn jiā	folder/file (paper)
+文件服務器	文件服务器	wén jiàn fú wù qì	file server
+文件格式	文件格式	wén jiàn gé shì	file format
+料件	料件	liào jiàn	materials and parts/components
+料件子	料件子	liào jiàn zi	see 料件子活[liào jiàn zi huó]
+料件子活	料件子活	liào jiàn zi huó	piecework
+映象文件	映象文件	yìng xiàng wén jiàn	(computing) disk image (aka image file)/ISO image
+柳條湖事件	柳条湖事件	Liǔ tiáo Hú Shì jiàn	the Mukden or Manchurian Railway Incident of 18th September 1931 used by the Japanese as a pretext to annex Manchuria/also known as 9-18 incident 九一八事變|九一八事变[Jiǔ Yī bā Shì biàn]
+柳條溝事件	柳条沟事件	Liǔ tiáo Gōu Shì jiàn	see 柳條湖事件|柳条湖事件[Liǔ tiáo Hú Shì jiàn]
+核事件	核事件	hé shì jiàn	nuclear incident
+桃色案件	桃色案件	táo sè àn jiàn	case involving sex scandal (law)
+案件	案件	àn jiàn	case/instance/CL:宗[zōng],樁|桩[zhuāng],起[qǐ]
+條件	条件	tiáo jiàn	condition/circumstances/term/factor/requirement/prerequisite/qualification/CL:個|个[gè]
+條件反射	条件反射	tiáo jiàn fǎn shè	conditioned reflex
+條件反應	条件反应	tiáo jiàn fǎn yìng	conditioned response
+條件句	条件句	tiáo jiàn jù	conditional clause
+條件式	条件式	tiáo jiàn shì	conditional
+條件概率	条件概率	tiáo jiàn gài lǜ	conditional probability
+構件	构件	gòu jiàn	member/component/part
+機件	机件	jī jiàn	component (mechanics)
+機密文件	机密文件	jī mì wén jiàn	secret document
+歷史事件	历史事件	lì shǐ shì jiàn	historical incident
+殺人案件	杀人案件	shā rén àn jiàn	(case of, incident of) murder
+殺毒軟件	杀毒软件	shā dú ruǎn jiàn	antivirus software
+水門事件	水门事件	Shuǐ mén Shì jiàn	Watergate scandal
+汽車炸彈事件	汽车炸弹事件	qì chē zhà dàn shì jiàn	car bombing
+流氓軟件	流氓软件	liú máng ruǎn jiàn	malware (computing)
+消費器件	消费器件	xiāo fèi qì jiàn	consumer
+瀏覽軟件	浏览软件	liú lǎn ruǎn jiàn	a web browser
+無條件	无条件	wú tiáo jiàn	unconditional
+無條件投降	无条件投降	wú tiáo jiàn tóu xiáng	unconditional surrender
+燃料元件細棒	燃料元件细棒	rán liào yuán jiàn xì bàng	fuel pins
+物件	物件	wù jiàn	object
+發件人	发件人	fā jiàn rén	sender (of mail)/From: (email header)
+相容條件	相容条件	xiāng róng tiáo jiàn	conditions for consistency
+硬件	硬件	yìng jiàn	hardware
+硬件平臺	硬件平台	yìng jiàn píng tái	hardware platform
+稿件	稿件	gǎo jiàn	piece of writing submitted for publication/manuscript/article
+突發事件	突发事件	tū fā shì jiàn	emergency/sudden occurrence
+約束條件	约束条件	yuē shù tiáo jiàn	restrictive condition/constraint
+紅頭文件	红头文件	hóng tóu wén jiàn	red-letterhead document, an official document with the name of the issuing government agency printed in red at the top, circulated to relevant bodies
+組件	组件	zǔ jiàn	module/unit/component/assembly
+絕密文件	绝密文件	jué mì wén jiàn	top secret document/classified papers
+緊急事件	紧急事件	jǐn jí shì jiàn	emergency
+美麗島事件	美丽岛事件	Měi lì Dǎo Shì jiàn	Kaohsiung Incident (aka Formosa Incident), a crackdown on pro-democracy demonstrations in Kaohsiung, Taiwan, on 10 December 1979 during Taiwan's martial law period
+群件	群件	qún jiàn	collaborative software
+群體性事件	群体性事件	qún tǐ xìng shì jiàn	mass incident (PRC term for incidents of social unrest, including rioting, melees and petition campaigns)
+自然條件	自然条件	zì rán tiáo jiàn	natural conditions
+自由軟件基金會	自由软件基金会	Zì yóu Ruǎn jiàn Jī jīn huì	Free Software Foundation
+航空郵件	航空邮件	háng kōng yóu jiàn	airmail
+製件	制件	zhì jiàn	workpiece
+複印件	复印件	fù yìn jiàn	photocopy/duplicate
+要件	要件	yào jiàn	key document/important condition/criterion/requirement/requisite/cornerstone
+計件工資	计件工资	jì jiàn gōng zī	piece rate wage/remuneration based on one's output/opposite: time rate wage 計時工資|计时工资[jì shí gōng zī]
+課件	课件	kè jiàn	courseware (abbr. for 課程軟件|课程软件[kè chéng ruǎn jiàn])
+證件	证件	zhèng jiàn	certificate/papers/credentials/document/ID
+證明文件	证明文件	zhèng míng wén jiàn	identification document/documentary proof
+財務軟件	财务软件	cái wù ruǎn jiàn	financial software/accounting software
+超文件	超文件	chāo wén jiàn	hypertext
+超文件傳輸協定	超文件传输协定	chāo wén jiàn chuán shū xié dìng	hypertext transfer protocol/HTTP
+軟件	软件	ruǎn jiàn	(computer) software
+軟件企業	软件企业	ruǎn jiàn qǐ yè	software company
+軟件包	软件包	ruǎn jiàn bāo	software package
+軟件平臺	软件平台	ruǎn jiàn píng tái	software platform
+軟件技術	软件技术	ruǎn jiàn jì shù	software technology
+軟件系統	软件系统	ruǎn jiàn xì tǒng	software system
+軟件開發	软件开发	ruǎn jiàn kāi fā	software development
+軟件開發人員	软件开发人员	ruǎn jiàn kāi fā rén yuán	software developer
+軟硬件	软硬件	ruǎn yìng jiàn	software and hardware
+轉動件	转动件	zhuàn dòng jiàn	rotor
+退件	退件	tuì jiàn	to reject (visa application etc)/(commerce) to return to sender/item returned to sender
+部件	部件	bù jiàn	part/component
+郵件	邮件	yóu jiàn	mail/post/email
+配件	配件	pèi jiàn	component/part/fitting/accessory/replacement part
+配件掛勾	配件挂勾	pèi jiàn guà gōu	accessory hook
+鑄件	铸件	zhù jiàn	casting/foundry goods
+開放源碼軟件	开放源码软件	kāi fàng yuán mǎ ruǎn jiàn	open source software (OSS)
+間諜軟件	间谍软件	jiàn dié ruǎn jiàn	spyware
+防毒軟件	防毒软件	fáng dú ruǎn jiàn	anti-virus software
+附件	附件	fù jiàn	enclosure/attachment (email)/appendix
+附加元件	附加元件	fù jiā yuán jiàn	additional element/(computing) add-on/plug-in
+雜件	杂件	zá jiàn	miscellaneous goods
+雜件兒	杂件儿	zá jiàn r5	miscellaneous goods
+零件	零件	líng jiàn	part/component
+零備件	零备件	líng bèi jiàn	spare part/component
+零部件	零部件	líng bù jiàn	spare part/component
+電子器件	电子器件	diàn zǐ qì jiàn	electric equipment
+電子文件	电子文件	diàn zǐ wén jiàn	electronic document
+電子郵件	电子邮件	diàn zǐ yóu jiàn	email/CL:封[fēng],份[fèn]
+電腦軟件	电脑软件	diàn nǎo ruǎn jiàn	computer software
+電荷耦合器件	电荷耦合器件	diàn hè ǒu hé qì jiàn	charge-coupled device (CCD) (electronics)
+霧件	雾件	wù jiàn	vaporware
+非條件反射	非条件反射	fēi tiáo jiàn fǎn shè	unconditioned reflex (physiology)
+音頻文件	音频文件	yīn pín wén jiàn	audio file (computer)

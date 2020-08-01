@@ -1,0 +1,187 @@
+劑	剂	jì	dose (medicine)
+丸劑	丸剂	wán jì	pill
+乙種促效劑	乙种促效剂	yǐ zhǒng cù xiào jì	beta-2 agonist
+乳劑	乳剂	rǔ jì	emulsion
+乳化劑	乳化剂	rǔ huà jì	emulsifier
+乾燥劑	干燥剂	gān zào jì	desiccant
+低劑量照射	低剂量照射	dī jì liàng zhào shè	low dose irradiation
+保護劑	保护剂	bǎo hù jì	protective agent
+催化劑	催化剂	cuī huà jì	catalyst
+催吐劑	催吐剂	cuī tù jì	an emetic
+催淚劑	催泪剂	cuī lèi jì	lachrymator
+催肥劑	催肥剂	cuī féi jì	(animal) fattening preparation
+全身中毒性毒劑	全身中毒性毒剂	quán shēn zhōng dú xìng dú jì	systemic agent/systemic gas/systemic poison
+冷卻劑	冷却剂	lěng què jì	coolant
+凝固劑	凝固剂	níng gù jì	solidifying agent/coagulant
+利尿劑	利尿剂	lì niào jì	diuretic
+制酸劑	制酸剂	zhì suān jì	antacid (medicine)
+刺激劑	刺激剂	cì jī jì	irritant agent
+中和劑	中和剂	zhōng hé jì	neutralizing agent/neutralizer
+劑型	剂型	jì xíng	delivery mechanism of a medicine (e.g. pill, powder etc)
+劑子	剂子	jì zi	piece of dough cut to the right size (for making jiaozi etc)
+劑量	剂量	jì liàng	dosage/prescribed dose of medicine
+劑量效應	剂量效应	jì liàng xiào yìng	dose effect
+劑量當量	剂量当量	jì liàng dāng liàng	dose equivalent
+劑量監控	剂量监控	jì liàng jiān kòng	monitoring
+助劑	助剂	zhù jì	additive/reagent
+助焊劑	助焊剂	zhù hàn jì	flux (metallurgy)
+助熔劑	助熔剂	zhù róng jì	flux
+化學劑量計	化学剂量计	huà xué jì liàng jì	chemical dosimeter
+化學戰劑	化学战剂	huà xué zhàn jì	chemical warfare agent
+化學戰劑檢毒箱	化学战剂检毒箱	huà xué zhàn jì jiǎn dú xiāng	chemical detection kit
+升壓劑	升压剂	shēng yā jì	vasopressor agent/antihypotensive agent (medicine)
+去垢劑	去垢剂	qù gòu jì	detergent
+反安慰劑	反安慰剂	fǎn ān wèi jì	nocebo
+反興奮劑	反兴奋剂	fǎn xīng fèn jì	anti-doping/anti-stimulant/policy against drugs in sports
+受體拮抗劑	受体拮抗剂	shòu tǐ jié kàng jì	receptor antagonist
+合成洗滌劑	合成洗涤剂	hé chéng xǐ dí jì	synthetic detergent
+吸入劑	吸入剂	xī rù jì	inhalant
+吸收劑量	吸收剂量	xī shōu jì liàng	absorbed dose
+吸附劑	吸附剂	xī fù jì	absorbent
+吸附洗消劑	吸附洗消剂	xī fù xǐ xiāo jì	absorbing decontaminant
+單方製劑	单方制剂	dān fāng zhì jì	prescribed preparation
+噴嚏劑	喷嚏剂	pēn tì jì	sternutator
+圓珠形離子交換劑	圆珠形离子交换剂	yuán zhū xíng lí zǐ jiāo huàn jì	bead-type ion exchanger
+塑化劑	塑化剂	sù huà jì	plasticizer
+塗白劑	涂白剂	tú bái jì	a white paint applied to tree trunks to protect the trees from insect damage etc
+塗飾劑	涂饰剂	tú shì jì	coating agent/finishing agent
+填充劑	填充剂	tián chōng jì	bulking agent
+增塑劑	增塑剂	zēng sù jì	plasticizer
+增白劑	增白剂	zēng bái jì	whitener/whitening agent
+增稠劑	增稠剂	zēng chóu jì	thickener
+外加劑	外加剂	wài jiā jì	additive
+安慰劑	安慰剂	ān wèi jì	placebo
+局部麻醉劑	局部麻醉剂	jú bù má zuì jì	local anesthetic
+平均劑量	平均剂量	píng jūn jì liàng	average dose
+幻覺劑	幻觉剂	huàn jué jì	hallucinogen
+強心劑	强心剂	qiáng xīn jì	cardiac stimulant
+慢化劑	慢化剂	màn huà jì	moderator
+抑制劑	抑制剂	yì zhì jì	suppressant/inhibitor
+抗凝血劑	抗凝血剂	kàng níng xuè jì	anticoagulant
+抗氧化劑	抗氧化剂	kàng yǎng huà jì	antioxidant
+抗組胺劑	抗组胺剂	kàng zǔ àn jì	antihistamine (medicine)
+持久性毒劑	持久性毒剂	chí jiǔ xìng dú jì	persistent agent
+指示劑	指示剂	zhǐ shì jì	indicator
+推進劑	推进剂	tuī jìn jì	propellant/rocket fuel
+提神劑	提神剂	tí shén jì	stimulant/psychostimulant/agrypnotic
+散劑	散剂	sǎn jì	powder medicine
+方劑	方剂	fāng jì	prescription/recipe (Chinese medicine)
+有機磷毒劑	有机磷毒剂	yǒu jī lín dú jì	organophosphorus agent
+枯葉劑	枯叶剂	kū yè jì	Agent Orange (herbicide)
+染髮劑	染发剂	rǎn fà jì	hair dye/rinse/tint
+柔軟劑	柔软剂	róu ruǎn jì	fabric softener
+柔順劑	柔顺剂	róu shùn jì	fabric softener
+栓劑	栓剂	shuān jì	suppository
+橙劑	橙剂	chéng jì	Agent Orange (herbicide)
+橙色劑	橙色剂	chéng sè jì	Agent Orange (herbicide)
+橙色戰劑	橙色战剂	chéng sè zhàn jì	Agent Orange (herbicide)
+止汗劑	止汗剂	zhǐ hàn jì	anti-perspirant
+止痛劑	止痛剂	zhǐ tòng jì	an analgesic/pain killer
+殺真菌劑	杀真菌剂	shā zhēn jūn jì	fungicide
+殺菌劑	杀菌剂	shā jūn jì	a disinfectant
+殺螺劑	杀螺剂	shā luó jì	snail poison
+殺蟲劑	杀虫剂	shā chóng jì	insecticide/pesticide
+毒劑	毒剂	dú jì	a poison/a toxic agent/poison gas/a chemical weapon
+毒劑彈	毒剂弹	dú jì dàn	gas projectile
+毒劑震檢	毒剂震检	dú jì zhèn jiǎn	gas detection
+毒害劑量	毒害剂量	dú hài jì liàng	poisoning dose
+氣霧劑	气雾剂	qì wù jì	aerosol
+氧化劑	氧化剂	yǎng huà jì	oxidant/oxidizing agent
+沖劑	冲剂	chōng jì	medicine to be taken after being mixed with water (or other liquid)
+沖服劑	冲服剂	chōng fú jì	dose of medicine to be taken in solution/infusion
+泥敷劑	泥敷剂	ní fū jì	poultice
+注射劑	注射剂	zhù shè jì	injection/shot
+洗消劑	洗消剂	xǐ xiāo jì	decontaminant/decontaminating agent
+洗滌劑	洗涤剂	xǐ dí jì	cleaning agent/detergent
+洗潔劑	洗洁剂	xǐ jié jì	detergent
+洗髮劑	洗发剂	xǐ fà jì	shampoo
+活性劑	活性剂	huó xìng jì	reagent (chemistry)
+浸劑	浸剂	jìn jì	infusion (pharm.)
+消毒劑	消毒剂	xiāo dú jì	disinfectant
+消除毒劑	消除毒剂	xiāo chú dú jì	decontamination
+混凝劑	混凝剂	hùn níng jì	coagulant
+混合毒劑	混合毒剂	hùn hé dú jì	tactical mixture of chemical agents
+添加劑	添加剂	tiān jiā jì	additive/food additive
+清潔劑	清洁剂	qīng jié jì	detergent/cleaning solution
+湯劑	汤剂	tāng jì	decoction/potion
+溶劑	溶剂	róng jì	solvent
+滴劑	滴剂	dī jì	to drip (e.g. medical drip feed)
+漂白劑	漂白剂	piǎo bái jì	bleach
+潤滑劑	润滑剂	rùn huá jì	lubricant
+濕潤劑	湿润剂	shī rùn jì	moistener/wetting agent
+煙霧劑	烟雾剂	yān wù jì	aerosol
+燃燒劑	燃烧剂	rán shāo jì	incendiary agent
+燻蒸劑	熏蒸剂	xūn zhēng jì	fumigant
+片劑	片剂	piān jì	tablet
+甘味劑	甘味剂	gān wèi jì	sweetener
+甘油栓劑	甘油栓剂	gān yóu shuān jì	glycerine suppository
+甜味劑	甜味剂	tián wèi jì	sweetener (food additive)
+生物劑量儀	生物剂量仪	shēng wù jì liàng yí	biological dosimeter
+生物化學站劑	生物化学站剂	shēng wù huà xué zhàn jì	biological-chemical warfare agent
+生物戰劑	生物战剂	shēng wù zhàn jì	biological agent/biological warfare agent
+生物製劑	生物制剂	shēng wù zhì jì	biological product
+生髮劑	生发剂	shēng fà jì	hair restorer/hair regrowth tonic
+當量劑量	当量剂量	dāng liàng jì liàng	equivalent dose
+發泡劑	发泡剂	fā pào jì	foaming agent/blowing agent
+白色戰劑	白色战剂	bái sè zhàn jì	Agent White
+矯味劑	矫味剂	jiǎo wèi jì	corrective agent/flavoring agent
+砷製劑	砷制剂	shēn zhì jì	arsphenamine
+神經性毒劑	神经性毒剂	shén jīng xìng dú jì	nerve agent/nerve gas
+空氣劑量	空气剂量	kōng qì jì liàng	air dose
+窒息性毒劑	窒息性毒剂	zhì xī xìng dú jì	choking agent
+糊劑	糊剂	hú jì	paste/glue
+糜爛性毒劑	糜烂性毒剂	mí làn xìng dú jì	vesicant
+累積劑量	累积剂量	lěi jī jì liàng	cumulative dose
+肌肉鬆弛劑	肌肉松弛剂	jī ròu sōng chí jì	muscle relaxant (medicine)
+肺刺激性毒劑	肺刺激性毒剂	fèi cì jī xìng dú jì	lung irritant
+脫毛劑	脱毛剂	tuō máo jì	depilatory medicine
+脫色劑	脱色剂	tuō sè jì	bleaching agent/decolorant
+腐蝕劑	腐蚀剂	fǔ shí jì	a corrosive (chemical)
+膠黏劑	胶黏剂	jiāo nián jì	glue/adhesive
+自由基清除劑	自由基清除剂	zì yóu jī qīng chú jì	radical scavenger (chemistry)
+致冷劑	致冷剂	zhì lěng jì	refrigerant
+致幻劑	致幻剂	zhì huàn jì	hallucinogen
+致死劑量	致死剂量	zhì sǐ jì liàng	lethal dose
+致死性毒劑	致死性毒剂	zhì sǐ xìng dú jì	lethal agent
+興奮劑	兴奋剂	xīng fèn jì	stimulant/doping (in athletics)
+落葉劑	落叶剂	luò yè jì	defoliant
+藍色劑	蓝色剂	lán sè jì	Agent Blue
+藥劑	药剂	yào jì	medicine/medicament/drug/chemical compound
+藥劑士	药剂士	yào jì shì	druggist/pharmacist
+藥劑師	药剂师	yào jì shī	drugstore/chemist/pharmacist
+血液增強劑	血液增强剂	xuè yè zēng qiáng jì	oxyglobin
+表面活化劑	表面活化剂	biǎo miàn huó huà jì	surfactant
+表面活性劑	表面活性剂	biǎo miàn huó xìng jì	surfactant
+製劑	制剂	zhì jì	(chemical or pharmaceutical) preparation
+解毒劑	解毒剂	jiě dú jì	an antidote
+解痙劑	解痉剂	xiè jìng jì	antispasmodic (pharm.)
+試劑	试剂	shì jì	reagent
+誘變劑	诱变剂	yòu biàn jì	mutagen
+誘食劑	诱食剂	yòu shí jì	feeding attractant/phagostimulant
+調劑	调剂	tiáo jì	to adjust/to balance/to make up a medical prescription
+調味劑	调味剂	tiáo wèi jì	flavoring agent
+賦形劑	赋形剂	fù xíng jì	(pharm.) vehicle/excipient
+起雲劑	起云剂	qǐ yún jì	clouding agent/emulsifier
+輻射劑量	辐射剂量	fú shè jì liàng	radiation dose
+輻射劑量率	辐射剂量率	fú shè jì liàng lǜ	radiation dose rate
+迷幻劑	迷幻剂	mí huàn jì	a psychedelic/hallucinogen
+速效性毒劑	速效性毒剂	sù xiào xìng dú jì	quick-acting agent
+還原劑	还原剂	huán yuán jì	reducing agent
+酊劑	酊剂	dīng jì	tincture
+重活化劑	重活化剂	zhòng huó huà jì	reactivator
+針劑	针剂	zhēn jì	fluid loaded into a syringe for a hypodermic injection
+針劑瓶	针剂瓶	zhēn jì píng	ampoule
+鎮定劑	镇定剂	zhèn dìng jì	tranquilizer/depressant/sedative
+鎮痙劑	镇痉剂	zhèn jìng jì	antispasmodic (pharmacology)
+鎮痛劑	镇痛剂	zhèn tòng jì	painkiller/analgesic/anodyne
+鎮靜劑	镇静剂	zhèn jìng jì	tranquilizer
+防凍劑	防冻剂	fáng dòng jì	antifreeze agent
+防腐劑	防腐剂	fáng fǔ jì	preservative/antiseptic
+除垢劑	除垢剂	chú gòu jì	detergent
+除臭劑	除臭剂	chú chòu jì	deodorant
+除草劑	除草剂	chú cǎo jì	weed killer/herbicide
+顯影劑	显影剂	xiǎn yǐng jì	developer (photographic processing)/contrast medium (medical imaging)
+香體劑	香体剂	xiāng tǐ jì	deodorant
+體香劑	体香剂	tǐ xiāng jì	(personal) deodorant
+麻醉劑	麻醉剂	má zuì jì	narcotic/anesthetic
+黏合劑	黏合剂	nián hé jì	glue

@@ -1,0 +1,24 @@
+烷	烷	wán	alkane
+三氯已烷	三氯已烷	sān lǜ yǐ wán	trichloroethane
+三氯甲烷	三氯甲烷	sān lǜ jiǎ wán	chloroform CHCl3/trichloromethane
+丙烷	丙烷	bǐng wán	propane
+乙烷	乙烷	yǐ wán	ethane (C2H6)
+乙酰胺吡咯烷酮	乙酰胺吡咯烷酮	yǐ xiān àn bǐ luò wán tóng	piracetam (C6H10N2O2)
+二氯乙烷中毒	二氯乙烷中毒	èr lǜ yǐ wán zhōng dú	dichloroethane poisoning
+二氯甲烷	二氯甲烷	èr lǜ jiǎ wán	dichloromethane
+十六烷值	十六烷值	shí liù wán zhí	cetane number (quality of light diesel fuel, measured by its ignition delay)
+氯甲烷	氯甲烷	lǜ jiǎ wán	methyl chloride CH3Cl
+丁烷	丁烷	dīng wán	butane
+烷基	烷基	wán jī	alkyl
+烷基苯	烷基苯	wán jī běn	alkyl benzene/dodecylbenzene C18H30
+烷基苯磺酸鈉	烷基苯磺酸钠	wán jī běn huáng suān nà	sodium dodecylbenzene sulfonate (used as a bubbling agent in detergents)
+烷氧基	烷氧基	wán yǎng jī	alkoxy (chemistry)
+烷烴	烷烃	wán tīng	alkane
+環氧乙烷	环氧乙烷	huán yǎng yǐ wán	ethylene oxide
+環烷烴	环烷烃	huán wán tīng	cycloalkane
+甲烷	甲烷	jiǎ wán	methane CH4
+異丁烷	异丁烷	yì dīng wán	isobutane
+莰烷	莰烷	kǎn wán	camphane/bornane C10H18
+菠烷	菠烷	bō wán	bornane/camphane C10H18
+辛烷值	辛烷值	xīn wán zhí	octane rating
+酚甲烷	酚甲烷	fēn jiǎ wán	(Tw) bisphenol A (BPA)

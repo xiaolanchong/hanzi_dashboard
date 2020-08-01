@@ -1,0 +1,22 @@
+葦	苇	wěi	reed/rush/Phragmites communis
+噪大葦鶯	噪大苇莺	zào dà wěi yīng	(bird species of China) clamorous reed warbler (Acrocephalus stentoreus)
+大葦鶯	大苇莺	dà wěi yīng	(bird species of China) great reed warbler (Acrocephalus arundinaceus)
+小葦鳽	小苇鳽	xiǎo wěi jiān	(bird species of China) little bittern (Ixobrychus minutus)
+布氏葦鶯	布氏苇莺	Bù shì wěi yīng	(bird species of China) Blyth's reed warbler (Acrocephalus dumetorum)
+東方大葦鶯	东方大苇莺	dōng fāng dà wěi yīng	(bird species of China) oriental reed warbler (Acrocephalus orientalis)
+栗葦鳽	栗苇鳽	lì wěi yán	(bird species of China) cinnamon bittern (Ixobrychus cinnamomeus)
+水蒲葦鶯	水蒲苇莺	shuǐ pú wěi yīng	(bird species of China) sedge warbler (Acrocephalus schoenobaenus)
+稻田葦鶯	稻田苇莺	dào tián wěi yīng	(bird species of China) paddyfield warbler (Acrocephalus agricola)
+紅頸葦鵐	红颈苇鹀	hóng jǐng wěi wú	(bird species of China) Japanese reed bunting (Emberiza yessoensis)
+紫背葦鳽	紫背苇鳽	zǐ bèi wěi yán	(bird species of China) von Schrenck's bittern (Ixobrychus eurhythmus)
+細紋葦鶯	细纹苇莺	xì wén wěi yīng	(bird species of China) speckled reed warbler (Acrocephalus sorghophilus)
+厚嘴葦鶯	厚嘴苇莺	hòu zuǐ wěi yīng	(bird species of China) thick-billed warbler (Phragamaticola aedon)
+葦席	苇席	wěi xí	reed mat
+葦箔	苇箔	wěi bó	reed matting/reed screen
+葦鵐	苇鹀	wěi wú	(bird species of China) Pallas's reed bunting (Emberiza pallasi)
+蘆葦	芦苇	lú wěi	reed
+蘆葦鶯	芦苇莺	lú wěi yīng	(bird species of China) Eurasian reed warbler (Acrocephalus scirpaceus)
+遠東葦鶯	远东苇莺	Yuǎn dōng wěi yīng	(bird species of China) Manchurian reed warbler (Acrocephalus tangorum)
+鈍翅葦鶯	钝翅苇莺	dùn chì wěi yīng	(bird species of China) blunt-winged warbler (Acrocephalus concinens)
+黃葦鳽	黄苇鳽	huáng wěi yán	(bird species of China) yellow bittern (Ixobrychus sinensis)
+黑眉葦鶯	黑眉苇莺	hēi méi wěi yīng	(bird species of China) black-browed reed warbler (Acrocephalus bistrigiceps)

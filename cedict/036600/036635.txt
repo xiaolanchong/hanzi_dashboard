@@ -1,0 +1,4 @@
+輛	辆	liàng	classifier for vehicles
+裝甲車輛	装甲车辆	zhuāng jiǎ chē liàng	armored vehicles
+車輛	车辆	chē liàng	vehicle
+機動車輛	机动车辆	jī dòng chē liàng	motor vehicle

@@ -1,0 +1,200 @@
+程	程	Chéng	surname Cheng
+程	程	chéng	rule/order/regulations/formula/journey/procedure/sequence
+一級方程式	一级方程式	Yī jí Fāng chéng shì	Formula One
+三次方程	三次方程	sān cì fāng chéng	cubic equation (math.)
+不定方程	不定方程	bù dìng fāng chéng	(math.) indeterminate equation
+並行程序	并行程序	bìng xíng chéng xù	parallel program
+中國工程院	中国工程院	Zhōng guó Gōng chéng yuàn	Chinese Academy of Engineering
+中程	中程	zhōng chéng	medium-range
+二次方程	二次方程	èr cì fāng chéng	quadratic equation
+人機工程	人机工程	rén jī gōng chéng	ergonomics/man-machine engineering
+代數方程	代数方程	dài shù fāng chéng	algebraic equation/polynomial equation
+偏微分方程	偏微分方程	piān wēi fēn fāng chéng	partial differential equation (PDE)
+價值工程	价值工程	jià zhí gōng chéng	value engineering
+入門課程	入门课程	rù mén kè chéng	introductory course/primer
+全程	全程	quán chéng	the whole distance/from beginning to end
+全端工程師	全端工程师	quán duān gōng chéng shī	full-stack developer (computing)
+共享程序庫	共享程序库	gòng xiǎng chéng xù kù	shared library (computing)
+兼程	兼程	jiān chéng	to travel at double speed/to make all haste
+函授課程	函授课程	hán shòu kè chéng	correspondence course
+刁藩都方程	刁藩都方程	Diāo fān dōu fāng chéng	Diophantine equation
+刨程	刨程	bào chéng	planing length
+前程	前程	qián chéng	future (career etc) prospects
+前程遠大	前程远大	qián chéng yuǎn dà	to have a future full of promise
+化學工程	化学工程	huà xué gōng chéng	chemical engineering
+化學方程式	化学方程式	huà xué fāng chéng shì	chemical equation
+半路殺出個程咬金	半路杀出个程咬金	bàn lù shā chū gè Chéng Yǎo jīn	lit. Cheng Yaojin ambushes the enemy (saying)/fig. sb shows up unexpectedly and disrupts the plan/sb whose presence is regarded as irksome
+半路殺出的程咬金	半路杀出的程咬金	bàn lù shā chū de Chéng Yǎo jīn	see 半路殺出個程咬金|半路杀出个程咬金[bàn lù shā chū gè Chéng Yǎo jīn]
+半音程	半音程	bàn yīn chéng	semitone
+去程	去程	qù chéng	outbound trip
+可擦寫可編程只讀存儲器	可擦写可编程只读存储器	kě cā xiě kě biān chéng zhī dú cún chǔ qì	EPROM (erasable programmable read-only memory)
+可編程	可编程	kě biān chéng	programmable
+各奔前程	各奔前程	gè bèn qián chéng	each goes his own way (idiom); each person has his own life to lead
+啟程	启程	qǐ chéng	to set out on a journey
+單程	单程	dān chéng	one-way (ticket)
+回程	回程	huí chéng	return trip
+土力工程	土力工程	tǔ lì gōng chéng	geotechnical engineering
+土方工程	土方工程	tǔ fāng gōng chéng	earthwork
+土木工程	土木工程	tǔ mù gōng chéng	civil engineering
+基因工程	基因工程	jī yīn gōng chéng	genetic engineering
+外掛程式	外挂程式	wài guà chéng shì	plug-in (software) (Tw)
+外搭程式	外搭程式	wài dā chéng shì	add-on software (Tw)
+多項式方程	多项式方程	duō xiàng shì fāng chéng	(math.) polynomial equation
+多項式方程組	多项式方程组	duō xiàng shì fāng chéng zǔ	(math.) system of polynomial equations
+天路歷程	天路历程	Tiān lù Lì chéng	Pilgrim's Progress, 1678 novel by John Bunyan (first Chinese translation 1851)
+子程序	子程序	zǐ chéng xù	subroutine
+安居工程	安居工程	ān jū gōng chéng	housing project for low-income urban residents
+安徽工程科技學院	安徽工程科技学院	Ān huī Gōng chéng Kē jì Xué yuàn	Anhui University of Technology and Science
+射程	射程	shè chéng	range/reach/firing range
+專程	专程	zhuān chéng	specifically/specially (for that purpose)
+屏幕保護程序	屏幕保护程序	píng mù bǎo hù chéng xù	screensaver
+工作流程	工作流程	gōng zuò liú chéng	workflow
+工程	工程	gōng chéng	engineering/an engineering project/project/undertaking/CL:個|个[gè],項|项[xiàng]
+工程圖	工程图	gōng chéng tú	engineering graphics/technical drawing
+工程圖學	工程图学	gōng chéng tú xué	engineering graphics/technical drawing
+工程學	工程学	gōng chéng xué	engineering
+工程師	工程师	gōng chéng shī	engineer/CL:個|个[gè],位[wèi],名[míng]
+差分方程	差分方程	chā fēn fāng chéng	difference equation (math.)
+常微分方程	常微分方程	cháng wēi fēn fāng chéng	ordinary differential equation (ODE)
+引水工程	引水工程	yǐn shuǐ gōng chéng	water-induction engineering/irrigation engineering
+往程	往程	wǎng chéng	outbound leg (of a bus or train journey etc)
+征程	征程	zhēng chéng	journey/expedition/voyage
+後台進程	后台进程	hòu tái jìn chéng	background process (computing)
+微分方程	微分方程	wēi fēn fāng chéng	differential equation (math.)
+應用程式	应用程式	yìng yòng chéng shì	application/(computer) program
+應用程式介面	应用程式介面	yìng yòng chéng shì jiè miàn	application programming interface/API
+抓取程序	抓取程序	zhuā qǔ chéng xù	spider or crawler bot (Internet)
+提上議事日程	提上议事日程	tí shàng yì shì rì chéng	to put (sth) on the agenda
+提水工程	提水工程	tí shuǐ gōng chéng	project to raise low-lying water for irrigation purposes
+操作規程	操作规程	cāo zuò guī chéng	operating rules/work regulations
+攜程旅行網	携程旅行网	Xié chéng Lǚ xíng Wǎng	Ctrip.com, PRC travel agency
+改革進程	改革进程	gǎi gé jìn chéng	reform process
+教程	教程	jiào chéng	course of study/teaching module at university/tutorial
+方程	方程	fāng chéng	mathematical equation
+方程式	方程式	fāng chéng shì	equation
+方程組	方程组	fāng chéng zǔ	(math.) simultaneous equations/system of equations
+旅程	旅程	lǚ chéng	journey/trip
+旅程表	旅程表	lǚ chéng biǎo	itinerary
+日夜兼程	日夜兼程	rì yè jiān chéng	to travel day and night
+日程	日程	rì chéng	schedule/itinerary/CL:個|个[gè]
+日程表	日程表	rì chéng biǎo	daily schedule
+映射過程	映射过程	yìng shè guò chéng	mapping process
+時程	时程	shí chéng	timetable/schedule
+時間進程	时间进程	shí jiān jìn chéng	time course
+普雷克斯流程	普雷克斯流程	pǔ léi kè sī liú chéng	purex
+核工程	核工程	hé gōng chéng	nuclear engineering
+機械工程	机械工程	jī xiè gōng chéng	mechanical engineering
+歷程	历程	lì chéng	course/process
+歸程	归程	guī chéng	return trip/homeward journey
+水利工程	水利工程	shuǐ lì gōng chéng	hydraulic engineering
+沾染程度檢查儀	沾染程度检查仪	zhān rǎn chéng dù jiǎn chá yí	contamination meter
+波方程	波方程	bō fāng chéng	wave equation (math. physics)
+流程	流程	liú chéng	course/stream/sequence of processes/work flow in manufacturing
+流程圖	流程图	liú chéng tú	flow chart
+流程表	流程表	liú chéng biǎo	flow chart
+減壓程序	减压程序	jiǎn yā chéng xù	decompression schedule
+源程序	源程序	yuán chéng xù	source code (computing)
+生物工程	生物工程	shēng wù gōng chéng	bioengineering/genetic engineering
+生物工程學	生物工程学	shēng wù gōng chéng xué	biotechnology
+生物醫學工程	生物医学工程	shēng wù yī xué gōng chéng	biomedical engineering
+產程	产程	chǎn chéng	the process of childbirth
+病程	病程	bìng chéng	course of disease
+療程	疗程	liáo chéng	course of treatment
+盤程	盘程	pán chéng	see 盤纏|盘缠[pán chan]
+知識工程師	知识工程师	zhī shi gōng chéng shī	knowledge worker
+短程	短程	duǎn chéng	short range
+短程線	短程线	duǎn chéng xiàn	a geodesic (curve)/a shortest curve
+研製過程	研制过程	yán zhì guò chéng	manufacturing environment
+一次方程	一次方程	yī cì fāng chéng	linear equation
+一次方程式	一次方程式	yī cì fāng chéng shì	linear equation (math.)
+程不識	程不识	Chéng Bù shí	Cheng Bushi, Han dynasty general
+程咬金	程咬金	Chéng Yǎo jīn	Cheng Yaojin (589-665), aka 程知節|程知节[Chéng Zhī jié], Chinese general of the Tang dynasty
+程子	程子	chéng zi	(Beijing dialect) see 陣子|阵子[zhèn zi]
+程序	程序	chéng xù	procedures/sequence/order/computer program
+程序員	程序员	chéng xù yuán	programmer
+程序庫	程序库	chéng xù kù	program library (computing)
+程序性	程序性	chéng xù xìng	program
+程序法	程序法	chéng xù fǎ	procedural law
+程序猿	程序猿	chéng xù yuán	(Internet slang) code monkey
+程序碼	程序码	chéng xù mǎ	source code (computing)
+程序設計	程序设计	chéng xù shè jì	computer programming
+程度	程度	chéng dù	degree (level or extent)/level/CL:個|个[gè]
+程式	程式	chéng shì	form/pattern/formula/program
+程式碼	程式码	chéng shì mǎ	source code (computing) (Tw)
+程式管理員	程式管理员	chéng shì guǎn lǐ yuán	program manager (Windows)
+程式語言	程式语言	chéng shì yǔ yán	programming language
+程控	程控	chéng kòng	programmed/under automatic control
+程控交換機	程控交换机	chéng kòng jiāo huàn jī	electronic switching system (telecom.)/stored program control exchange (SPC)
+程控電話	程控电话	chéng kòng diàn huà	automatic telephone exchange
+程昱	程昱	Chéng Yù	Cheng Yu (141-220), advisor to General Cao Cao 曹操 during the Three Kingdoms era
+程海湖	程海湖	Chéng hǎi Hú	Chenghai Lake in Lijiang 麗江市|丽江市, Hunan
+程硯秋	程砚秋	Chéng Yàn qiū	Cheng Yanqiu (1904-1958), famous Beijing opera star, second only to 梅蘭芳|梅兰芳[Méi Lán fāng]
+程邈	程邈	Chéng Miǎo	Cheng Miao, a jailer-turned-prisoner in the Qin dynasty who created the clerical style of Chinese calligraphy
+程錯	程错	chéng cuò	(computing) glitch/bug
+程門立雪	程门立雪	Chéng mén lì xuě	lit. the snow piles up at Cheng Yi's door (idiom)/fig. deep reverence for one's master
+程頤	程颐	Chéng Yí	Cheng Yi (1033-1107), Song neo-Confucian scholar
+程顥	程颢	Chéng Hào	Cheng Hao (1032-1085), Song neo-Confucian scholar
+積分方程	积分方程	jī fēn fāng chéng	integral equation (math.)
+章程	章程	zhāng chéng	rules/regulations/constitution/statute/articles of association (of company)/articles of incorporation/charter (of a corporation)/by-laws
+結合過程	结合过程	jié hé guò chéng	cohesive process(es)
+線性方程	线性方程	xiàn xìng fāng chéng	linear equation (math.)
+線程	线程	xiàn chéng	(computing) thread
+編程	编程	biān chéng	(computing) to program/programming
+聯立方程式	联立方程式	lián lì fāng chéng shì	simultaneous equations (math.)
+航程	航程	háng chéng	flight/passage/sea or air distance
+英國工程技術學會	英国工程技术学会	Yīng guó Gōng chéng Jì shù Xué huì	The Institution of Engineering and Technology (IET)
+薛定諤方程	薛定谔方程	Xuē dìng è fāng chéng	Schrödinger's wave equation
+螢幕保護程式	萤幕保护程式	yíng mù bǎo hù chéng shì	screensaver (Tw)
+行程	行程	xíng chéng	journey/course of a journey/distance traveled/trajectory/itinerary/route/course (of history)/stroke (of a piston)/(Tw) (computing) process
+行程單	行程单	xíng chéng dān	(e-ticket) itinerary receipt
+衝程	冲程	chōng chéng	stroke (of a piston)
+補足音程	补足音程	bǔ zú yīn chéng	complementary interval/addition musical interval adding to an octave
+製程	制程	zhì chéng	manufacturing process/processing
+規程	规程	guī chéng	rules/regulations
+計程車	计程车	jì chéng chē	(Tw) taxi/cab
+設計程序	设计程序	shè jì chéng xù	design process
+設計程式	设计程式	shè jì chéng shì	programming
+課程	课程	kè chéng	course/academic program/CL:堂[táng],節|节[jié],門|门[mén]
+課程表	课程表	kè chéng biǎo	class timetable
+議程	议程	yì chéng	agenda/agenda item
+豆腐渣工程	豆腐渣工程	dòu fu zhā gōng chéng	jerry-built building project/lit. built on soybean dregs
+資訊工程	资讯工程	zī xùn gōng chéng	information engineering (Tw)
+賽程	赛程	sài chéng	competition schedule/the course of a race
+起程	起程	qǐ chéng	to set out/to leave
+路程	路程	lù chéng	route/path traveled/distance traveled/course (of development)
+車程	车程	chē chéng	travel time/expected time for a car journey
+轉變過程	转变过程	zhuǎn biàn guò chéng	process of change
+返程	返程	fǎn chéng	return journey (e.g. home)
+透明程度	透明程度	tòu míng chéng dù	transparency
+通識課程	通识课程	tōng shí kè chéng	general course/general education course/core course/general curriculum/general education curriculum/core curriculum
+進程	进程	jìn chéng	process/course
+進行編程	进行编程	jìn xíng biān chéng	executable program
+運動方程	运动方程	yùn dòng fāng chéng	equations of motion
+運程	运程	yùn chéng	one's fortune (in astrology)
+過程	过程	guò chéng	course of events/process/CL:個|个[gè]
+過程比終點更美	过程比终点更美	guò chéng bǐ zhōng diǎn gèng měi	The process is more beautiful than the outcome./It is better to travel hopefully than to arrive.
+道路工程	道路工程	dào lù gōng chéng	road construction
+遠程	远程	yuǎn chéng	remote/long distance/long range
+遠程導彈	远程导弹	yuǎn chéng dǎo dàn	long distance missile
+遠程登錄	远程登录	yuǎn chéng dēng lù	telnet/rlogin/remote login
+遠程監控	远程监控	yuǎn chéng jiān kòng	RMON/remote monitoring
+遺傳工程	遗传工程	yí chuán gōng chéng	genetic engineering
+里程	里程	lǐ chéng	mileage (distance traveled)/course (of development)
+里程碑	里程碑	lǐ chéng bēi	milestone
+里程表	里程表	lǐ chéng biǎo	odometer
+里程計	里程计	lǐ chéng jì	speedometer (of a vehicle)
+量程	量程	liáng chéng	range (of scales or measuring equipment)
+金盾工程	金盾工程	Jīn dùn Gōng chéng	Golden Shield Project, information system for censorship and surveillance, thought to include the Great Firewall of China 防火長城|防火长城[Fáng huǒ Cháng chéng] as a component
+錦繡前程	锦绣前程	jǐn xiù qián chéng	bright future/bright prospects
+開發過程	开发过程	kāi fā guò chéng	development process
+雙程	双程	shuāng chéng	return-trip/two-way/bidirectional/double-pass
+電子工程	电子工程	diàn zǐ gōng chéng	electronic engineering
+電子穩定程序	电子稳定程序	diàn zǐ wěn dìng chéng xù	(automotive) electronic stability program (ESP)
+電機及電子學工程師聯合會	电机及电子学工程师联合会	Diàn jī jí Diàn zǐ xué Gōng chéng shī Lián hé huì	IEEE/Institute of Electrical and Electronic Engineers
+電氣工程	电气工程	diàn qì gōng chéng	electrical engineering
+電腦輔助工程	电脑辅助工程	diàn nǎo fǔ zhù gōng chéng	computer-aided engineering
+音程	音程	yīn chéng	interval (music)
+馬爾可夫過程	马尔可夫过程	Mǎ ěr kě fū guò chéng	Markov process (math.)
+驅動程序	驱动程序	qū dòng chéng xù	device driver (computing software)
+高程	高程	gāo chéng	altitude (e.g. above street level)/elevation
+鵬程萬里	鹏程万里	péng chéng wàn lǐ	the fabled roc flies ten thousand miles (idiom)/one's future prospects are brilliant

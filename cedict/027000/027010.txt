@@ -1,0 +1,41 @@
+概	概	gài	general/approximate
+槩	概	gài	old variant of 概[gài]
+上位概念	上位概念	shàng wèi gài niàn	superordinate concept
+人工概念	人工概念	rén gōng gài niàn	artificial concept
+以偏概全	以偏概全	yǐ piān gài quán	(lit.) to take a part for the whole/to generalize
+先驗概率	先验概率	xiān yàn gài lǜ	prior probability (statistics)
+基本概念	基本概念	jī běn gài niàn	basic concept
+大概	大概	dà gài	roughly/probably/rough/approximate/about/general idea
+後驗概率	后验概率	hòu yàn gài lǜ	posterior probability (statistics)
+梗概	梗概	gěng gài	synopsis/outline (of story)
+條件概率	条件概率	tiáo jiàn gài lǜ	conditional probability
+一概	一概	yī gài	all/without any exceptions/categorically
+概型	概型	gài xíng	(math.) a scheme
+概型理論	概型理论	gài xíng lǐ lùn	scheme theory (math.)
+概形	概形	gài xíng	scheme (in algebraic geometry)
+概念	概念	gài niàn	concept/idea/CL:個|个[gè]
+概念依存模型	概念依存模型	gài niàn yī cún mó xíng	conceptual dependency model
+概念化	概念化	gài niàn huà	conceptualization
+概念地圖	概念地图	gài niàn dì tú	mind map
+概念驅動加工	概念驱动加工	gài niàn qū dòng jiā gōng	concept-driven processing
+概念驗證	概念验证	gài niàn yàn zhèng	proof of concept
+概括	概括	gài kuò	to summarize/to generalize/briefly/CL:個|个[gè]
+概括化	概括化	gài kuò huà	generalization
+概數	概数	gài shù	approximate number/imprecise indication of quantity (e.g. 十幾|十几[shí jǐ], 兩三百|两三百[liǎng sān bǎi], 一千多[yī qiān duō])
+概況	概况	gài kuàng	general situation/summary
+概測法	概测法	gài cè fǎ	rough-and-ready method/rule of thumb
+概率	概率	gài lǜ	probability (math.)
+概率和數理統計	概率和数理统计	gài lǜ hé shù lǐ tǒng jì	probability and mathematical statistics
+概率論	概率论	gài lǜ lùn	probability (math.)
+概而不論	概而不论	gài ér bù lùn	fuzzy about the details
+概而言之	概而言之	gài ér yán zhī	same as 總而言之|总而言之[zǒng ér yán zhī]
+概要	概要	gài yào	outline
+概覽	概览	gài lǎn	general overview/to skim through
+概觀	概观	gài guān	to survey/to take stock of/overview
+概論	概论	gài lùn	outline/introduction/survey/general discussion
+概述	概述	gài shù	overview
+一概而論	一概而论	yī gài ér lùn	to lump different matters together (idiom)
+毛概	毛概	Máo Gài	Introduction to Maoism (subject)/abbr. for 毛澤東思想概論|毛泽东思想概论[Máo Zé dōng Sī xiǎng Gài lùn]
+氣概	气概	qì gài	lofty quality/mettle/spirit
+男子氣概	男子气概	nán zǐ qì gài	masculinity/manliness
+騎士氣概	骑士气概	qí shì qì gài	chivalry

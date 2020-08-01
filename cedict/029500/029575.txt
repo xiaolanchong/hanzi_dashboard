@@ -1,0 +1,151 @@
+率	率	lǜ	rate/frequency
+率	率	shuài	to lead/to command/rash/hasty/frank/straightforward/generally/usually
+傳輸率	传输率	chuán shū lǜ	transmission rate
+傳輸速率	传输速率	chuán shū sù lǜ	transmission rate/transmission speed
+儲蓄率	储蓄率	chǔ xù lǜ	savings rate
+先驗概率	先验概率	xiān yàn gài lǜ	prior probability (statistics)
+光功率	光功率	guāng gōng lǜ	optical power
+兌換率	兑换率	duì huàn lǜ	currency exchange rate
+入學率	入学率	rù xué lǜ	percentage of children who enter school
+出生率	出生率	chū shēng lǜ	birthrate
+分辨率	分辨率	fēn biàn lǜ	resolution (of images, monitors, scanners etc)
+利息率	利息率	lì xi lǜ	interest rate
+利潤率	利润率	lì rùn lǜ	profit margin
+利率	利率	lì lǜ	interest rates
+到期收益率	到期收益率	dào qī shōu yì lǜ	(finance) yield to maturity (YTM)
+功率	功率	gōng lǜ	rate of work/power (output)
+功率惡化	功率恶化	gōng lǜ è huà	power penalty
+功率輸出	功率输出	gōng lǜ shū chū	power output (of an electrical device etc)
+加工效率	加工效率	jiā gōng xiào lǜ	processing efficiency
+匯率	汇率	huì lǜ	exchange rate
+參選率	参选率	cān xuǎn lǜ	voter turnout
+反照率	反照率	fǎn zhào lǜ	reflectivity/albedo
+可決率	可决率	kě jué lǜ	proportion needed to approve a decision
+命中率	命中率	mìng zhòng lǜ	hit rate/scoring rate
+圓周率	圆周率	yuán zhōu lǜ	(math.) the ratio of the circumference of a circle to its diameter (π)
+坦率	坦率	tǎn shuài	frank (discussion)/blunt/open
+基本利率	基本利率	jī běn lì lǜ	base rate (e.g. interest rate set by central bank)
+基礎速率	基础速率	jī chǔ sù lǜ	basic rate (as in ISDN)
+增長率	增长率	zēng zhǎng lǜ	growth rate (esp. in economics)
+失業率	失业率	shī yè lǜ	unemployment rate
+存款準備金率	存款准备金率	cún kuǎn zhǔn bèi jīn lǜ	deposit-reserve ratio
+存活率	存活率	cún huó lǜ	(med.) survival rate/(med.) recovery rate
+定座率	定座率	dìng zuò lǜ	occupancy (i.e. proportion of seats occupied)
+容積效率	容积效率	róng jī xiào lǜ	volumetric efficiency (engine technology)
+就業率	就业率	jiù yè lǜ	employment rate
+市佔率	市占率	shì zhàn lǜ	market share/abbr. for 市場佔有率|市场占有率
+市場佔有率	市场占有率	shì chǎng zhàn yǒu lǜ	market share
+市淨率	市净率	shì jìng lǜ	price-to-book ratio (finance)
+市盈率	市盈率	shì yíng lǜ	PE ratio
+幀率	帧率	zhēn lǜ	frame rate
+年均增長率	年均增长率	nián jūn zēng zhǎng lǜ	annual rate of growth
+幾率	几率	jī lǜ	probability/odds
+後驗概率	后验概率	hòu yàn gài lǜ	posterior probability (statistics)
+得票率	得票率	dé piào lǜ	percentage of votes obtained
+心率	心率	xīn lǜ	heart rate
+恆速率	恒速率	héng sù lǜ	constant velocity
+息率	息率	xī lǜ	interest rate
+感染率	感染率	gǎn rǎn lǜ	rate of infection (usu. of a disease)
+成活率	成活率	chéng huó lǜ	survival rate/rate of success
+成長率	成长率	chéng zhǎng lǜ	growth rate
+或然率	或然率	huò rán lǜ	probability (math.)
+打擊率	打击率	dǎ jī lǜ	batting average (baseball etc)
+投票率	投票率	tóu piào lǜ	proportion of vote/turnout in election
+投資回報率	投资回报率	tóu zī huí bào lǜ	return on investment (ROI)
+投資報酬率	投资报酬率	tóu zī bào chóu lǜ	return on investment/rate of return
+折射率	折射率	zhé shè lǜ	index of refraction
+折現率	折现率	zhé xiàn lǜ	discount rate
+折舊率	折旧率	zhé jiù lǜ	rate of deprecation
+排擋速率	排挡速率	pái dǎng sù lǜ	gear/gear speed
+採收率	采收率	cǎi shōu lǜ	recovery ratio
+採樣率	采样率	cǎi yàng lǜ	sampling rate
+撓率	挠率	náo lǜ	the torsion (of a space curve)
+操作速率	操作速率	cāo zuò sù lǜ	operating speed
+支持率	支持率	zhī chí lǜ	support level/popularity rating
+收益率	收益率	shōu yì lǜ	earnings rate/earnings yield (finance)
+收視率	收视率	shōu shì lǜ	ratings (of a TV show)
+效率	效率	xiào lǜ	efficiency
+斜率	斜率	xié lǜ	slope
+曲率	曲率	qū lǜ	curvature
+曲率向量	曲率向量	qū lǜ xiàng liàng	curvature vector
+最大速率	最大速率	zuì dà sù lǜ	maximum speed/maximum velocity
+條件概率	条件概率	tiáo jiàn gài lǜ	conditional probability
+概率	概率	gài lǜ	probability (math.)
+概率和數理統計	概率和数理统计	gài lǜ hé shù lǐ tǒng jì	probability and mathematical statistics
+概率論	概率论	gài lǜ lùn	probability (math.)
+機率	机率	jī lǜ	probability/odds (Tw)
+死亡率	死亡率	sǐ wáng lǜ	mortality rate
+比率	比率	bǐ lǜ	ratio/rate/percentage
+波特率	波特率	bō tè lǜ	baud
+流動率	流动率	liú dòng lǜ	turnover (of staff)
+測地曲率	测地曲率	cè dì qū lǜ	geodesic curvature
+測地線曲率	测地线曲率	cè dì xiàn qū lǜ	geodesic curvature
+熱導率	热导率	rè dǎo lǜ	thermal conductivity/heat conductivity
+低速率	低速率	dī sù lǜ	low speed
+偏心率	偏心率	piān xīn lǜ	(math.) eccentricity
+率先	率先	shuài xiān	to take the lead/to show initiative
+率然	率然	shuài rán	hastily/rashly/suddenly
+率爾操觚	率尔操觚	shuài ěr cāo gū	to compose in off-hand way (idiom); to dash off
+率獸食人	率兽食人	shuài shòu shí rén	lit. to lead beasts to eat the people (idiom); fig. tyrannical government oppresses the people
+率由舊章	率由旧章	shuài yóu jiù zhāng	to act in accordance with the old rules (idiom)/to follow a proven formula
+率直	率直	shuài zhí	frank/straightforward/blunt
+率真	率真	shuài zhēn	frank and sincere/candid
+率領	率领	shuài lǐng	to lead/to command/to head
+生產率	生产率	shēng chǎn lǜ	productivity/efficiency of production
+生育率	生育率	shēng yù lǜ	birth rate
+生長率	生长率	shēng zhǎng lǜ	growth rate
+疏率	疏率	shū shuài	careless and rash/heedless
+發生率	发生率	fā shēng lǜ	rate of occurrence
+發病率	发病率	fā bìng lǜ	incidence of a disease/disease rate
+發送功率	发送功率	fā sòng gōng lǜ	transmission power/output power
+百分率	百分率	bǎi fēn lǜ	percentage/percent
+直率	直率	zhí shuài	candid/frank
+真率	真率	zhēn shuài	sincere/genuine/straightforward
+碼率	码率	mǎ lǜ	bitrate
+磨損率	磨损率	mó sǔn lǜ	attrition rate
+粗率	粗率	cū shuài	rough/coarse/crude/without due care/ill-considered
+約定資訊速率	约定资讯速率	yuē dìng zī xùn sù lǜ	committed information rate (Frame Relay)/CIR
+紅細胞沉降率	红细胞沉降率	hóng xì bāo chén jiàng lǜ	erythrocyte sedimentation rate (ESR)
+統率	统率	tǒng shuài	to command/to direct
+經濟增長率	经济增长率	jīng jì zēng zhǎng lǜ	economic growth rate
+翻桌率	翻桌率	fān zhuō lǜ	table turnover rate (in a restaurant)
+股本回報率	股本回报率	gǔ běn huí bào lǜ	return on equity (ROE)
+股本金比率	股本金比率	gǔ běn jīn bǐ lǜ	equity ratio
+草率	草率	cǎo shuài	careless/negligent/sloppy/not serious
+草率收兵	草率收兵	cǎo shuài shōu bīng	to work vaguely then retreat (idiom); sloppy and half-hearted/half-baked
+蓋率	盖率	gài lǜ	coverage
+表率	表率	biǎo shuài	example/model
+覆蓋率	覆盖率	fù gài lǜ	coverage
+規率	规率	guī lǜ	law/pattern
+角頻率	角频率	jiǎo pín lǜ	angular frequency
+計數率儀	计数率仪	jì shù lǜ yí	ratemeter
+證券化率	证券化率	zhèng quàn huà lǜ	securitization ratio
+識字率	识字率	shí zì lǜ	literacy rate
+貧困率	贫困率	pín kùn lǜ	poverty rate
+貸款率	贷款率	dài kuǎn lǜ	interest rate/loan rate
+費率	费率	fèi lǜ	rate/tariff
+貼現率	贴现率	tiē xiàn lǜ	discount rate
+軸率	轴率	zhóu lǜ	axial ratio
+輕率	轻率	qīng shuài	cavalier/offhand/reckless
+輻射劑量率	辐射剂量率	fú shè jì liàng lǜ	radiation dose rate
+轉差率	转差率	zhuǎn chā lǜ	slippage rate
+通脹率	通胀率	tōng zhàng lǜ	inflation rate
+速率	速率	sù lǜ	speed/rate
+選民參加率	选民参加率	xuǎn mín cān jiā lǜ	voter participation rate
+遺傳率	遗传率	yí chuán lǜ	heritability
+錄取率	录取率	lù qǔ lǜ	acceptance rate/admission rate
+開盤匯率	开盘汇率	kāi pán huì lǜ	opening exchange rate
+防禦率	防御率	fáng yù lǜ	earned run average (baseball)
+降低利率	降低利率	jiàng dī lì lǜ	to reduce interest rates
+零功率堆	零功率堆	líng gōng lǜ duī	zero power reactor
+零曲率	零曲率	líng qū lǜ	zero curvature/flat
+電功率	电功率	diàn gōng lǜ	electric power (measured in watts)
+電導率	电导率	diàn dǎo lǜ	electrical conductivity
+頻率	频率	pín lǜ	frequency
+頻率合成	频率合成	pín lǜ hé chéng	frequency synthesis
+頻率調制	频率调制	pín lǜ tiáo zhì	frequency modulation
+高分辨率	高分辨率	gāo fēn biàn lǜ	high resolution
+高效率	高效率	gāo xiào lǜ	high efficiency
+高速率	高速率	gāo sù lǜ	high speed
+點擊率	点击率	diǎn jī lǜ	click-through rate (CTR) (Internet)
+點閱率	点阅率	diǎn yuè lǜ	click-through rate (for websites or online advertisements)

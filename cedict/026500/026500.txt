@@ -1,0 +1,81 @@
+搆	构	gòu	variant of 構|构[gòu]/(Tw) (coll.) variant of 夠|够[gòu]/to reach by stretching
+構	构	gòu	to construct/to form/to make up/to compose/literary composition/paper mulberry (Broussonetia papyrifera)
+主謂結構	主谓结构	zhǔ wèi jié gòu	subject-predicate construction
+代數結構	代数结构	dài shù jié gòu	algebraic structure
+傳動機構	传动机构	chuán dòng jī gòu	transmission mechanism
+分佈式結構	分布式结构	fēn bù shì jié gòu	distributed architecture
+動詞結構	动词结构	dòng cí jié gòu	verbal construction (clause)
+同分異構	同分异构	tóng fēn yì gòu	isomerism (chemistry)
+同分異構體	同分异构体	tóng fēn yì gòu tǐ	isomer (chemistry)
+同構	同构	tóng gòu	isomorphism/isomorphic
+向壁虛構	向壁虚构	xiàng bì xū gòu	facing a wall, an imaginary construction (idiom); baseless fabrication
+商業機構	商业机构	shāng yè jī gòu	commercial organization
+國際原子能機構	国际原子能机构	Guó jì Yuán zǐ néng Jī gòu	International Atomic Energy Agency (IAEA)
+國際腫瘤研究機構	国际肿瘤研究机构	Guó jì Zhōng liú Yán jiū Jī gòu	International Agency for Research on Cancer (IARC)
+圍護結構	围护结构	wéi hù jié gòu	building envelope
+基礎結構	基础结构	jī chǔ jié gòu	infrastructure
+客戶服務器結構	客户服务器结构	kè hù fú wù qì jié gòu	client server architecture
+專門機構	专门机构	zhuān mén jī gòu	specialized agency
+對映異構	对映异构	duì yìng yì gòu	enantiomeric isomerism (chemistry)
+對映異構體	对映异构体	duì yìng yì gòu tǐ	enantiomeric isomer (chemistry)
+巴勒斯坦民族權力機構	巴勒斯坦民族权力机构	Bā lè sī tǎn Mín zú Quán lì Jī gòu	Palestinian National Authority
+建構	建构	jiàn gòu	to construct (often sth abstract, such as good relations)/to set up/to develop/construction (abstract)/architecture
+建構正義理論	建构正义理论	jiàn gòu zhèng yì lǐ lùn	constructivist theory
+慈善機構	慈善机构	cí shàn jī gòu	charity
+抗震結構	抗震结构	kàng zhèn jié gòu	earthquake-resistant construction
+拓撲結構	拓扑结构	tuò pū jié gòu	topological structure
+招聘機構	招聘机构	zhāo pìn jī gòu	recruiting agency
+援助機構	援助机构	yuán zhù jī gòu	relief agency/emergency service/rescue organisation
+七層架構	七层架构	qī céng jià gòu	seven layer architecture (OSI)
+政治機構	政治机构	zhèng zhì jī gòu	political organization
+教學機構	教学机构	jiào xué jī gòu	educational organization
+晶體結構	晶体结构	jīng tǐ jié gòu	crystal structure
+智囊機構	智囊机构	zhì náng jī gòu	think tank/brain trust
+板塊構造	板块构造	bǎn kuài gòu zào	plate tectonics
+架構	架构	jià gòu	to construct/to build/infrastructure/architecture/framework
+核結構	核结构	hé jié gòu	nuclear structure
+中國國家原子能機構	中国国家原子能机构	Zhōng guó Guó jiā Yuán zǐ néng Jī gòu	China Atomic Energy Agency (CAEA)
+構件	构件	gòu jiàn	member/component/part
+構圖	构图	gòu tú	(art) composition
+構型	构型	gòu xíng	structure/(spatial) configuration/arrangement/(chemistry) configuration (molecular, electron etc)
+構建	构建	gòu jiàn	to construct (sth abstract)
+構思	构思	gòu sī	to design/to plot/to plan out/to compose/to draw a mental sketch/conception/plan/idea/composition
+構想	构想	gòu xiǎng	to conceive/concept
+構想圖	构想图	gòu xiǎng tú	notional diagram (i.e. made-up picture or artist's impression for news story)
+構成	构成	gòu chéng	to constitute/to form/to compose/to make up/to configure (computing)
+構架	构架	gòu jià	structure
+構築	构筑	gòu zhù	to build/to construct
+構詞	构词	gòu cí	composite word
+構詞學	构词学	gòu cí xué	morphology (linguistics)
+構詞法意識	构词法意识	gòu cí fǎ yì shí	morphological awareness
+構造	构造	gòu zào	structure/composition/tectonic (geology)/CL:個|个[gè]
+構造運動	构造运动	gòu zào yùn dòng	tectonic movement/movement of earth's crust
+構陷	构陷	gòu xiàn	to frame/to bring false charges against
+樁構棧道	桩构栈道	zhuāng gòu zhàn dào	pile trestle
+機構	机构	jī gòu	mechanism/structure/organization/agency/institution/CL:所[suǒ]
+準穩旋渦結構	准稳旋涡结构	zhǔn wěn xuán wō jié gòu	quasi-stationary spiral structure QSSS (astrophysics)
+物理結構	物理结构	wù lǐ jié gòu	physical composition
+環形結構	环形结构	huán xíng jié gòu	ring configuration
+產品結構	产品结构	chǎn pǐn jié gòu	product mix
+異構	异构	yì gòu	isomeric (chemistry)
+異構體	异构体	yì gòu tǐ	isomer (chemistry)
+盾構機	盾构机	dùn gòu jī	tunnel boring machine
+研究機構	研究机构	yán jiū jī gòu	research organization
+立體異構	立体异构	lì tǐ yì gòu	stereoisomerism (chemistry)
+立體異構體	立体异构体	lì tǐ yì gòu tǐ	stereoisomer (chemistry)
+結構	结构	jié gòu	structure/composition/makeup/architecture/CL:座[zuò],個|个[gè]
+結構主義	结构主义	jié gòu zhǔ yì	structuralism
+結構助詞	结构助词	jié gòu zhù cí	structural particle, such as 的[de], 地[de], 得[de] and 所[suǒ]
+結構式	结构式	jié gòu shì	structural formula (chemistry)
+結構性	结构性	jié gòu xìng	structural/structured
+結構理論	结构理论	jié gòu lǐ lùn	structural theory (physics)
+經濟協力開發機構	经济协力开发机构	Jīng jì Xié lì Kāi fā Jī gòu	Organization for Economic Cooperation and Development (OECD)/also written 經濟合作與發展組織|经济合作与发展组织[Jīng jì Hé zuò yǔ Fā zhǎn Zǔ zhī]
+網路架構	网路架构	wǎng lù jià gòu	network infrastructure
+虛構	虚构	xū gòu	to make up/fabrication/fictional/imaginary
+虛構小說	虚构小说	xū gòu xiǎo shuō	fiction
+解構	解构	jiě gòu	to deconstruct
+詞素結構	词素结构	cí sù jié gòu	morphological structure
+趙構	赵构	Zhào Gòu	Zhao Gou, personal name of the tenth Song Emperor Gaozong 高宗[Gāo zōng]
+軍事機構	军事机构	jūn shì jī gòu	military institution
+重構	重构	chóng gòu	to reconstruct/reconstruction/(computing) refactoring
+金融機構	金融机构	jīn róng jī gòu	financial institution/banking institution
