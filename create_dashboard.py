@@ -6,6 +6,10 @@ import re
 from pinyin_splitter import PinyinSplitter
 
 
+# no Unicode extension
+re_cjk = re.compile(r'([\u4E00-\u9FFF]+)')
+
+
 def read_hsk_list():
     with open(os.path.join('lists', 'hsk_list.txt'), encoding='utf8') as f:
         for line in f.readlines()[1:]:
@@ -42,7 +46,14 @@ def read_wenlin_list():
             hanzi, traditional, pinyin, meaning = line.split('\t')
             pinyin_arr = ((syl, get_tone_number(syl)) for syl in pinyin.split())
             colored_meaning = surround_pinyin(meaning)
+            colored_meaning = surround_hanzi(colored_meaning)
             yield hanzi, traditional, pinyin_arr, colored_meaning
+
+
+def surround_hanzi(meaning):
+    def replace(m):
+        return f'<span class="hanzi">{m.group(1)}</span>'
+    return re_cjk.sub(replace, meaning)
 
 
 splitter = PinyinSplitter()

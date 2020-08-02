@@ -1,14 +1,14 @@
 
 $( document ).ready(() => {
     $('input.showAll').change((ev) => {
-        $('.hanzi, .meaning, .meaning>span').removeClass('hidden')
+        $('.hanzi, .meaning, .meaning>span, .pinyin>span').removeClass('hidden')
     })
-    $('input.hideTranslation').change( (ev) => {
-        $('.meaning, .meaning>span').addClass('hidden')
+    $('input.hideMeaning').change( (ev) => {
+        $('.meaning, .meaning>span, .pinyin>span').addClass('hidden')
         $('.hanzi').removeClass('hidden')
     })
-    $('input.hideWord').change((ev) => {
-        $('.meaning, .meaning>span').removeClass('hidden')
-        $('.hanzi').addClass('hidden')
+    $('input.hideHanzi').change((ev) => {
+        $('.meaning').removeClass('hidden')
+        $('.hanzi, .meaning>span, .pinyin>span').addClass('hidden')
     })
 });

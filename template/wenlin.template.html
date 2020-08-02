@@ -29,7 +29,6 @@
 {% endblock %}
 
 
-
 {% block body %}
     <h1>3800 иероглифов частотного списка Wenlin</h1>
     <section>
@@ -40,11 +39,11 @@
         <input type="radio" id="showAll" name="visibility" value="1" class="showAll" checked />
         <label for="showAll">Показать всё</label>
 
-        <input type="radio" id="hideTranslation" name="visibility" value="2" class="hideTranslation" />
-        <label for="hideTranslation">Скрыть значение</label>
+        <input type="radio" id="hideMeaning" name="visibility" value="2" class="hideMeaning" />
+        <label for="hideMeaning">Скрыть значение и пиньинь</label>
 
-        <input type="radio" id="hideWord" name="visibility" value="3" class="hideWord" />
-        <label for="hideWord">Скрыть иероглиф</label>
+        <input type="radio" id="hideHanzi" name="visibility" value="3" class="hideHanzi" />
+        <label for="hideHanzi">Скрыть иероглиф и пиньинь</label>
     </div>
 
     <table>
@@ -60,7 +59,7 @@
             <td class="number">{{ loop.index }}</td>
             <td class="hanzi">{{ hanzi }}</td>
             <td class="hanzi">{{ traditional }}</td>
-            <td>
+            <td class="pinyin">
             {%- for syl, tone_number in pinyin_arr -%}
                 <span class="tone{{tone_number}}">{{ syl }}</span>
             {%- endfor -%}
@@ -69,9 +68,5 @@
          </tr>
          {%- endfor %}
     </table>
-    <!--
-    <div>Источник: <a href="https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=437&content_sn=46">Минобр Тайваня</a>
-    </div>
-    -->
 
 {% endblock %}

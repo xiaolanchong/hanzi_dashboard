@@ -40,13 +40,13 @@
 那		nà	[nèi] that      [nuó] 禅那  [nuò] 无那  [nǎ] (=哪) [něi] (=哪)  [né] [nā]
 可		kě	(可以 kěyǐ) can; (可是 kěshì) but; 可能 kěnéng maybe   [kè] [gē]
 过	過	guò	pass, go by, exceed; 过马路 cross the street
-于	于/於	yú	(surname); (F於) in, at, to, from, by, than  [wéi] [yū] [xū]
+于	于於	yú	(surname); (F於) in, at, to, from, by, than  [wéi] [yū] [xū]
 之		zhī	s (similar to 的 de); it (classical pronoun)  [zhù] [zhì]
-后		hòu	queen; (F後) after, behind
-着	著	zhe	(grammatical particle) [zháo] [zhuó] touch  [zhāo]
+后	后後	hòu	queen; (F後) after, behind
+着	着著	zhe	(grammatical particle) [zháo] [zhuó] touch  [zhāo]
 主		zhǔ	lord, master; (主要 zhǔyào) main; 主义 zhǔyì -ism  [zhù]
 能		néng	can, be able; 能够 be capable of; 可能 maybe  [tái] [nái] [nài] [xióng]
-里	/裡	lǐ	village; half kilometer; (F裡) inside
+里	里裡	lǐ	village; half kilometer; (F裡) inside
 多		duō	many, much; how
 小		xiǎo	small; 大小 dàxiǎo size
 而		ér	(而且 érqiě) and, furthermore; (然而 rán'ér) yet  [néng]
@@ -70,7 +70,7 @@
 还	還	hái	still, yet  [huán] return, give back  [fú]
 经	經	jīng	longitude; scripture; ...; 已经 already; 易经 I Ching
 没	沒	méi	(没有) not have  [mò] sink; overflow; disappear; confiscate  [me]
-同	/衕	tóng	same, with; 同志 comrade  [tòng] 胡同 hútòng lane (F衕)
+同	同衕	tóng	same, with; 同志 comrade  [tòng] 胡同 hútòng lane (F衕)
 如		rú	(如果 rúguǒ) if; 如此 rúcǐ like this
 她		tā	she, her  [jiě] [chí]
 么	麼	me	(suffix:) 什么; 怎么  [má]  [yāo] (S幺) small  [mó] [ma]
@@ -85,7 +85,7 @@
 三		sān	three; 第三世界 Third World
 加		jiā	add; 参加 cānjiā join; 增加 zēngjiā increase
 想		xiǎng	think, feel, consider
-面	/麵	miàn	face, surface; (F麵) wheat flour; (面条 miàntiáo) noodle
+面	面麵	miàn	face, surface; (F麵) wheat flour; (面条 miàntiáo) noodle
 开	開	kāi	open; 开始 kāishǐ begin   [kai]
 电	電	diàn	(闪电 shǎndiàn) lightning; electricity; 电话 phone
 种	種	zhǒng	kind; seed   [zhòng] to plant; cultivate  [chóng]
@@ -107,7 +107,7 @@
 理		lǐ	principle; 理论 lǐlùn theory; 管理 guǎnlǐ manage
 些		xiē	some; (plural measure word:) 这些人 these people  [suò] [suō]
 实	實	shí	true, real; 事实 fact; 实际上 actually; 实在 really  [shī]
-只	/隻	zhǐ	only  [zhī] (F隻) (measure word): 一只猫 a cat
+只	只隻	zhǐ	only  [zhī] (F隻) (measure word): 一只猫 a cat
 老		lǎo	old, venerable; 老师 teacher; 老虎 tiger
 长	長	cháng	long  [zhǎng] grow up; chief, head
 月		yuè	month; (月亮 yuèliang, 月球 yuèqiú) moon  [rù]
@@ -152,8 +152,8 @@
 气	氣	qì	air, vapor; vital energy; 天气 tiānqi weather  [qǐ]
 话	話	huà	speech; 说话 shuōhuà talk, speak    [huo] 白话
 重		zhòng	(沉重) heavy; 重要 important  [chóng] again  [tóng]
-几	/幾	jī	small table; (F幾) 几乎 jīhū almost  [jǐ] (F幾) how many; a few
-表	/錶	biǎo	show; list, table; (F錶) (wrist-)watch
+几	几幾	jī	small table; (F幾) 几乎 jīhū almost  [jǐ] (F幾) how many; a few
+表	表錶	biǎo	show; list, table; (F錶) (wrist-)watch
 由		yóu	from; (由于) due to; (理由) cause, reason; 自由 freedom  [yāo]
 它		tā	it  [tuó] [yí]
 将	將	jiāng	shall; 将来 future   [jiàng] general; (chess piece)  [qiāng]
@@ -174,10 +174,10 @@
 军	軍	jūn	army, military
 车	車	chē	car, vehicle with wheels  [jū] (a piece in 象棋)
 使		shǐ	make, cause to
-制	/製	zhì	(制度) system; (控制) control; (F製)(制造) manufacture
+制	制製	zhì	(制度) system; (控制) control; (F製)(制造) manufacture
 度		dù	degree, extent; 制度 system   [duó] 猜度 cāiduó surmise  [zhái]
-向	/曏	xiàng	towards (direction); (F曏) formerly
-并	/併並	bìng	(F併) combine, merge; (F並) and; equally; truly  [bīng] 并州
+向	向曏	xiàng	towards (direction); (F曏) formerly
+并	并併並	bìng	(F併) combine, merge; (F並) and; equally; truly  [bīng] 并州
 活		huó	live; 生活 shēnghuó life; 活动 huódòng activity  [guō]
 关	關	guān	shut; (关系 guānxi) connection; 关于 concerning
 体	體	tǐ	(身体 shēntǐ) body; 具体 jùtǐ concrete  [tī] [bèn] [cuì]
@@ -205,7 +205,7 @@
 太		tài	great; very; too; 太太 Madame; 太阳 Sun  [tā]
 报	報	bào	(报告) report; 报纸 newspaper; 电报 telegram
 海		hǎi	(海洋 hǎiyáng, 大海 dàhǎi) sea, ocean
-台	/臺檯颱	tái	you; (F臺) platform; 台湾 Taiwan; (F檯) table; (F颱) 台风  [tāi] 天台  [yí] [sì]
+台	台臺檯颱	tái	you; (F臺) platform; 台湾 Taiwan; (F檯) table; (F颱) 台风  [tāi] 天台  [yí] [sì]
 合		hé	shut; (结合 jiéhé) combine; 合作 hézuò cooperate  [gě]
 反		fǎn	turn over; (反对 fǎnduì) oppose; 反映 fǎnyìng reflect  [bǎn] 反反 proper  [fàn]
 万	萬	wàn	ten thousand, myriad; 万岁 long live  [Mò] 万俟
@@ -248,7 +248,7 @@
 边	邊	biān	(旁边 pángbiān) side; 这边 zhèbiān over here
 任		rèn	appoint; no matter; 任务 task; 任何 any  [Rén] (surname)  [lìn]
 解		jiě	separate; explain  [Xiè] (surname) [jiè] 解送
-干	/乾幹	gān	stem; 干涉 gānshè interfere; (F乾) dry  [gàn] (F幹) do  [àn]
+干	干乾幹	gān	stem; 干涉 gānshè interfere; (F乾) dry  [gàn] (F幹) do  [àn]
 才		cái	talent; only then; 刚才 gāngcái just now  [zāi]
 资	資	zī	expenses; 资本主义 capitalism; 投资 invest
 受		shòu	receive; 接受 jiēshòu accept; 难受 nánshòu unhappy  [dào]
@@ -258,7 +258,7 @@
 处	處	chù	place  [chǔ] deal with
 队	隊	duì	team; 部队 bùduì army; 队伍 duìwǔ troops
 义	義	yì	justice; 主义 zhǔyì -ism; 意义 yìyì meaning
-系	/系係繫	xì	(系统) system; (F係) 关系; (F繫) 联系  [jì] (F繫) tie
+系	系係繫	xì	(系统) system; (F係) 关系; (F繫) 联系  [jì] (F繫) tie
 北		běi	north; 东北 dōngběi northeast; 北京 Běijīng  [bèi]
 请	請	qǐng	please; invite; 请求 request
 安		ān	still, quiet; 安全 ānquán safe; 安排 ānpái plan
@@ -392,7 +392,7 @@
 谈	談	tán	talk
 单	單	dān	alone; single; sheet   [chán] 单于  [Shàn] (surname)
 深		shēn	deep; 深刻 shēnkè profound; 深夜 shēnyè late at night
-历	/歷曆	lì	(F歷) 历史 lìshǐ history; 经历 experience; (F曆) 日历
+历	歷曆	lì	(F歷) 历史 lìshǐ history; 经历 experience; (F曆) 日历
 钱	錢	qián	money
 周		zhōu	circuit; circumference; cycle; week
 字		zì	written character; 汉字 Chinese character; 名字 name
@@ -422,12 +422,12 @@
 孩		hái	(孩子 háizi, 小孩儿 xiǎoháir) child; 女孩儿 girl
 调	調	diào	shift; tone  [tiáo] adjust
 农	農	nóng	(农民 nóngmín) farmer, peasant; 农业 agriculture
-准	/準	zhǔn	allow; (F準) certainly; precise; 准备 prepare; 标准 standard
+准	准準	zhǔn	allow; (F準) certainly; precise; 准备 prepare; 标准 standard
 类	類	lèi	category, kind, type; 类似 lèisì similar
 约	約	yuē	approximately; arrange; appointment   [yāo] weigh
 号	號	hào	name, number, mark  [háo] yell  [xiāo]
 集		jí	(收集 shōují) collect; 集中 jízhōng centralize
-克	/克剋	kè	(克服 kèfú) overcome; gram; (F剋) 克期 set time limit  [kēi] (=剋)
+克	克剋	kè	(克服 kèfú) overcome; gram; (F剋) 克期 set time limit  [kēi] (=剋)
 毛		máo	hair  [mào]
 士		shì	scholar; 博士 Ph.D; 女士 lady, Ms.; 战士 soldier
 夜		yè	(夜晚 yèwǎn) night; 半夜, 午夜 midnight; 夜里 at night
@@ -468,7 +468,7 @@
 黑		hēi	(黑色 hēisè) black; 黑暗 hēi'àn dark
 母		mǔ	(母亲 mǔqin) mother; 父母 fùmǔ parents; 字母 ABC  [mú] [wǔ] [wú]
 火		huǒ	fire; 火车 train; 火柴 match; 火焰 flame  [huō]
-志	/誌	zhì	(意志) will; (标志) mark; 同志 comrade; (F誌) 杂志 magazine
+志	志誌	zhì	(意志) will; (标志) mark; 同志 comrade; (F誌) 杂志 magazine
 备	備	bèi	(准备) get ready, prepare; 设备 equipment
 育		yù	raise, educate; 教育 education   [yō] 杭育 heave-ho  [zhòu]
 局		jú	department; situation; 邮局 yóujú post office
@@ -493,7 +493,7 @@
 究		jiū	研究 yánjiū study, research; 究竟 after all  [jiù]
 随	隨	suí	follow; ䷐ Following; 随便 suíbiàn as you like
 病		bìng	sick; 毛病 máobing malfunction
-复	/復複覆	fù	(F復) ䷗; 恢复 recover; (F複) 复杂 complex; (F覆) cover
+复	復複覆	fù	(F復) ䷗; 恢复 recover; (F複) 复杂 complex; (F覆) cover
 规	規	guī	规律 guīlǜ regular pattern; 规定 guīdìng regulations
 兴	興	xìng	高兴 gāoxìng glad  [xīng] 兴奋 xīngfèn excited
 黄	黃	huáng	(黄色 huángsè) yellow
@@ -565,7 +565,7 @@
 绝	絕	jué	cut off; absolute
 医	醫	yī	(医学) medical science; 医生 doctor; 医院 hospital  [yì]
 紧	緊	jǐn	tight; 紧张 jǐnzhāng tense; 要紧 yàojǐn important
-划	/劃	huá	row (a boat) (F劃) scratch [huà] (F劃) (计划 jìhuà) plan (F畫)  [guò] [guǒ]
+划	划劃畫	huá	row (a boat) (F劃) scratch [huà] (F劃) (计划 jìhuà) plan (F畫)  [guò] [guǒ]
 希		xī	希望 xīwàng hope; 希奇 xīqí rare, strange
 春		chūn	(春天, 春季) spring; 春卷 spring roll; 春夏秋冬  [chǔn]
 显	顯	xiǎn	appear; 显然 xiǎnrán obvious
@@ -598,7 +598,7 @@
 属	屬	shǔ	belong to   [zhǔ] enjoin
 排		pái	arrange; row, line     [pǎi] 排子车 handcart  [bài]
 护	護	hù	(保护 bǎohù) guard, protect; 护士 hùshi nurse
-致	/緻	zhì	send, convey; 一致 yīzhì identical; (F緻) 细致 xìzhì careful  [zhuì]
+致	致緻	zhì	send, convey; 一致 yīzhì identical; (F緻) 细致 xìzhì careful  [zhuì]
 初		chū	beginning; 初步 chūbù preliminary; 起初 qǐchū at first
 跟		gēn	heel; follow; with; and
 职	職	zhí	duty; 职工 staff; 职业 zhíyè occupation
@@ -615,7 +615,7 @@
 乡	鄉	xiāng	countryside; home town
 标	標	biāo	mark; 标准 biāozhǔn standard
 省		shěng	province; economize; omit  [xǐng] 反省 introspection  [xiǎn]
-采	/採埰	cǎi	pick, gather (F採)  [cài] (F埰) 采地 càidì fief
+采	采採埰	cǎi	pick, gather (F採)  [cài] (F埰) 采地 càidì fief
 劳	勞	láo	(劳动 láodòng) labor  [lào]
 投		tóu	throw; 投票 tóupiào vote  [dòu]
 右		yòu	right; 右边 yòubiān right side
@@ -666,7 +666,7 @@
 甚		shèn	very; 甚至 shènzhì even, go so far as to  [shén] (S什)
 刻		kè	carve; quarter hour; moment  [kēi]
 微		wēi	tiny, micro; 微笑 wēixiào smile
-冲	/沖衝	chōng	(F沖) rinse; rush; (F衝) rush  [chòng] (F衝) towards
+冲	沖衝	chōng	(F沖) rinse; rush; (F衝) rush  [chòng] (F衝) towards
 闻	聞	wén	smell; hear; 新闻 news
 班		bān	class; work; 上班 go to work; 值班 zhíbān be on duty
 怕		pà	(害怕 hàipà) to fear; 可怕 kěpà horrible  [bó]
