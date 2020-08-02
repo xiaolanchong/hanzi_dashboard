@@ -84,6 +84,6 @@ glob_env = jinja2.Environment(
     autoescape=jinja2.select_autoescape(['html', 'xml'])
 )
 
-#generate_hsk_list(glob_env)
-#generate_taiwan_list(glob_env)
+generate_hsk_list(glob_env)
+generate_taiwan_list(glob_env)
 generate_wenlin_list(glob_env)
