@@ -13,7 +13,7 @@ pinyin_tone_marks = {
     'O': 'ŌÓǑÒ', 'U': 'ŪÚǓÙ', 'Ü': 'ǕǗǙǛ'
 }
 
-re_bracket = re.compile("\[.+?]")
+re_bracket = re.compile(r"\[.+?]")
 
 
 def convert_pinyin_callback(m):
@@ -120,9 +120,6 @@ def generate_cedict():
     write_hanzi(hanzi_words)
 
 
-def generate_wenlin_list():
-    pass
-
 
 def test_pinyin_in_meaning():
     assert replace_pinyin_in_brackets(' city 瀋陽市|沈阳市[Shen3 yang2 shi4] li') == ' city 瀋陽市|沈阳市[Shěn yáng shì] li'
@@ -133,7 +130,7 @@ def test_pinyin_in_meaning():
 
 
 test_pinyin_in_meaning()
-generate_cedict()
+#generate_cedict()
 generate_wenlin_list()
 
 

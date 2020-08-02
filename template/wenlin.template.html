@@ -1,0 +1,77 @@
+{% set lang="zh-Hans" %}
+{% extends "base.template.html" %}
+
+{% block title %}
+    <title>3800 иероглифов частотного списка Wenlin</title>
+     <style>
+        .number {
+            font-size: small;
+            color: SlateGrey;
+        }
+        
+        .hanzi {
+            font-size: larger;
+        }
+
+        #mode_panel {
+            position: fixed;
+            top: 0;
+            right: 0;
+            padding: 5px 5px 5px 0px;
+            background: #303030;
+            border-radius: 3px;
+        }
+        .hidden {
+            color: transparent !important;
+        }
+    </style>
+    
+{% endblock %}
+
+
+
+{% block body %}
+    <h1>3800 иероглифов частотного списка Wenlin</h1>
+    <section>
+        3800 иероглифов частотного списка Wenlin с определениями.
+    </section>
+
+    <div id="mode_panel" >
+        <input type="radio" id="showAll" name="visibility" value="1" class="showAll" checked />
+        <label for="showAll">Показать всё</label>
+
+        <input type="radio" id="hideTranslation" name="visibility" value="2" class="hideTranslation" />
+        <label for="hideTranslation">Скрыть значение</label>
+
+        <input type="radio" id="hideWord" name="visibility" value="3" class="hideWord" />
+        <label for="hideWord">Скрыть иероглиф</label>
+    </div>
+
+    <table>
+        <tr>
+            <th>№</th>
+            <th>汉子</th>
+            <th>繁体字</th>
+            <th>Пиньинь</th>
+            <th>Значение</th>
+        </tr>
+         {%- for hanzi, traditional, pinyin_arr, meaning in records -%}
+         <tr>
+            <td class="number">{{ loop.index }}</td>
+            <td class="hanzi">{{ hanzi }}</td>
+            <td class="hanzi">{{ traditional }}</td>
+            <td>
+            {%- for syl, tone_number in pinyin_arr -%}
+                <span class="tone{{tone_number}}">{{ syl }}</span>
+            {%- endfor -%}
+            </td>
+            <td class="meaning">{{ meaning|safe }}</td>
+         </tr>
+         {%- endfor %}
+    </table>
+    <!--
+    <div>Источник: <a href="https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=437&content_sn=46">Минобр Тайваня</a>
+    </div>
+    -->
+
+{% endblock %}

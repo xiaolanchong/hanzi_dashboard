@@ -2,6 +2,8 @@
 
 import jinja2
 import os
+import re
+from pinyin_splitter import PinyinSplitter
 
 
 def read_hsk_list():
@@ -19,7 +21,7 @@ def read_taiwan_list():
 def generate_hsk_list(env):
     hsk_tmpl = env.get_template('hsk.template.html')
     data = list(read_hsk_list())
-    print(len(data))
+    #print(len(data))
     html = hsk_tmpl.render(records=data)
     with open('index.html', mode='w', encoding='utf8') as file:
         file.write(html)
@@ -28,9 +30,52 @@ def generate_hsk_list(env):
 def generate_taiwan_list(env):
     taiwan_tmpl = env.get_template('taiwan.template.html')
     data = list(read_taiwan_list())
-    print(len(data))
+    #print(len(data))
     html = taiwan_tmpl.render(records=data)
     with open('taiwan.html', mode='w', encoding='utf8') as file:
+        file.write(html)
+
+
+def read_wenlin_list():
+    with open(os.path.join('lists', 'wenlin_freq.txt'), encoding='utf8') as f:
+        for line in f.readlines()[2:]:
+            hanzi, traditional, pinyin, meaning = line.split('\t')
+            pinyin_arr = ((syl, get_tone_number(syl)) for syl in pinyin.split())
+            colored_meaning = surround_pinyin(meaning)
+            yield hanzi, traditional, pinyin_arr, colored_meaning
+
+
+splitter = PinyinSplitter()
+
+
+def surround_pinyin(meaning):
+    def iter(part, tone):
+        if tone is not None:
+            return f'<span class="tone{tone}">{part}</span>'
+        else:
+            return part
+    return ''.join(iter(part, tone) for part, tone in splitter.split(meaning))
+
+
+def get_tone_number(pinyin):
+    tones = [
+        'āēīōūǖĀĒĪŌŪǕ',
+        'áéíóúǘÁÉÍÓÚǗ',
+        'ǎěǐǒǔǚǍĚǏǑǓǙ',
+        'àèìòùǜÀÈÌÒÙǛ',
+    ]
+    for index, tone_row in enumerate(tones):
+        for tone_letter in tone_row:
+            if tone_letter in pinyin:
+                return index + 1
+    return 0
+
+
+def generate_wenlin_list(env):
+    wenlin_tmpl = env.get_template('wenlin.template.html')
+    data = read_wenlin_list()
+    html = wenlin_tmpl.render(records=data)
+    with open('wenlin.html', mode='w', encoding='utf8') as file:
         file.write(html)
 
 
@@ -39,11 +84,6 @@ glob_env = jinja2.Environment(
     autoescape=jinja2.select_autoescape(['html', 'xml'])
 )
 
-if True:
-    generate_hsk_list(glob_env)
-if True:
-    generate_taiwan_list(glob_env)
-
-
-
-
+#generate_hsk_list(glob_env)
+#generate_taiwan_list(glob_env)
+generate_wenlin_list(glob_env)
