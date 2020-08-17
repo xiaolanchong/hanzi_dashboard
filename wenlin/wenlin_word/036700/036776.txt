@@ -1,0 +1,61 @@
+辨识[-識] biànshí v. identify
+辨别[-別] biànbié {D} v. differentiate; discriminate | Yào xuéhuì ∼ zhēn-jiǎ. 要学会∼真假。 One must learn to differentiate the true from the false. ◆n. discrimination
+分辨 ¹fēnbiàn* {D} v. distinguish; differentiate | ∼ shìfēi ∼是非 distinguish between right and wrong ◆n. 〈phy.〉 resolution
+辩/辨白[辯/--] biànbái {E} v. 〈law〉 ①plead innocence | Tā hái xiǎng wèi zìjǐ ∼. 他还想为自己∼。 He's still trying to plead innocence. ②account for ③elucidate
+辨认[-認] biànrèn* {D} v. identify; recognize | Nǐ néng ∼ zhè shì shéi de ²bǐjì ma? 你能∼这是谁的笔迹吗? Can you identify whose handwriting this is?
+辨色 ²biànsè {E} v.o. ①read another's facial expressions ②distinguish colors ◆n. twilight
+辨异[-異] ³biànyì {E} v. discriminate
+明辨 míngbiàn* {E} v. discern/distinguish clearly
+明辨是非 míngbiàn shì-fēi {E} v.o. clearly distinguish right and wrong
+辨析 biànxī* {F} v. differentiate and analyze; discriminate
+八纲辨证[-綱-證] bāgāngbiànzhèng f.e. 〈Ch. med.〉 differentiation of syndromes according to the eight rubrics
+辨别出来[-別-來] biànbié chūlai r.v. differentiate; distinguish; discriminate
+辨别真伪[-別-偽] biànbiézhēnwěi f.e. distinguish the genuine from the false
+辨尝[-嘗/嚐] ²biàncháng v. taste; sample; savor
+辨出 ²biànchū r.v. distinguish
+辨核 biànhé* v. distinguish and evaluate
+辨惑 biànhuò v. straighten out confusing points
+辨率 ²biànlǜ n. (screen/monitor/etc.) resolution
+辨明 biànmíng r.v. ①distinguish; make a clear distinction ②account for
+辨明是非 biànmíng shì-fēi v.o. distinguish right from wrong
+辨认出来[-認-來] biànrèn chūlai r.v. identify; recognize
+辨色而兴[---興] biànsè'érxīng f.e. rise with the early dawn
+辨音 ²biànyīn v.o. identify voices
+辨音成分 biànyīn chéngfèn n. 〈lg.〉 distinctive feature
+辨音属性[--屬-] biànyīn shǔxìng n. 〈lg.〉 distinctive feature
+辨/辩正[-/辯-] ²biànzhèng v. identify and correct
+辨证[-證] ³biànzhèng v.o. 〈Ch. med.〉 differentiate syndromes
+辨证论治[-證論-] biànzhènglùnzhì n. 〈Ch. med.〉 diagnosis based on overall analysis of patient's condition
+辨志 ²biànzhì v.o. analyze and identify one's intentions
+不辨是非 bùbiànshìfēi f.e. fail to make a distinction between right and wrong
+不辨菽麦[---麥] bùbiànshūmài f.e. be crassly ignorant
+雌雄莫辨 cíxióngmòbiàn f.e. unable to distinguish the sex identity
+耳辨 ěrbiàn attr. acoustical
+分辨率 fēnbiànlǜ n. ratio of differentiation
+高分辨率 gāofēnbiànlǜ n. high resolution M:zhǒng 种
+光学字元辨识[-學---識] guāngxué zìyuán biànshí n. optical character recognition (OCR)
+宏辨 hóngbiàn n. a well-supported argument
+见貌辨色[見---] jiànmàobiànsè id. quick to see which way the wind blows
+明辨真伪[---偽] míngbiàn zhēn-wěi v.o. can tell true from false
+莫辨楮叶[---葉] mòbiànchǔyè id. unable to distinguish between real and imitation
+难辨戳记[難--記] nánbiànchuōjì f.e. 〈wr.〉 be illegibly blurred (of stamp marks)
+难辨是非[難---] nánbiànshìfēi f.e. 〈wr.〉 be hard to discriminate between right and wrong
+难辨真伪[難--偽] nánbiànzhēnwěi f.e. 〈wr.〉 be hard to distinguish between the true and the false
+能辨其微 néngbiànqíwēi f.e. appreciate minute differences
+剖辨 pōubiàn v. defend oneself (from a charge)
+气血辨证[氣--證] qìxuèbiànzhèng f.e. 〈Ch. med.〉 analyzing a pathological condition according to the function of vital energy and the state of the blood
+认辨[認-] ¹rènbiàn v. identify
+三焦辨证[---證] sānjiāobiànzhèng f.e. 〈Ch. med〉 analyzing and differentiating diseases according to the pathological changes in the three visceral cavities
+审辨[審-] shěnbiàn n. probation
+慎思明辨 shènsī míngbiàn v.p. think carefully and distinguish clearly
+识辨[識-] ²shíbiàn v. distinguish; identify
+思辨哲学[---學] sībiàn zhéxué n. speculative philosophy
+图形辨识[圖--識] túxíng biànshí n. pattern recognition
+微辨 wēibiàn v. hint by sarcastic remarks
+无辨义作用的[無-義---] wú biànyì zuòyòng de attr. 〈lg.〉 non-differentiating
+香臭不辨 xiāngchòubùbiàn f.e. can't tell stench from perfume
+性别不辨[-別--] xìngbié bù biàn n. unisex
+有辨别字的[--別--] yǒu biànbié zì de attr. 〈lg.〉 distinctive
+有辨义音的形态[--義---態] yǒu biàn yì yīn de xíngtài n. 〈lg.〉 differentiating form
+真假莫辨 zhēnjiǎmòbiàn f.e. not know the real from the false
+真伪莫辨[-偽--] zhēnwěimòbiàn f.e. cannot distinguish between genuine and fake, true and false

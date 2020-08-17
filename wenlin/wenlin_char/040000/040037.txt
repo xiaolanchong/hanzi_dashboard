@@ -1,0 +1,4 @@
+xxxx 鱥 [guì] minnow
+No common single-syllable words.
+From 魚 (yú) 'fish' and 歲 suì phonetic.
+There is a simple form composed of 鱼 and 岁, included in 汉英词典, but the simple form is missing from the Unicode standard.

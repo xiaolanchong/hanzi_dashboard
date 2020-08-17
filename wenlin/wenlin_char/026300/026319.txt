@@ -1,0 +1,4 @@
+==== 曏 [xiàng] (S向) (曏者) in the past; once upon a time  [shǎng] (=晌)
+曏[向] ⁸xiàng b.f. formerly 向者 xiàngzhě
+From 日 (rì) 'day' and 鄉 xiāng phonetic.
+规范字典 (1998) treats 曏 as a variant of 向, and it says "统读 xiàng, 不读 xiǎng". Compare 向来 xiànglái and 一向 yīxiàng 'all along'. The older 现代汉语词典 (1996) gives the pronunciation as xiǎng (third tone), and has a simplified form with 乡 in place of 鄉, but that simplified form is not in Unicode 3.0.

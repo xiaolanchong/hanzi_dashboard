@@ -1,0 +1,5 @@
+xxxx 鷈(S䴘) [tī] grebe
+鷈/鷉[䴘] ⁷tī b.f. grebe 䴙䴘 pìtī* 日䴘 rìtī
+(Explanation from the entry for the simple form 䴘:) From 虒 phonetic and 鸟(鳥 niǎo) 'bird'.
+A variant form is 鷉.
+Both the full forms 鷉 and 鷈 are in Unicode 1.0. Only 鷈 is in Big5. The simple form 䴘 was added to Unicode 3.0.

@@ -1,0 +1,100 @@
+翻译[-譯] fānyì* {A} v. translate; interpret ◆n. ①translator; interpreter ②translation; interpretation
+译员[譯員] ²yìyuán {D} n. interpreter; translator M:ge/míng/²wèi 个/名/位
+编译[編譯] biānyì {E} v. translate and edit ◆n. translator-editor; interpreter
+汉译[漢譯] Hànyì {E} v. translate into Chinese ◆n. Chinese rendering of a book
+机器翻译[機--譯] jīqì fānyì {E} n. machine translation
+口译[-譯] kǒuyì* {E} n./v. oral interpretation
+破译[-譯] pòyì {E} v. decode; crack a code
+同声传译[-聲傳譯] tóngshēng chuányì {E} n. simultaneous interpretation
+同声翻译[-聲-譯] tóngshēng fānyì {E} n. 〈lg.〉 simultaneous interpretation
+误译[誤譯] ¹wùyì {E} v. translate incorrectly; misinterpret; mistranslate
+译本[譯-] yìběn {E} n. translated version; translation; version
+音译[-譯] ¹yīnyì* {E} n. transliteration; transcription ◆v. transcribe phonetic symbols
+意/义译[-/義譯] ³yìyì {E} v./n. free translation; paraphrase
+译者[譯-] yìzhě {E} n. translator M:ge/míng/²wèi 个/名/位
+译制[譯製] ³yìzhì {E} v. dub (a film)
+译制片[譯製-] yìzhìpiàn* {E} n. dubbed film M:²bù 部
+直译[-譯] ²zhíyì {E} v. translate literally ◆n. literal translation
+译文[譯-] ¹yìwén {E} n. translated text; translation M:piān 篇
+译码[譯碼] ¹yìmǎ v.o./n. decode; decipher
+安南译音[--譯-] Ānnán yìyīn n. 〈lg.〉 Sino-Annamese; Sino-Vietnamese
+半直译[--譯] bànzhíyì n. 〈lg.〉 semi-literal translation
+包工译员[--譯員] bāogōng yìyuán n. 〈lg.〉 contracted translator
+编译馆[編譯館] biānyìguǎn n. 〈trad.〉 institute for compilation and translation M:jiā 家
+编译局[編譯-] biānyìjú* n. compiling/translation administrative department M:jiā 家
+编译器[編譯-] biānyìqì n. 〈comp.〉 compiler
+表达翻译法[-達-譯-] biǎodá fānyìfǎ n. 〈lg.〉 expressive translation
+标签翻译[標簽-譯] biāoqiān fānyì n. 〈lg.〉 label translation
+笔译[筆譯] ⁴bǐyì n. written translation ◆v. translate in writing
+比译[-譯] ⁵bǐyì n. 〈lg.〉 transposition
+部分翻译[---譯] bùfen fānyì n. 〈lg.〉 partial translation
+部分音译[---譯] bùfen yīnyì n. 〈lg.〉 partial transliteration/transcription
+不可译性[--譯-] bùkěyìxìng n. 〈lg.〉 untranslatability
+草译稿[-譯-] cǎoyìgǎo n. 〈lg.〉 draft translation M:piān 篇
+拆句翻译法[---譯-] chāijù fānyìfǎ n. 〈lg.〉 sentence-splitting translation
+朝鲜译音[-鮮譯-] Cháoxiǎn yìyīn n. 〈lg.〉 Sino-Korean (transcription)
+超载翻译[-載-譯] chāozài fānyì n. 〈lg.〉 overloaded translation
+程序编译[--編譯] chéngxù biānyì n. 〈comp.〉 program compilation
+重新创作的翻译[--創---譯] chóngxīn chuàngzuò de fānyì n. 〈lg.〉 re-creative translation
+重译[-譯] chóngyì v. retranslate
+传译[傳譯] ¹chuányì v./n. interpret; translate
+传译出[傳譯-] chuányì chū r.v. translate into
+传意翻译[傳--譯] chuányì fānyì n. 〈lg.〉 communicative translation
+传译员[傳譯員] chuányìyuán n. interpreter M:²wèi 位
+词对词翻译[詞對詞-譯] cíduìcí fānyì n. word-for-word translation
+词素翻译[詞--譯] císù fānyì n. 〈lg.〉 morphemic translation
+词形翻译[詞--譯] cíxíng fānyì n. 〈lg.〉 morphological translation
+次要翻译[---譯] cìyao fānyì n. 〈lg.〉 secondary translation
+从句代译法[從--譯-] cóngjù dàiyìfǎ n. 〈lg.〉 clause-replacement method
+从句翻译[從--譯] cóngjù fānyì n. 〈lg.〉 clause translation
+撮译[-譯] cuōyì n. 〈lg.〉 summary translation
+错译[錯譯] ¹cuòyì* v./n. mistranslation
+单一翻译[單--譯] dānyī fānyì n. 〈lg.〉 unit translation
+倒译法[-譯-] dàoyìfǎ n. 〈lg.〉 inversion method
+电话翻译机[電話-譯機] diànhuà fānyìjī n. telephone translating machine M:tái/jià 台/架
+电脑辅助翻译[電腦輔--譯] diànnǎo fǔzhù fānyì n. 〈lg.〉 computer-assisted translation (CAT)
+电子翻译机[電--譯機] diànzǐ fānyìjī n. electronic translator M:tái 台
+点字盲文翻译器[點----譯-] diǎnzì mángwén fānyìqì n. Braille translator M:tái 台
+短语翻译[-語-譯] duǎnyǔ fānyì n. 〈lg.〉 phrasal translation
+对译词典[對譯詞-] duìyì cídiǎn n. bilingual dictionary M:běn/⁴cè/²bù 本/册/部
+对译音标[對譯-標] duìyì yīnbiāo v.o. transcribe in phonetic symbols
+多重翻译[---譯] duōchóng fānyì n. 〈lg.〉 multiple/manifold translation
+多样翻译[-樣-譯] duōyàng fānyì n. 〈lg.〉 manifold translation
+多语翻译[-語-譯] duōyǔ fānyì n. 〈lg.〉 multilingual translation
+多种语言翻译机[-種語--譯機] duōzhǒng yǔyán fānyìjī n. polyglottal translator M:tái/jià 台/架
+读译[讀譯] dúyì n. 〈lg.〉 post-reading interpretation
+法律翻译[---譯] fǎlǜ fānyì n. 〈lg.〉 legal translation
+仿译词[-譯詞] fǎngyìcí n. 〈lg.〉 loan translation
+翻译本[-譯-] fānyìběn n. translation
+翻译编辑[-譯編輯] fānyì biānjí n. 〈lg.〉 translation editor
+翻译便览[-譯-覽] fānyì biànlǎn n. 〈lg.〉 translation manual
+翻译操作[-譯--] fānyì cāozuò n. 〈lg.〉 translation operation
+翻译策略[-譯--] fānyì cèlüè n. 〈lg.〉 translation strategy
+翻译测验[-譯測驗] fānyì cèyàn n. 〈lg.〉 translation test/testing
+翻译程式[-譯--] fānyì chéngshì n. 〈comp.〉 translating program
+翻译程序[-譯--] fānyì chéngxù n. 〈lg.〉 translation procedure
+翻译出[-譯-] fānyì chū r.v. translate to
+翻译从业员[-譯從業員] fānyì cóngyèyuán n. 〈lg.〉 practicing translator
+翻译单位[-譯單-] fānyì dānwèi n. 〈lg.〉 unit of translation
+翻译等值[-譯--] fānyì děngzhí n. 〈lg.〉 translation equivalence
+翻译的准确性[-譯-準確-] fānyì de zhǔnquèxìng n. 〈lg.〉 accuracy in translation
+翻译对等词[-譯對-詞] fānyì duìděngcí n. 〈lg.〉 translation equivalent
+翻译服务[-譯-務] fānyì fúwù n. 〈lg.〉 translation service
+翻译辅助[-譯輔-] fānyì fǔzhù n. 〈lg.〉 translation aids
+翻译工具[-譯--] fānyì gōngjù n. 〈lg.〉 translation tool; translation tools
+翻译工作量[-譯---] fānyì gōngzuòliàng n. 〈lg.〉 translation workload
+翻译工作室[-譯---] fānyì gōngzuòshì p.w. 〈lg.〉 translation workshop
+翻译官[-譯-] fānyìguān n. officer whose duty is to interpret/translate
+翻译机[-譯機] fānyìjī n. electronic translator; translating machine
+翻译计划[-譯計劃] fānyì jìhuà n. 〈lg.〉 translation project
+翻译技巧[-譯--] fānyì jìqiǎo n. 〈lg.〉 translation technique
+翻译剧[-譯劇] fānyìjù n. 〈lg.〉 translated play
+翻译科目[-譯--] fānyì kēmù n. 〈lg.〉 translation course
+翻译科学[-譯-學] fānyì kēxué n. 〈lg.〉 translation science
+翻译理论[-譯-論] fānyì lǐlùn n. 〈lg.〉 translation theory; theory of translation
+翻译美学[-譯-學] fānyì měixué n. 〈lg.〉 translation aesthetics
+翻译片[-譯-] fānyìpiàn n. dubbed film M:²bù 部
+翻译品[-譯-] fānyìpǐn n. translation M:zhǒng 种
+翻译器[-譯-] fānyìqì n. 〈comp.〉 translator M:²zhī/²jiàn 只/件
+翻译权[-譯權] fānyìquán n. translation rights (for a book)
+翻译社[-譯-] fānyìshè n. 〈lg.〉 translation agent

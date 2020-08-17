@@ -1,0 +1,4 @@
+---- 卦 [guà] trigram or hexagram from the 易经 Book of Changes
+卦 ³guà {E} n. fortune-telling symbols
+From 圭 guī phonetic and 卜 (bǔ) 'fortune telling'.
+Wieger thinks that 圭 guī here is a picture of a hexagram, (like ䷀, ䷦, etc.) but clearly it is phonetic (as Karlgren says), compare 挂 guà 'hang, suspend', and so forth. 卜 represents cracks in a tortoise shell used for divination. Compare 兆 zhào 'omen'.

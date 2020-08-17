@@ -1,0 +1,3 @@
+---- 胄 [zhòu] helmet; descendants
+胄 ⁹zhòu {F} b.f. 〈trad.〉 ①imperial or noble descendants 胄裔 zhòuyì 裔胄 yìzhòu ②battle helmet 甲胄 jiǎzhòu
+From 由 yóu phonetic and 月(肉 ròu) 'flesh', suggesting the meaning of blood relations, descendants. The meaning 'helmet' was originally written with another character, with 冃 (as in 帽 mào 'hat'), rather than 肉, at the bottom. In fact that character, 冑, still exists (it has a different Unicode number from 胄). But 冑 looks very much like 胄, and the pronunciations are identical, so most Chinese dictionaries no longer distinguish between the characters 冑 'helmet' and 胄 'descendants'.

@@ -1,0 +1,100 @@
+限制 ¹xiànzhì* {B} v. restrict; confine | Nǐ néng ∼ wǒ de zìyóu, què bùnéng ∼ wǒ de sīxiǎng. 你能∼我的自由, 却不能∼我的思想。 You can restrict my freedom, but not my thought. ◆n. restriction; limit; confinement | Gāokējì jìnchūkǒu shì yǒu ∼ de. 高科技进出口是有∼的。 There are restrictions to high-tech import and export.
+无限[無-] ¹wúxiàn* {B} attr. ①infinite; limitless ②〈lg.〉 indefinite
+有限 ¹yǒuxiàn* {C} v.o./s.v. limited; finite | Yóuyú shíjiān ∼, wǒ bùnéng xiángxì de jiěshì. 由于时间∼, 我不能详细地解释。 Due to the time limit, I can't explain in detail.
+极限[極-] jíxiàn* {D} n. limit/maximum
+限度 ¹xiàndù* {D} n. limit; limitation | Wǒmen de rěnnài shì yǒu ∼ de. 我们的忍耐是有∼的。 There's a limit to our patience.
+限于[-於] ¹xiànyú* {D} v.p. be confined/limited to | ∼ shíjiān ∼时间 owing to the limitation of time
+局限 júxiàn* {D} v./s.v. limit; confine | Xuéxí jìsuànjī zhīshi bùnéng ∼ yú shūběn. 学习计算机知识不能∼于书本。 One cannot rely solely on books to learn computer technology. ◆n. restriction
+界限 ¹jièxiàn* {D} n. ①limits; bounds; boundaries ②demarcation line M:tiáo/ge 条/个
+仅限于[僅-於] jǐnxiànyú* {E} v.p. be limited to | Qī zhé shāngpǐn ∼ yǒu hóngsè biāojì de. 七折商品∼有红色标记的。 Thirty percent discount is limited to the merchandise with red tags.
+局限性 júxiànxìng {E} n. limitations | Zhèige zhèngcè yǒu ∼. 这个政策有∼。 This policy has its limitations.
+宽限[寬-] kuānxiàn {E} v.o. extend the time limit | ∼ jǐ tiān xíng ma? ∼几天行吗? Can the deadline be extended a few days? ◆n. moratorium
+宽限日[寬--] kuānxiànrì {E} n. grace period
+年限 niánxiàn* {E} n. ①fixed number of years ②age limit
+上限 shàngxiàn {E} n. upper limit
+为限[為-] ¹wéixiàn {E} v.o. ①be within the limit of | Gèrén zìyóu yào yǐ bù wēihài tārén ∼. 个人自由要以不危害他人∼。 Individual freedom should be exercised within the limit of not causing harm to other people. ②as limit
+无限大[無--] wúxiàndà {E} n. 〈math.〉 infinitely great
+无限期[無--] wúxiànqī {E} n. indefinite duration
+无限上纲[無--綱] wúxiànshànggāng {E} f.e. exaggerate sb.'s mistakes to the maximum
+无限制[無--] wúxiànzhì {E} v.p. unrestricted; unbridled; unlimited | Chéngshì zhùfáng bùnéng ∼ de kuòjiàn. 城市住房不能∼地扩建。 City housing should not be extended without restriction.
+限定 xiàndìng {E} v. prescribe/set limits to; limit; restrict | ∼ yī̠ xiǎoshí yǐnèi jiāojuàn. ∼一小时以内交卷。 Everyone must hand in their paper within one hour. ◆n. 〈lg.〉 qualification
+限定词[--詞] xiàndìngcí {E} n. 〈lg.〉 determiner; determinative; attribute; attributive
+限价[-價] ²xiànjià {E} n. 〈econ.〉 set commodity prices
+限令 ¹xiànlìng {E} v. order sth. done within a certain time
+限速 xiànsù {E} v.o. limit the speed | zuìgāo ∼ 最高∼ speed limit ◆attr. speed-limiting; rate-limiting
+限制性 xiànzhìxìng {E} n. restrictiveness ◆attr. restricted; restrictive
+下限 ¹xiàxiàn* {E} n. ①lower limit; prescribed minimum ②floor level; floor
+期限 qīxiàn* {D} n. time limit; deadline | ∼ bù kěnéng ²zài yáncháng le. ∼不可能再延长了。 It's impossible to extend the time limit again.
+权限[權-] ¹quánxiàn {D} n. powers; jurisdiction; competence
+限额[-額] ²xiàn'é {E} n. norm; limit; quota | Dàxué zhāoshēng bùnéng chāoguò yị̄dìng de ∼. 大学招生不能超过一定的∼。 Universities cannot exceed a certain admission quota.
+限量 xiànliàng* {E} v.o. ①limit the quantity of; set bounds to ②evaluate; estimate ◆n. limits; limitation
+限期 ¹xiànqī* {D} adv. be within a definite/set time | Gōngchéng ∼ wángōng. 工程∼完工。 The project must be finished within the time limit. ◆n. time limit; deadline
+保存期限 bǎocún qīxiàn n. ①shelf life of a commodity ②period for keeping official papers, etc., on file
+爆炸极限[--極-] bàozhà jíxiàn n. explosive limit
+被动语态限制[-動語態--] bèidòng yǔtài xiànzhì n. 〈lg.〉 passive constraint
+边限效用[邊---] biānxiàn xiàoyong n. marginal utility
+宾语限制[賓語--] bīnyǔ xiànzhì n. 〈lg.〉 object constraint; objective case
+毕业年限[畢業--] bìyè niánxiàn n. required number of years for graduation
+不可限量 bùkěxiànliàng f.e. limitless
+不受文化限制的 bù shòu wénhuà xiànzhì de attr. 〈lg.〉 culture-free
+不受语境限制词[--語---詞] bù shòu yǔjìng xiànzhì cí(r) n. 〈lg.〉 context-free word
+不受语境限制词儿[--語---詞兒] bù shòu yǔjìng xiànzhì cír See bù shòu yǔjìng xiànzhì cí(r)
+不在此限 bùzàicǐxiàn f.e. not subject to the limits/restrictions; do not apply
+超越权限[--權-] chāoyuè quánxiàn v.o. overstep one's authority
+程限 ³chéngxiàn n. 〈wr.〉 ①form; formula ②time/place limit ③fixed rate of progress
+词素界限[詞---] císù jièxiàn n. 〈lg.〉 morpheme boundary
+词形限定[詞---] cíxíng xiàndìng n. 〈lg.〉 morphological specification
+搭配限制 dāpèi xiànzhì n. 〈lg.〉 collocational restriction
+大限 dàxiàn* n. time of one's death
+定限 ¹dìngxiàn n. fixed limit (of quantity/time/etc.)
+底限 ²dǐxiàn n. lowest limit; minimum
+恶限[惡-] èxiàn n. bad/ill luck
+法令限制 fǎlìng xiànzhì n. statute of limitations
+放宽期限[-寬--] fàngkuān qīxiàn v.o. extend a time limit
+范围限制副语[範圍---語] fànwéi xiànzhì fùyǔ n. 〈lg.〉 adverbial scope-delimiting
+非限定量词[----詞] fēixiàndìng liàngcí n. 〈lg.〉 infinitive
+非限定式 fēixiàndìngshì n. 〈lg.〉 non-finite form
+非限定性关系从句[----關係從-] fēixiàndìngxìng guānxi cóngjù n. 〈lg.〉 non-restrictive relative clause
+非限定子句 fēixiàndìng zǐjù n. 〈lg.〉 infinitive; non-finite clause; noun phrase
+非限制的 fēixiànzhì de attr. non-restrictive
+非限制性同位 fēixiànzhìxìng tóngwèi n. 〈lg.〉 non-restrictive apposition
+分布上的限制 fēnbùshàng de xiànzhì n. 〈lg.〉 distributional constraint
+复合无限字[複-無--] fùhé wúxiànzì n. 〈lg.〉 compound indefinite
+扶优限劣[-優--] fúyōuxiànliè f.e. support successful enterprises and restrict unsuccessful ones
+感觉阈限[-覺閾-] gǎnjué yùxiàn n. 〈psy.〉 sense limen/threshold
+共存限制 gòngcún xiànzhì n. 〈lg.〉 cooccurrence restriction
+共现限制[-現--] gòngxiàn xiànzhì n. 〈lg.〉 cooccurrence restriction
+工作年限 gōngzuò niánxiàn n. work seniority
+股份有限公司 gǔfèn yǒuxiàn gōngsī p.w. limited-liability company (LLC); limited company (Ltd.) M:jiā 家
+过限[過-] guòxiàn v.o. pass the deadline
+后位限定词[後---詞] hòuwèi xiàndìngcí n. 〈lg.〉 postdeterminer
+画地自限[畫---] huàdìzìxiàn f.e. impose restrictions on oneself
+环境限制[環---] huánjìng xiànzhì n. contextual restriction
+缓限[緩-] huǎnxiàn* v.o. postpone a deadline; suspend
+户限[戶-] hùxiàn n. threshold
+户限为穿[戶-為-] hùxiànwéichuān f.e. many visitors
+互选的限制[-選---] hùxuǎn de xiànzhì n. 〈lg.〉 selectional restriction
+见闻有限[見聞--] jiànwényǒuxiàn f.e. have limited experience/knowledge
+计量限定[計---] jìliàng xiàndìng n. quantitative limit
+进口限额[進--額] jìnkǒu xiàn'é n. import quotas
+纪限仪[紀-儀] jìxiànyí n. sextant M:tái/jià/ge 台/架/个
+拘限 jūxiàn v. restrain
+局限于[--於] júxiànyú v.p. be limited to
+局限语码[--語碼] júxiàn yǔmǎ n. 〈lg.〉 restricted code
+居住期限 jūzhù qīxiàn n. length of residence
+可信限度 kěxìn xiàndù n. confidence limit
+宽期限[寬--] kuānqīxiàn n. grace period; day of grace
+雷池之限 léichízhīxiàn n. the utmost limit
+勒限 lèxiàn v. give a time limit to
+历史局限性[歷----] lìshǐ júxiànxìng n. historical limitation
+漫无限制[-無--] mànwúxiànzhì f.e. with no restrictions whatsoever
+满限[滿-] mǎnxiàn* v.o. reach the deadline
+门限[門-] ménxiàn n. 〈wr.〉 threshold
+门限为穿[門-為-] ménxiànwèichuān f.e. with the threshold being worn smooth; having numerous guests/customers
+名词组限制[-詞組--] míngcízǔ xiànzhì n. 〈lg.〉 NP-constraint
+模糊限制语[----語] móhu xiànzhìyǔ n. 〈lg.〉 hedge
+能见极限[-見極-] néngjiàn jíxiàn n. limit of visibility
+能听极限[-聽極-] néngtīng jíxiàn n. limit of audibility
+赔偿限度[賠償--] péicháng xiàndù n. measure of indemnity
+前位限定词[----詞] qiánwèi xiàndìngcí n. 〈lg.〉 predeterminer
+前限定词[---詞] qiánxiàn dìngcí n. 〈lg.〉 pre-determiner

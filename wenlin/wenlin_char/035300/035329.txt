@@ -1,0 +1,7 @@
+==== 訁(S讠) (left-side variant of 言 -- DO NOT USE!)
+Use of 訁 [U+8a01] is deprecated, please use 言 [U+8a00] instead.
+No single-syllable words currently in dictionary.	add new s.s.w.
+Unicode character U+8a01, variant of U+8a00 言. The example glyphs shown in The Unicode Standard, Version 1.0, Volume 2, could be misleading. U+8a00 is written with the first stroke 一 rather than 丶, while U+8a01 is written with 丶. But the essential difference would appear to be that U+8a01 is HALF-WIDTH. The mapping table, page 326, shows that the standard Guojia Biaozhun character GB 0-4952 for 言 yán is mapped to U+8a00, not U+8a01. The full form equivalent of the character component GB 0-5805 讠 is GB 1-5805 訁, which is mapped to U+8a01.
+It would violate the unification principles to have two codes for 言 to distinguish the first stroke being 一 versus 丶, or for a half-width variant 訁, unless such a distinction already existed in one of the source sets. Evidently the source set separation does exist between GB 0-4952 and GB 1-5805, so U+8a01 is there for GB compatibility and probably for no other reason (the only other source set with a character corresponding to 8a01 is Xerox).
+GB 0-4952 is mapped to U+8a00, and 《汉字正字手册》 dictates that the first stroke in GB 0-4952 言 should be 丶. For U+8a01, Wenlin uses the glyph 訁, which is simply a half-width (and left-side) variant of 言. Wenlin Institute recommends that the half-width 8a01 訁 NOT BE USED anywhere, since it will only lead to confusion.
+Compare the situation with U+91d1 金 and U+91d2 釒.

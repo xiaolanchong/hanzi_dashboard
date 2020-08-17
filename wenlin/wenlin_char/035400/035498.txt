@@ -1,0 +1,5 @@
+33   說(S说) [shuō] say, speak    [shuì] try to persuade; 游說
+說/説[说] shuō* {A} v. ①speak; talk | Tā zěnme ∼? 他怎么∼? What did he say? ②explain ③scold | Wǒ mā ∼ wǒ le. 我妈∼我了。 My mother scolded me. ④act as matchmaker ⑤refer to; indicate | Nǐ de huà shì ∼ shuí ne? 你的话是∼谁呢? To whom did your remarks refer? ◆b.f. theory; teachings; doctrine 学说 xuéshuō
+说[說/説] ³shuì {E} b.f. persuade; win over 说客 ¹shuìkè* 游说 yóushuì*
+(Explanation from the entry for the simple form 说:) From 讠(言 yán) 'words' and 兑(兌) duì phonetic (compare 税 shuì 'tax', 脱 tuō 'take off', etc.). 兑 represents 丷 cries of joy coming out of a 儿 person's 口 mouth, so it also indicates the meaning 'speak'.
+(Note: Unicode has three forms: 说說説.)

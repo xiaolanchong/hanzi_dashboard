@@ -1,0 +1,100 @@
+范围[範圍] fànwéi* {B} n. scope; range; extent; parameter | zài hélǐ de ∼ nèi 在合理的∼内 within reasonable bounds
+模范[-範] mófàn* {C} n. ①exemplary person/thing; model | Tā bèi chēngwéi ∼ zhàngfu. 他被称为∼丈夫。 He's praised as a model husband. ②mold for casting bronze ③prototype
+师范[師範] shīfàn {C} attr. teacher-training; pedagogical ◆n. ①normal school ②〈wr.〉 a model to be followed ③master; tutor; teacher ◆v. ①imitate; emulate ②be worthy of emulation
+防范[-範] fángfàn {E} v. be on guard; keep a lookout
+范文[範-] fànwén {E} n. ①model essay ②anthology piece
+规范化[規範-] guīfànhuà {E} v. standardize | Zhèxiē zhìdù yào ∼. 这些制度要∼。 These regulations should be standardized. ◆n. standardization; normalization
+就范[-範] jiùfàn {E} v.o. submit; give in | Jǐ ge jǐngchá zhèngzài pòshǐ zuìfàn ∼. 几个警察正在迫使罪犯∼。 Several policemen are pressing the criminal to give up.
+劳动模范[勞動-範] láodòng mófàn {E} n. model worker M:ge/míng/²wèi 个/名/位
+势力范围[勢-範圍] shìli fànwéi {E} n. sphere of influence
+典范[-範] diǎnfàn {E} n. ①model; example ②paragon; paradigm
+范畴[範疇] ¹fànchóu {D} n. category M:zhǒng 种
+示范[-範] shìfàn* {D} v. set an example; demonstrate | Qị̌ng nǐ gěi ∼ yị̄xià? 请你给∼一下? Could you please give us a demonstration? ◆n. 〈lg.〉 modeling
+范例[範-] ²fànlì {E} n. example; model
+规范[規範] ¹guīfàn* {D} n./s.v. standard; norm | Nǐ de fāyīn bù ∼. 你的发音不∼。 Your pronunciation is not standard.
+变换律范围[變換-範圍] biànhuànlǜ fànwéi n. 〈lg.〉 domain of a transformation
+承保范围[--範圍] chéngbǎo fànwéi n. insurance coverage
+抽样范畴[-樣範疇] chōuyàng fànchóu n. sampling frame
+垂范[-範] chuífàn* v.o. keep sth. as a good example
+典范形式[-範--] diǎnfàn xíngshì n. 〈lg.〉 canonical form
+典型示范[---範] diǎnxíng shìfàn v.p. set up an example with a model
+范本[範-] fànběn n. model for calligraphy/painting M:zhǒng 种
+范畴不变[範疇-變] fànchóu bù biàn n. 〈lg.〉 categorial constancy
+范畴符号[範疇-號] fànchóu fúhào n. category symbol
+范筹规律[範籌規-] fànchóu guīlǜ n. 〈lg.〉 categorial rule
+范畴化[範疇-] fànchóuhuà v. categorize ◆n. categorization
+范畴失误[範疇-誤] fànchóu shīwù n. category mistake
+范畴语法[範疇語-] fànchóu yǔfǎ n. 〈lg.〉 Categorial Grammar
+范词[範詞] fàncí n. 〈lg.〉 limiter
+范读[範讀] ³fàndú n. model reading (by teacher)
+范式[範-] ¹fànshì n. form; normal form
+范围代名词[範圍--詞] fànwéi dàimíngcí n. scope pronoun
+范围的谓语化[範圍-謂語-] fànwéi de wèiyǔhuà n. predication of scope
+范围限制副语[範圍---語] fànwéi xiànzhì fùyǔ n. 〈lg.〉 adverbial scope-delimiting
+范型[範-] ¹fànxíng n. pattern
+范性[範-] ²fànxìng n. 〈phy.〉 plasticity
+范性材料[範---] fànxìng cáiliào n. 〈phy.〉 plastic material
+范域[範-] fànyù n. 〈lg.〉 scope
+范域副词[範--詞] fànyù fùcí n. 〈lg.〉 scope adverb
+风范[風範] fēngfàn* n. 〈wr.〉 ①demeanor; bearing ②manner; style; air
+奉为典范[-為-範] fèngwéidiǎnfàn f.e. hold up as a model
+否定范距[--範-] fǒudìng fànjù n. 〈lg.〉 scope of negation
+否定范围[--範圍] fǒudìng fànwéi n. 〈lg.〉 scope of negation
+符合规范的[--規範-] fúhé guīfàn de attr. 〈lg.〉 well-formed
+俯首就范[---範] fǔshǒujiùfàn f.e. meekly submit
+高等师范院校[--師範--] gāoděng shīfàn yuànxiào p.w. teachers' colleges M:ge/suǒ/⁴zuò 个/所/座
+工作规范[--規範] gōngzuò guīfàn n. work norm M:tiáo 条
+管辖范畴[-轄範疇] guǎnxiá fànchóu n. 〈lg.〉 governing category
+闺范[閨範] ²guīfàn n. ①code of conduct for women ②a paragon of feminine virtue M:³xiàng 项
+轨范[軌範] guǐfàn n. standard; criterion M:³xiàng 项
+规范性的文法[規範----] guīfànxìng de wénfǎ n. 〈lg.〉 normative grammar
+规范性的语法[規範--語-] guīfànxìng de yǔfǎ n. 〈lg.〉 normative grammar
+规范形式[規範--] guīfàn xíngshì n. 〈lg.〉 canonical form
+规范语法[規範語-] guīfàn yǔfǎ n. 〈lg.〉 normative grammar; prescriptive grammar
+过于规范的[過於規範-] guòyú guīfàn de attr. 〈lg.〉 hypercorrect
+行业范围[-業範圍] hángyè fànwéi n. ①line ②business scope
+汉语规范化[漢語規範-] Hànyǔ guīfànhuà n. 〈lg.〉 standardization of the Chinese language
+合范[-範] ²héfàn n. 〈archeo.〉 composite mold
+鸿范[鴻範] hóngfàn n. grand/large scale
+话语范围[話語範圍] huàyǔ fànwéi n. 〈lg.〉 field of discourse
+壶范[壺範] húfàn n. paragon of feminine virtues
+检疫范围[檢-範圍] jiǎnyì fànwéi n. quarantine range
+简易师范[簡-師範] jiǎnyì shīfàn n. normal school for elementary teachers
+教范[-範] ²jiàofàn n. 〈mil.〉 manual
+霁范[霽範] jìfàn n. mild and moderate manner
+技术规范[-術規範] jìshù guīfàn n. technical/technological specification
+楷范[-範] kǎifàn n. model for others; paragon M:²wèi 位
+堪称典范[-稱-範] kānchēng diǎnfàn v.p. be exemplary
+科技示范户[---範戶] kējì shìfànhù n. sci-tech model agricultural household
+肯定范围[--範圍] kěndìng fànwéi n. scope of affirmation
+可为风范[-為風範] kěwéifēngfàn f.e. may serve as a model for others
+空范畴原理[-範疇--] kōngfànchóu yuánlǐ n. 〈lg.〉 empty category principle
+空号范畴[-號範疇] kōnghào fànchóu n. 〈lg.〉 empty category
+坤范[-範] kūnfàn* n. woman's virtue; exemplary woman
+阃/壸范[閫/壼範] kǔnfàn n. 〈wr.〉 ①paragon of feminine virtue ②code of conduct for women
+林下风范[--風範] línxiàfēngfàn f.e. ①a well-behaved and dignified lady ②refined culture of a hermit
+模范村[-範-] mófàncūn n. model village
+模范生[-範-] mófànshēng* n. model student M:ge/míng/²wèi 个/名/位
+模范省[-範-] mófànshěng n. model province
+目的语规范[--語規範] mùdìyǔ guīfàn n. 〈lg.〉 target language norm
+母范[-範] mǔfàn n. model for mothers; model mother
+内向规范化的[內-規範--] nèixiàng guīfànhuà de attr. 〈lg.〉 endonormative
+能见范围[-見範圍] néngjiàn fànwéi n. area of visibility
+能听范围[-聽範圍] néngtīng fànwéi n. area of audibility
+农科示范户[農--範戶] nóngkē shìfànhù n. agricultural-science model households M:jiā 家
+女模范[--範] nǚmófàn n. exemplary woman M:ge/míng/²wèi 个/名/位
+女子师范[--師範] nǚzǐ shīfàn n. ①women's normal school ②woman teacher
+钱范[錢範] qiánfàn n. coin mold
+任意武断的规范[---斷-規範] rènyì wǔduàn de guīfàn n. 〈lg.〉 ad hoc stipulation
+盛德遗范[--遺範] shèngdéyífàn f.e. great moral virtue and good examples (set by predecessors)
+示范产品[-範產-] shìfàn chǎnpǐn n. demo; demonstration
+师范大学[師範-學] shīfàn dàxué p.w. normal university M:suǒ 所
+示范动作[-範動-] shìfàn dòngzuò n. demonstration actions/movements
+示范户[-範戶] shìfànhù n. model household M:hù 户
+师范教育[師範--] shīfàn jiàoyù n. normal education
+师范生[師範-] shīfànshēng n. students of a teacher's/normal college/school M:²wèi 位
+示范田[-範-] shìfàntián n. model field M:²kuài 块
+师范学校[師範學-] shīfàn xuéxiào p.w. normal school M:suǒ 所
+师范学院[師範學-] shīfàn xuéyuàn p.w. normal/teachers college M:suǒ 所
+师范专科学校[師範專-學-] shīfàn zhuānkē xuéxiào p.w. junior college level normal school M:suǒ 所
+淑范[-範] ¹shūfàn n. paragon of female virtues

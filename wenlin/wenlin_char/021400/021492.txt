@@ -1,0 +1,4 @@
+xxxx 叴 [qiú] proud
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 九 jiǔ phonetic and 口 (kǒu) 'mouth'.
+Not the same as  yǎn. (Wenlin versions 1 and 2 used had  yǎn for U+53F4, but that was incorrect. The Unicode Standard 2.0 shows the top to be 九.)

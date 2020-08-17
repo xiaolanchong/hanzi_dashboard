@@ -1,0 +1,5 @@
+==== 脁 [tiào] sacrificial meat  [yáo] 脁说 good
+Use of 脁 [U+8101] is deprecated, please use 朓 [U+6713] instead.
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 月(肉 ròu) 'meat' and 兆 zhào phonetic.
+Compare 朓, which looks identical, but derives from 月 (yuè) 'moon' rather than 肉 (ròu) 'meat'.

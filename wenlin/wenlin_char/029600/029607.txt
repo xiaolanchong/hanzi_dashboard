@@ -1,0 +1,4 @@
+xxxx 玧(=􀂪璊S𫞩) [mén] [yǔn] (Unihan:) reddish
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 王(玉 yù) 'jade' and 允 yǔn phonetic.
+Note: the bitmap font for Wenlin 2.x erroneously made 玧 look like 狁, with 犭 instead of 王.

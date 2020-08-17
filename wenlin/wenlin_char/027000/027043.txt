@@ -1,0 +1,4 @@
+---- 榣 [yáo] (kind of tree)
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 木 (mù) 'tree' and 䍃() yáo phonetic.
+(The glyphs in the Unicode 2.0 and 3.0 books have 䍃. The Unicode 1.0 book had .)

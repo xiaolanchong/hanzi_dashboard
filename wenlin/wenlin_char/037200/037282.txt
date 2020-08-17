@@ -1,0 +1,4 @@
+==== 醢 [hǎi] preserve; meat sauce
+醢 ²hǎi b.f. meat/fish chopped/ground into sauce 醯醢 xīhǎi 菹醢 zūhǎi
+From 酉 (yǒu) 'alcohol', 右 and 皿.
+Wieger lists a character 右 over 皿, pronounced hǎi, meaning 'a jar' (page 595) (but there's no Unicode character 右 over 皿). Karlgren lists a variant of 醢 hǎi with 𠂉 in place of 𠂇.

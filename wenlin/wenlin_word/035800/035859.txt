@@ -1,0 +1,65 @@
+所谓[-謂] suǒwèi* {B} attr. so-called A; what is called A; what is known as A | ∼ A zhě ∼A 者 the so-called “A” | ∼ tánpàn, buguò shì piànrén bàle. ∼谈判, 不过是骗人罢了。 The so-called negotiation is only a ruse.
+无所谓[無-謂] wúsuǒwèi {C} s.v. ①be indifferent | Tā duì shénme shì(r) dōu ∼. 他对什么事(儿)都∼。 He's indifferent to everything. ②not matter | Wǒ ∼. 我∼。 It doesn't matter to me. ③can't be considered/designated as; can't be called
+谓语[謂語] wèiyǔ {E} n. 〈lg.〉 predicate
+无谓[無謂] ²wúwèi {E} attr. pointless; senseless ◆v. don't presume
+称谓[稱謂] chēngwèi {F} n. title; appellation ◆v. ①address/call sb. by the name of ②be called
+何谓[-謂] ¹héwèi {F} f.e. 〈wr.〉 what is meant by; what is the meaning of
+可谓[-謂] ²kěwèi {F} v.p. 〈wr.〉 one may well say; it may be called
+不定式用作谓语[-----謂語] bùdìngshì yòngzuò wèiyǔ n. 〈lg.〉 infinitive as predicative
+不谓[-謂] ³bùwèi adv. 〈wr.〉 unexpectedly; to one's surprise
+称谓句[稱謂-] chēngwèijù n. 〈lg.〉 nominal sentence
+称谓体系[稱謂體-] chēngwèi tǐxì n. address system
+称谓形式[稱謂--] chēngwèi xíngshì n. form of address
+称谓语[稱謂語] chēngwèiyǔ n. 〈lg.〉 appellation; title
+大不谓然[--謂-] dàbùwèirán f.e. hold an entirely different opinion
+动词谓语[動詞謂語] dòngcí wèiyǔ n. 〈lg.〉 verbal predicate
+动词谓语句[動詞謂語-] dòngcí wèiyǔjù n. 〈lg.〉 sentence with a verbal predicate; verbal sentence
+对称谓语[對稱謂語] duìchèn wèiyǔ n. 〈lg.〉 symmetric predicate
+二位谓项[--謂項] èrwèi wèixiàng n. 〈lg.〉 two-place predicate
+范围的谓语化[範圍-謂語-] fànwéi de wèiyǔhuà n. predication of scope
+非叙实谓语[-敘實謂語] fēixùshí wèiyǔ n. 〈lg.〉 counterfactive predicate
+非叙实性谓词[-敘實-謂詞] fēixùshíxìng wèicí n. 〈lg.〉 counterfactive predicate
+或谓[-謂] ²huòwèi f.e. some people say that ...; it is said that ...
+紧接同谓语[緊--謂語] jǐnjiē tóngwèiyǔ n. 〈lg.〉 close appositive
+连谓式[連謂-] liánwèishì n. 〈lg.〉 sentence with consecutive predicates
+逻辑谓语[邏輯謂語] luóji wèiyǔ n. 〈lg.〉 logical predicate
+名词谓语[-詞謂語] míngcí wèiyǔ n. 〈lg.〉 noun predicate
+名词谓语句[-詞謂語-] míngcí wèiyǔjù n. 〈lg.〉 sentence with a nominal predicate
+窃谓[竊謂] ²qièwèi f.e. 〈wr.〉 I'd personally say that ...
+亲属称谓[親屬稱謂] qīnshǔ chēngwèi n. kinship terminology
+是谓[-謂] ³shìwèi v.p. this is what is called ...
+双谓语[雙謂語] shuāngwèiyǔ n. 〈lg.〉 double predicate
+孰谓[-謂] shúwèi v.p. Who says?
+述谓结构[-謂結構] shùwèi jiégòu n. 〈lg.〉 predication
+俗谓[-謂] súwèi* v. be commonly called ...
+条件叙实谓词[條-敘實謂詞] tiáojiàn xùshí wèicí n. 〈lg.〉 conditional factive predicate
+体词谓语[體詞謂語] tǐcí wèiyǔ n. 〈lg.〉 substantive predicate
+体词谓语句[體詞謂語-] tǐcí wèiyǔjù n. 〈lg.〉 sentence with a substantive predicate
+同指谓的[--謂-] tóngzhǐwèi de attr. 〈lg.〉 coreferential
+完全谓语[--謂語] wánquán wèiyǔ n. 〈lg.〉 complete predicate
+谓词[謂詞] wèicí n. 〈lg.〉 predicate
+谓何[謂-] ²wèihé v.p. What can be done about ...?
+谓语从句[謂語從-] wèiyǔ cóngjù n. 〈lg.〉 predicative clause
+谓语动词[謂語動詞] wèiyǔ dòngcí n. 〈lg.〉 inflective verb
+谓语附加语[謂語--語] wèiyǔ fùjiāyǔ n. 〈lg.〉 predicative adjunct
+谓语化[謂語-] wèiyǔhuà n. 〈lg.〉 predication
+谓语句[謂語-] wèiyǔjù* n. 〈lg.〉 predication
+谓语形容词[謂語--詞] wèiyǔ xíngróngcí n. 〈lg.〉 predicative adjective
+谓语性形容词[謂語---詞] wèiyǔxìng xíngróngcí n. 〈lg.〉 predicative adjective
+谓者[謂-] wèizhě n. the person speaking
+勿谓言之不预[-謂---預] wùwèi yánzhībùyù f.e. Don't say you haven't been forewarned.
+勿谓言之不预也[-謂---預-] wù wèi yánzhībùyù yě f.e. Don't say that you haven't been forewarned.
+限制性述谓结构[----謂結構] xiànzhìxìng shùwèi jiégòu n. 〈lg.〉 qualifying predication
+形容词谓语[--詞謂語] xíngróngcí wèiyǔ n. 〈lg.〉 adjectival predicate
+意谓[-謂] ⁶yìwèi v. ①〈wr.〉 It seems to say ... ②〈lg.〉 signify
+一元谓词[--謂詞] yīyuán wèicí n. 〈lg.〉 one-element predicate
+一之谓甚[--謂-] yīzhīwèishèn* f.e. Even once is too much.; Once is bad enough.
+主谓宾语言[-謂賓語-] zhǔ-wèi-bīn yǔyán n. 〈lg.〉 SVO language
+主谓词组[-謂詞組] zhǔ-wèi cízǔ n. 〈lg.〉 subject-predicate word group
+主谓复合词[-謂複-詞] zhǔ-wèi fùhécí n. 〈lg.〉 subject-predicate compound
+主谓结构[-謂結構] zhǔ-wèi jiégòu n. 〈lg.〉 subject-predicate structure
+主谓句[-謂-] zhǔ-wèijù n. 〈lg.〉 subject-predicate sentence
+主谓式合成词[-謂---詞] zhǔ-wèishì héchéngcí n. 〈lg.〉 subject-predicate compound word
+主谓谓语[-謂謂語] zhǔ-wèi wèiyǔ n. 〈lg.〉 predicate consisting of a subject-predicate construction
+主谓谓语句[-謂謂語-] zhǔ-wèi wèiyǔjù n. 〈lg.〉 sentence with a clause as predicate
+主语和谓语[-語-謂語] zhǔyǔ hé wèiyǔ n. 〈lg.〉 subject and predicate

@@ -1,0 +1,5 @@
+xxxx 謏(S𫍲) [xiǎo] (variant of 小) little; 謏才 limited talent; 謏聞 little-known  [sǒu] [sòu]
+謏[𫍲] ⁴xiǎo b.f. little; limited 𫍲才 xiǎocái 𫍲闻 xiǎowén
+(Explanation from the entry for the simple form 𫍲:) From 讠(言 yán) 'words' and 叟 sǒu phonetic.
+Probably cognate with 小, but sometimes pronounced differently. Mathews has sòu and xiāo. 现代汉语词典 (1996) has 謏 as xiǎo only. 规范字典 (1998) includes 𫍲 only in its appendix of rare characters, where it says "xiǎo 古同'小'". The simplified form with 讠 appears in the latter two dictionaries, and was added to Unicode 5.2.
+謏 seems to be pretty much limited in usage to the expressions 謏聞 and 謏才, though Mathews has 謏說 'novels' which is now written 小说.

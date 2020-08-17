@@ -1,0 +1,5 @@
+==== 訥(S讷) [nè] (訥口) to stammer
+訥[讷] nè b.f. stammer; speak haltingly 讷讷 nènè 木讷 mùnè
+(The glyphs in the Unicode 2.0 and 3.0 books have 内. The Unicode 1.0 book had 內.)
+(Explanation from the entry for the simple form 讷:) From 讠(言 yán) 'words' and 内(內) nèi phonetic.
+Compare 呐 nà; the characters 呐 and 訥 are sometimes interchangeable (see Mathews 4609).

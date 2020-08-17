@@ -1,0 +1,7 @@
+---- 兀 [wù] (书) towering; bald
+兀 ¹⁴wù b.f. sudden ① 突兀 tūwù* ② 兀的 wù de
+Picture of a stool (for sitting on).
+"A plane surface 一 upon a 儿 support; 高而上平也。从一在几上。一者平也。指事。" --Wieger.
+"Tabouret, stool; cut off the feet; immovable, steady, determined" --Karlgren(1923).
+Compare 丌.
+Technical note: 兀 was accidentally encoded twice in the Big5 standard, as A461 (preferred) and C94A (obsolete?); the latter is mapped to Unicode U+FA0C. (A similar situation applies to 嗀.)

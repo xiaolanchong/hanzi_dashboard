@@ -1,0 +1,4 @@
+2561 氯 [lǜ] (氯气 lǜqì) chlorine (Cl)
+氯 ⁴lǜ {E} n. chlorine
+From 气 (qì) 'air' and 录(彔) lù phonetic.
+(The glyph in the Unicode 3.0 book has 录. The Unicode 1.0 book had 彔.)

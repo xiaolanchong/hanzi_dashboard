@@ -1,0 +1,100 @@
+符合 ¹fúhé* {B} v. accord/tally with; conform to ◆n. 〈phy.〉 coincidence
+相符 ¹xiāngfú {D} v. conform to; tally/agree with; correspond to/with
+标点符号[標點-號] biāodiǎn fúhào {E} n. punctuation mark
+不符 ¹bùfú* {E} v.p. be inconsistent (with)
+符号[-號] fúhào(r) {D} n. ①symbol; mark; code; sign; signal; notation; token; diacritic mark ②insignia
+合符 ²héfú {E} v. accommodate to each other
+护符[護-] hùfú* {E} n. ①amulet; charm for self-protection ②protector M:ge/zhāng 个/张
+护身符[護--] hùshēnfú {E} n. ①protective talisman; amulet ②shield against punishment/censure
+连字符[連--] liánzìfú {E} n. 〈lg.〉 hyphen (-)
+名不符实[---實] míngbùfúshí* {E} f.e. be unworthy of a name/title | Zhèyàng de císhàn shìyè ∼. 这样的慈善事业∼。 This sort of charitable enterprise is unworthy of the name.
+休止符 xiūzhǐfú {E} n. 〈mus.〉 rest
+音符 ¹yīnfú* {E} n. ①〈mus.〉 note ②〈lg.〉 ⓐphonetic symbol; phonogram ⓑphonetic part of phonetic compound characters
+变音符[變--] biànyīnfú {F} n. 〈lg.〉 diacritic; diacritical mark; accent
+变音符号[變--號] biànyīnfúhào {F} See biànyīnfú
+八分音符 bāfēn yīnfú n. 〈mus.〉 quaver; eighth note
+表音符号[---號] biǎoyīn fúhào n. 〈lg.〉 phonetic symbol
+兵符 bīngfú* n. 〈trad.〉 ①tally issued as credentials by a ruler to military personnel M:²dào 道 ②a book or the art of war
+不钝象符[-鈍--] bùdùn xiàngfú n. 〈lg.〉 impure icon
+不符合 bù fúhé n. discrepancy
+不相符 bù xiāngfú n. discrepancy
+补字符号[補--號] bǔzì fúhào n. caret
+长元音符[長---] chángyuányīn fú n. 〈lg.〉 apex
+沉音符 chényīnfú n. 〈lg.〉 grave accent
+敕命符 chìmìngfú n. charms containing a god's special orders M:²dào 道
+纯象符[純--] chúnxiàngfú n. 〈lg.〉 pure icon
+词符[詞-] ¹cífú n. 〈lg.〉 word-sign; lexicon; symbol
+词组标符[詞組標-] cízǔ biāofú n. phrase-marker
+催命符 cuīmìngfú n. ①〈Dao.〉 death imprecation ②difficult event; misfortune M:²dào 道
+单位语符列[單-語--] dānwèi yǔfúliè n. syntagm; syntagma
+定界符 dìngjièfú n. 〈lg.〉 delimiter
+定界符号[---號] dìngjiè fúhào n. 〈lg.〉 delimiter
+动物符号学[動--號學] dòngwù fúhàoxué n. zoosemiotics
+短音符 duǎnyīnfú n. 〈mus.〉 short note
+钝重音符[鈍---] dùnzhòng yīnfú n. 〈lg.〉 grave accent
+二分音符 èrfēn yīnfú n. half-note; minim
+二全音符 èrquányīnfú n. 〈mus.〉 breve
+范畴符号[範疇-號] fànchóu fúhào n. category symbol
+发音符号[發--號] fāyīn fúhào n. 〈lg.〉 phonetic transcription
+非字母符号[----號] fēizìmǔ fúhào n. 〈lg.〉 analphabetic notation
+符板 fúbǎn n. tally
+符采 fúcǎi n. markings on jade
+符谶[-讖] ²fúchèn n. Daoist omens and prophecies
+符袋 ²fúdài n. small bags for amulets
+附点音符[-點--] fùdiǎn yīnfú n. 〈mus.〉 dotted note
+符号表示[-號--] fúhào biǎoshì n. symbolism
+符号处理语言[-號處-語-] fúhào chǔlǐ yǔyán n. symbolic manipulation language
+符号词源学[-號詞-學] fúhào cíyuánxué n. 〈lg.〉 symbolic etymology
+符号法[-號-] fúhàofǎ n. notation
+符号翻译[-號-譯] fúhào fānyì n. 〈lg.〉 symbolic translation
+符号关系[-號關係] fúhào guānxi n. ①symbolic reference ②symbolism
+符号化[-號-] fúhàohuà n. symbolization
+符号化之记号[-號--記號] fúhàohuà zhī jìhao n. sign of symbolization
+符号控制[-號--] fúhào kòngzhì n. symbolic control
+符号逻辑[-號邏輯] fúhào luóji n. symbolic logic
+符号儿[-號兒] fúhàor* See fúhào(r)
+符号时期的[-號時--] fúhào shíqī de attr. symbolic
+符号算法[-號--] fúhào suànfǎ n. symbolic computation
+符号系统[-號-統] fúhào xìtǒng n. 〈lg.〉 sign system; symbolism
+符号学[-號學] fúhàoxué n. ①semiotics ②semiology
+符号语言[-號語-] fúhào yǔyán n. ①〈lg.〉 sign language ②〈comp.〉 symbolic language
+符号语言学[-號語-學] fúhào yǔyánxué n. semiotics; metalinguistics
+符号语义学[-號語義學] fúhào yǔyìxué n. denotational semantics
+符号之前的[-號---] fúhào zhīqián de attr. presymbolic
+符号之前期[-號---] fúhào zhī qiánqī n. 〈lg.〉 presymbolic stages
+符号作用[-號--] fúhào zuòyòng n. signification
+符合规范的[--規範-] fúhé guīfàn de attr. 〈lg.〉 well-formed
+符合文法 fúhé wénfǎ v.o. 〈lg.〉 be well-formed
+符合语法[--語-] fúhé yǔfǎ n. 〈lg.〉 well-formed
+符合语法的[--語--] fúhé yǔfǎ de attr. 〈lg.〉 grammatical
+符合语法的程度[--語----] fúhé yǔfǎ de chéngdu n. 〈lg.〉 degree of grammaticalness
+符合语法性[--語--] fúhé yǔfǎxìng n. 〈lg.〉 grammaticalness
+附加符号[---號] fùjiā fúhào n. 〈lg.〉 diacritic
+符节[-節] fújié* n. 〈trad.〉 tally used as credentials/warrants
+符箓[-籙] ²fúlù n. 〈rel.〉 Daoist secret talismanic writing
+符命 ²fúmìng n. 〈trad.〉 omen foreshadowing a prince's accession to the throne
+符木 fúmù n. tally
+符前言 fú qiányán v.o. fulfill a promise
+符瑞 fúruì n. auspices; auspicious omen
+符实[-實] ²fúshí v.o. deserve
+符水 ³fúshuǐ n. magic words and water for curing diseases
+符头[-頭] ²fútóu n. heads of musical notes
+符尾 ²fúwěi n. 〈mus.〉 tails of musical notes; coda
+符玺[-璽] fúxǐ n. imperial seal/stamp
+符信 fúxìn n. identification tag/sign/etc. ◆v.o. certify authenticity by matching tallies
+符验[-驗] fúyàn v. verify through a tally, etc.
+符应[-應] ¹fúyìng n. agreement of omen with fact
+符咒 fúzhòu n. ①charm ②magic incantations
+隔音符号[---號] géyīn fúhào n. syllable-dividing mark; apostrophe
+功能符 gōngnéngfú n. 〈lg.〉 functor
+鬼画符[-畫-] guǐhuàfú n. ①scrawl ②hypocritical talk
+国音符号[國--號] Guóyīn Fúhào n. 〈lg.〉 Chinese Phonetic Symbols
+核对符号[-對-號] héduì fúhào n. check-mark
+画符[畫-] ¹huàfú* n. ①〈Dao.〉 spells; charms ②illegible writing ◆v.o. write/draw spells/incantations
+虎符 ¹hǔfú n. 〈hist.〉 general's tally authorizing troop movement
+校对符号[-對-號] jiàoduì fúhào n. proofreader's marks
+可变符号[-變-號] kěbiàn fúhào n. 〈lg.〉 variable symbol
+空号运符[-號運-] kōnghào yùnfú n. 〈lg.〉 null operator
+类符[類-] lèifú n. 〈lg.〉 classifier
+连音符[連--] liányīnfú n. 〈lg.〉 hyphen
+灵符[靈-] língfú* n. 〈Dao.〉 magic figure to invoke or expel spirits and bring good or ill fortune M:²dào 道

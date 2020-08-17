@@ -1,0 +1,5 @@
+xxxx 鸋(S𫛢) [níng] 鸋鴂 níngjué (archaic:) wren
+No single-syllable words currently in dictionary.	add new s.s.w.
+(Explanation from the entry for the simple form 𫛢:) From 宁(寧) and 鸟(鳥).
+The simplified form is in 辞海 but not in Unicode 3.0.
+The modern word for 'wren' is 鹪鹩.

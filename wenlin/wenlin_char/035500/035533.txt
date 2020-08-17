@@ -1,0 +1,4 @@
+==== 諍(S诤) [zhèng] criticize frankly  [zhēng]
+諍[诤] ⁷zhèng {E} b.f. frankly criticize; admonish 诤言 ¹zhèngyán 严师诤友 yánshīzhèngyǒu 谏诤 ²jiànzhèng
+The glyph shown for this character changed from 言 plus 爭 in version 1.0 of the Unicode Standard to 言 plus 争 in Unicode versions 2.0 and 3.0.
+(Explanation from the entry for the simple form 诤:) From 讠(言 yán) 'words' and 争(爭) zhēng 'dispute'.

@@ -1,0 +1,4 @@
+==== 囗 [wéi] (radical 31, component: 'surround'; same as 围圍 wéi)  [guó]
+Use of 囗 [U+56d7] is deprecated, please use 口 [U+53e3] instead.
+No single-syllable words currently in dictionary.	add new s.s.w.
+Not to be confused with 口(kǒu) 'mouth'. 囗 only appears in combination with other components, which generally go inside it, as in 国因回图团 etc.

@@ -1,0 +1,38 @@
+侦察[偵-] ²zhēnchá {D} v. 〈mil.〉 reconnoiter; scout
+侦查[偵-] ¹zhēnchá* {E} v. 〈law〉 investigate (a crime)
+侦察员[偵-員] zhēncháyuán {E} n. scout M:²wèi 位
+侦缉[偵緝] ¹zhēnjī* {E} v. track down and arrest
+侦破[偵-] zhēnpò* {E} r.v. crack (a criminal case) | Nàge qiǎngjié àn ∼le ma? 那个抢劫案∼了吗? Has the robbery case been cracked?
+侦听[偵聽] zhēntīng* {E} v. 〈mil.〉 monitor/intercept (radio/etc.)
+侦探[偵-] zhēntàn {D} v. do detective work ◆n. detective; spy M:²wèi 位
+便衣侦探[--偵-] biànyī zhēntàn n. plainclothes detective M:ge/míng/²wèi 个/名/位
+测侦所[測偵-] cèzhēnsuǒ p.w. intelligence-gathering station M:jiā 家
+交谈式侦错[-談-偵錯] jiāotánshì zhēncuò n. 〈comp.〉 interactive debugging
+空中侦察[--偵-] kōngzhōng zhēnchá n. skyscout
+私家侦探[--偵-] sījiā zhēntàn n. private detective/eye M:²wèi 位
+威力侦察[--偵-] wēilìzhēnchá f.e. reconnaissance by force
+侦办[偵辦] zhēnbàn v. investigate (a crime) and handle (the case)
+侦测[偵測] zhēncè* v. sense; detect
+侦察兵[偵--] zhēnchábīng n. 〈mil.〉 scout M:míng 名
+侦察部队[偵--隊] zhēnchá bùduì p.w. reconnaissance troops M:⁴zhī 支
+侦察材料[偵---] zhēnchá cáiliào n. data obtained through reconnaissance
+侦察船[偵--] zhēncháchuán n. reconnaissance ship M:sōu 艘
+侦察飞行[偵-飛-] zhēnchá fēixíng n. reconnaissance flight
+侦察机[偵-機] zhēnchájī n. reconnaissance plane M:jià 架
+侦察舰[偵-艦] zhēnchájiàn n. 〈mil.〉 frigate M:sōu 艘
+侦察连[偵-連] zhēnchálián n. reconnaissance company
+侦察卫星[偵-衛-] zhēnchá wèixīng n. reconnaissance/spy satellite M:¹kē 颗
+侦谍[偵諜] zhēndié n./v. 〈wr.〉 detective
+侦防[偵-] zhēnfáng v. reconnoiter and defend
+侦候[偵-] zhēnhòu v. 〈mil.〉 reconnoiter; scout
+侦缉队[偵緝隊] zhēnjīduì p.w. search-and-arrest team M:⁴zhī 支
+侦破案件[偵---] zhēnpò ànjiàn v.o. crack a criminal case
+侦骑[偵騎] ²zhēnqí n. mounted patrol
+侦探故事[偵---] zhēntàn gùshì n. whodunit (story)
+侦探小说[偵--說] zhēntàn xiǎoshuō n. detective story M:běn 本
+侦探长[偵-長] zhēntànzhǎng n. head detective M:²wèi 位
+侦听器[偵聽-] zhēntīngqì n. bug; eavesdropping device
+侦听台[偵聽臺] zhēntīngtái p.w. intercept station
+侦问[偵問] ²zhēnwèn v. detect; investigate
+侦讯[偵訊] zhēnxùn v. investigate and interrogate
+侦员[偵員] ¹zhēnyuán n. investigator M:²wèi 位

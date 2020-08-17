@@ -1,0 +1,100 @@
+造句 ²zàojù {B} v.o. 〈lg.〉 ①sentence-making ②syntax
+词/辞句[詞/辭-] cíjù* {D} n. 〈lg.〉 words and phrases; expression; phrases
+病句 ¹bìngjù {E} n. ungrammatical sentence; solecism | Zhè piān zuòwén yọ̌u hěn duō ∼. 这篇作文有很多∼。 There are many ungrammatical sentences in this composition.
+从句[從-] ¹cóngjù* {E} n. 〈lg.〉 subordinate/dependent clause
+倒装句[-裝-] dàozhuāngjù {E} n. 〈lg.〉 inverted sentence M:²jù 句
+短句 ¹duǎnjù* {E} n. short sentence
+对句[對-] duìjù {E} n. Chinese couplet/antithesis
+反问句[-問-] fǎnwènjù {E} n. 〈lg.〉 rhetorical question
+否定句 fǒudìngjù {E} n. 〈lg.〉 negative sentence
+换句话说[換-話說] huànjùhuàshuō {E} v.p. in other words
+警句 jǐngjù {E} n. admonition; aphorism; epigram M:²jù 句
+句点[-點] ¹jùdiǎn {E} n. period (punctuation)
+句调[-調] ¹jùdiào {E} n. 〈lg.〉 sentence intonation
+句号[-號] jùhào {E} n. full stop; period
+句型 ²jùxíng {E} n. 〈lg.〉 sentence pattern; construction
+句子 ¹jùzi {A} n. sentence M:²jù 句
+例句 ¹lìjù* {E} n. illustrative/example sentence | Nǐ kẹ̌yǐ yòng yị̄ ge ∼ lái shuōmíng zhège dāncí de yòngfǎ ma? 你可以用一个∼来说明这个单词的用法吗? Can you give an example sentence to illustrate the use of this word?
+命令句 mìnglìngjù {E} n. imperative/command sentence M:²jù 句
+祈使句 qíshǐjù {E} n. 〈lg.〉 imperative sentence
+诗句[詩-] ¹shījù {E} n. verse; line M:háng 行
+问句[問-] wènjù {E} n. interrogative/question sentence
+疑问句[-問-] yíwènjù {E} n. 〈lg.〉 interrogative/question sentence; interrogative question
+逐句 zhújù {E} adv. sentence-by-sentence | Ràng wǒmen yī̠qǐ ∼ fēnxi zhè piān sǎnwén. 让我们一起∼分析这篇散文。 Let's analyze this essay sentence by sentence.
+主句 zhǔjù* {E} n. 〈lg.〉 ①main/principal clause ②main/matrix sentence
+主题句[-題-] zhǔtíjù {E} n. 〈lg.〉 proposition; topic sentence
+陈述句[陳--] chénshùjù {F} n. 〈lg.〉 ①declarative mood/sentence ②constative
+断句[斷-] ¹duànjù {F} v.o. ①make pauses in reading unpunctuated writing ②punctuate
+字句 ¹zìjù* {E} n. words and expressions; writing
+句法 jùfǎ {E} n. 〈lg.〉 ①syntax ②sentence structure
+语句[語-] ²yǔjù n. ①sentence; phrase ②statement ③minimal linguistic unit
+按语句的[-語--] àn yǔjù de attr. 〈lg.〉 phrasal
+按语句加重读[-語---讀] àn yǔjù jiā zhòngdú n. 〈lg.〉 phrasal stress
+半句 bànjù n. ①half a sentence ②a few words
+报导句[報導-] bàodǎojù n. 〈lg.〉 reporting sentence
+保留状语从句[--狀語從-] bǎoliú zhuàngyǔ cóngjù n. 〈lg.〉 adverbial clause of reservation
+包孕句 bāoyùnjù n. 〈lg.〉 embedded sentence; sentence with a clause M:²jù 句
+包孕子句 bāoyùn zǐjù n. 〈lg.〉 embedded clause
+把字句 “bǎ” zì jù n. 〈lg.〉 disposal sentence; bǎ construction
+把字句处置论[---處-論] “bǎ” zì jù chǔzhì lùn n. 〈lg.〉 disposal theory
+被动句[-動-] bèidòngjù n. 〈lg.〉 passive sentence
+被字句 “bèi” zì jù n. 〈lg.〉 bèi construction; passive sentence
+变句练习法[變-練習-] biànjù liànxífǎ n. 〈lg.〉 variation drill
+变异句[變異-] biànyìjù n. 〈lg.〉 deviant sentence M:²jù 句
+标句词[標-詞] biāojùcí* n. 〈lg.〉 complementizer
+表句词[--詞] biǎojùcí n. 〈lg.〉 holophrase
+表情行为句[---為-] biǎoqíng xíngwéijù n. 〈lg.〉 expressive sentence
+表述行为句[---為-] biǎoshù xíngwéijù n. 〈lg.〉 representative sentence
+标题语句[標題語-] biāotí yǔjù n. headline
+比较从句[-較從-] bǐjiào cóngjù n. 〈lg.〉 comparative clause
+比较句[-較-] bǐjiàojù n. 〈lg.〉 comparative sentence
+比较状语从句[-較狀語從-] bǐjiào zhuàngyǔ cóngjù n. 〈lg.〉 adverbial clause of comparison
+比较子句[-較--] bǐjiào zǐjù n. 〈lg.〉 comparative clause
+比例状语从句[--狀語從-] bǐlì zhuàngyǔ cóngjù n. 〈lg.〉 adverbial clause of proportion
+并合句[併--] bìnghéjù n. 〈lg.〉 composite sentence
+并列并合句[並-併--] bìngliè bìnghéjù n. 〈lg.〉 coordinate composite sentence; conjoining; juxtaposition
+并列从句[並-從-] bìngliè cóngjù n. 〈lg.〉 coordinate clause
+并列分句[並---] bìngliè fēnjù n. 〈lg.〉 coordinate clause
+并列复合句[並-複--] bìngliè fùhéjù n. 〈lg.〉 ①compound/copulative sentence ②juxtaposed compound
+并列复句[並-複-] bìngliè fùjù n. 〈lg.〉 compound coordinate sentence
+并列句[並--] bìnglièjù n. 〈lg.〉 compound/coordinate sentence
+并列子句[並---] bìngliè zǐjù n. 〈lg.〉 coordinate clause
+宾语从句[賓語從-] bīnyǔ cóngjù n. 〈lg.〉 object clause
+宾语提前句[賓語---] bīnyǔ tíqiánjù n. 〈lg.〉 object fronting construction
+宾语子句[賓語--] bīnyǔ zǐjù n. 〈lg.〉 objective clause
+剥句法[剝--] bōjùfǎ n. 〈lg.〉 sentence-peeling method
+补充从句[補-從-] bǔchōng cóngjù n. 〈lg.〉 amplifying clause M:²jù 句
+补充句[補--] bǔchōngjù n. 〈lg.〉 response M:²jù/ge 句/个
+不完全句 bùwánquán jù n. 〈lg.〉 incomplete sentence M:²jù/ge 句/个
+补语从句[補語從-] bǔyǔ cóngjù n. 〈lg.〉 complementary clause M:²jù/ge 句/个
+补语子句[補語--] bǔyǔ zǐjù n. 〈lg.〉 complement clause M:²jù/ge 句/个
+补语子句连词[補語--連詞] bǔyǔ zǐjù liáncí n. 〈lg.〉 complementizer (COMP)
+补足分句[補---] bǔzú fēnjù n. 〈lg.〉 completive clause
+拆句翻译法[---譯-] chāijù fānyìfǎ n. 〈lg.〉 sentence-splitting translation
+插句 ²chājù n. 〈lg.〉 parenthesis
+长答句[長--] chángdájù n. 〈lg.〉 long response
+长短句[長--] chángduǎnjù n. ①another name for ¹cí (lyrics) ②heptasyllabic poetry with shorter and longer lines interspersed M:²shǒu 首
+长反应句[長-應-] chángfǎnyìngjù n. 〈lg.〉 long response
+长句[長-] chángjù* n. 〈lg.〉 seven-syllable (heptasyllabic) classical poetry
+产句[產-] chǎnjù* attr. 〈lg.〉 generative
+成分句 chéngfènjù n. 〈lg.〉 constituent sentence
+成句 ¹chéngjù* v.o. form a complete sentence
+称谓句[稱謂-] chēngwèijù n. 〈lg.〉 nominal sentence
+陈述语句[陳-語-] chénshù yǔjù n. 〈lg.〉 declarative sentence
+锤炼词句[錘煉詞-] chuíliàn cí-jù v.o. polish a piece of writing
+锤炼字句[錘煉--] chuíliàn zìjù v.o. polish a piece of writing
+处所副词子句[處--詞--] chùsuǒ fùcí zǐjù n. 〈lg.〉 adverbial clause of place; locative adverbial clause
+处所状语从句[處-狀語從-] chùsuǒ zhuàngyǔ cóngjù n. 〈lg.〉 adverbial clause of place
+处置句[處--] chǔzhìjù n. 〈lg.〉 disposal sentence
+从句标记[從-標記] cóngjù biāojì n. 〈lg.〉 clause marker
+从句代译法[從--譯-] cóngjù dàiyìfǎ n. 〈lg.〉 clause-replacement method
+从句翻译[從--譯] cóngjù fānyì n. 〈lg.〉 clause translation
+从句用作次品[從-----] cóngjù yòngzuò cìpǐn n. 〈lg.〉 clause as secondary
+从属从句[從屬從-] cóngshǔ cóngjù n. 〈lg.〉 dependent/subordinate clause
+从属分句[從屬--] cóngshǔ fēnjù n. 〈lg.〉 dependent clause
+从属名词从句[從屬-詞從-] cóngshǔ míngcí cóngjù n. 〈lg.〉 subordinate noun clause
+从属子句[從屬--] cóngshǔ zǐjù n. 〈lg.〉 subordinate sentence
+存在句 cúnzàijù n. 〈lg.〉 existential sentence
+存在语句[--語-] cúnzài yǔjù n. 〈lg.〉 existential sentence
+带时式句条件[帶時--條-] dàishíshì jù tiáojiàn n. 〈lg.〉 condition of sentence with tense
+代替动词语句[--動詞語-] dàitì dòngcí yǔjù n. 〈lg.〉 substitutive verb phrase

@@ -1,0 +1,100 @@
+条件[條-] tiáojiàn* {A} n. ①condition; term; factor | Zhèlǐ de shēnghuó ∼ hěn jiānkǔ. 这里的生活∼很艰苦。 Living conditions are hard here. ②requirement; prerequisite; qualification
+文件 ¹wénjiàn* {B} n. documents; file
+事件 ¹shìjiàn {B} n. incident; event
+零件 ¹língjiàn* {C} n. spare parts; spares; components
+证件[證-] ¹zhèngjiàn* {C} n. credentials; papers; document; certificate M:zhāng 张
+稿件 ¹gǎojiàn {D} n. manuscript; contribution M:fèn/piān 份/篇
+构件[構-] gòujiàn* n. ①〈archi.〉 (structural) member; component ②〈mach.〉 component; part
+软件[軟-] ruǎnjiàn(r)* {D} n. ①〈comp.〉 software | Nị̌ yǒu Zhōngwén ∼ ma? 你有中文∼吗? Do you have Chinese software? ②〈slang〉 talented people
+硬件 yìngjiàn {D} n. 〈comp./PRC〉 hardware
+案件 ¹ànjiàn* {D} n. case (of law/etc.) | Zhè shì fǎngémìng ∼. 这是反革命∼。 This is a counterrevolutionary case.
+元件 ²yuánjiàn {D} n. element; component
+部件 ²bùjiàn {D} n. parts; components; assembly
+备件[備-] bèijiàn(r)* {E} n. spare parts
+电子信件[電---] diànzǐ xìnjiàn {E} n. email M:²fēng 封
+复印件[複--] fùyìnjiàn {E} n. copy; photocopy; duplicate M:běn/zhāng 本/张
+工件 ²gōngjiàn {E} n. (piece of) work
+航空邮件[--郵-] hángkōng yóujiàn* {E} n. airmail
+函件 ¹hánjiàn {E} n. letters; correspondence M:²fēng/pī 封/批
+红头文件[紅頭--] hóngtóu wénjiàn {E} n. government confidential document M:fèn 份
+讲条件[講條-] jiǎng tiáojiàn {E} v.o. bargain over terms
+件数[-數] jiànshu {E} n. number/quantity of sth. countable
+机件[機-] ¹jījiàn* {E} n. parts; works
+急件 ¹jíjiàn {E} n. urgent document/dispatch M:fèn/²fēng 份/封
+计件[計-] jìjiàn {E} v.o. reckon by the piece | Wǒ shì ∼ gōng. 我是∼工。 I'm paid by the piece.
+计件工资[計--資] jìjiàn gōngzī {E} n. piece-rate wage
+寄件人 jìjiànrén {E} n. sender M:ge/²wèi 个/位
+快件 kuàijiàn {E} n. express mail; package, etc. M:²fēng/ge 封/个
+零配件 língpèijiàn {E} n. spare parts; spares and fittings
+慢件 mànjiàn {E} n. regular freight M:²jiàn 件
+密件 ²mìjiàn {E} n. confidential/classified paper/letter/material M:fèn/²fēng 份/封
+配件 ¹pèijiàn(r) {E} n. ①fittings (of a machine/etc.) ②replacement | Wọ̌ mǎibudào chē de ∼. 我买不到车的∼。 I couldn't get the spare parts for the car. ③accessories
+器件 ¹qìjiàn {E} n. parts of an apparatus/appliance
+收件人 shōujiànrén {E} n. addressee; receiver; consignee
+条件反射[條---] tiáojiàn fǎnshè {E} n. conditioned reflex
+文件柜[--櫃] wénjiànguì {E} n. filing cabinet M:²zhī 只
+文件夹[--夾] wénjiànjiā {E} n. folder (for documents/etc.) M:²zhī 只
+物件 ¹wùjiàn(r)* {E} n. thing; article
+无条件[無條-] wútiáojiàn {E} attr. ①unconditional | Duìfāng ∼ jiēshòule wǒmen de yāoqiú. 对方∼接受了我们的要求。 The opposite party accepted our demands unconditionally. ②unconditioned
+先决条件[-決條-] xiānjué tiáojiàn {E} n. prerequisite; precondition; premise
+小件 ¹xiǎojiàn(r) {E} n. small items
+影印件 yǐngyìnjiàn {E} n. 〈TW〉 photo-offset copy; facsimile; photocopy M:fèn 份
+原件 ¹yuánjiàn {E} n. original; master copy; manuscript
+铸件[鑄-] zhùjiàn {E} n. cast; casting
+组件[組-] ²zǔjiàn {E} n. 〈elec.〉 package; module; part; unit
+抄件 chāojiàn* {F} n. copy; duplicate M:fèn/běn 份/本
+信件 xìnjiàn* {D} n. letter; mail M:²fēng 封
+附件 ¹fùjiàn {E} n. ①appendix; annex ②enclosure ③〈mach.〉 accessories; attachment
+邮件[郵-] yóujiàn* {E} n. postal items; post; mail M:ge/²jiàn 个/件
+案件查处[---處] ànjiàncháchù n./v.p. criminal investigation
+按件记酬[--記-] ànjiànjìchóu f.e. pay on piecework basis
+按件记工[--記-] ànjiànjìgōng f.e. reckon by the piece
+摆件[擺-] bǎijiàn n. ①things only for display ②ornaments; furnishings
+保密文件 bǎomì wénjiàn n. classified document M:fèn 份
+备件儿[備-兒] bèijiànr See bèijiàn(r)
+标准件[標準-] biāozhǔnjiàn n. standardized item
+必备条件[-備條-] bìbèi tiáojiàn n. 〈lg.〉 felicity conditions
+必要条件[--條-] bìyào tiáojiàn n. essential condition; prerequisite
+部件分解图[----圖] bùjiàn fēnjiětú n. 〈mach.〉 exploded view M:zhāng 张
+不利条件[--條-] bùlì tiáojiàn n. unfavorable condition/factor
+操作性条件反射[---條---] cāozuòxìng tiáojiàn fǎnshè n. 〈lg.〉 operant conditioning
+插件 chājiàn* n. plug-in components
+超文件 chāowénjiàn n. 〈lg.〉 hypertext
+超自然事件 chāozìrán shìjiàn n. paranormal events/incidences
+充分条件[--條-] chōngfèn tiáojiàn n. 〈log.〉 sufficient condition
+充要条件[--條-] chōngyào tiáojiàn n. necessary and sufficient condition
+词组结构条件[詞組結構條-] cízǔ jiégòu tiáojiàn n. 〈lg.〉 phrase structure condition (PSC)
+存储元件[-儲--] cúnchǔ yuánjiàn n. memory element
+存局候领邮件[---領郵-] cúnjú hòulǐng yóujiàn n. general delivery
+代码文件[-碼--] dàimǎ wénjiàn n. coded file M:fèn 份
+带时式句条件[帶時--條-] dàishíshì jù tiáojiàn n. 〈lg.〉 condition of sentence with tense
+大件 ²dàjiàn n. ①large(r) objects (luggage/furniture/etc.) ②〈coll.〉 major purchases (television/etc.)
+大件儿[--兒] dàjiànr* n. 〈slang〉 expensive electrical home appliances M:²jiàn 件
+担保邮件[擔-郵-] dānbǎo yóujiàn n. certified mail M:²jiàn/ge 件/个
+单件生产[單--產] dānjiàn shēngchǎn n. individual piece production; single-piece production; piecework
+电传文学硬件[電傳-學--] diànchuán wénxué yìngjiàn n. teletext hardware
+电脑作业软件[電腦-業軟-] diànnǎo zuòyè ruǎnjiàn n. operation system software
+电子邮件[電-郵-] diànzǐ yóujiàn n. email M:fèn 份
+锻件[鍛-] ¹duànjiàn n. forging
+独立软件[獨-軟-] dúlì ruǎnjiàn n. 〈comp.〉 stand-alone software
+恶性案件[惡---] èxìng ànjiàn n. pernicious/serious case
+发电子邮件[發電-郵-] fā diànzǐ yóujiàn v.o. send email
+防病毒软件[---軟-] fángbìngdú ruǎnjiàn n. anti-virus software
+反序文件 fǎnxù wénjiàn n. inverted file
+发送邮件服务器[發-郵--務-] fāsòng yóujiàn fúwùqì n. 〈comp.〉 outgoing mail server
+废件[廢-] fèijiàn n. waste parts
+废零件[廢--] fèilíngjiàn n. odd parts
+非讼事件[-訟--] fēisòng shìjiàn n. 〈law〉 noncontentious matter
+非条件反射[-條---] fēitiáojiàn fǎnshè n. 〈phys.〉 unconditioned reflex
+非现用文件[-現---] fēixiànyòng wénjiàn n. inactive file
+复辟事件[復---] fùbì shìjiàn n. restoration
+附带条件[-帶條-] fùdài tiáojiàn n. conditions attached to a pledge/promise/etc.
+附加文件 fùjiā wénjiàn n. appended document (of diplomacy)
+附条件背书[-條--書] fùtiáojiàn bèishū n. qualified endorsement
+附条件承兑[-條--兌] fùtiáojiàn chéngduì n. qualified acceptance
+附条件销售[-條-銷-] fùtiáojiàn xiāoshòu n. conditional sales
+工件夹具[--夾-] gōngjiàn jiájù n. work fixture
+功能元件 gōngnéng yuánjiàn n. 〈comp.〉 functional element
+够条件[夠條-] gòu tiáojiàn v.o./s.v. reach the standard; be qualified
+挂号信件[掛號--] guàhào xìnjiàn n. registered letter M:²fēng 封
+固件 ¹gùjiàn n. ①joining/stabilizing hardware ②〈comp.〉 firmware M:ge/²jiàn 个/件

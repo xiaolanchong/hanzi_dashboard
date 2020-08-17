@@ -1,0 +1,8 @@
+xxxx 訏(S) [xū] mislead; brag; large  [xǔ] 訏訏 vast
+訏[] ¹⁵xū b.f. brag; grand 谟 xūmó
+[訏] ⁵xǔ char.  ²xǔxǔ
+(Explanation from the entry for the simple form :) From 讠(言) and 于.
+"To brag; grand, vast" --Karlgren(1923).
+"To boast. Great, important... Great, large" --Mathews.
+The simplified form is not in Unicode 6.0. It appears in the ABC Chinese-English Comprehensive Dictionary (DeFrancis 2003, print edition), in 《现代汉语词典》, and in 《形音義規範字典》.
+Compare 訐 jié.

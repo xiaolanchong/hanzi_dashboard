@@ -1,0 +1,4 @@
+==== 盝(=􀲰簏箓𣿍𦾞􀲯) (?𥭼𥯐) [lù] (Unihan:) drip
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 录( or 彔) and 皿.
+(The glyph in the Unicode 3.0 book has 录. The Unicode 1.0 book had 彔.)

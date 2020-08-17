@@ -1,0 +1,5 @@
+==== 鬯 [chàng] sacrificial wine; radical 192
+鬯 ⁵chàng b.f. 〈trad.〉 a kind of sacrificial wine 鬯酒 chàngjiǔ 秬鬯 jùchàng See also ²chàng
+"Sacrificial spirits from fermented millet and aromatic herbs -- 匕 a spoon and 凵 a recipient containing various herbs (picture)" --Karlgren(1923).
+鬯 is the 192nd of the 214 radicals. It's the radical of 鬱 yù, and some very obscure (Unicode Extension B) characters.
+In the standard stroke order, 乂 is written first, then the four dots, then 凵, finally 匕. (According to 现代汉语通用字笔顺规范, 1997. In versions of Wenlin up to and including 3.0, a different stroke order was given, with 凵 first, then 乂, then the four dots, finally 匕, in agreement with 鬱 in Rita Mei-Wah Choy's book "Read And Write Chinese", 1990, China West Books.)

@@ -1,0 +1,4 @@
+==== 皪 [lì] 的皪 dìlì fresh; brilliant  [luò] [bō]
+皪 ⁴⁰lì char. 的历 ⁴dìlì
+From 白 and 樂.
+A simplified form 白 plus 乐 occurs in the appendix of Guifan Zidian (p.730), but is not in Unicode 3.0. Since dìlì can also be written 的历 or 的歷, there may be no need for a simplified form 白 plus 乐.

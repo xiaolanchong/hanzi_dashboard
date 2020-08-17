@@ -1,0 +1,100 @@
+问题[問題] wèntí* {A} n. ①question; problem; issue | ∼ bụ̀ zài zhèlǐ. ∼不在这里。 That's not the point. ②trouble; mishap | Chūle shénme ∼? 出了什么∼? What's the matter?
+题目[題-] tímù* {B} n. ①title; subject; topic ②exercise problems; exam questions
+出难题[-難題] chū nántí {C} v.o. pose difficult problems/tasks | Nǐ yòu gẹ̌i wǒ ∼ le. 你又给我∼了。 You've posed a difficult task for me again.
+课题[課題] kètí* {D} n. ①question for study/discussion ②problem; task
+难题[難題] nántí {C} n. difficult problem; sticker; poser | Zhè ²dào ∼ děi qù wèn lǎoshī. 这道∼得去问老师。 You have to ask the teacher to solve this hard problem. M:²dào 道
+题材[題-] tícái* {D} n. subject matter; theme
+话题[話題] ¹huàtí* {D} n. ①subject of a talk; topic of conversation | Huàn ge ∼, hǎo ma? 换个∼, 好吗? How about changing the subject? ②〈lg.〉 topic
+前题/提[-題/-] ¹qiántí {D} n. 〈log./lg.〉 premise; prerequisite; presupposition
+专题[專題] zhuāntí* {D} n. special subject/topic
+标题[標題] biāotí {D} n. title; heading; headline; caption
+主题[-題] zhǔtí* {D} n. theme; subject; motif; gist; topic; proposition; leitmotif | Zhè piān wénzhāng de ∼ bù míngquè. 这篇文章的∼不明确。 The theme of this article is not clear.
+成问题[-問題] chéng wèntí {E} v.o. be a problem; be open to question | Tā néng bùnéng bìyè hái hěn ∼. 他能不能毕业还很∼。 Whether he can graduate or not is still a question.
+出题[-題] chūtí* {E} v.o. set a question; assign a topic
+出问题[-問題] chū wèntí {E} v.o. ①go wrong; be out of order | Chū shénme wèntí le? 出什么问题了? What's wrong? ②have a problem (arise)
+副标题[-標題] fùbiāotí {E} n. subheading; subtitle
+讲题[講題] jiǎngtí {E} n. topic (of discussion/lecture)
+借题发挥[-題發揮] jiètífāhuī {E} f.e. seize on sth. to beat own drum
+考题[-題] kǎotí {E} n. examination questions/paper M:²dào 道
+练习题[練習題] liànxítí {E} n. exercises; exercise problems | Nǐ bìxū zài shuìjiào qián wánchéng zhèxiē ∼. 你必须在睡觉前完成这些∼。 You must finish these exercises before going to sleep. M:²dào 道
+离题[離題] lítí {E} v.o. digress; depart from the topic
+跑题[-題] pǎotí {E} v.o. be off subject | Nǐ zhè piān wénzhāng ∼ le. 你这篇文章∼了。 Your article is off the topic.
+偏题[-題] piāntí* {E} v.o./n. obscure/trick/catch question (in an examination)
+切题[-題] qiètí {E} v.o. keep to the point | Zhè piān wénzhāng bụ̀ ∼. 这篇文章不∼。 This article does not keep to the point. ◆s.v. relevant; pertinent
+是非题[--題] shì-fēití {E} n. true-or-false problem M:²dào 道
+试题[試題] shìtí* {E} n. test/exam question M:²dào 道
+题跋[題-] ²tíbá {E} n. ①preface and postscript ②short comments/etc. on scrolls
+题词[題詞] ¹tící* {E} v.o. write a few words of commemoration/etc. ◆n. ①inscription; dedication ②foreword
+贴题[貼題] tiētí {E} s.v. relevant; pertinent
+题外话[題-話] tíwàihuà {E} n. extraneous words
+题写[題寫] tíxiě {E} v. inscribe; write
+题字[題-] tízì* {E} v.o. inscribe ◆n. inscription; autograph
+通栏标题[-欄標題] tōnglán biāotí {E} n. banner headline
+文不对题[--對題] wénbụ̀duìtí {E} f.e. be irrelevant to the subject | Nị̌ xiě de dōngxi ∼. 你写的东西∼。 What you wrote has no bearing on the subject.
+问答题[問-題] wèn-dátí {E} n. questions and answers exercise M:²dào 道
+无题[無題] wútí {E} attr. untitled
+小标题[-標題] xiǎobiāotí {E} n. subheading
+小题大做/作[-題--/-] xiǎotídàzuò {E} f.e. make a mountain out of a molehill
+选答题[選-題] xuǎndátí {E} n. multiple-choice question M:²dào 道
+选择题[選擇題] xuǎnzétí {E} n. multiple-choice question/test; choice question
+押题[-題] yātí* {E} v.o. predict what question(s) will be on an exam
+议题[議題] yìtí* {E} n. topic for/under discussion M:³xiàng 项
+有问题[-問題] yǒu wèntí {E} v.o. have questions ◆s.v. questionable; doubtful; unreliable; problematic
+正题[-題] zhèngtí {E} n. ①main topic ②〈phil.〉 thesis
+专题讨论[專題討論] zhuāntí tǎolùn {E} n. seminar
+主题歌[-題-] zhǔtígē {E} n. theme song M:²shǒu 首
+主题句[-題-] zhǔtíjù {E} n. 〈lg.〉 proposition; topic sentence
+本题[-題] běntí* {F} n. subject under discussion ◆n. this topic
+副题[-題] fùtí {F} n. subheading; subtitle
+破题[-題] pòtí(r)* {F} n. brief statement of a theme ◆v.o. briefly state a theme
+命题[-題] mìngtí {D} v.o./n. ①assign a topic; set a question ②〈math./log.〉 proposition; statement; thesis
+习题[習題] xítí* {D} n. exercises (in schoolwork) M:²dào 道
+暗指性标题[---標題] ànzhǐxìng biāotí n. 〈lg.〉 allusive title
+表层问题[-層問題] biǎocéng wèntí n. superficial problems
+标题词[標題詞] biāotící n. headword
+标题新闻[標題-聞] biāotí xīnwén n. banner headline
+标题页[標題頁] biāotíyè n. front page
+标题音乐[標題-樂] biāotí yīnyuè n. program music
+标题语句[標題語-] biāotí yǔjù n. headline
+标题字[標題-] biāotízì n. banner word
+不成问题[--問題] bù chéng wèntí v.p. be no problem at all
+不离本题[-離-題] bù lí běntí(r) v.p. stick to one's point
+不离本题儿[-離-題兒] bù lí běntír See bù lí běntí(r)
+不切题[--題] bù qiètí s.v. irrelevant to the subject; off the point
+参谋问题[參謀問題] cānmóu wèntí v.o. 〈coll.〉 deliberate a problem
+参主题[參-題] cānzhǔtí n. 〈lg.〉 tertiary topic
+测试题项[測試題項] cèshì tíxiàng n. 〈lg.〉 test item
+承题[-題] chéngtí n. second part of an eight-part essay
+成为话题[-為話題] chéngwéi huàtí v.p. become a topic for conversation
+程序问题[--問題] chéngxù wèntí n. point of order
+出考题[--題] chū kǎotí v.o. set examination questions
+出题面试[-題-試] chūtí miànshì v.p. set a subject to test sb. on the spot
+次主题[--題] cìzhǔtí n. 〈lg.〉 secondary topic
+存在命题[---題] cúnzài mìngtí n. an existential proposition
+大成问题[--問題] dà chéng wèntí v.p. very questionable/doubtful
+搭截题[--題] dājiétí n. 〈trad.〉 anti-cribbing jumbled examination title
+大课题[-課題] dàkètí n. a great task
+单一主题句[單--題-] dānyī zhǔtíjù n. 〈lg.〉 one-topic sentence
+道德问题[--問題] dàodé wèntí n. a question of morality/ethics
+大题小作[-題--] dàtíxiǎozuò f.e. belittle a major issue
+大主题[--題] dàzhǔtí n. 〈lg.〉 primary topic
+点题[點題] diǎntí v.o. ①bring out a theme ②make the point clear
+动宾主题提前句[動賓-題---] dòng-bīn zhǔtí tíqiánjù n. 〈lg.〉 V.O.-topicalization construction
+多项选择题[-項選擇題] duōxiàng xuǎnzétí n. multiple-choice question M:²dào 道
+多主题[--題] duōzhǔtí attr./n. 〈lg.〉 multiple-topic
+反题[-題] fǎntí n. 〈phil.〉 antithesis
+非大主题[---題] fēidàzhǔtí n. 〈lg.〉 non-primary topic
+分题[-題] fēntí n. subtitle
+复选题[復選題] fùxuǎntí n. reselected exercise problems/questions
+个人问题[個-問題] gèrén wèntí n. ①personal problem ②(euphemism for) the problem of finding a spouse
+怪题[-題] guàití n. odd (exam) questions M:²dào 道
+固定回答题[----題] gùdìng huídátí n. fixed-response item M:²dào 道
+汉语的主题[漢語--題] Hànyǔ de zhǔtí n. 〈lg.〉 Chinese topic; topic of Chinese
+合题[-題] hétí v.o. 〈phil.〉 synthesis
+话不切题[話--題] huàbùqiètí f.e. The remarks are not pertinent to the subject.
+画题[畫題] ²huàtí n. subject of a painting
+话题一转[話題-轉] huàtíyīzhuǎn f.e. change the topic of conversation
+话题转变[話題轉變] huàtí zhuǎnbiàn n. 〈lg.〉 topic change
+假命题[--題] jiǎmìngtí n. false statement/proposition
+假言命题[---題] jiǎyán mìngtí n. 〈log.〉 hypothetical proposition
+结构控制题[結構--題] jiégòu kòngzhìtí n. 〈lg.〉 structural response item

@@ -1,0 +1,4 @@
+==== 醁 [lù] (Unihan:) a kind of green-colored wine
+醁 ²⁰lù char. 醽醁 línglù
+From 酉 and 录 (or 彔).
+(The glyph in the Unicode 3.0 book has 录. The Unicode 1.0 book had 彔.)

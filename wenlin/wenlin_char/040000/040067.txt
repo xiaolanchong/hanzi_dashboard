@@ -1,0 +1,4 @@
+xxxx 鲃(F䰾) [bā] a kind of fish   [bà] (variant of 鲅)
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 鱼(魚) and 巴.
+Strangely, the full form 䰾 was missing from Unicode 1.0, but it was added in Unicode 3.0.

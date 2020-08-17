@@ -1,0 +1,40 @@
+焊接 hànjiē {E} v. welding; soldering
+电焊[電-] diànhàn* {E} n. electric welding
+焊条[-條] hàntiáo n. welding rod M:²gēn 根
+电焊工[電--] diànhàngōng {E} n. electric welder M:ge/míng/²wèi 个/名/位
+焊工 hàngōng {E} n. ①welding; soldering ②welder; solderer M:ge/míng/²wèi 个/名/位
+焊料 hànliào {E} n. solder
+点焊[點-] diǎnhàn n. spot/point welding
+电焊棒[電--] diànhànbàng n. soldering iron M:²gēn 根
+点焊机[點-機] diǎnhànjī n. spot/point welding machine M:tái 台
+电焊机[電-機] diànhànjī* n. electric welding machine M:tái 台
+电焊条[電-條] diànhàntiáo n. welding electrode M:²gēn 根
+电弧焊接[電---] diànhú hànjiē n. (electric) arc welding
+堆焊 duīhàn n. built-up welding
+焊缝[-縫] hànfèng n. welding seam; weld line M:²dào/tiáo 道/条
+焊管 hànguǎn* n. metal pipes welded together M:²gēn 根
+焊活 hànhuó n. welding work
+焊剂[-劑] ²hànjì n. solder
+焊浆[-漿] hànjiāng n. soldering paste
+焊口 hànkǒu n. spot/hole/etc. welded or to be welded
+焊蜡[-蠟] hànlà n. solder
+焊枪[-槍] hànqiāng n. welding torch M:²gēn 根
+焊丝[-絲] hànsī n. solder
+焊锡[-錫] hànxī* n. tin solder
+焊药[-藥] ²hànyào n. solder
+焊液 ²hànyè n. welding/soldering fluid
+焊油 hànyóu n. soldering paste
+焊住 hànzhu r.v. fix with solder
+冷焊 ²lěnghàn n. 〈mach.〉 cold welding
+铆焊[鉚-] mǎohàn v. rivet and solder
+钎焊[釺-] qiānhàn* n. braze welding
+钎焊板[釺--] qiānhànbǎn n. brazing sheet M:²kuài 块
+钎焊工[釺--] qiānhàngōng n. brazing work/worker M:²wèi 位
+气焊[氣-] qìhàn* v. weld with a gas torch
+气炬焊[氣--] qìjùhàn n. gas-torch welding M:bǎ 把
+熔焊 rónghàn n. fusion welding
+软焊[軟-] ruǎnhàn n. soft soldering
+烧焊[燒-] shāohàn v. weld; solder
+锡焊[錫-] xīhàn n. soldering
+硬焊 ²yìnghàn attr. brazing
+乙炔焊 yǐquēhàn n. acetylene welding

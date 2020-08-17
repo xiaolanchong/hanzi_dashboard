@@ -1,0 +1,100 @@
+领域[領-] lǐngyù* {C} n. ①territory; domain; realm ②field; sphere
+流域 ¹liúyù* {C} p.w. valley; river basin; drainage area
+区域[區-] qūyù* {C} p.w. region; zone; district; area | Zhège ∼ jìnzhǐ xīyān. 这个∼禁止吸烟。 Smoking is prohibited in this area.
+地域 ¹dìyù* {E} p.w. ①region; district; area ②land boundaries
+海域 ¹hǎiyù* {E} p.w. sea area; maritime space
+疆域 jiāngyù {E} n. territory; domain
+空域 kōngyù {E} n. airspace
+区域性[區--] qūyùxìng {E} attr. regional
+视域[視-] ³shìyù {E} p.w. ken; field of vision
+水域 ¹shuǐyù {E} p.w. water area; body of water
+西域 Xīyù {E} p.w. 〈trad.〉 Western Regions (from Han times on, west of Dunhuang)
+音域 ²yīnyù {E} n. 〈mus.〉 range; compass; register
+语域[語-] yǔyù {E} p.w. 〈lg.〉 linguistic field; register
+邦域 bāngyù n. 〈wr.〉 national territory
+不分畛域 bùfēnzhěnyù f.e. make no distinctions; regardless of national/regional difference
+长江流域[長---] Cháng Jiāng liúyù p.w. the drainage areas of the Yangtze River
+调域[調-] ²diàoyù n. 〈lg.〉 register
+定义域[-義-] dìngyìyù n. 〈math.〉 field of definition
+地域分工 dìyù fēngōng n. geographical division of labor
+地域观念[--觀-] dìyù guānniàn n. regionalism
+地域性 dìyùxìng n. localism; regionalism
+方域 fāngyù n. a certain area/place
+范域[範-] fànyù n. 〈lg.〉 scope
+范域副词[範--詞] fànyù fùcí n. 〈lg.〉 scope adverb
+封域 ³fēngyù n. frontier regions
+分水岭流域[--嶺--] fēnshuǐlǐng liúyù n. water-shed basin
+港域容积[---積] gǎngyù róngjī n. harbor volume
+官式语域[--語-] guānshì yǔyù n. 〈lg.〉 official register
+灌域 guànyù n. basin receiving a flow of water M:piàn 片
+过渡区域[過-區-] guòdù qūyù p.w. 〈lg.〉 transition
+国际水域[國際--] guójì shuǐyù n. international waters M:piàn 片
+河域 héyù n. river basin M:piàn 片
+化除畛域 huàchú zhěnyù v.o. eliminate regionalism
+黄河流域[黃---] Huáng Hé liúyù p.w. Yellow River drainage area
+集结地域[-結--] jíjié dìyù p.w. 〈mil.〉 assembly area
+境域 ²jìngyù n. ①condition; circumstances ②area; realm
+净域[凈-] ³jìngyù n. 〈Budd.〉 pure lands (abode of Buddhas)
+九域 jiǔyù* n. 〈hist.〉 the nine regions of China
+绝域[絕-] ³juéyù p.w. 〈wr.〉 out-of-the-way places
+局域网[--網] júyùwǎng n. local area network
+宽域数量词[寬-數-詞] kuānyù shùliàngcí n. 〈lg.〉 wide scope quantifier
+领域依存关系[領---關係] lǐngyù yīcún guānxi n. 〈lg.〉 domain dependency
+领域依存性[領----] lǐngyù yīcúnxìng n. 〈lg.〉 domain dependency
+流通领域[--領-] liútōng lǐngyù n. circulation domain
+路域 lùyù n. land area; terrain
+民族区域自治[--區---] mínzú qūyù zìzhì n. regional national autonomy
+内流区域[內-區-] nèiliú qūyù p.w. continental river drainage area
+浅海水域[淺---] qiǎnhǎi shuǐyù n. shallow coastal waters
+清除区域[--區-] qīngchú qūyù p.w. 〈comp.〉 clear area
+全域规则[--規則] quányù guīzé n. 〈lg.〉 across-the-board rule
+区域安全[區---] qūyù ānquán n. regional safety
+区域变异[區-變異] qūyù biànyì n. 〈lg.〉 regional variation
+区域方言[區---] qūyù fāngyán n. 〈lg.〉 regional dialect
+区域规划[區-規劃] qūyù guīhuà n. regional planning
+区域会议[區-會議] qūyù huìyì n. regional/local conference
+区域价格[區-價-] qūyù jiàgé n. zone price
+区域间合作[區-間--] qūyù jiān hézuò n. interregional cooperation
+区域经济[區-經濟] qūyù jīngjì n. regional economics
+区域旅游[區---] qūyù lǚyóu n. regional tourism
+区域搜寻[區--尋] qūyù sōuxún n. 〈comp.〉 area search
+区域位元[區---] qūyù wèiyuán n. 〈comp.〉 zone bits
+区域位址[區---] qūyù wèizhǐ n. 〈comp.〉 regional address
+区域性公约[區---約] qūyùxìng gōngyuē n. regional convention/pact
+区域语言学[區-語-學] qūyù yǔyánxué n. areal linguistics
+区域自治[區---] qūyù zìzhì n. regional autonomy
+染毒区域[--區-] rǎndú qūyù p.w. 〈mil.〉 contaminated area
+认知领域[認-領-] rènzhī lǐngyù n. cognitive domain
+若全域 ruòquányù n. similar regions
+上层领域[-層領-] shàngcéng lǐngyù n. superstructure
+山域 ³shānyù n. mountainous region
+声域[聲-] ³shēngyù p.w. range of sound
+圣域[聖-] ³shèngyù n. state of being a sage/saint
+使用域 shǐyòngyù n. 〈lg.〉 register
+识域[識-] ⁵shíyù p.w. 〈psy.〉 field of consciousness
+受管制空域 shòu guǎnzhì kōngyù p.w. controlled airspace
+寿域[壽-] ²shòuyù n. ①a hearty old age ②graveyard built when one is alive
+殊域 ²shūyù n. strange lands
+特别区域[-別區-] tèbié qūyù p.w. special administrative districts
+同域 tóngyù n. same area
+外域 ²wàiyù n. 〈wr.〉 foreign lands
+未知领域[--領-] wèizhī lǐngyù n. terra incognita M:zhǒng 种
+辖域[轄-] ²xiáyù n. 〈math.〉 scope
+狭域数量词[狹-數-詞] xiáyù shùliàngcí n. 〈lg.〉 narrow scope quantifier
+行政区域[--區-] xíngzhèng qūyù p.w. administrative district
+新领域[-領-] xīnlǐngyù p.w. frontier; hinterland
+茔域[塋-] yíngyù p.w. graveyard; cemetery
+意识域[-識-] yìshiyù* n. 〈psy.〉 sphere of consciousness
+疑问范域[-問範-] yíwèn fànyù n. 〈lg.〉 scope of question
+异域[異-] ³yìyù p.w. ①foreign country ②place away from one's hometown ③a strange land
+有潮水域 yǒucháoshuǐyù n. tidal water
+粤江流域[粵---] Yuè Jiāng Liúyù p.w. the Pearl River Valley
+域名 yùmíng n. 〈comp.〉 domain name
+域内[-內] yùnèi* p.w. 〈wr.〉 intra-area; intra-domain
+域内庇护[-內-護] yùnèi bìhù n. 〈law〉 territorial asylum
+域内论元[-內論-] yùnèi lùnyuán n. 〈lg.〉 internal argument
+域外 yùwài* p.w. foreign lands; abroad
+域外庇护[---護] yùwài bìhù n. extraterritorial asylum
+域外论元[--論-] yùwài lùnyuán n. 〈lg.〉 external argument
+语域分析[語---] yǔyù fēnxi n. 〈lg.〉 register analysis
+域中 yùzhōng p.w. inside the country

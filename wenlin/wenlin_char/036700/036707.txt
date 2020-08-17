@@ -1,0 +1,6 @@
+xxxx 轣(S𫐆) [lì] 轣轆 lìlù pulley for drawing water; rails for vehicles
+轣[𫐆] ⁴²lì char. 𫐆辘 ³lìlù
+(Explanation from the entry for the simple form 𫐆:) From 车(車) 'car' and 历(歷) lì phonetic.
+Compare 轹(轢). 轣 has sometimes been used as a variant of 轢, but lìlù does not seem to be written with 轹(轢).
+The simplified form is in 辞海, but not in HDZ. It was added to Unicode 5.2.
+辞海 says lìlù is also written 历鹿.

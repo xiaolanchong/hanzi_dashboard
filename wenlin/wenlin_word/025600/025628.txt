@@ -1,0 +1,53 @@
+搜集 sōují* {C} v. collect; gather | Tā zhèngzài ∼ jīngjì xìnxī. 他正在∼经济信息。 He's gathering the economic information.
+搜查 sōuchá {D} v. search; ransack; rummage | Fēijī bèi chèdǐ ∼le yị̄ ³biàn. 飞机被彻底∼了一遍。 The plane has been thoroughly searched.
+搜索 sōusuǒ {D} v. search/hunt for; scout around | Jǐngchá yī̠zhí zài ∼ nàge shīzōng de nánháir. 警察一直在∼那个失踪的男孩儿。 The police have been hunting all over for the lost boy.
+搜捕 sōubǔ {E} v. track down and arrest; raid; search
+搜肠挂肚[-腸掛-] sōuchángguàdù {E} f.e. rack one's brains | Wǒmen ∼ de xiǎng bànfǎ. 我们∼地想办法。 We rack our brains for a solution.
+搜查证[--證] sōucházhèng {E} n. search warrant M:zhāng 张
+搜得 sōudé {E} r.v. forage; seek and obtain
+搜刮 sōuguā {E} v. extort; plunder; fleece
+搜罗[-羅] sōuluó {E} v. ①collect; gather; round up; recruit ②rummage (through drawers)
+搜身 sōushēn {E} v.o. make a body search
+搜索引擎 sōusuǒ yǐnqíng {E} n. search engine
+搜光 sōuguāng {F} r.v. search all out
+搜寻[-尋] sōuxún {E} v. search/look for; seek | Nǐ zhīdao tā zài ∼ shénme cáiliào ma? 你知道他在∼什么材料吗? Do you know what materials he is looking for?
+按家搜索 ànjiāsōusuǒ f.e. search house to house
+遍搜 biànsōu v. search everywhere
+赤身搜查 chìshēn sōuchá n. strip-search
+搜[搊-] chōusōu v.p. stubborn; rude
+到处搜查[-處--] dàochù sōuchá v.p. look up and down
+二分搜寻法[---尋-] èrfēn sōuxúnfǎ n. 〈comp.〉 binary search
+分离搜寻[-離-尋] fēnlí sōuxún n. 〈comp.〉 disjunctive search
+广度优先搜寻[廣-優--尋] guǎngdù yōuxiān sōuxún n. 〈lg.〉 breadth-first search
+抠搜[摳-] kōusou v. ①dig/pick out ②dawdle ③〈coll.〉 economize; skimp ◆s.v. miserly; stingy
+宽度优先搜索[寬-優---] kuāndù yōuxiān sōusuǒ n. 〈lg.〉 breadth-first search
+情报搜集[-報--] qíngbào sōují n. information collecting
+区域搜寻[區--尋] qūyù sōuxún n. 〈comp.〉 area search
+深度优先搜寻[--優--尋] shēndù yōuxiān sōuxún n. 〈lg.〉 depth-first search
+搜出 sōuchū r.v. search out
+搜出来[--來] sōu chūlai r.v. search out; find; recover (stolen goods, evidence of crime, etc.)
+搜根剔齿[---齒] sōugēntīchǐ f.e. be very choosy
+搜购[-購] sōugòu v. select for purchase
+搜狐 Sōuhú p.w. Sohu (a search engine)
+搜缉[-緝] ²sōujī v. search for (a criminal, etc.)
+搜家 sōujiā v.o. search a house (of police/etc.)
+搜检[-檢] sōujiǎn v. search and investigate
+搜缴[-繳] ¹sōujiǎo v. search and confiscate
+搜剿 ²sōujiǎo v. track down and exterminate
+搜救 sōujiù v. search for and rescue
+搜看 sōukàn v. search (a room/building)
+搜括 sōukuò v. 〈wr.〉 ①extort ②seek
+搜罗人才[-羅--] sōuluó réncái v.o. scout for talents
+搜罗证据[-羅證據] sōuluó zhèngjù v.o. collect evidence
+搜拿 sōuná v. run/track down
+搜票 sōupiào n. search warrant M:zhāng 张
+搜求 sōuqiú v. seek; search/hunt for
+搜索枯肠[---腸] sōusuǒkūcháng f.e. rack one's brains
+搜索前进[---進] sōusuǒ qiánjìn v.p. advance and reconnoiter
+搜索状[--狀] sōusuǒzhuàng n. search warrant M:zhāng 张
+搜讨[-討] sōutǎo v. scrutinize and investigate
+搜剔 sōutī v. select; pick; weed out (textual errors)
+搜寻时间[-尋時間] sōuxún shíjiān n. 〈comp.〉 search time
+搜腰包 sōu yāobāo v.o. search sb. for money and valuables
+搜阅[-閱] sōuyuè v. search (a room/building)
+搜章摘句 sōuzhāngzhāijù f.e. extract bits and pieces from texts

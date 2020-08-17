@@ -1,0 +1,100 @@
+原则[-則] yuánzé {B} n. principle (of handling/doing something) | Zhè shì ∼ wèntí. 这是∼问题。 This is a matter of principle.
+否则[-則] fǒuzé {B} conj. otherwise; if not; or else | Nǐ háishi qù ba, ∼ kāihuì de rén gèng shǎo le. 你还是去吧, ∼开会的人更少了。 You had better go; otherwise the participants at the meeting will be even fewer.
+以身作则[---則] yǐshēnzuòzé {D} f.e. set an example | Jiàoshī yào ∼. 教师要∼。 A teacher should set an example for the students.
+准则[準則] zhǔnzé {D} n. norm; standard; criterion
+法则[-則] fǎzé* {D} n. ①standard method ②binding agreement ③rule; law | zìrán ∼ 自然∼ law of nature; natural law ④〈math.〉 formula M:tiáo 条
+不规则[-規則] bù guīzé {E} s.v. irregular; incorrect | Zhège dòngzuò ∼. 这个动作∼。 This motion/movement is incorrect.
+二则[-則] èrzé {E} conj. secondly
+穷则思变[窮則-變] qióngzésībiàn {E} f.e. Poverty makes people think of change.
+守则[-則] ¹shǒuzé {E} n. rules; regulations
+细则[細則] xìzé {E} n. detailed rules and regulations M:tiáo 条
+要则[-則] yàozé {E} n. important regulations/principles M:tiáo 条
+一则[-則] ¹yī̠zé* {E} cons. ∼ A èrzé B firstly A secondly B; on the one hand, on the other hand
+原则上[-則-] yuánzéshàng {E} p.w. in principle
+语法规则[語-規則] yụ̌fǎ guīzé {E} n. 〈lg.〉 grammatical rule M:tiáo 条
+欲速则不达[--則-達] yù sù zé bù dá {E} f.e. haste makes waste
+虽则[雖則] suīzé* conj. though; although
+通则[-則] tōngzé* {F} n. general rule
+规则[規則] guīzé* {C} n. rule; regulation | Kāichē yào zūnshǒu jiāotōng ∼. 开车要遵守交通∼。 One must obey traffic rules when driving. M:tiáo 条 ◆s.v. regular; fixed
+变项规则[變項規則] biànxiàng guīzé n. 〈lg.〉 variable rule
+变则[變則] biànzé n. 〈lg.〉 anomaly
+变则通[變則-] biàn zé tōng f.e. One has to change according to circumstances.
+表达规则[-達規則] biǎodá guīzé n. 〈lg.〉 expression rules
+不规则动词[-規則動詞] bù guīzé dòngcí n. 〈lg.〉 irregular verb; strong verb
+不规则分词[-規則-詞] bù guīzé fēncí n. 〈lg.〉 irregular participle
+不规则过去式[-規則過--] bù guīzé guòqùshì n. 〈lg.〉 irregular past tense
+不规则现象[-規則現-] bù guīzé xiànxiàng n. 〈lg.〉 irregularity
+不规则性[-規則-] bùguīzéxìng n. 〈lg.〉 arbitrariness
+不俭则匮[-儉則匱] bùjiǎnzékuì id. Waste makes want.
+不进则退[-進則-] bùjìnzétuì f.e. Move forward, or you will fall behind.
+不平则鸣[--則鳴] bùpíngzémíng f.e. injustice provokes outcries
+不预则废[-預則廢] bùyùzéfèi f.e. without precautions there will be failure
+不则声[-則聲] bù zéshēng v.p. 〈topo.〉 keep silent
+操作原则[---則] cāozuò yuánzé n. 〈lg.〉 operating principle
+超规则化[-規則-] chāoguīzéhuà n. 〈lg.〉 overgeneralization
+成分结构规则[--結構規則] chéngfèn jiégòu guīzé n. 〈lg.〉 constituent structure rules
+重写规则[-寫規則] chóngxiě guīzé n. 〈lg.〉 rewrite rule
+处处正则[處處-則] chùchùzhèngzé f.e. everywhere regular
+词素音位规则[詞---規則] císù yīnwèi guīzé n. 〈lg.〉 morphophonemic rule
+词音律规则[詞--規則] cíyīnlǜ guīzé n. 〈lg.〉 morphophonemic rule
+从属规则[從屬規則] cóngshǔ guīzé n. 〈lg.〉 dependence rule; rule of subordination
+递归规则[遞歸規則] dìguī guīzé n. 〈lg.〉 recursive rule
+定则[-則] ¹dìngzé n. rule M:tiáo 条
+短语结构规则[-語結構規則] duǎnyǔ jiégòu guīzé n. 〈lg.〉 phrase-structure rule
+方式准则[--準則] fāngshì zhǔnzé n. 〈lg.〉 maxim of manner
+罚则[罰則] fázé n. penal regulations; punitive provisions
+附则[-則] ²fùzé n. ①supplementary articles (to a treaty/etc.) ②sublaw
+该做则做[該-則-] gāizuòzézuò f.e. If you find it correct then you should act.
+格位抵抗原则[-----則] géwèi dǐkàng yuánzé n. 〈lg.〉 Case Resistance Principle
+共现规则[-現規則] gòngxiàn guīzé n. 〈lg.〉 cooccurrence rule
+功用原则[---則] gōngyòng yuánzé n. 〈lg.〉 functional principle M:³xiàng 项
+关税税则[關稅稅則] guānshuì shuìzé n. customs tariff
+关系准则[關係準則] guānxi zhǔnzé n. 〈lg.〉 relevance maxim M:³xiàng 项
+轨则[軌則] guǐzé n. rule; regulation M:tiáo 条
+规则的过去式[規則-過--] guīzé de guòqùshì n. 〈lg.〉 regular past tense
+规则动词[規則動詞] guīzé dòngcí n. 〈lg.〉 regular verb; weak verb
+规则复数[規則複數] guīzé fùshù n. 〈lg.〉 regular plural
+规则式庭园[規則--園] guīzéshì tíngyuán n. formal garden
+过度规则化[過-規則-] guòdù guīzéhuà n. 〈lg.〉 overregularization
+过则勿惮改[過則-憚-] guòzéwùdàngǎi f.e. If you have faults, don't fear to abandon them.
+海关税则[-關稅則] hǎiguān shuìzé n. customs tariff M:tiáo/³xiàng 条/项
+汉语讯息原则[漢語訊--則] Hànyǔ xùnxī yuánzé n. 〈lg.〉 Chinese information principle M:³xiàng 项
+痕迹原则[-跡-則] hénjì yuánzé n. 〈lg.〉 trace principle
+何则[-則] ¹hézé pr. 〈wr.〉 why?
+合则留不合则去[-則---則-] hézéliú bùhézéqù f.e. stay if conditions are agreeable, otherwise leave
+合作原则[---則] hézuò yuánzé n. cooperative principle M:³xiàng 项
+互补原则[-補-則] hùbǔ yuánzé n. 〈lg.〉 complementarism
+互参规则[-參規則] hùcān guīzé n. 〈lg.〉 rule of coreference
+会话准则[會話準則] huìhuà zhǔnzé n. 〈lg.〉 conversational maxim M:³xiàng 项
+或则[-則] huòzé conj. or; either ... or ...
+兼听则明[-聽則-] jiāntīngzémíng f.e. listen to both sides and you will be enlightened
+简则[簡則] ¹jiǎnzé* n. general regulations
+俭则不缺[儉則--] jiǎnzébùquē f.e. Waste not, want not.
+基本原则[---則] jīběn yuánzé n. basic principles
+既来之则安之[-來-則--] jìláizhī-zé'ānzhī f.e. Since you're already (here) in this situation, take it easy.
+记录原则[記錄-則] jìlù yuánzé n. recording principle M:tiáo 条
+近墨则黑[--則-] jìnmòzéhēi f.e. one takes on the color of one's company
+急则生变[-則-變] jízéshēngbiàn f.e. Hastiness upsets careful plans.
+局部性规则[---規則] júbùxìng guīzé n. 〈lg.〉 ad hoc rule
+楷则[-則] kǎizé n. 〈wr.〉 model; norm
+可变规则[-變規則] kěbiàn guīzé n. variable rule
+可留则留[--則-] kěliúzéliú f.e. If you think you can stay on, then stay on. (Otherwise, you may quit as you please.)
+科则[-則] ²kēzé n. classifications in taxation and compulsory services, etc.
+空号词类原则[-號詞類-則] kōnghào cílèi yuánzé n. 〈lg.〉 empty category principle (ECP)
+空号节点原则[-號節點-則] kōnghào jiédiǎn yuánzé n. 〈lg.〉 empty node principle
+懒而则衰[懶-則-] lǎn'érzéshuāi f.e. Laziness leads to decay.
+量的准则[--準則] liàng de zhǔnzé n. 〈lg.〉 quantity maxim
+量能课税原则[--課稅-則] liàngnéng kèshuì yuánzé n. the ability-to-pay taxation principle
+领导原则[領導-則] lǐngdǎo yuánzé n. leadership principle
+邻接原则[鄰--則] línjiē yuánzé n. 〈lg.〉 adjacency principle
+林则徐[-則-] Lín Zéxú (1785-1850) n. Canton viceroy who tried to halt the opium trade
+理则[-則] lǐzé n. 〈TW〉 logic
+理则学[-則學] lǐzéxué n. logic
+名不正则言不顺[---則--順] míng bù zhèng zé yán bù shùn f.e. If the name is not correct, the words will not ring true.
+内则无亏[內則無虧] nèizéwúkuī f.e. dutiful and virtuous (of a housewife)
+能忍则安[--則-] néngrěnzé'ān f.e. He who can endure is at ease.
+能做则做[--則-] néngzuòzézuò f.e. So long as one can, one should do it.
+逆天则亡[--則-] nìtiānzéwáng f.e. To oppose heaven is to be doomed.
+配合原则[---則] pèihé yuánzé n. 〈lg.〉 co-operative principle
+频度规则[頻-規則] píndù guīzé n. 〈lg.〉 frequency rule
+普通税则[--稅則] pǔtōng shuìzé n. general tariff

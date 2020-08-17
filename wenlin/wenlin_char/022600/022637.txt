@@ -1,0 +1,4 @@
+---- 塭 [wēn] 鱼塭 yúwēn fish farm
+塭 ⁴wēn char. 鱼塭 ²yúwēn
+From 土 tǔ 'earth' and 昷 (or 𥁕) wēn. Not found in GB, Karlgren's Analytic Dictionary, 漢語大字典, 李氏中文字典, ...
+(The glyphs in the Unicode 2.0 and 3.0 books have 9-stroke 昷. The Unicode 1.0 book had 10-stroke 𥁕.)

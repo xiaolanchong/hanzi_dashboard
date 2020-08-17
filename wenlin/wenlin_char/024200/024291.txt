@@ -1,0 +1,7 @@
+352  廣(S广) [guǎng] wide, extensive  [guàng] [kuàng] [guāng]
+廣[广] ¹guǎng {C} s.v. ①wide; vast ②numerous ◆v. expand; spread ◆n. ab. for Guangzhou/Guangdong
+(The glyphs in the Unicode 2.0 and 3.0 books have 黄. The Unicode 1.0 book had 黃.)
+(Explanation from the entry for the simple form 广:) "Compare 宀 the hut. 广 is half of a hut, a shed, a shop" --Wieger.
+广 used to be pronounced yǎn. It became obsolete except as a component occuring in other characters such as 度席府 etc. It is the 53rd of the 214 radicals.
+Now 广 is used as the simplified form of 廣 guǎng 'extensive'. The full form 廣 is 广 over 黄 (or 黃) huáng phonetic.
+Compare 厂(廠) chǎng 'factory'.

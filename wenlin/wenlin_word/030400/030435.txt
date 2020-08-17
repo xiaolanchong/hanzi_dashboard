@@ -1,0 +1,100 @@
+监狱[監獄] jiānyù* {C} n. prison; jail M:⁴zuò 座
+监督[監-] ¹jiāndū* {C} v. supervise; superintend; control | Tā zài jiǎshì qījiān bìxū shòudào ∼. 他在假释期间必须受到∼。 He must be supervised during his parole. ◆n. supervisor M:míng 名
+监视[監視] ¹jiānshì {C} v. ①keep watch on; keep a lookout over | Wèibīng ∼zhe zhōuwéi de dòngjing. 卫兵∼着周围的动静。 The guards are keeping watch on the surroundings. ②monitor
+监察[監-] jiānchá {D} v. supervise; control
+监测[監測] jiāncè {E} v. monitor; supervise | Wǒmen xiạ̌ozǔ fùzé ∼ dàqì zhìliàng. 我们小组负责∼大气质量。 Our group takes charge of monitoring the air quality.
+监工[監-] jiāngōng* {E} n. overseer; supervisor; foreman M:ge/míng/²wèi 个/名/位 ◆v.o. supervise work; oversee
+监管[監-] ¹jiānguǎn* {E} v. keep watch on (prisoners/etc.); take charge of | Gōngdì shang de shìr yóu tā ∼. 工地上的事儿由他∼。 He manages all matters at the construction site. ◆n. supervision
+监护[監護] jiānhù* {E} 〈law〉 v. ①act as a guardian of ②observe and tend (a patient) closely ◆n. guardianship
+监护人[監護-] jiānhùrén {E} n. guardian; custodian M:ge/míng/²wèi 个/名/位
+监考[監-] jiānkǎo {E} v.o. proctor an examination
+监控[監-] jiānkòng* {E} v. inspect and control
+监牢[監-] ¹jiānláo {E} n. 〈coll.〉 prison; jail M:⁴zuò 座
+监听[監聽] jiāntīng {E} v. monitor
+监听器[監聽-] jiāntīngqì {E} n. monitor M:tái/jià/ge 台/架/个
+太监[-監] tàijiàn* {E} n. palace eunuch M:ge/míng 个/名
+探监[-監] tànjiān* {E} v.o. visit a prisoner
+总监[總監] zǒngjiān* {E} n. chief inspector M:²wèi 位
+监禁[監-] jiānjìn {E} v. take into custody; jail
+监国[監國] jiānguó n. regent
+阿监[-監] ājiān n. 〈trad.〉 a eunuch officer
+被监禁[-監-] bèi jiānjìn v.p. in irons; in custody
+常务监事[-務監-] chángwù jiānshì n. standing supervisor/inspector
+对空监视哨[對-監視-] duìkōng jiānshìshào n. antiaircraft lookout/scout; ground observer
+蹲监狱[-監獄] dūn jiānyù v.o. be imprisoned
+狗监[-監] gǒujiān n. Han emperor's attendant in charge of hunting dogs M:ge/míng/tiáo 个/名/条
+国子监[國-監] Guózǐjiàn n. 〈hist.〉 Imperial College/Academy
+海监[-監] hǎijiān n. maritime patrol M:ge/míng/²wèi 个/名/位
+互相监督[--監-] hùxiāng jiāndū v.p. check on each other
+监谤[監謗] jiānbàng v.o. 〈trad.〉 watch out for libelers/detractors
+监靶手[監--] jiānbǎshǒu n. target monitor M:míng 名
+监本[監-] jiànběn n. books published by the Guózǐjiàn M:²bù/tào 部/套
+监测器[監測-] jiāncèqì n. monitor M:tái 台
+监场[監場] jiānchǎng v.o. proctor an examination ◆n. proctor M:míng 名
+监察权[監-權] jiāncháquán n. supervisory power
+监察人[監--] jiānchárén n. 〈econ.〉 auditor M:²wèi 位
+监察委员[監--員] jiānchá wěiyuán n. member of a supervisory committee M:míng/²wèi 名/位
+监察委员会[監--員會] Jiānchá Wěiyuánhuì p.w. Control Commission; supervisory committee
+监察员[監-員] jiāncháyuán n. supervisor; controller M:míng/²wèi 名/位
+监察御史[監---] jiānchá yùshǐ n. 〈trad.〉 official in charge of the discipline of public functionaries M:²wèi 位
+监督程式[監---] jiāndū chéngshì n. 〈comp.〉 monitor program
+监督程序[監---] jiāndū chéngxù n. 〈comp.〉 monitor program
+监督单元[監-單-] jiāndū dānyuán n. 〈comp.〉 monitor unit
+监督电话[監-電話] jiāndū diànhuà n. complaint telephone number
+监督岗[監-崗] jiāndūgǎng n. supervision post
+监督劳动[監-勞動] jiāndū láodòng v.p. do penal labor under surveillance
+监督权[監-權] jiāndūquán n. authority to supervise
+监犯[監-] jiānfàn* n. prison convict M:ge/míng 个/名
+监房[監-] jiānfáng n. prison cell M:jiān 间
+监改[監-] jiāngǎi v. jail and reform
+监管系统[監--統] jiānguǎn xìtǒng n. 〈comp.〉 turnkey system
+监管制度[監---] jiānguǎn zhìdù n. supervisory system
+监候[監-] ²jiānhòu v. 〈trad.〉 wait in prison (for confirmation of death sentence)
+监检[監檢] jiānjiǎn n. monitor; monitoring
+监检假说[監檢-說] jiānjiǎn jiǎshuō n. monitor hypothesis
+监交[監-] ¹jiānjiāo v. supervise the handover of duties between officials
+监军[監軍] jiānjūn n. 〈trad.〉 military inspector M:ge/míng/²wèi 个/名/位
+监考员[監-員] jiānkǎoyuán n. proctor M:ge/míng/²wèi 个/名/位
+监课[監課] ³jiānkè v.o. supervise a class
+监控模式[監---] jiānkòng móshì n. 〈lg.〉 monitor model (hypothesis)
+监控模式假说[監----說] jiānkòng móshì jiǎshuō n. 〈lg.〉 monitor model hypothesis
+监理[監-] jiānlǐ v. inspect and control; manage
+监临[監臨] jiānlín v. 〈trad.〉 supervise/proctor civil service examinations
+监门[監門] jiānmén n. prison; jail
+监盘[監盤] jiānpán n. verification of accounts by officials at the time of transfer of power
+监票[監-] jiānpiào* v.o. oversee balloting
+监票人[監--] jiānpiàorén n. balloting observer M:ge/míng/²wèi 个/名/位
+监舍[監-] jiānshè n. prison house/building M:suǒ/⁴zuò 所/座
+监生[監-] jiànshēng n. student in the imperial academy M:ge/míng 个/名
+监事[監-] ²jiānshì n. member of a supervisory board M:ge/míng/²wèi 个/名/位
+监试[監試] ³jiānshì v.o. proctor an exam
+监事会[監-會] jiānshìhuì* n. board of supervisors
+监视记时器[監視記時-] jiānshì jìshíqì n. 〈comp.〉 watchdog timer M:tái/ge 台/个
+监视居住[監視--] jiānshìjūzhù f.e. 〈law〉 live at home under surveillance
+监视孔[監視-] jiānshìkǒng n. peephole
+监视器[監視-] jiānshìqì n. monitor M:tái/ge 台/个
+监视哨[監視-] jiānshìshào n. 〈mil.〉 lookout M:chù/ge 处/个
+监视塔[監視-] jiānshìtǎ n. watchtower M:⁴zuò 座
+监视员[監視員] jiānshìyuán n. sb. who watches over; a monitor M:ge/míng/²wèi 个/名/位
+监守[監-] ²jiānshǒu v. have custody of; guard; take care of
+监守室[監--] jiānshǒushì n. (prison) ward M:jiān 间
+监守自盗[監--盜] jiānshǒuzìdào f.e. ①embezzle ②steal sth. under one's guard
+监听台[監聽臺] jiāntīngtái n. monitoring station
+监听无线电台[監聽無線電臺] jiāntīng wúxiàndiàntái n. monitoring station
+监听站[監聽-] jiāntīng zhàn p.w. monitoring station M:jiā 家
+监听者[監聽-] jiāntīngzhě n. monitor M:ge/míng/²wèi 个/名/位
+监外执行[監-執-] jiānwàizhíxíng f.e. 〈law〉 serve (a sentence) outside prison
+监委[監-] Jiānwěi ab. Jiānchá Wěiyuánhuì
+监修[監-] jiānxiū v. ①direct compilation (of books) ②supervise repair work
+监压/押[監壓/-] jiānyā* v. keep sb. in custody
+监印[監-] jiānyìn n. keeper of the seal
+监院[監-] jiānyuàn n. jail M:⁴zuò 座
+监狱长[監獄長] jiānyùzhǎng n. prison warden M:ge/míng/²wèi 个/名/位
+监造[監-] jiānzào v. supervise the manufacture of
+监斩[監斬] jiānzhǎn v. supervise the decapitation of criminals
+监证[監證] jiānzhèng n. check and affirm
+监制[監製] ¹jiānzhì v. supervise the manufacture of
+监制人[監製-] jiānzhìrén n. supervisor (in film/factory) M:ge/míng/²wèi 个/名/位
+金融监管力度[--監---] jīnróng jiānguǎn lìdu n. strength of financial supervision
+军医总监[軍醫總監] jūnyī zǒngjiān n. surgeon general M:ge/míng/²wèi 个/名/位
+控制和监控系统[---監--統] kòngzhì hé jiānkòng xìtǒng n. control and monitoring system

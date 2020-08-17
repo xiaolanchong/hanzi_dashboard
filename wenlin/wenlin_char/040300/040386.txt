@@ -1,0 +1,4 @@
+==== 鷂(S鹞) [yào] hawk, kite; paper kite  [yáo]
+鷂[鹞] ⁸yào b.f. ①sparrow hawk; kite 鹞子 ²yàozi ②hawk/kite-like objects 鹞鱼 yàoyú 纸鹞 ³zhǐyào
+(The glyphs in the Unicode 2.0 and 3.0 books have 䍃. The Unicode 1.0 book had .)
+(Explanation from the entry for the simple form 鹞:) From 䍃 yáo and 鸟(鳥 niǎo) 'bird'.

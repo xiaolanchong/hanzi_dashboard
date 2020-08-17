@@ -1,0 +1,5 @@
+xxxx 摋(S𢫬) [sà] 拔摋 básà separate  [shǎi] [shā]
+摋[𢫬] ³sà char. 拔𢫬 básà
+(Explanation from the entry for the simple form 𢫬:) From 扌(手 shǒu) 'hand' and 杀(殺) shā phonetic.
+The simplified form is in XHC and Guifan Zidian, but not in Unicode 3.0.
+-- It is in Unicode 3.1 (U+22aec).

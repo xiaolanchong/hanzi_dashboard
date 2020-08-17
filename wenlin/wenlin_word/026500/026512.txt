@@ -1,0 +1,100 @@
+分析 fēnxi* {B} v. ①analyze | Dǒngshìhuì měi yuè yị̄ cì ∼ xíngshì. 董事会每月一次∼形势。 The board of directors scrutinizes the situation once every month. ②parse ◆n. parsing; analysis
+定量分析 dìngliàng fēnxi {E} n. quantitative analysis
+定性分析 dìngxìng fēnxi {E} n. qualitative analysis
+分崩离析[--離-] fēnbēnglíxī {E} f.e. disintegrate
+分析师[--師] fēnxishī {E} n. analyst
+解析 jiěxī* {E} v./n. analyze
+淅淅//析析 ¹xīxī {E} on. whistling (of wind/rain)
+辨析 biànxī* {F} v. differentiate and analyze; discriminate
+解析几何[--幾-] jiěxī jǐhé n. analytical geometry
+剖析 pōuxī {E} v. analyze; dissect
+孢子花粉分析 bāozǐ huāfěn fēnxi n. 〈archeo.〉 pollen analysis
+边际分析[邊際--] biānjì fēnxi n. 〈econ.〉 marginal analysis
+变异分析[變異--] biànyì fēnxi n. 〈lg.〉 variation analysis
+表式剖析 biǎoshì pōuxī n. 〈lg.〉 chart parsing
+层次结构分析法[層-結構---] céngcì jiégòu fēnxifǎ n. 〈lg.〉 hierarchical analysis
+成分分析 chéngfèn fēnxi n. 〈lg.〉 componential/constituent analysis
+成分分析法 chéngfèn fēnxifǎ n. 〈lg.〉 componential analysis
+词形分析[詞---] cíxíng fēnxi n. 〈lg.〉 morphological analysis
+词组单位分析[詞組單---] cízǔ dānwèi fēnxi n. 〈lg.〉 constituent analysis
+从属分析法[從屬---] cóngshǔ fēnxifǎ n. dependency analysis method
+错误分析[錯誤--] cuòwù fēnxi n. 〈lg.〉 error analysis
+错误分析法[錯誤---] cuòwù fēnxifǎ n. 〈lg.〉 error analysis
+荡析[蕩-] dàngxī v.p. dispersed; separated (of people on troubled times)
+荡析离居[蕩-離-] dàngxīlíjū f.e. 〈wr.〉 scattered far from their homes
+电渗析[電滲-] diànshènxī n. 〈chem.〉 electrodialysis
+对比分析[對---] duìbǐ fēnxi n. 〈lg.〉 contrastive analysis (CA)
+对比话语分析[對-話語--] duìbǐ huàyǔ fēnxi n. 〈lg.〉 contrastive discourse analysis
+对比语篇分析[對-語---] duìbǐ yǔpiān fēnxi n. 〈lg.〉 contrastive discourse analysis
+多变量分析[-變---] duōbiànliàng fēnxi n. multivariate analysis
+方差分析 fāngchā fēnxi n. 〈math.〉 analysis of variance
+泛函数分析[--數--] fànhánshù fēnxi n. functional analysis
+反应失误分析[-應-誤--] fǎnyìng shīwù fēnxi n. miscue analysis
+分布式文本剖析 fēnbùshì wénběn pōuxī n. 〈lg.〉 distributed text parsing
+分析出来[---來] fēnxi chūlai r.v. analyze out
+分析法 fēnxifǎ n. analytical method/style
+分析过程计算机[--過-計-機] fēnxi guòchéng jìsuànjī n. 〈comp.〉 process computer
+分析化学[---學] fēnxi huàxué n. analytical chemistry
+分析家 fēnxijiā n. analyst
+分析架构[---構] fēnxi jiàgòu n. analytical framework
+分析记忆法[--記憶-] fēnxi jìyìfǎ n. analytic style
+分析性假设[----設] fēnxixìng jiǎshè n. analytical hypothesis
+分析形式 fēnxi xíngshì n. 〈lg.〉 analytical form
+分析性研究 fēnxixìng yánjiū n. analytical research
+分析型语言[---語-] fēnxixíng yǔyán* n. 〈lg.〉 analytical language
+分析性语言[---語-] fēnxixìng yǔyán n. 〈lg.〉 analytical language
+分析语[--語] fēnxiyǔ n. 〈lg.〉 analytical language
+分析语言[--語-] fēnxi yǔyán n. 〈lg.〉 analytical language
+分析语言学[--語-學] fēnxi yǔyánxué n. 〈lg.〉 analytical linguistics
+概念解析 gàiniàn jiěxī n. 〈lg.〉 conceptual analysis
+光谱分析[-譜--] guāngpǔ fēnxi n. 〈phy.〉 spectrographic analysis
+毫分缕析[--縷-] háofēnlǚxī f.e. make a detailed analysis; analyze minutely
+化学分析[-學--] huàxué fēnxi n. chemical analysis
+话语分析[話語--] huàyǔ fēnxi n. 〈lg.〉 discourse analysis
+回归分析[-歸--] huíguī fēnxi n. 〈lg.〉 regressive analysis
+会话分析[會話--] huìhuà fēnxi n. 〈lg.〉 conversational analysis
+简捷分析[簡---] jiǎnjié fēnxi n. shortcut analysis
+结构重分析[結構---] jiégòu chóngfēnxi n. 〈lg.〉 structure reanalysis
+结构分析[結構--] jiégòu fēnxi n. structural analysis
+解析度 jiěxīdù n. resolution
+解析法 jiěxīfǎ n. analytic method
+解析函数[---數] jiěxī hánshù n. 〈math.〉 analytic function
+解析几何学[--幾-學] jiěxī jǐhéxué n. analytic geometry
+解析器 jiěxīqì n. 〈comp.〉 resolver M:tái/ge 台/个
+精神分析 jīngshén fēnxi n. psychoanalysis
+精心细析[--細-] jīngxīnxìxī v.p. point-by-point explanation
+技术经济分析[-術經濟--] jìshù jīngjì fēnxi n. techno-economic analysis
+决定型语法剖析器[決--語----] juédìngxíng yǔfǎ pōuxīqì n. 〈lg.〉 deterministic parser
+决算表分析[決----] juésuànbiǎo fēnxi n. 〈acct.〉 analysis of a financial statement; statement analysis
+可分析性 kěfēnxixìng n. 〈lg.〉 analyzability
+量纲分析[-綱--] liànggāng fēnxi n. 〈phy.〉 dimensional analysis
+链状分析法[鏈狀---] liànzhuàng fēnxifǎ n. 〈lg.〉 chain analysis
+离析[離-] líxī v. 〈wr.〉 disintegrate (of a regime/etc.)
+利析秋毫 lìxīqiūháo f.e. astute in conducting financial affairs
+逻辑分析[邏輯--] luóji fēnxi n. logical analysis
+缕析[縷-] lǚxī v. make a detailed analysis
+密码分析[-碼--] mìmǎ fēnxi n. cryptanalysis
+内部分析[內---] nèibù fēnxi n. 〈lg.〉 internal analysis
+尿分析 niàofēnxi n. 〈med.〉 urinalysis
+凝析气井[--氣-] níngxīqìjǐng n. gas-condensate well M:kǒu 口
+凝析油 níngxīyóu n. condensate (of petroleum)
+判析 pànxī v. analyze and judge
+朋党分析[-黨--] péngdǎng fēnxi n. 〈soc.〉 clique analysis
+篇章分析 piānzhāng fēnxi n. 〈lg.〉 discourse analysis; text/textual analysis
+瓶颈分析[-頸--] píngjǐng fēnxi n. bottleneck analysis
+评析[評-] ³píngxī v. critique; analyze and criticize; comment critically; review analytically
+剖析者 pōuxīzhě n. anatomist M:²wèi 位
+启发式句法剖析[啟發-----] qǐfāshì jùfǎ pōuxī n. 〈lg.〉 heuristic parsing
+倾析[傾-] ²qīngxī n. decantation
+倾析瓶[傾--] qīngxīpíng n. decanting bottle M:²zhī 只
+屈服线分析[--線--] qūfúxiàn fēnxi n. yield line method
+色层分析[-層--] sècéng fēnxi n. 〈phy.〉 chromatographic analysis
+赏析[賞-] shǎngxī* v. appreciate
+渗析[滲-] shènxī n. 〈chem.〉 dialysis
+视听众分析[視聽眾--] shì-tīngzhòng fēnxi n. audience analysis
+失误分析[-誤--] shīwù fēnxi n. 〈lg.〉 miscue analysis
+数据驱动型分析[數據驅動---] shùjù qūdòngxíng fēnxi n. 〈lg.〉 data-driven analysis
+树形分析法[樹----] shùxíng fēnxifǎ n. 〈lg.〉 tree analysis method
+数值分析[數---] shùzhí fēnxi n. numerical analysis
+条分缕析[條-縷-] tiáofēnlǚxī f.e. analyze meticulously
+体系分析[體---] tǐxì fēnxi n. system-analysis

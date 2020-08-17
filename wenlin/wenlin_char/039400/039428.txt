@@ -1,0 +1,4 @@
+xxxx 騄(S𫘧) (=􂑝綠S绿緑𢅞) (?𫃱) [shè] [lù] (Unihan:) name of a legendary swift horse
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 馬 and 录 (or 彔).
+(The glyph in the Unicode 3.0 book has 录. The Unicode 1.0 book had 彔.)

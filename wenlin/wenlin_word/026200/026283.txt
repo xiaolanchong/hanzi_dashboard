@@ -1,0 +1,56 @@
+暂时[暫時] zànshí {B} adv. temporarily ◆attr. temporary; transient
+短暂[-暫] duǎnzàn {D} s.v. of short duration; brief ◆n. ①short term ②shortness
+暂且[暫-] zànqiě {D} adv. for the moment; temporarily | ∼ jiù zhèyàng ba. ∼就这样吧。 That'll do for the present.
+暂定[暫-] zàndìng {E} v. tentatively set (time/etc.) | Shūmíng ∼ wéi “Cǎihóng.” 书名∼为 “彩虹。” The title of the book is tentatively set as “Rainbow.”
+暂时性[暫時-] zànshíxìng {E} n. transiency; provisionality
+暂停[暫-] zàntíng {E} v. suspend | Bǐsài ∼ le. 比赛∼了。 The game is temporarily stopped. ◆n. 〈sport〉 time out
+暂行[暫-] zànxíng* {E} attr./adv. provisional; temporary | Hěn duō rén bùzhīdào zhèxiē ∼ guīdìng. 很多人不知道这些∼规定。 Many people don't know these temporary rules.
+暂缓[暫緩] zànhuǎn {E} v. postpone; defer | Xīn fǎlǜ ∼ shíxíng. 新法律∼实行。 The new law is temporarily deferred in taking effect.
+短暂记忆[-暫記憶] duǎnzàn jìyì n. 〈psy.〉 short-term memory
+短暂貌[-暫-] duǎnzànmào n. 〈lg.〉 delimitative aspect
+利息暂记[--暫記] lìxīzànjì n. 〈acct.〉 interest suspense
+人生短暂[---暫] rénshēngduǎnzàn f.e. life is transient
+视觉暂留[視覺暫-] shìjué zànliú n. persistence of vision
+位址暂存器[--暫--] wèizhǐ zàncúnqì n. 〈comp.〉 address register
+暂别[暫別] zànbié n. temporary separation
+暂齿[暫齒] zànchǐ n. milk teeth M:¹kē 颗
+暂存[暫-] zàncún attr. temporary storage ◆v. store temporarily
+暂存记忆体[暫-記憶體] zàncún jìyìtǐ n. 〈comp.〉 scratchpad memory
+暂存器[暫--] zàncúnqì n. 〈comp.〉 ①register ②temporary storage/memory
+暂存区[暫-區] zàncúnqū p.w. 〈comp.〉 temporary memory/space
+暂存体[暫-體] zàncúntǐ n. Random Access Memory (RAM)
+暂代[暫-] zàndài v. temporarily replace
+暂定办法[暫-辦-] zàndìng bànfǎ n. provisional/tentative measures
+暂定议程[暫-議-] zàndìng yìchéng n. tentative agenda
+暂短[暫-] zànduǎn v.p. short; brief
+暂顿[暫頓] zàndùn n. 〈lg.〉 caesura
+暂付款项[暫--項] zànfù kuǎnxiàng n. 〈acct.〉 temporary payment
+暂管[暫-] zànguǎn v. temporarily handle
+暂候[暫-] zànhòu v. wait for a short time
+暂记待结帐户[暫記-結帳戶] zànjì dàijié zhànghù n. 〈acct.〉 a clearing account
+暂记贷项[暫記貸項] zànjì dàixiàng n. 〈acct.〉 suspense credits
+暂借[暫-] zànjiè v. lend or borrow for a short time
+暂济燃眉[暫濟--] zànjìránméi f.e. temporarily relieve an urgent need
+暂记帐[暫記帳] zànjìzhàng n. suspense account M:běn 本
+暂离[暫離] zànlí* v. temporarily part
+暂留[暫-] zànliú v. stay for a short time
+暂缺[暫-] zànquē v. ①be temporarily left vacant ②be temporarily out of stock
+暂声[暫聲] zànshēng n. 〈lg.〉 momentary consonant
+暂时合伙[暫時--] zànshí héhuǒ n. 〈acct.〉 temporary association
+暂时貌[暫時-] zànshímào n. 〈lg.〉 delimitative aspect
+暂收款[暫--] zànshōukuǎn n. deposit
+暂态[暫態] zàntài n. temporary/transient state
+暂停付款[暫---] zàntíng fùkuǎn n./v.p. 〈acct.〉 suspend payment
+暂停钮[暫-鈕] zàntíngniǔ n. 〈comp.〉 pause key/button
+暂停指令[暫---] zàntíng zhǐlìng n./v.o. 〈comp.〉 halt instructions
+暂息[暫-] zànxī v. stop temporarily; recess
+暂歇[暫-] zànxiē v. rest for a while; stay for a short time
+暂行法[暫--] zànxíngfǎ n. provisional/temporary law M:²bù 部
+暂行规则[暫-規則] zànxíng guīzé n. provisional rule
+暂牙[暫-] zànyá n. temporary teeth M:¹kē 颗
+暂延[暫-] zànyán v. postpone/adjourn temporarily
+暂音[暫-] zànyīn n. 〈lg.〉 close/stop sound; momentary sound
+暂用[暫-] zànyòng v. use temporarily
+暂住[暫-] ²zànzhù v. reside temporarily
+暂住证[暫-證] zànzhùzhèng n. temporary residence permit
+状态暂存器[狀態暫--] zhuàngtài zàncúnqì n. 〈comp.〉 status register

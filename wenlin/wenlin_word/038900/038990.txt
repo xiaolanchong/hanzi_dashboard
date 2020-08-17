@@ -1,0 +1,63 @@
+上颚[-顎] shàng'è {E} n. ①upper jaw; maxilla ②palate; hard palate
+下颚[-顎] xià'è {E} n. ①lower jaw; mandible ②maxilla (of certain arthropods)
+腭/颚垂[齶/顎-] èchuí n. uvula
+颚/腭骨[顎/齶-] ègǔ n. jawbone
+颚化[顎-] ²èhuà 〈lg.〉 n. palatalization; yodizing ◆attr. palatalized
+颚化辅音[顎-輔-] èhuà fǔyīn n. 〈lg.〉 palatalized consonant
+颚化音[顎--] èhuàyīn n. 〈lg.〉 palatalized sound
+颚化作用[顎---] èhuà zuòyòng n. 〈lg.〉 jodization; yotization; palatalization
+颚摩擦音[顎---] èmócāyīn n. 〈lg.〉 palatal fricative
+颚塞音[顎--] èsāiyīn n. 〈lg.〉 palatal occlusive
+颚图[顎圖] ²ètú n. palatogram
+颚下腺[顎--] èxiàxiàn n. 〈phys.〉 the submaxillary gland
+颚音[顎-] ²èyīn n. 〈lg.〉 palatal; palatal/prepalatal sound
+颚龈音[顎齦-] èyínyīn n. 〈lg.〉 prepalatal/palatal sound; palato-alveolar consonant
+颚针鱼[顎針魚] èzhēnyú n. needle fish M:tiáo 条
+颚中送气音[顎--氣-] èzhōng sòngqìyīn n. 〈lg.〉 velo-palatal aspirated sound
+颚中音[顎--] èzhōngyīn n. 〈lg.〉 velo-palatal sound
+非颚化音[-顎--] fēi'èhuàyīn n. 〈lg.〉 non-palatalized sound
+后颚[後顎] hòu'è* n. back palate; velum
+后颚音[後顎-] hòu'èyīn n. 〈lg.〉 postpalatal sound; back palatal sound; velar sound
+假颚[-顎] jiǎ'è n. artificial/false palate
+假颚图[-顎圖] jiǎ'ètú n. palatogram
+裂颚[-顎] liè'è n. hard palate
+片颚[-顎] piàn'è n. chin
+前颚塞音[-顎--] qián'è sāiyīn n. 〈lg.〉 front palatal occlusive
+前颚音[-顎-] ²qián'èyīn n. 〈lg.〉 front palatal sound
+前硬颚[--顎] qiányìng'è n. front part of the hard palate
+前硬颚音[--顎-] qiányìng'èyīn n. 〈lg.〉 prepalatal sound
+人造上颚[---顎] rénzào shàng'è n. artificial palate
+软颚半元音[軟顎---] ruǎn'è bànyuányīn n. 〈lg.〉 velar glide
+软颚的[軟顎-] ruǎn'è de attr. 〈lg.〉 velar
+软颚化[軟顎-] ruǎn'èhuà n. 〈lg.〉 velarization; gutturalization
+软颚化的[軟顎--] ruǎn'èhuà de attr. 〈lg.〉 velarized
+软颚摩擦音[軟顎---] ruǎn'è mócāyīn n. 〈lg.〉 velar fricative
+软颚抑音[軟顎--] ruǎn'è yìyīn n. 〈lg.〉 velar stop
+软颚元音[軟顎--] ruǎn'è yuányīn n. 〈lg.〉 back vowel
+上颚骨[-顎-] shàng'ègǔ* n. maxilla
+上颚龈音[-顎齦-] shàng'èyínyīn n. 〈lg.〉 palato-alveolar
+舌尖前颚的[---顎-] shéjiānqián'è de attr. 〈lg.〉 apico-prepalatal
+舌尖前颚音[---顎-] shéjiānqián'èyīn n. 〈lg.〉 ①apico-prepalatal sound ②lamino-palatal sound
+舌尖前硬颚的[----顎-] shéjiānqián-yìng'è de attr. 〈lg.〉 ①dorso-prepalatal ②apico-prepalatal
+舌尖前硬颚送气[----顎-氣] shéjiānqián-yìng'è sòngqì n. 〈lg.〉 dorso-prepalatal
+舌尖硬颚的[---顎-] shéjiānyìng'è de attr. 〈lg.〉 apico-palatal
+舌尖硬颚音[---顎-] shéjiānyìng'èyīn n. 〈lg.〉 apico-palatal sound
+舌面颚中[--顎-] shémiàn-èzhōng n./attr. dorso-palatal
+舌面颚中鼻塞音[--顎----] shémiàn-èzhōng bísāiyīn n. 〈lg.〉 dorso-palatal nasal
+舌面前硬颚[----顎] shémiànqián yìng'è n./attr. 〈lg.〉 dorso-prepalatal
+舌面前硬颚音[----顎-] shémiànqián yìng'èyīn n. 〈lg.〉 dorso-prepalatal sound; front palatal sound
+舌面软颚的[--軟顎-] shémiàn-ruǎn'è de attr. dorso-velar
+舌面软颚的塞音[--軟顎---] shémiàn-ruǎn'è de sèyīn n. 〈lg.〉 dorso-velar occlusive
+舌面软颚音[--軟顎-] shémiàn-ruǎn'èyīn n. 〈lg.〉 dorso-velar sound
+舌音颚中音[--顎--] shéyīn èzhōngyīn n. 〈lg.〉 cacuminal sound
+无颚鱼[無顎魚] wú'èyú n. 〈bio.〉 jawless fish M:wěi 尾
+下颚骨[-顎-] xià'ègǔ n. (the bone of) the lower jaw
+咽喉软颚音[--軟顎-] yānhóu ruǎn'èyīn n. 〈lg.〉 faucal sound
+龈颚间的[齦顎間-] yín'èjiān de attr. 〈lg.〉 prepalatal
+龈颚音[齦顎-] ²yín'èyīn n. 〈lg.〉 prepalatal sound
+硬颚音[-顎-] yìng'èyīn n. 〈lg.〉 palatal sound
+硬颚元音[-顎--] yìng'è yuányīn n. 〈lg.〉 palatal vowel
+圆唇软颚音[圓-軟顎-] yuánchún ruǎn'èyīn n. 〈lg.〉 labiovelar (sound)
+中颚摩擦音[-顎---] zhōng'è mócāyīn n. 〈lg.〉 cacuminal fricative
+中颚塞音[-顎--] zhōng'è sāiyīn n. 〈lg.〉 cacuminal occlusive
+中颚音[-顎-] zhōng'èyīn n. 〈lg.〉 cacuminal sound

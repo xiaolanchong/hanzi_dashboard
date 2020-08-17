@@ -1,0 +1,100 @@
+名字 ¹míngzi* {A} n. name
+文字 wénzì* {B} n. ①characters; script; writing ②written language ③writing style/phraseology M:zhǒng 种
+数字[數-] shùzì* {B} n. ①numeral; figure; digit | Zhèxiē ∼ shì jiǎ de. 这些∼是假的。 These figures are false. ②quantity; amount
+别字[別-] biézì* {C} n. ①mispronounced or wrongly written character ②typo ③alias
+错字[錯-] cuòzì* {C} n. ①wrongly written characters ②misprint
+字母 zìmǔ* {C} n. ①letter of an alphabet; letter; alphabet; grapheme ②〈lg.〉 a character representing an initial consonant (e.g., míng 'bright' representing m)
+签字[簽-] ¹qiānzì* {D} n. signature ◆v.o. sign; affix one's signature; initial (a document/contract/etc.) | Qǐng zài zhèlǐ ∼. 请在这里∼。 Please sign here.
+识字[識-] ²shízì {E} v.o. learn to read; be/become literate | Wǒ de háizi yǐjing kẹ̌yǐ ∼ le. 我的孩子已经可以∼了。 My child has already learned to read. ◆n. 〈lg.〉 literacy
+大字报[--報] dàzìbào* {E} n. 〈PRC〉 big-character poster M:zhāng/fèn 张/份
+繁体字[-體-] fántǐzì {D} n. original complex forms of simplified characters
+简体字[簡體-] jiạ̌ntǐzì* {D} n. simplified characters
+十字 ¹shízì* {E} n. the character ten ◆attr. cross-shaped
+字眼 zìyǎn(r)* {E} n. ①word; wording; diction | Tā yòng ∼ hẹ̌n jǐnshèn. 他用∼很谨慎。 She chooses her words very carefully. ②character
+写字台[寫-檯] xiězìtái {E} n. writing/business desk M:zhāng 张
+字典 zìdiǎn* {C} n. character dictionary; thesaurus; lexicon M:běn 本
+阿拉伯数字[---數-] Ālābó shùzì {E} n. Arabic numerals
+阿拉伯字母 Ālābó zìmǔ {E} n. Arabic letters
+白纸黑字[-紙--] báizhǐhēizì {E} f.e. (written) in black and white | ∼ xiězhe ne, nǐ làibudiào. ∼写着呢, 你赖不掉。 It's written in black and white and you have no way to deny it.
+白字 báizì(r)* {E} n. ①wrongly written/pronounced character | niàn ∼ 念∼ mispronounce a character ②unregistered title to property
+白字连篇[--連-] báizìliánpiān {E} f.e. ①full of mispronounced/wrong words ②full of typos
+八字胡[--鬍] bāzìhú {E} n. mustache shaped like the character bā “eight”
+八字没一撇[--沒--] bāzì méi yī̠ piě {E} id. There's not the slightest sign of anything happening yet.
+财政赤字[財---] cáizhèng chìzì {E} n. financial deficit
+常用字 chángyòngzì {E} n. 〈lg.〉 frequently-used character
+粗体字[-體-] cūtǐzì {E} n. boldface font
+单字[單-] dānzì(r) {E} n. ①individual/separate Chinese character ②separate word (in a foreign language)
+打字 dǎzì* {E} v.o. ①type(write) ②do typing work
+打字稿 dǎzìgǎo {E} n. typescript M:piān/fèn 篇/份
+打字机[--機] dǎzìjī {E} n. typewriter M:tái/jià 台/架
+打字员[--員] dǎzìyuán {E} n. typist M:ge/míng/²wèi 个/名/位
+丁字尺 dīngzìchǐ {E} n. T-square M:bǎ 把
+方块字[-塊-] fāngkuàizì {E} n. ①Chinese character; tetragraph ②square print
+反义字[-義-] fǎnyìzì {E} n. antonym
+汉英字典[漢---] Hàn-Yīng zìdiǎn {E} n. Chinese-English dictionary
+黑体字[-體-] hēitǐzì {E} n. boldface type
+红十字会[紅--會] Hóngshízìhuì {E} p.w. Red Cross
+检字表[檢--] jiǎnzìbiǎo {E} n. index/list for looking up characters M:zhāng/fèn 张/份
+金字塔 jīnzìtǎ {E} n. pyramid M:⁴zuò 座
+吉字节[--節] jízìjié {E} n. 〈comp.〉 gigabyte
+看图识字[-圖識-] kàntú shízì {E} v.p. learn to read with aid of pictures
+老字号[--號] lǎozìhào {E} n. long-established store or brand of merchandise | Nị̌ yǒu méiyǒu chángguo zhè jiā ∼ de shípǐn? 你有没有尝过这家∼的食品? Have you tried the food made in this long-established store?
+练字[練-] ¹liànzì {E} v.o. practice calligraphy | Nǐ jīngcháng ∼ ma? 你经常∼吗? Do you often practice calligraphy?
+连字符[連--] liánzìfú {E} n. 〈lg.〉 hyphen (-)
+罗马字[羅馬-] Luómǎzì {E} n. roman letters
+盲字 mángzì {E} n. Braille
+毛笔字[-筆-] máobǐzì {E} n. characters written with a brush
+美术字[-術-] měishùzì {E} n. artistic calligraphy; art lettering
+铅字[鉛-] ²qiānzì {E} n. 〈print.〉 type; movable letters
+缺/阙字[-/闕-] quēzì {E} v.o. lack a word/character ◆n. ①missing word/character ②omission in an article/writing/etc.; hiatus
+认字[認-] rènzì* {E} v.o. know how to read | Zhèi háizi yǐjing kāishǐ ∼ le. 这孩子已经开始∼了。 This child is beginning to learn to read.
+十字架 shízìjià {E} n. ①crucifix; cross ②yoke one has to endure
+十字路口 shízì lùkǒu(r) {E} n. ①crossroads ②moment/point of decision
+十字形 shízìxíng {E} n. cross shape
+首字母 shǒuzìmǔ {E} n. initial(s)
+数字程控[數---] shùzì chéngkòng {E} attr. numerically/digitally controlled
+填字游戏[---戲] tiánzì yóuxì {E} n. crossword puzzle
+挑字眼儿[---兒] tiāo zìyǎnr {E} v.o. 〈coll.〉 find fault with the choice of words; pick holes; quibble
+题字[題-] tízì* {E} v.o. inscribe ◆n. inscription; autograph
+同音字 tóngyīnzì {E} n. 〈lg.〉 ①homophone ②homonym ③paronym
+同义字[-義-] tóngyìzì {E} n. synonym
+吐字 tǔzì {E} v.o. 〈thea.〉 ①pronounce words ②articulate; pronounce | Tā ∼ qīngchu. 她∼清楚。 She enunciates clearly.
+文字狱[--獄] wénzìyù {E} n. literary inquisition
+五笔字型/形[-筆--/-] wụ̌bǐ zìxíng {E} n. 〈comp.〉 one of numerous methods for entering characters by numbered strokes
+象形文字 xiàngxíng wénzì {E} n. hieroglyphics; pictographic writing
+小写字母[-寫--] xiạ̌oxiě zìmǔ {E} n. 〈lg.〉 minuscules; lower case letters
+斜体字[-體-] xiétǐzì {E} n. italics
+写字[寫-] xiězì* {E} v.o. write (characters)
+写字楼[寫-樓] xiězìlóu {E} p.w. office building M:⁴dòng 栋
+虚字[虛-] xūzì* {E} n. ①empty/function/form word ②particle
+咬文嚼字 yǎowénjiáozì {E} f.e. be pedantic | Tā shuōhuà xǐhuan ∼. 他说话喜欢∼。 He's a pedantic speaker. ◆n. hypercorrection
+咬字 yǎozì(r) {E} v.o. ①enunciate clearly | Tā chànggē ∼ bù qīngchu. 他唱歌∼不清楚。 He doesn't enunciate clearly in singing. ②〈opera〉 vocalize extravagantly ◆n. 〈lg.〉 (old) opera pronunciation
+异体字[異體-] yìtǐzì {E} n. variant form of a Chinese character; doublet characters
+一字不差 yị̄zìbụ̀chà {E} v.p. Not a single word is wrong.
+一字不漏 yị̄zìbụ̀lòu {E} v.p. not drop a letter
+脏字[髒-] zāngzì(r)* {E} n. obscenity; swear word
+造字 zàozì {E} 〈lg.〉 v.o. coin words
+兆字节[--節] zhàozìjié {E} m. 〈comp.〉 megabyte (MB)
+之字形 zhīzìxíng {E} n. “z” shape; zigzag
+中国字[-國-] Zhōngguózì {E} n. Chinese characters; Chinese written language
+逐字 zhúzì {E} adv. word-for-word; verbatim
+字词[-詞] zìcí* {E} n. word
+字节[-節] zìjié* {E} n. ①〈comp.〉 byte ②syllable
+字据[-據] ²zìjù {E} n. ①written pledge | ²Lì ge ∼ ba. 立个∼吧。 Put it in writing please. ②written proof; receipt; certificate M:zhāng 张
+字库[-庫] zìkù* {E} p.w. 〈comp.〉 character library/bank
+字里行间[-裡-間] zìlǐ-hángjiān {E} p.w. between the lines
+字谜[-謎] zìmí* {E} n. riddle involving characters
+字面 zìmiàn {E} attr. literal | zhào ∼ fānyì 照∼翻译 translate literally ◆n. ①face ②typeface ③phraseology
+字幕 ¹zìmù {E} n. caption; subtitle
+字体[-體] ¹zìtǐ {E} n. ①typeface; font ②style of calligraphy ③character; graph; script; word sign
+字条[-條] zìtiáo(r) {E} n. ①brief note ②〈lg.〉 constituent string
+字帖 zìtiè {E} n. specimen of writing; copybook; original calligraphy rubbings bound as an album M:zhāng/běn 张/本 See also zìtiě
+字形/型 ²zìxíng {E} n. ①font; style of characters; form of a character; graph; script ②morpheme
+八字 bāzì* {E} n. ①the character for eight ②birth-date characters used in fortune-telling
+字迹[-跡] ¹zìjì {E} n. handwriting; writing
+错别字[錯別-] cuò-biézì {E} n. wrongly written or mispronounced characters
+点字[點-] diǎnzì {F} n. Braille writing
+叠字[疊-] diézì {F} n. 〈lg.〉 ①reduplication ②reduplicated word
+丁字 dīngzì {F} n. T-shape
+丁字街 dīngzìjiē {F} n. T-shaped road junction M:tiáo 条
+古文字学[---學] gǔwénzìxué {F} n. paleography

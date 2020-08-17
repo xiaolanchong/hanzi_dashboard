@@ -1,0 +1,6 @@
+==== 莅(F蒞) [lì] (莅临 lìlín) arrive, be present
+莅[蒞] ³²lì b.f. arrive; be present 莅临 lìlín 莅会 ²lìhuì 莅任 ³lìrèn
+From 艹(艸 cǎo) 'grass' and 位 (wèi) 'position' or 涖 lì phonetic. (立 lì might be phonetic.)
+"Arrange, manage, transact." --Karlgren(1923). Karlgren says the function of 位 in 莅 is uncertain; by glossing the full form 蒞 as "same word as 莅", he seems to give precedence to the simple form 莅. 漢語大字典 does the same. 正字通 says "蒞, 俗莅字".
+說文解字 has none of the characters 莅, 蒞, or 涖. Instead it has an obsolete character composed of 立 plus 隶, of which 集韻 says "或作莅, 蒞" (see 漢語大字典 pages 3221, 3270, and 2713).
+We treat 蒞 as the "full form", rather than a "variant form", to accomodate the Big5 standard, from which 莅 is missing.

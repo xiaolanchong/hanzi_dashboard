@@ -1,0 +1,7 @@
+xxxx 犾 [yín] (component in 获)
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 犭(犬 quǎn) 'dog' and 犬 'dog'.
+Two dogs, 犭 and 犬, side by side. I can't find 犾 in any dictionary, but it has a Unicode number (72be), and it occurs as a part of 获 huò.
+Wieger lists a character yín composed of two 犬 side by side, which might be the same as 犾:
+"Two dogs that bite each other; 兩犬相齧也。會意。" --Wieger.
+See 狱(獄).

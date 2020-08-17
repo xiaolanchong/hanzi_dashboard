@@ -1,0 +1,4 @@
+==== 琤 [chēng] (琤瑽) tinkling sound
+琤 ⁹chēng char. 琤𪻐 chēngcōng 璁琤 cōngchēng*
+From 王(玉 yù) 'jade' and 争(爭) zhēng phonetic.
+The glyph shown for this character changed from 王 plus 爭 in version 1.0 of the Unicode Standard to 王 plus 争 in Unicode versions 2.0 and 3.0.

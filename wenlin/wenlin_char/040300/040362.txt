@@ -1,0 +1,4 @@
+xxxx 鶪(S䴗) [jú] shrike
+鶪/鵙[䴗] ⁸jú char. 鹊䴗 quèjú
+(Explanation from the entry for the simple form 䴗:) From 狊 jú phonetic and 鸟(鳥 niǎo) 'bird'.
+The full form 鶪 was in Unicode 1.0. The simplified form 䴗 was added in Unicode 3.0. A variant form is 鵙. Cihai includes an alternate simplified form 贝 plus 鸟, but that isn't in Unicode 3.0. XHC and Guifan Zidian have only 䴗(鶪).

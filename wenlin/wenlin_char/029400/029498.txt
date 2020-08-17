@@ -1,0 +1,4 @@
+==== 猺(=􀃙瑤S瑶𤪅) [yáo] (Unihan:) jackal; name of a tribe
+猺 ¹²yáo char. 青猺 qīngyáo
+From 犭 and 䍃 (or ).
+(The glyphs in the Unicode 2.0 and 3.0 books have 䍃. The Unicode 1.0 book had .)

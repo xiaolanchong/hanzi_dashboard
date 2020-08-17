@@ -1,0 +1,4 @@
+xxxx 滻(S浐) (=􁷄) [chǎn]
+No single-syllable words currently in dictionary.	add new s.s.w.
+(The glyphs in the Unicode 2.0 and 3.0 books have 産. The Unicode 1.0 book had 產.)
+(Explanation from the entry for the simple form 浐:) From 氵 and 产(產/産) chǎn.

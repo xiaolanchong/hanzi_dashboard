@@ -1,0 +1,31 @@
+牙龈[-齦] yáyín* {E} n. 〈phys.〉 gum; gingiva
+齿龈[齒齦] chǐyín* n. ①〈phys.〉 ⓐgums ⓑalveolae; alveolar ridge; teeth-ridge ②〈lg〉 alveolar
+齿龈后部的元音[齒齦後----] chǐyín hòubù de yuányīn n. 〈lg.〉 apico-alveolar vowel
+齿龈后音[齒齦後-] chǐyín hòuyīn n. 〈lg.〉 postalveolar sound
+齿龈隆骨[齒齦--] chǐyín lónggǔ n. alveolar ridge
+齿龈炎[齒齦-] chǐyínyán n. gingivitis
+齿龈音[齒齦-] chǐyínyīn n. 〈lg.〉 alveolar/apical/supradental sound
+颚龈音[顎齦-] èyínyīn n. 〈lg.〉 prepalatal/palatal sound; palato-alveolar consonant
+后齿龈的[後齒齦-] hòuchǐyín de attr. prepalatal
+前齿龈[-齒齦] qiánchǐyín n. alveolar; front part of the alveolar ridge
+软龈音[軟齦-] ruǎnyínyīn n. 〈lg.〉 velar sound
+上齿龈[-齒齦] shàngchǐyín n. upper alveolar ridge
+上颚龈音[-顎齦-] shàng'èyínyīn n. 〈lg.〉 palato-alveolar
+舌端齿龈[--齒齦] shéduān chǐyín n. 〈lg.〉 blade-alveolar
+舌尖齿龈摩擦音[--齒齦---] shéjiān chǐyín mócāyīn n. 〈lg.〉 apico-alveolar fricative
+舌尖齿龈塞擦音[--齒齦---] shéjiān chǐyín sècāyīn n. 〈lg.〉 apico-alveolar affricate
+舌尖齿龈音[--齒齦-] shéjiān chǐyínyīn n. 〈lg.〉 apico-alveolar sound
+舌面齿龈音[--齒齦-] shémiàn chǐyínyīn n. 〈lg.〉 dorso-alveolar sound
+属齿龈的鼻音[屬齒齦---] shǔchǐyín de bíyīn n. 〈lg.〉 alveolar nasal
+属齿龈的抑音[屬齒齦---] shǔchǐyín de yìyīn n. 〈lg.〉 alveolar stop
+属齿龈音[屬齒齦-] shǔchǐyínyīn n. 〈lg.〉 alveolar sound
+牙龈炎[-齦-] yáyínyán n. 〈med.〉 gingivitis
+龈病[齦-] yínbìng n. gingival disease
+龈擦音[齦--] yíncāyīn n. 〈lg.〉 alveolar fricative
+龈颚间的[齦顎間-] yín'èjiān de attr. 〈lg.〉 prepalatal
+龈腭音[齦齶-] ¹yín'èyīn n. 〈lg.〉 alveo-palatal sound
+龈颚音[齦顎-] ²yín'èyīn n. 〈lg.〉 prepalatal sound
+龈辅音[齦輔-] yínfǔyīn n. 〈lg.〉 palato-alveolar consonant
+龈脓肿[齦膿腫] yínnóngzhǒng n. gumboil
+龈炎[齦-] ¹yínyán n. gingivitis
+龈音[齦-] yínyīn n. 〈lg.〉 alveolar sound

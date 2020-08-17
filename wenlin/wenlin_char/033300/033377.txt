@@ -1,0 +1,5 @@
+==== 艡 [dāng] (…艡 dìdāng) battleship
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 舟 and 當.
+汉语大字典 says 艡 dāng only occurs in the word dìdāng 'battleship', the first character dì being composed of 舟 and 氐 (side by side), which is a character that's missing from Unicode 3.0.
+If this is correct, how silly of Unicode (and Big5) to include 艡 dāng but not … dì!

@@ -1,0 +1,4 @@
+==== 菉(=􀋀𦾯) (?𦲙) [lǜ] [lù] (Unihan:) the green bamboo; greenish bamboo
+菉 ⁷lǜ char. 菉笋 lǜsǔn
+From 艹(草 cǎo) 'grass' and 录 (or 彔).
+(The glyph in the Unicode 3.0 book has 录. The Unicode 1.0 book had 彔.)

@@ -1,0 +1,5 @@
+xxxx 鉥(S) [shù] long needle; 古鉥 ancient seal  [xù] (=訹)
+鉥[] ¹⁴shù char. 古 ²gǔshù
+(Explanation from the entry for the simple form :) From 钅(金) and 术.
+The simplified form  is not in Unicode 6.0. It appears in the ABC Chinese-English Comprehensive Dictionary (DeFrancis 2003, print edition), in 《现代汉语规范字典》 and 《现代汉语词典》.
+XHC says  means 长针, which in modern Chinese can mean "minute/long hand (on a clock)"; but since 鉥 is an ancient character, the meaning must be 'long needle'.

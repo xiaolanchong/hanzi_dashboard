@@ -1,0 +1,100 @@
+秩序 ¹zhìxù* {B} n. ①order; sequence ②arrangement
+程序 chéngxù* {C} n. ①order; procedure; course; sequence | Zhè dào ∼ bùnéng shěng. 这道∼不能省。 This procedure cannot be omitted. ②〈comp.〉 program
+工序 gōngxù {C} n. working procedure M:²dào 道
+次序 ¹cìxù* {D} n. order; sequence | Zhè běn zìdiǎn àn zìmǔ ∼ páiliè. 这本字典按字母∼排列。 This dictionary is arranged in alphabetical order. ◆attr. ordinal
+按次序 àn cìxù {E} adv. in turn
+编程序[編--] biān chéngxù {E} v.o. 〈comp.〉 write a program
+词序[詞-] cíxù {E} n. 〈lg.〉 word order
+井然有序 jǐngrányǒuxù {E} f.e. in order; orderly
+排序 páixù {E} v.o. sort; sequence; order; collate ◆n. sequencing; sorting; ordering; ranking
+顺序[順-] shùnxù {D} n. sequence; order | ²Àn zìmǔ ∼ páiliè wénjiàn. 按字母∼排列文件。 Arrange the documents in alphabetical order. ◆adv. ①in proper order; in turn ②lucky; fortunate
+序号[-號] xùhào* {E} n. serial number
+序幕 ²xùmù {E} n. prologue; prelude
+序曲 ¹xùqǔ {E} n. 〈mus.〉 overture; prelude M:²shǒu/⁴zhī 首/支
+自序/叙[--/敘] ¹zìxù {E} n. ①author's preface; preface ②autobiographical note; brief account of oneself
+序/叙言[-/敘-] xùyán* {D} n. preface; foreword
+程序设计[--設計] chéngxù shèjì {F} n./v. 〈comp.〉 programming
+序跋 xù-bá {F} n. preface and postscript
+语序[語-] yǔxù* {F} n. 〈lg.〉 word order; morpheme sequence
+循序渐进[--漸進] xúnxù jiànjìn {D} v.p. proceed step by step | Wǒ cǎiyòng ∼ de fāngfǎ xuéxí. 我采用∼的方法学习。 I've adopted the step-by-step method in my study.
+按序 ànxù adv. according to sequence
+编码程序[編碼--] biānmǎ chéngxù n. 〈comp.〉 code program
+编序教学法[編--學-] biānxù jiàoxuéfǎ n. programmed instruction
+表决程序[-決--] biǎojué chéngxù n. voting procedure
+播送次序 bōsòng cìxù n. broadcast series
+不顺序[-順-] bù shùnxù adv. not in good order
+补序列[補--] bǔxùliè n. supplementary/complementary series
+操作程序图[----圖] cāozuò chéngxùtú n. flow diagram; flow chart M:zhāng 张
+常态颠倒次序[-態顛---] chángtài diāndǎo cìxù n. 〈lg.〉 normal inverted order
+程序包 chéngxùbāo n. software/routine/program package
+程序编译[--編譯] chéngxù biānyì n. 〈comp.〉 program compilation
+程序表 chéngxùbiǎo n. schedule M:zhāng 张
+程序步骤[---驟] chéngxù bùzhòu n. 〈comp.〉 a program step
+程序参数[--參數] chéngxù cānshù n. 〈comp.〉 program parameter
+程序法 chéngxùfǎ n. 〈law〉 procedural law
+程序规划系统[--規劃-統] chéngxù guīhuà xìtǒng n. 〈comp.〉 programming system
+程序教学[---學] chéngxù jiàoxué n. 〈comp.〉 programmed instruction/learning
+程序教学法[---學-] chéngxù jiàoxuéfǎ n. 〈comp.〉 programmed teaching method
+程序教育 chéngxù jiàoyù n. 〈comp.〉 programmed learning/instruction
+程序库[--庫] chéngxùkù n. 〈comp.〉 program library
+程序流程图[----圖] chéngxù liúchéngtú n. 〈comp.〉 program flowchart
+程序设计师[--設計師] chéngxù shèjìshī n. 〈comp.〉 programmer M:²wèi 位
+程序设计员[--設計員] chéngxù shèjìyuán n. programmer M:²wèi 位
+程序设计语言[--設計語-] chéngxù shèjì yǔyán n. 〈comp.〉 programming/program language
+程序问题[--問題] chéngxù wèntí n. point of order
+程序性话语[---話語] chéngxùxìng huàyǔ n. 〈lg.〉 procedural discourse
+程序性教学大纲[----學-綱] chéngxùxìng jiàoxué dàgāng n. procedural syllabus
+程序学习[--學習] chéngxù xuéxí n. programmed learning
+程序员[--員] chéngxùyuán n. 〈comp.〉 programmer M:²wèi 位
+程序语言[--語-] chéngxù yǔyán n. 〈comp.〉 programming language
+程序指令 chéngxù zhǐlìng n. 〈comp.〉 program instructions
+程序组[--組] chéngxùzǔ n. 〈comp.〉 program package
+处理程序[處---] chǔlǐ chéngxù n. 〈comp.〉 processing program
+出生次序 chūshēng cìxù n. birth order
+词素序[詞--] císùxù n. 〈lg.〉 morpheme sequence
+词序变位[詞-變-] cíxù biànwèi n. 〈lg.〉 metathesis
+次序颠倒[--顛-] cìxù diāndǎo v.p. ①not in the right order ②inverted order | Zhè liǎng duàn ∼ le. 这两段∼了。 These two paragraphs are in inverted order.
+词序对应[詞-對應] cíxù duìyìng n. 〈lg.〉 word-order correspondence
+词序构词法[詞-構詞-] cíxù gòucífǎ n. 〈lg.〉 syntactic morphology
+次序关系[--關係] cìxù guānxi n. 〈lg.〉 ordering relation
+次序列 cìxùliè n. subsequence
+存储程序[-儲--] cúnchǔ chéngxù n. 〈comp.〉 stored/saved program
+代序 ²dàixù n. an article used in lieu of a preface ◆v.o. succeed one another
+单层拼音次序[單層----] dāncéng pīnyīn cìxù n. single-sort alphabetical order (as used in this dictionary)
+倒序 ²dàoxù n. reverse order
+倒序词典[--詞-] dàoxù cídiǎn n. reverse dictionary M:běn/⁴cè/²bù 本/册/部
+倒装词序[-裝詞-] dàozhuāng cíxù n. 〈lg.〉 inverted word order
+倒装序[-裝-] dàozhuāngxù n. 〈lg.〉 inverted sentence
+倒装语序[-裝語-] dàozhuāng yǔxù n. 〈lg.〉 inverted order
+颠倒次序[顛---] diāndǎo cìxù n. inverted order
+电子计算机程序[電-計-機--] diànzǐ jìsuànjī chéngxù n. computer programs
+调度程序[調---] diàodù chéngxù n. dispatch; scheduling process
+递归程序[遞歸--] dìguī chéngxù n. 〈comp.〉 recursive program
+定序 dìngxù v.o. sequence
+定序尺度 dìngxù chǐdù n. 〈lg.〉 ordinal scale
+法律程序 fǎlǜ chéngxù n. legal procedure M:³xiàng/zhǒng 项/种
+妨害秩序 fánghài zhìxù v.o. offend against public order
+芳序 fāngxù n. beautiful spring morning
+反序文件 fǎnxù wénjiàn n. inverted file
+翻译程序[-譯--] fānyì chéngxù n. 〈lg.〉 translation procedure
+发现程序[發現--] fāxiàn chéngxù n. 〈lg.〉 discovery procedure
+分支程序 fēnzhī chéngxù n. branching program
+公共秩序 gōnggòng zhìxù n. public order/peace
+管理程序 guǎnlǐ chéngxù n. administrative procedure M:tào 套
+固定词序[--詞-] gùdìng cíxù n. 〈lg.〉 fixed order
+国际新秩序[國際---] guójì xīnzhìxù n. the new world order
+衡量程序 héngliáng chéngxù n. evaluation procedure
+后叙/序[後敘/-] ²hòuxù n. epilogue ◆f.e. I await your presence
+划定序列[劃---] huàdìng xùliè n. 〈lg.〉 sequencing
+槐序 huáixù n. summer
+话轮之先后次序[話輪--後--] huàlún zhī xiānhòu cìxù n. 〈lg.〉 sequencing
+花序 ²huāxù n. arrangement of flowers on a stem/axis; inflorescence
+汇编程序[彙編--] huìbiān chéngxù n. 〈comp.〉 assemble; assembly program M:tào 套
+恢复秩序[-復--] huīfù zhìxù v.o. restore order
+监督程序[監---] jiāndū chéngxù n. 〈comp.〉 monitor program
+检证程序[檢證--] jiǎnzhèng chéngxù n. 〈acct.〉 procedure of verification
+交界面程序 jiāojièmiàn chéngxù n. 〈comp.〉 interface program
+解释程序[-釋--] jiěshì chéngxù n. interpretive program/routine
+节序[節-] jiéxù n. order of seasons
+经济新秩序[經濟---] jīngjì xīn zhìxù n. new economic order
+近似值次序 jìnsìzhí cìxù n. order of approximation

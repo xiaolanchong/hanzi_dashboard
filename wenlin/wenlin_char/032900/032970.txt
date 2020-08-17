@@ -1,0 +1,4 @@
+==== 胊 [qú] dried meat (clone of 朐??)
+Use of 胊 [U+80ca] is deprecated, please use 朐 [U+6710] instead.
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 月(肉 ròu) 'meat' and 句 jù phonetic.

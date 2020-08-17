@@ -1,0 +1,5 @@
+xxxx 軏(S𫐄) [yuè] crossbar on neap of carriage; 輗軏 carriage alignment
+軏[𫐄] ¹⁴yuè b.f. point where the crossbar is attached to the tongue of a carriage 𫐐𫐄 níyuè
+(Explanation from the entry for the simple form 𫐄:) From 车(車 chē) 'car' and 兀 wù phonetic.
+"Crossbar on neap of carriage" --Karlgren(1923).
+The simplified form is in XHC and Guifan Zidian, and was added to Unicode 5.2.

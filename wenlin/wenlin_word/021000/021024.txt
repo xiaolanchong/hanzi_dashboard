@@ -1,0 +1,37 @@
+删除[刪-] ¹shānchú* {E} v. delete; leave out
+删掉[刪-] shāndiào {E} r.v. delete | ∼ duōyú de duànluò. ∼多余的段落。 Delete the superfluous paragraphs.
+删改[刪-] shāngǎi* {E} v. delete and revise; abridge
+删减[刪減] ¹shānjiǎn {E} v. ①delete ②abridge; abbreviate
+删节[刪節] shānjié {E} v. delete and revise; abridge; abbreviate; condense
+比较词删除[-較詞刪-] bǐjiàocí shānchú n. 〈lg.〉 deletion of compared constituents
+联结删略[聯結刪-] liánjié shānlüè n. 〈lg.〉 conjunction reduction
+领属标志删除[領屬標-刪-] lǐngshǔ biāozhì shānchú n. 〈lg.〉 genitive (marker) deletion
+逆向删除[--刪-] nìxiàng shānchú n. 〈lg.〉 backward deletion
+逆向删略[--刪-] nìxiàng shānlüè n. 〈lg.〉 backward deletion
+删补[刪補] shānbǔ* v. get rid of superfluities and fill inadequacies (in a writing); revise
+删定[刪-] shāndìng v. delete and edit
+删繁补缺[刪-補-] shānfánbǔquē f.e. cut out repetition and fill in gaps
+删繁就简[刪--簡] shānfánjiùjiǎn f.e. prune diffuse text
+删行字符[刪---] shānháng zìfú n. line deletion symbol
+删简[刪簡] ²shānjiǎn v. condense; abridge
+删剪片断[刪--斷] shānjiǎn piànduàn n./v.p. cuts
+删节本[刪節-] shānjiéběn n. abridged edition; abbreviated version M:běn 本
+删节号[刪節號] shānjiéhào n. ellipsis
+删净[刪凈] ²shānjìng r.v. delete completely
+删略[刪-] shānlüè v. leave out; delete
+删去[刪-] shānqù r.v. cross off; delete
+删润[刪潤] shānrùn v. revise and polish (writing)
+删省[刪-] shānshěng* v. retrench; reduce
+删诗[刪詩] shānshī v.o. fix/edit the text of the Book of Odes
+删汰[刪-] shāntài v. delete; leave out
+删削[刪-] ¹shānxiāo v. delete; cut off See also shānxuē
+删信码[刪-碼] shānxìnmǎ n. expurgated code
+删削[刪-] shānxuē v. delete; cut/strike out See also ¹shānxiāo
+删字[刪-] shānzì v.o. delete a character
+顺向删除[順-刪-] shùnxiàng shānchú n. 〈lg.〉 forward deletion
+顺向删略[順-刪-] shùnxiàng shānlüè n. 〈lg.〉 forward deletion
+同指名词组删除[---詞組刪-] tóngzhǐ míngcízǔ shānchú n. 〈lg.〉 coreferential NP deletion
+同指名词组删略[---詞組刪-] tóngzhǐ míngcízǔ shānlüè n. 〈lg.〉 coreferential NP deletion
+现在时删除[現-時刪-] xiànzàishí shānchú n. 〈lg.〉 present-time deletion
+言谈话题删除[-談話題刪-] yántán huàtí shānchú n. 〈lg.〉 discourse theme deletion
+增删[-刪] zēng-shān v. add and delete; emendate; revise; modify

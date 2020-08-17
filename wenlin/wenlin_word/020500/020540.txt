@@ -1,0 +1,100 @@
+价值[價-] jiàzhí* {B} n. value; worth ◆v. cost
+值得 zhíde* {B} s.v./aux. merit; deserve | Zhè běn shū ∼ yī̠ dú. 这本书∼一读。 This book is worth reading.
+产值[產-] chǎnzhí {C} n. value of output
+贬值[貶-] ¹biǎnzhí {D} v.o. 〈econ.〉 ①devalue; devaluate | Rénmínbì huì ∼ ma? 人民币会∼吗? Is the RMB going to be devaluated? ②depreciate
+执/值勤[執/--] zhíqín* {D} v.o. be on duty (of police/military/etc.)
+数值[數-] ³shùzhí {E} n. 〈math.〉 numerical value
+值班 zhíbān(r)* {D} v.o. be on duty | Wǒ míngtiān yào ∼. 我明天要∼。 Tomorrow I'll be on duty.
+保值 bǎozhí {E} n. interest added to compensate against inflation ◆v.o. maintain the value of sth.; insure | Bǎ qián fàng zài yínháng lǐ bǎobuliǎo zhí. 把钱放在银行里保不了值。 You won't be able to maintain the value of your money by putting it in the bank.
+比值 ²bǐzhí {E} n. ①specific value ②ratio
+币值[幣-] ¹bìzhí* {E} n. 〈econ.〉 currency value
+不值得 bù zhíde {E} s.v. not worth it; unworthy of | Gēn tā shēngqì ∼. 跟他生气∼。 It's not worth it to get angry with him.
+等值 děngzhí {E} n. equal value
+价值观[價-觀] jiàzhíguān {E} n. value system
+价值连城[價-連-] jiàzhíliánchéng {E} f.e. invaluable; priceless
+净值[凈-] ¹jìngzhí {E} n. net worth/value
+绝对值[絕對-] juéduìzhí {E} n. absolute value
+面值 miànzhí {E} n. ①face/nominal value ②denomination
+升值 ²shēngzhí {E} v. 〈econ.〉 ①revalue ②appreciate | Měiyuán ∼ le. 美元∼了。 The U.S. dollar appreciated.
+营养价值[營養價-] yíngyǎng jiàzhí {E} n. nutritional value
+一钱不值[-錢--] yī̠qiánbùzhí {E} f.e. not worth a cent | Zhè ¹⁰fú ³huà gēnběn ∼. 这幅画根本∼。 This painting isn't worth a cent.
+增值 ¹zēngzhí {E} v.o./n. 〈econ.〉 increase in value
+值勤人员[---員] zhíqín rényuán {E} n. personnel on duty M:²wèi 位
+值日 zhírì* {E} v.o. be on duty for the day | tā jīntiān ∼. 他今天∼。 He is on duty today.
+总值[總-] zǒngzhí {E} n. gross/total value
+适值[適-] ¹shìzhí {F} v.p. just when
+市值 ²shìzhí {F} n. market value
+值钱[-錢] ¹zhíqián {E} s.v. costly; valuable | Zhè ¹⁰fú ³huà hěn ∼. 这幅画很∼。 This painting is very valuable.
+百分位数值[---數-] bǎifēnwèi shùzhí n. 〈lg.〉 percentile
+报值[報-] bàozhí v.o. report the value
+报值挂号[報-掛號] bàozhí guàhào n. registered mail with value specified
+本征值[-徵-] běnzhēngzhí n. 〈math.〉 eigenvalue
+表面价值[--價-] biǎomiàn jiàzhí n. face value
+标准值[標準-] biāozhǔnzhí n. 〈lg.〉 norm
+比较值[-較-] bǐjiàozhí n. comparative value
+币值波动[幣--動] bìzhí bōdòng n. currency fluctuation
+不值 bùzhí s.v. not be worth it
+不值当[--當] bùzhídàng s.v. be not worth the price
+不值一驳[---駁] bùzhíyībó f.e. not be worth refuting
+不值一顾[---顧] bùzhíyīgù f.e. not worth any attention
+不值一钱[---錢] bùzhíyīqián f.e. worthless
+不值一谈[---談] bùzhíyītán f.e. not be worth mentioning
+不值一提 bùzhíyītí f.e. not be worth mentioning
+不值一文 bùzhíyīwén f.e. worthless
+不值一笑 bùzhíyīxiào f.e. extremely ridiculous
+参考值[參--] cānkǎozhí n. referential value
+草刺儿不值[--兒--] cǎocìrbùzhí f.e. 〈topo.〉 worthless; of no value
+超值 chāozhí v.o. surpass the value
+酬直/值 ¹chóuzhí v.o. repay for services
+出口总值[--總-] chūkǒu zǒngzhí n. gross export value
+春宵一刻值千金 chūnxiāo yī kè zhí qiānjīn f.e. One minute in a night of rendezvous is worth a thousand pieces of gold.
+初值 chūzhí n. initial value
+当值/直[當-/-] dāngzhí v. 〈trad.〉 be on duty
+等值线[--線] děngzhíxiàn n. ①contour ②isopleth ③isopleth index line; isometric line ④isorithm; isogram M:tiáo 条
+调值[調-] ²diàozhí n. 〈lg.〉 tone pitch/value
+定值 ²dìngzhí n. constant value; definite value
+多值 duōzhí attr. multi-valued; multiple-valued
+多值含蕴[---蘊] duōzhí hányùn n. 〈lg.〉 multi-valued implicational universals
+二值 èrzhí attr. 〈lg.〉 two-valued
+二值倾向[--傾-] èrzhí qīngxiàng n. 〈lg.〉 two-valued orientation
+二值思维[---維] èrzhí sīwéi n. 〈lg.〉 two-valued thinking
+方根值 fānggēnzhí n. 〈math.〉 root value
+翻译等值[-譯--] fānyì děngzhí n. 〈lg.〉 translation equivalence
+非峰值 fēifēngzhí n. off-peak
+峰值 ¹fēngzhí n. 〈elec.〉 peak value
+分儿值[-兒-] fēnrzhí n. 〈PRC/coll.〉 money worth of the points earned (in the people's communes)
+分文不值 fēnwénbùzhí f.e. worthless
+分值 ²fēnzhí n. 〈PRC〉 money worth of the points earned (in the people's communes)
+附加价值[--價-] fùjiā jiàzhí n. value added
+附加值 fùjiāzhí n. added value
+赋值语句[賦-語-] fùzhí yǔjù n. 〈lg.〉 assignment statement
+个人价值[個-價-] gèrén jiàzhí n. individual values
+公平价值[--價-] gōngpíng jiàzhí n. fair value
+工业总产值[-業總產-] gōngyè zǒngchǎnzhí n. gross industrial output value
+工值 ²gōngzhí n. 〈PRC〉 one workpoint worth of money
+固定资产净值[--資產凈-] gùdìng zīchǎn jìngzhí n. net value of fixed assets
+国民经济总产值[國-經濟總產-] guómín jīngjì zǒngchǎnzhí n. gross national product
+国民生产总值[國--產總-] guómín shēngchǎn zǒngzhí n. gross national product (GNP)
+国内生产总值[國內-產總-] guónèi shēngchǎn zǒngzhí n. gross domestic product (GDP)
+股票价值[--價-] gǔpiào jiàzhí n. stock value
+函数值[-數-] hánshùzhí n. 〈math.〉 function value
+蒿草不值 hāocǎobùzhí id. 〈coll.〉 be worthless
+货币贬值[貨幣貶-] huòbì biǎnzhí n. currency devaluation/depreciation
+货币升值[貨幣--] huòbì shēngzhí n. currency revaluation/appreciation
+减值[減-] ²jiǎnzhí v.o. decrease in value
+交换价值[-換價-] jiāohuàn jiàzhí n. 〈econ.〉 exchange value
+加权平均值[-權---] jiāquán píngjūnzhí n. 〈math.〉 weighted average
+加值 ¹jiāzhí v.o. add value
+价值波动[價--動] jiàzhí bōdòng n. price fluctuations
+价值规律[價-規-] jiàzhí guīlǜ n. law of value
+价值量[價--] jiàzhíliàng n. value
+加值税[--稅] jiāzhíshuì n. value-added tax M:²bǐ 笔
+极大值[極--] jídàzhí n. maximal/maximum value
+记录价值[記錄價-] jìlù jiàzhí n. 〈acct.〉 recorded value
+净残值[凈殘-] jìngcánzhí n. 〈acct.〉 net salvage
+净产值[凈產-] jìngchǎnzhí n. net productivity; net output value
+近似值 jìnsìzhí n. approximate value; approximation
+近似值次序 jìnsìzhí cìxù n. order of approximation
+近似值次序模型 jìnsìzhí cìxù móxíng n. order of approximation model
+极小值[極--] jíxiǎozhí n. minimum value
+极值[極-] jízhí n. 〈math.〉 extreme value

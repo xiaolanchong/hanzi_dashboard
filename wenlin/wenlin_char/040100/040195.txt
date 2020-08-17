@@ -1,0 +1,5 @@
+xxxx 鴃(S𫛞) [jué] shrike; 鶗鴃 tíjué cuckoo; 鸋鴃 níngjué wren
+鴂/鴃[𫛞] ²⁴jué n. 〈wr.〉 shrike ◆char. 𫛸𫛞 tíjué
+(Explanation from the entry for the simple form 𫛞:) From 鸟(鳥) 'bird' and 夬 guài phonetic.
+A variant form 鴂 has the same components in reverse order.
+The simplified form 𫛞 (鸟 plus 夬) appears in 现代汉语词典 and was added to Unicode 5.2. A form with 夬 on the left and 鸟 also appears in 现代汉语词典, but is not found in Unicode 5.2.

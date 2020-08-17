@@ -1,0 +1,3 @@
+==== 阝 [fù] (left-side = radical 170 阜 'hill')  [yì] (right-side = radical 163 邑 'city')
+No single-syllable words currently in dictionary.	add new s.s.w.
+阝 originated as an abbreviation for two different characters when they occur as components. On the LEFT side, 阝 is from 阜 fù 'hill' (as in 阴 yīn), which is Kangxi radical 170; on the RIGHT side, 阝 is from 邑 yì 'city' (as in 都 dōu), which is Kangxi radical 163.

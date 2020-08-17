@@ -1,0 +1,6 @@
+xxxx 蹻(S𫏋) [jiǎo] 蹻蹻 brave  [qiāo] (=蹺)  [jué] unstable  [juē] (=屩)  [jú] [xuè]
+蹺/蹻[跷/𫏋] ⁷qiāo {E} v. ①raise the feet/fingers ②walk on tiptoe ◆b.f. stilts 高跷 gāoqiāo
+𫏋[蹻] ¹⁷jiǎo char. 𫏋𫏋 ⁴jiǎojiǎo 𫏋𫏋然 jiǎojiǎorán
+(Explanation from the entry for the simple form 𫏋:) From ⻊(足 zú) 'foot' and 乔(喬) qiáo phonetic.
+"To raise the feet, as when sitting; to cross the legs" --Mathews.
+The simplified form is in XHC and was added to Unicode 5.2; XHC treats 𫏋 as a variant of 跷(蹺) qiāo or 𪨗(屩) juē.

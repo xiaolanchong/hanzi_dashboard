@@ -1,0 +1,100 @@
+存在 cúnzài {B} v. exist; be | Zhǒngzú qíshì réngrán ∼. 种族歧视仍然∼。 Racial discrimination still exists. ◆n. existence
+生存 shēngcún {C} n./v. subsist; exist; live | Méi ²běnshi hěn ²nán ∼. 没本事很难∼。 Without any skills, one can hardly survive.
+保存 bǎocún {B} v./n. preserve; conserve; keep | Tā ∼le sān ⁴xiāng gụ̌dǒng. 他∼了三箱古董。 He has three boxes of antiquities stored safely away.
+并存[並-] bìngcún {D} v. coexist; concur | Jị̌ zhǒng shuōfa ∼. 几种说法∼。 Several versions of this story/explanation, etc., coexist.
+存款 cúnkuǎn {D} n./v.o. deposit; bank savings
+残存[殘-] cáncún {E} v. be left (over); survive
+存包 cúnbāo {E} v.o. check one's bags; bag check | Zài nǎr ∼? 在哪儿∼? Where is the bag check?
+存包柜[--櫃] cúnbāoguì {E} n. locker
+存车[-車] cúnchē {E} v.o. park bicycles
+存储器[-儲-] cúnchǔqì {E} n. 〈comp.〉 memory; storage
+存单[-單] cúndān {E} n. deposit receipt M:zhāng 张
+存档[-檔] cúndàng {E} v.o. ①file | Zhège wénjiàn ∼ le ma? 这个文件∼了吗? Has this document been filed? ②〈comp.〉 save a file
+存底 cúndǐ(r)* {E} v.o. keep an original draft or file copy
+存放 cúnfàng* {D} v. ①leave with; leave in sb.'s care ②deposit (money)
+存放处[--處] cúnfàngchù {E} p.w. checkroom; depository
+存根 cúngēn {E} n. counterfoil; stub
+存户[-戶] cúnhù {E} n. depositor
+存活 cúnhuó {E} v. ①survive; subsist; sustain; remain alive; live ②keep sth. alive
+存货[-貨] cúnhuò* {E} n. goods in stock; existing stock; inventory | ∼ mài wán le. ∼卖完了。 The existing stock is sold out. M:pī/diǎn 批/点
+存款单[--單] cúnkuǎndān {E} n. receipt issued by a bank to a depositor M:zhāng 张
+存盘[-盤] cúnpán {E} v.o. 〈comp.〉 save (to disk)
+存钱[-錢] cúnqián {E} v.o. save; deposit
+存取 cúnqǔ {E} v. 〈comp.〉 access (data)
+存入 cúnrù {E} v. deposit
+存亡 cúnwáng {E} v.p. live or die; survive or perish
+存心 cúnxīn* {E} v.o. cherish certain intentions ◆adv. intentionally; on purpose | Tā ∼ gēn wǒ dǎoluàn. 他∼跟我捣乱。 He intentionally makes trouble for me.
+存心不良 cúnxīnbùliáng {E} f.e. harbor evil designs
+存折 cúnzhé(r)* {E} n. deposit book; bankbook M:běn 本
+荡然无存[蕩-無-] dàngránwúcún {E} f.e. nothing left; everything ruined
+定期存款 dìngqī cúnkuǎn {E} n. fixed-term deposit M:²bǐ 笔
+共存 gòngcún* {E} v. coexist
+寄存 jìcún* {E} v. deposit; leave with; check | Guìzhòng dōngxi kẹ̌yǐ ∼ qǐlai. 贵重东西可以∼起来。 The valuables can be stored in a deposit.
+寄存器 jìcúnqì {E} n. 〈comp.〉 storage devices
+客观存在[-觀--] kèguān cúnzài {E} n. 〈phil.〉 objective existence/reality
+扩展内存[擴-內-] kuòzhǎn nèicún {E} n. 〈comp.〉 extended memory
+留存 liúcún {E} v. ①preserve; keep ②remain; be extant
+名存实亡[--實-] míngcúnshíwáng {E} f.e. exist in name only
+内存[內-] nèicún {E} n. 〈comp.〉 ①internal storage ②RAM; internal memory
+尚存 shàngcún {E} v. remain
+适者生存[適---] shìzhěshēngcún {E} f.e. 〈bio.〉 survival of the fittest
+外存 wàicún {E} n. 〈comp.〉 external memory
+温存[溫-] wēncún {E} s.v. ①attentive; compassionate ②gentle; kind
+现存[現-] xiàncún {E} v. be extant/available; be in stock
+幸存 xìngcún {E} v. survive by good luck
+幸存者 xìngcúnzhě {E} n. ①survivor ②survival M:ge/míng/²wèi 个/名/位
+永存 yǒngcún {E} v. be eternal
+存储[-儲] cúnchǔ* {E} 〈comp.〉 n. memory; storage ◆v. ①save ②hoard; store up; stockpile
+存疑 cúnyí {F} v.o. leave a matter open ◆n. existing doubt; unanswered question
+存在主义[---義] cúnzàizhǔyì {F} n. 〈phil.〉 existentialism
+封存 fēngcún {F} v. seal up for safekeeping
+浩气长存[-氣長-] hàoqìchángcún {F} f.e. imperishable noble spirit
+惠存 huìcún {F} f.e. 〈court.〉 keep as a souvenir; presented to so-and-so (inscription by giver)
+依存 yīcún* {F} v.p. depend on for existence
+余存[餘-] yúcún {F} n. balance; remainder
+贮存[貯-] zhùcún* {E} v. store; stockpile; deposit
+储存[儲-] chǔcún {D} v. lay in/up; store; stockpile | Bǎ shíwù ∼ zài bīngxiāng li. 把食物∼在冰箱里。 Store food in the refrigerator.
+积存[積-] jīcún {E} v. store/lay up; stockpile | Cāngkù li ∼le hěn duō liángshi. 仓库里∼了很多粮食。 A lot of grain is stored in the warehouse.
+库存[庫-] kùcún {D} v. stock; reserve
+争存[爭-] zhēngcún v. fight for survival
+整存 zhěngcún* n. whole deposit; full storage
+安存 āncún v. find a place to settle down in
+保存期限 bǎocún qīxiàn n. ①shelf life of a commodity ②period for keeping official papers, etc., on file
+编码寄存器[編碼---] biānmǎ jìcúnqì n. 〈comp.〉 code register M:tái/ge 台/个
+并行存取[並---] bìngxíngcúnqǔ f.e. 〈comp.〉 parallel access
+不存不济[---濟] bùcúnbùjì f.e. spiritless
+不存芥蒂 bùcúnjièdì f.e. do not harbor previous grievances (between good friends)
+不存心 bù cúnxīn attr. not intended; unintended
+不存在 bù cúnzài v.p. nonexistent
+长存[長-] chángcún v. live/exist/last forever
+长期共存[長---] chángqīgòngcún f.e. long-term co-existence
+齿亡舌存[齒---] chǐwángshécún id. The soft and flexible last longer than the hard.
+串行存取 chuànxíng cúnqǔ n. serial access
+储存库[儲-庫] chǔcúnkù p.w. storage M:⁴zuò 座
+储存器[儲--] chǔcúnqì n. 〈comp.〉 memory; storage device
+储存起来[儲--來] chǔcún qǐlai r.v. store up
+储存区[儲-區] chǔcúnqū p.w. storage area
+储存室[儲--] chǔcúnshì n. storage M:jiān 间
+储存式程式[儲----] chǔcúnshì chéngshì n. 〈comp.〉 stored program
+处理存货[處--貨] chǔlǐ cúnhuò v.o. sell off
+纯粹的存在[純----] chúncuì de cúnzài n. pure being
+储蓄存户[儲--戶] chǔxù cúnhù n. savings account
+储蓄存款[儲---] chǔxù cúnkuǎn n. savings deposit
+磁碟存取 cídié cúnqǔ n. 〈comp.〉 disk access
+磁盘存储器[-盤-儲-] cípán cúnchǔqì n. 〈comp.〉 magnetic disk storage
+存案 cún'àn v.o. ①register with the proper authorities ②keep in the records
+存包处[--處] cúnbāochù p.w. bag check service
+存簿 cúnbù n. accounting records M:běn 本
+存查 cúnchá v. file for reference
+存车处[-車處] cúnchēchù p.w. (bicycle) parking area
+寸尺不存 cùnchǐbùcún f.e. Nothing was saved.
+存储按钮[-儲-鈕] cúnchǔ ànniǔ n. save key on a computer keyboard
+存储程序[-儲--] cúnchǔ chéngxù n. 〈comp.〉 stored/saved program
+存储量[-儲-] cúnchǔliàng n. 〈comp.〉 storage capacity; memory capacity
+存储元件[-儲--] cúnchǔ yuánjiàn n. memory element
+存底儿[--兒] cúndǐr See cúndǐ(r)
+存额[-額] cún'é n. amount in deposit/stock
+存而不论[---論] cún'érbùlùn f.e. leave a question open
+存废[-廢] cún-fèi v. keep/maintain or abolish/suppress
+存抚[-撫] cúnfǔ v. give comfort and relief
+存孤 cúngū v.o. comfort the orphans

@@ -1,0 +1,63 @@
+监督[監-] ¹jiāndū* {C} v. supervise; superintend; control | Tā zài jiǎshì qījiān bìxū shòudào ∼. 他在假释期间必须受到∼。 He must be supervised during his parole. ◆n. supervisor M:míng 名
+基督教 Jīdūjiào {D} n. Christianity
+总督[總-] zǒngdū {D} n. governor-general; governor; viceroy M:²wèi 位
+督察 dūchá {E} v. supervise; superintend ◆n. inspector M:ge/míng/²wèi 个/名/位
+督促 dūcù {D} v. supervise and urge
+港督 Gǎngdū {E} n. 〈hist.〉 governor of Hong Kong
+基督 Jīdū {E} n. Jesus; Christ
+基督徒 Jīdūtú {E} n. Christian M:ge/míng/²wèi 个/名/位
+督学[-學] dūxué* n. educational inspector M:ge/míng/²wèi 个/名/位
+督办[-辦] dūbàn n. supervisor ◆v. supervise and manage
+督察院 Dūcháyuàn p.w. Court of Censors (Ming/Qing)
+督饬[-飭] dūchì v. supervise and direct
+督促履行 dūcùlǚxíng f.e. check; supervise
+督促性话语[---話語] dūcùxìng huàyǔ n. 〈lg.〉 hortatory discourse
+督导[-導] dūdǎo v. direct and supervise ◆n. ①supervision ②supervisor M:ge/míng/²wèi 个/名/位
+都督 dūdu n. ①army commander ②top provincial officer in charge of both military and civil administration M:ge/míng/²wèi 个/名/位
+都督府 dūdūfǔ p.w. governor's office M:⁴zuò 座
+督抚[-撫] ¹dūfǔ n. governor-general and governor (Qing) M:ge/míng/²wèi 个/名/位
+督府 ³dūfǔ p.w. 〈trad.〉 residency of a governor-general M:⁴zuò 座
+督工 dūgōng v.o. oversee working; superintend workers ◆n. overseer; foreman M:ge/míng/²wèi 个/名/位
+督过[-過] dūguò v.o. reprove; censure
+督军[-軍] dūjūn* n. provincial military governor M:ge/míng/²wèi 个/名/位
+督课[-課] dūkè v.o. supervise work; direct a job/task
+督理 dūlǐ v. supervise and manage
+督励[-勵] dūlì v. urge and encourage; spur on
+督令 dūlìng v. command; order
+督脉[-脈] dūmài n. 〈Ch. med.〉 the superintendent tract
+督趋[-趨] dūqū v. press; push (sb.)
+督师[-師] dūshī v.o. lead an army
+督师前进[-師-進] dūshī qiánjìn v.p. lead troops in an advance
+督署 dūshǔ n. office of a viceroy/governor/etc.
+督率/帅[--/帥] dūshuài v. lead; command
+督邮[-郵] dūyóu n. 〈trad.〉 assistant to head of a prefecture M:ge/míng/²wèi 个/名/位
+督造 dūzào v. supervise the manufacture
+督责[-責] dūzé v. ①supervise and urge on ②reprimand
+督战[-戰] dūzhàn v.o. ①direct military operations ②supervise on the spot
+督阵[-陣] dūzhèn v.o. form/direct the front line; command the battlefield
+官督商办[---辦] guāndūshāngbàn f.e. 〈trad.〉 government supervision and merchant management
+互相监督[--監-] hùxiāng jiāndū v.p. check on each other
+煎督 ²jiāndū v. harass; pester
+监督程式[監---] jiāndū chéngshì n. 〈comp.〉 monitor program
+监督程序[監---] jiāndū chéngxù n. 〈comp.〉 monitor program
+监督单元[監-單-] jiāndū dānyuán n. 〈comp.〉 monitor unit
+监督电话[監-電話] jiāndū diànhuà n. complaint telephone number
+监督岗[監-崗] jiāndūgǎng n. supervision post
+监督劳动[監-勞動] jiāndū láodòng v.p. do penal labor under surveillance
+监督权[監-權] jiāndūquán n. authority to supervise
+教督 jiàodū v. teach; advise; supervise
+基督教会[---會] Jīdū Jiàohuì n. Christian Church
+基督教徒 Jīdūjiàotú n. a Christian M:ge/míng/²wèi 个/名/位
+基督书院[--書-] Jīdū shūyuàn n. Christian academy/college/etc. M:suǒ/jiā 所/家
+基督学院[--學-] Jīdū xuéyuàn n. Christian college M:suǒ/jiā 所/家
+亲督三军[親--軍] qīndūsānjūn f.e. take personal command of the army
+群众监督[-眾監-] qúnzhòng jiāndū n. mass supervision
+软件监督程式[軟-監---] ruǎnjiàn jiāndū chéngshì n. 〈computer〉 software monitor
+受监督[-監-] shòu jiāndū v.o. be bribed; receive bribes
+提督 tídū n. 〈hist.〉 provincial commander
+舞台监督[-臺監-] wǔtái jiāndū n. stage director/manager M:míng/ge/²wèi 名/个/位
+耶稣基督[-穌--] Yēsū Jīdū n. Jesus Christ
+硬件监督器[--監--] yìngjiàn jiāndūqì n. 〈comp.〉 hardware monitors
+总督府[總--] zǒngdūfǔ p.w. governor-general's residence
+总监督[總監-] zǒngjiāndū n. superintendent general M:²wèi 位
+作业系统监督器[-業-統監--] zuòyè xìtǒng jiāndūqì n. 〈comp.〉 operating system monitor

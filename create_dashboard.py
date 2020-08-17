@@ -45,14 +45,17 @@ def read_wenlin_list():
         for line in f.readlines()[2:]:
             hanzi, traditional, pinyin, meaning = line.split('\t')
             pinyin_arr = ((syl, get_tone_number(syl)) for syl in pinyin.split())
-            colored_meaning = surround_pinyin(meaning)
+            index = meaning.find('*)')
+            # remove *) extra readings
+            reduced_meaning = meaning[:index] if index != -1 else meaning
+            colored_meaning = surround_pinyin(reduced_meaning)
             colored_meaning = surround_hanzi(colored_meaning)
             yield hanzi, traditional, pinyin_arr, colored_meaning
 
 
 def surround_hanzi(meaning):
     def replace(m):
-        return f'<span class="hanzi">{m.group(1)}</span>'
+        return f'<span class="hanzi hanzi_sample">{m.group(1)}</span>'
     return re_cjk.sub(replace, meaning)
 
 

@@ -1,0 +1,5 @@
+---- 諺(S谚) [yàn] 諺語 yànyǔ proverb, common saying
+諺[谚] ¹²yàn {E} b.f. proverb; metaphor 谚语 ¹yànyǔ 鄙谚 ²bǐyàn
+(The glyphs in the Unicode 1.0, 2.0 and 3.0 books all have 彦, not 彥.)
+(Explanation from the entry for the simple form 谚:) From 讠(言) yán 'words' and 彦 yàn phonetic.
+It seems possible that 言 yán and 諺 yàn might be cognate.

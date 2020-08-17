@@ -1,0 +1,100 @@
+结构[結構] jiégòu* {B} n. ①structure; composition; construction ②〈geol.〉 texture
+机构[機構] ¹jīgòu {C} n. ①mechanism ②organization; organ ③internal structure of an organization
+构成[構-] gòuchéng {B} r.v. constitute; form; compose; make up ◆n. formation
+构造[構-] gòuzào* {B} n. structure; construction | Diànnǎo de ∼ hěn fùzá. 电脑的∼很复杂。 The structure of computers is rather complex. ◆attr. 〈geol.〉 tectonic; structural ◆v. 〈lg.〉 construct
+构件[構-] gòujiàn* n. ①〈archi.〉 (structural) member; component ②〈mach.〉 component; part
+构思[構-] gòusī {D} v. work out the plot of a literary work or the composition of a painting
+构想[構-] gòuxiǎng {D} v. visualize; conceptualize ◆n. ①proposition | Zhège ∼ hẹ̌n kěxíng. 这个∼很可行。 This idea is feasible. ②conceptualization; concept
+大胆构思[-膽構-] dàdǎn gòusī {E} v.p. 〈art〉 conceive or think up without worrying about convention
+动宾结构[動賓結構] dòng-bīn jiégòu {E} n. 〈lg.〉 verb-object construction
+构图[構圖] gòutú {E} n. 〈art〉 composition (of a picture) | Zhè ¹⁰fú huà ∼ yǒu xīnyì. 这幅画∼有新意。 This picture has a unique way of composition. M:¹⁰fú/zhāng 幅/张
+科研机构[--機構] kēyán jīgòu {E} n. scientific institution
+偏正结构[--結構] piān-zhèng jiégòu {E} n. 〈lg.〉 modifying construction
+虚构[虛構] xūgòu {E} v. fabricate; make up | ∼ de rénwù ∼的人物 fictional character
+构词法[構詞-] gòucífǎ {F} n. 〈lg.〉 word-building; word-formation; morphology M:zhǒng 种
+政法机构[--機構] zhèng-fǎ jīgòu {F} p.w. procuratorial, judicial, and public security organizations
+板块构造[-塊構-] bǎnkuài gòuzao n. 〈geol.〉 plate tectonics
+办事机构[辦-機構] bànshì jīgòu n. administrative/working body
+被动分词结构[-動-詞結構] bèidòng fēncí jiégòu n. 〈lg.〉 passive participial construction
+表层结构[-層結構] biǎocéng jiégòu n. 〈lg.〉 surface structure; S-structure
+表层结构滤除[-層結構濾-] biǎocéng jiégòu lǜchú n. 〈lg.〉 S-structure filter
+表面结构[--結構] biǎomiàn jiégòu n. 〈lg.〉 surface structure
+比较结构[-較結構] bǐjiào jiégòu n. 〈lg.〉 comparative construction
+并列结构[並-結構] bìngliè jiégòu n. 〈lg.〉 ①coordinate construction/structure ②parataxis
+不定式合成结构[-----結構] bùdìngshì héchéng jiégòu n. 〈lg.〉 infinitive complex
+财务结构[財務結構] cáiwù jiēgòu n. financial structure
+层次结构[層-結構] céngcì jiégòu n. 〈lg.〉 hierarchical structure
+层次结构分析法[層-結構---] céngcì jiégòu fēnxifǎ n. 〈lg.〉 hierarchical analysis
+产品结构[產-結構] chǎnpǐn jiégòu n. ①composition of products in society and their interconnections ②product mix
+产业结构[產業結構] chǎnyè jiégòu n. industrial structure
+成分结构[--結構] chéngfèn jiégòu n. 〈lg.〉 constituent structure
+成分结构规则[--結構規則] chéngfèn jiégòu guīzé n. 〈lg.〉 constituent structure rules
+成分结构语法[--結構語-] chéngfèn jiégòu yǔfǎ n. 〈lg.〉 constituent structure grammar
+陈构[陳構] ²chéngòu v. formulate
+承轴结构[-軸結構] chéngzhóu jiégòu n. 〈lg.〉 pivotal construction
+重构[-構] chónggòu n. 〈lg.〉 reconstruction
+创造性结构假设[創--結構-設] chuàngzàoxìng jiégòu jiǎshè n. 〈lg.〉 creative construction hypothesis
+纯属虚构[純屬虛構] chúnshǔxūgòu f.e. an out-and-out fabrication
+储蓄机构[儲-機構] chǔxù jīgòu n. savings organization
+词的构成[詞-構-] cí de gòuchéng n. word structure
+词汇入构项[詞彙-構項] cíhuì rùgòuxiàng n. 〈lg.〉 lexical entry
+词素结构[詞-結構] císù jiégòu n. 〈lg.〉 morpheme structure
+词序构词法[詞-構詞-] cíxù gòucífǎ n. 〈lg.〉 syntactic morphology
+词组结构[詞組結構] cízǔ jiégòu n. 〈lg.〉 ①phrase structure ②constituent structure
+词组结构规律[詞組結構規-] cízǔ jiégòu guīlǜ n. 〈lg.〉 phrase structure rule
+词组结构模型[詞組結構--] cízǔ jiégòu móxíng n. 〈lg.〉 phrase structure model
+词组结构条件[詞組結構條-] cízǔ jiégòu tiáojiàn n. 〈lg.〉 phrase structure condition (PSC)
+词组结构语法[詞組結構語-] cízǔ jiégòu yǔfǎ n. 〈lg.〉 phrase structure grammar
+从属结构[從屬結構] cóngshǔ jiégòu n. 〈lg.〉 subordinate construction
+存在结构[--結構] cúnzài jiégòu n. 〈lg.〉 existential construction
+档案结构[檔-結構] dàng'àn jiégòu n. 〈lg.〉 file structure
+底层结构[-層結構] dǐcéng jiégòu n. 〈lg.〉 deep/underlying structure
+缔构[締構] dìgòu v. found; construct
+定量结构[--結構] dìngliàng jiégòu n. 〈lg.〉 D-M (determiner-measure) construction
+定名结构[--結構] dìng-míng jiégòu n. 〈lg.〉 D-N (determiner-noun) construction D-N (Determiner-Noun) construction
+动补结构[動補結構] dòng-bǔ jiégòu n. 〈lg.〉 verb-complement construction
+动词结构[動詞結構] dòngcí jiégòu n. 〈lg.〉 verbal expression
+动词结构连用式[動詞結構連--] dòngcí jiégòu liányòngshì n. 〈lg.〉 verbal expression in series
+动名词合成结构[動-詞--結構] dòng-míngcí héchéng jiégòu n. 〈lg.〉 gerundial complex
+短语结构[-語結構] duǎnyǔ jiégòu n. 〈lg.〉 phrase structure
+短语结构部分[-語結構--] duǎnyǔ jiégòu bùfen n. 〈lg.〉 phrase-structure component
+短语结构成分[-語結構--] duǎnyǔ jiégòu chéngfèn n. 〈lg.〉 phrase-structure component
+短语结构规则[-語結構規則] duǎnyǔ jiégòu guīzé n. 〈lg.〉 phrase-structure rule
+短语结构语法[-語結構語-] duǎnyǔ jiégòu yǔfǎ n. 〈lg.〉 phrase-structure grammar
+对称结构[對稱結構] duìchèn jiégòu n. parallel construction
+对立结构[對-結構] duìlì jiégòu n. 〈lg.〉 absolute construction
+独立结构[獨-結構] dúlì jiégòu n. 〈lg.〉 absolute construction
+多义结构[-義結構] duōyì jiégòu n. 〈lg.〉 polysemous structure
+方位结构[--結構] fāngwèi jiégòu n. 〈lg.〉 locative construction
+反义并列结构[-義並-結構] fǎnyì bìngliè jiégòu n. 〈lg.〉 antonymous coordinate construction
+发音结构[發-結構] fāyīn jiégòu n. 〈lg.〉 articulatory configuration
+非常设机构[--設機構] fēichángshè jīgòu n. ad hoc organization
+非虚构小说[-虛構-說] fēixūgòu xiǎoshuō n. nonfictional novel
+分裂结构[--結構] fēnliè jiégòu n. 〈lg.〉 split construction
+分配结构[--結構] fēnpèi jiégòu n. distribution structures
+分析架构[---構] fēnxi jiàgòu n. analytical framework
+复合词构词法[複-詞構詞-] fùhécí gòucífǎ n. 〈lg.〉 compound-word formation
+复合构词法[複-構詞-] fùhé gòucífǎ n. 〈lg.〉 compounding
+副名结构[--結構] fù-míng jiégòu n. 〈lg.〉 adverb-noun construction
+复杂状态结构[複雜狀態結構] fùzá zhuàngtài jiégòu n. 〈lg.〉 complex stative construction; decomplement construction
+辅助机构[輔-機構] fǔzhù jīgòu n. auxiliary organization
+概念构架[--構-] gàiniàn gòujià n. conceptual framework
+钢结构[鋼結構] gāngjiégòu n. 〈archi.〉 steel structure
+刚性结构[剛-結構] gāngxìng jiégòu n. rigid structure
+功能结构语言学[--結構語-學] gōngnéng jiégòu yǔyánxué n. functional structural linguistics
+构兵[構-] gòubīng* v.o. 〈wr.〉 dispatch troops to fight
+构成成分[構---] gòuchéng chéngfèn n. 〈lg.〉 constituent M:zhǒng 种
+构成素[構--] gòuchéngsù n. 〈lg.〉 component
+构成语词[構-語詞] gòuchéng yǔcí n. 〈lg.〉 constituent term
+构词[構詞] gòucí v.o. form a word ◆n. morphology M:zhǒng 种
+构词层次[構詞層-] gòucí céngcì n. 〈lg.〉 morphological level
+构词成分[構詞--] gòucí chéngfèn n. 〈lg.〉 formative M:zhǒng 种
+构词规律[構詞規-] gòucí guīlǜ n. 〈lg.〉 morphological rule M:zhǒng 种
+构词类型[構詞類-] gòucí lèixíng n. 〈lg.〉 type of morphology M:zhǒng 种
+构词学[構詞學] gòucíxué n. 〈lg.〉 morphology
+构份[構-] gòufèn n. constituent
+构会[構會] ²gòuhuì v. discriminate unjustly
+构祸自己[構禍--] gòuhuòzìjǐ f.e. bring disaster upon oneself
+构架[構-] gòujià n. (structural) frame; carcass M:ge/zhǒng 个/种
+构精[構-] ¹gòujīng v.o. ①have sexual union ②concentrate attention
+构句单位[構-單-] gòujù dānwèi n. 〈lg.〉 subsentential unit

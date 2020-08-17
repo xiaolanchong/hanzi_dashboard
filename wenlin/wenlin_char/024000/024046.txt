@@ -1,0 +1,9 @@
+707  差 [chà] differ; wrong  [chā] 差别 difference  [chāi] 出差  [cī] [cuō] [chài] [jiē]
+差 ¹chà {A} s.v. ①inferior; poor ②wrong; false ◆v. differ (by); be short; lack | ∼ liǎng kuài qián ∼两块钱 two yuán short | ∼ sān ge rén ∼三个人 Three more people are needed. | Zhè běn zìdiǎn ∼le liǎng yè. 这本字典∼了两页。 Two pages of this dictionary are missing. ◆cmp. v. wrong(ly) | Bié tīng∼ le. 别听∼了。 Don't get me wrong.
+差 ³chā {E} n. 〈math〉 difference ◆v. See ¹chà
+差 ¹cī {E} b.f. rank 差等 cīděng ◆char. 参差 cēncī
+差 ²chāi {E} v. send; dispatch
+差 ⁵cuō b.f. stumble 磋跌 cuōdiē
+The bottom was 左 zuǒ 'left hand', which may have been phonetic and also suggested the meanings 'difference', 'wrong' (unlike, and inferior to, the right hand). The top was 𠂹(垂 chuí), depicting branches hanging down; its significance in 差 is unclear.
+"Diverge, separate, divergence, discrepancy; difference, unlike; mistake, error; (to separate:) to detach for a certain mission, send on official business (出差 chūchāi)" --Karlgren.
+The modern character looks like 羊 (yáng), with the last stroke curving to the left, plus 工 (gōng). Compare 着 zháo.

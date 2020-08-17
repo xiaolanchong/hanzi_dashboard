@@ -1,0 +1,73 @@
+记忆[記憶] ²jìyì {B} v. remember; recall ◆n. memory; memorization | Wǒ ∼ zhōng, nǐ méi zhème gāo. 我∼中, 你没这么高。 I don't remember you being so tall.
+回忆[-憶] ¹huíyì {B} v./n. recollect; recall | Wǒ jīngcháng ∼ wǒmen zài yī̠qǐ de rìzi. 我经常∼我们在一起的日子。 I often recall the time we were together.
+记忆力[記憶-] jìyìlì {D} n. (faculty of) memory
+回忆录[-憶錄] huíyìlù {E} n. reminiscences; memoirs; recollections M:běn/²bù 本/部
+忆苦思甜[憶---] yìkǔsītián {E} f.e. contrast past misery with present happiness; speak of one's past sufferings and present happy life
+追忆[-憶] zhuīyì {E} v. recollect; recall
+表忆[-憶] ³biǎoyì attr. mnemonic
+愊忆[-憶] ⁶bìyì s.v. 〈wr.〉 frustrated; depressed
+长久记忆[長-記憶] chángjiǔ jìyì n. long-term memory
+长期记忆[長-記憶] chángqī jìyì n. 〈lg.〉 long-term memory
+长时记忆[長時記憶] chángshí jìyì n. 〈lg.〉 long-term memory
+插曲式记忆[---記憶] chāqǔshì jìyì n. 〈lg.〉 episodic memory
+短期记忆[--記憶] duǎnqī jìyì n. 〈lg.〉 short-term memory
+短时记忆[-時記憶] duǎnshí jìyì n. 〈psy.〉 short-term memory
+短暂记忆[-暫記憶] duǎnzàn jìyì n. 〈psy.〉 short-term memory
+读写记忆体[讀寫記憶體] dúxiě jìyìtǐ n. 〈comp.〉 read-write memory
+分析记忆法[--記憶-] fēnxi jìyìfǎ n. analytic style
+格式塔记忆法[---記憶-] géshìtǎ jìyìfǎ n. 〈lg.〉 gestalt style
+工作记忆体[--記憶體] gōngzuò jìyìtǐ n. 〈comp.〉 working memory
+光学记忆体[-學記憶體] guāngxué jìyìtǐ n. 〈comp.〉 optical memories
+回忆对比[-憶對-] huíyìduìbǐ f.e. recall the past and contrast it with the present
+回忆起[-憶-] huíyì qǐ r.v. recall
+仅读记忆本[僅讀記憶-] jǐndú jìyìběn n. 〈comp.〉 read-only memory (ROM)
+静态记忆体[靜態記憶體] jìngtài jìyìtǐ n. 〈comp.〉 static memory
+记忆负担[記憶負擔] jìyì fùdān n. 〈lg.〉 memory burden
+记忆画[記憶畫] jìyìhuà n. drawing from memory M:¹⁰fú 幅
+记忆幻觉[記憶-覺] jìyì huànjué n. déju vu
+记忆力保持力[記憶----] jìyìlì bǎochílì n. retention
+记忆力强[記憶-強] jìyìlì qiáng v.p. have a good memory
+记忆力衰退[記憶---] jìyìlì shuāituì v.p. one's memory is failing
+记忆器[記憶-] jìyìqì n. 〈comp.〉 memory (chip)
+记忆区[記憶區] jìyìqū n. memory area
+记忆缺失症[記憶---] jìyì quēshīzhèng n. amnesia
+记忆所及[記憶--] jìyìsuǒjí f.e. insofar as one can recollect
+记忆体[記憶體] jìyìtǐ n. 〈comp./TW〉 memory (chip)
+记忆体汇流排[記憶體匯--] jìyìtǐ huìliúpái n. 〈comp.〉 memory
+记忆体容量[記憶體--] jìyìtǐ róngliàng n. memory capacity
+记忆犹新[記憶猶-] jìyìyóuxīn f.e. remain fresh in one's memory
+快速存取记忆[----記憶] kuàisù cúnqǔ jìyì n. 〈comp.〉 rapid-access memory
+模仿记忆法[--記憶-] mófǎng jìyìfǎ n. 〈lg.〉 mim-mem method
+内记忆体[內記憶體] nèijìyìtǐ n. 〈comp.〉 internal memory
+情节记忆[-節記憶] qíngjié jìyì n. 〈lg.〉 episodic memory
+情节性记忆[-節-記憶] qíngjiéxìng jìyì n. 〈lg.〉 episodic memory
+事件记忆[--記憶] shìjiàn jìyì n. 〈psy.〉 episodic memory
+失忆患者[-憶--] shīyìhuànzhě n. amnesiac
+失忆者[-憶-] shīyìzhě n. amnesiac
+失忆症者[-憶--] shīyìzhèngzhě n. amnesiac
+思忆[-憶] ¹sīyì v. recall; cherish the memory of
+外部记忆体[--記憶體] wàibù jìyìtǐ n. 〈comp.〉 external storage
+完整记忆[--記憶] wánzhěng jìyì n. total recall
+忆及[憶-] ²yìjí v. remember; recollect the past; call to mind
+忆旧[憶舊] yìjiù v.o. recollect the past
+忆苦[憶-] yìkǔ v.o. recall suffering
+忆苦饭[憶-飯] yìkǔfàn n. poor meal prepared to recall past suffering M:dùn 顿
+忆苦会[憶-會] yìkǔhuì n. 〈PRC〉 gatherings to recall past bitterness M:cì 次
+忆苦教育[憶---] yìkǔ jiàoyù n. 〈PRC〉 education to recall past bitterness
+忆念[憶-] ²yìniàn v. ①think of; miss ②nostalgic memory
+忆起[憶-] yìqǐ r.v. remember; recall; call to mind
+忆述[憶-] ³yìshù v. recall and relate
+忆万斯年[憶萬--] yìwànsīnián f.e. trillions of years; eons, time without end; eternity
+忆昔[憶-] yìxī v.o. recollect/remember/recall the past
+忆想[憶-] ³yìxiǎng v. recall the past
+忆昔抚今[憶-撫-] yìxīfǔjīn f.e. think of past suffering and present happiness
+永久性记忆体[---記憶體] yǒngjiǔxìng jìyìtǐ n. 〈comp.〉 nonvolatile memory
+语义记忆[語義記憶] yǔyì jìyì n. 〈lg.〉 semantic memory
+再生记忆体[--記憶體] zàishēng jìyìtǐ n. 〈comp.〉 regenerative memory
+暂存记忆体[暫-記憶體] zàncún jìyìtǐ n. 〈comp.〉 scratchpad memory
+直接记忆存取[--記憶--] zhíjiē jìyì cúnqǔ n. 〈comp.〉 direct memory access (DMA)
+助记忆[-記憶] zhùjìyì attr. mnemonic
+助记忆编码[-記憶編碼] zhùjìyì biānmǎ n. mnemonic coding
+助记忆时期[-記憶時-] zhùjìyì shíqī n. mnemonic stage of writing
+主记忆体[-記憶體] zhǔ-jìyìtǐ n. 〈comp.〉 main memory
+助忆记号[-憶記號] zhùyì jìhao n. mnemonic symbols

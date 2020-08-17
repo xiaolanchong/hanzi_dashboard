@@ -1,0 +1,5 @@
+xxxx 瞤(S𥆧) [rún] twitch; 目瞤 eyelid twitch; 身瞤動 muscular twitching  [shùn]
+瞤[𥆧] rún b.f. muscular twitch; tic 目𥆧 mùrún 身𥆧动 shēnrúndòng
+(Explanation from the entry for the simple form 𥆧:) From 目 (mù) 'eye' and 闰(閏) rùn phonetic.
+The simplified form is in XHC and Guifan Zidian, but not in Unicode 3.0.
+-- It's in Unicode 3.1 (U+251a7).

@@ -1,0 +1,89 @@
+比拟[-擬] bị̌nǐ* {E} v. ①compare; match ②draw analogy ◆n. analogy; metaphor; extension
+草拟[-擬] cạ̌onǐ {E} v. draw up; draft | Wǒ ∼le yị̄ ge jìhuà. 我∼了一个计划。 I have drawn up a plan.
+拟人[擬-] nǐrén {E} n. 〈lg.〉 personification ◆attr. anthropomorphic
+拟人化[擬--] nǐrénhuà {E} n. personification
+拟议[擬議] nǐyì {E} v. draw up; draft ◆n. proposal; recommendation
+虚拟[虛擬] xūnǐ {E} attr. ①fictitious ②hypothetical; suppositional ③virtual
+虚拟式[虛擬-] xūnǐshì {E} n. 〈lg.〉 subjunctive mood
+虚拟语气[虛擬語氣] xūnị̌ yǔqì {E} n. 〈lg.〉 subjunctive mood
+模/摹拟[-/-擬] mónǐ* {E} v. imitate; simulate | Jīntiān wǒmen yǒu ∼ kǎoshì. 今天我们有∼考试。 We will simulate a test today. ◆n. simulation
+拟定[擬-] ¹nǐdìng {D} v. ①formulate | Wǒmen děi ∼ yī̠ nián de gōngzuò jìhuà. 我们得∼一年的工作计划。 We must formulate a work plan for a year. ②conjecture
+草拟请愿书[-擬請願書] cǎonǐ qǐngyuànshū f.e. draft a petition
+重拟[-擬] chóngnǐ n. 〈lg.〉 reconstruction
+次要拟声[--擬聲] cìyao nǐshēng n. 〈lg.〉 secondary onomatopoeia
+仿拟[-擬] fǎngnǐ n. simulation
+构拟[構擬] gòunǐ n./v. 〈lg.〉 reconstruction
+假借比拟[---擬] jiǎjiè bǐnǐ n. 〈lg.〉 metaphorical extension
+假拟[-擬] jiǎnǐ attr. 〈lg.〉 pseudo
+结构模拟语言[結構-擬語-] jiégòu mónǐ yǔyán n. structured modeling language
+计算机模拟对策[計-機-擬對-] jìsuànjī mónǐ duìcè n. computer simulation game
+满拟[滿擬] mǎnnǐ v. have had the intention of
+模拟变换[-擬變換] mónǐ biànhuàn n. analog transformation
+模拟法[-擬-] mónǐfǎ n. simulation
+模拟飞行[-擬飛-] mónǐ fēixíng n. 〈mil.〉 simulated flight
+模拟教学[-擬-學] mónǐ jiàoxué n. 〈lg.〉 microteaching
+模拟计算机[-擬計-機] mónǐ jìsuànjī n. analogue computer M:jià/tái 架/台
+模拟考[-擬-] mónǐkǎo n. simulated test M:cì 次
+模拟考试[-擬-試] mónǐ kǎoshì n. mock/simulated/practice examination M:cì 次
+模拟人像[-擬--] mónǐ rénxiàng n. effigy M:zūn 尊
+模拟试验[-擬試驗] mónǐ shìyàn n. simulated test M:cì 次
+内部构拟[內-構擬] nèibù gòunǐ n. 〈lg.〉 internal reconstruction
+拟办[擬辦] nǐbàn v. imitate in managing/operating
+拟测[擬測] nǐcè v. reconstruct ◆n. reconstruction
+拟订[擬訂] ²nǐdìng v. draw up; formulate
+拟订计划[擬訂計劃] nǐdìng jìhuà v.o. draw up/draft a plan
+拟订预算[擬訂預-] nǐdìngyùsuàn n. drafted budget
+拟度[擬-] nǐduó v. think over; conjecture
+拟稿[擬-] nǐgǎo(r/zi) v.o. make a draft
+拟稿儿[擬-兒] nǐgǎor See nǐgǎo(r/zi)
+拟稿子[擬--] nǐgǎozi See nǐgǎo(r/zi)
+拟古[擬-] nǐgǔ v.o. imitate the ancients
+拟规画圆[擬規畫圓] nǐguīhuàyuán f.e. stick slavishly to convention
+拟古体[擬-體] nǐgǔtǐ n. pseudoclassicism
+拟合[擬-] nǐhé* n. adapting; equating; matching; fit
+拟酵母[擬--] nǐjiàomǔ n. 〈chem.〉 false yeast
+拟经[擬經] nǐjīng v.o. copy canonical works
+拟就[擬-] nǐjiù* v. finish drafting a document/plan/etc.
+拟具[擬-] nǐjù v. draw up (a proposal/plan/etc.)
+拟料[擬-] nǐliào v. suppose; conjecture
+拟某氏法[擬---] nǐmǒushìfǎ f.e. 〈art〉 copied in the style of (a person)
+拟请[擬請] nǐqǐng* v. intend to request
+拟曲[擬-] nǐqǔ n. mime
+拟人法[擬--] nǐrénfǎ n. personification
+拟人格化[擬---] nǐréngéhuà n. 〈psy.〉 appersonification
+拟色[擬-] nǐsè n. 〈lg.〉 simulation
+拟声[擬聲] nǐshēng n. onomatopoeia
+拟声词[擬聲詞] nǐshēngcí* n. 〈lg.〉 imitative word; onomatopoeic word
+拟声法[擬聲-] nǐshēngfǎ* n. 〈lg.〉 onomatopoeia
+拟声说[擬聲說] nǐshēngshuō n. 〈lg.〉 onomatopoeia
+拟声语[擬聲語] nǐshēngyǔ n. 〈lg.〉 onomatopoeic word
+拟式[擬-] nǐshì n. 〈lg.〉 reconstructed form
+拟似[擬-] nǐsì attr. 〈lg.〉 quasi
+拟似譬喻[擬---] nǐsì pìyù n. 〈lg.〉 quasi-metaphor
+拟态[擬態] nǐtài* n. 〈bio.〉 mimicry; imitation
+拟妥[擬-] nǐtuǒ v. draw up (a plan/etc.)
+拟形[擬-] nǐxíng n. 〈lg.〉 shape imitating
+拟音[擬-] nǐyīn* v.o. produce a sound effect ◆n. sound effect
+拟于不伦[擬於-倫] nǐyúbùlún f.e. ①draw inapt parallels ②be compared inappropriately
+拟语法[擬語-] nǐyǔfǎ f.e. 〈lg.〉 quasi-syntax
+拟语言[擬語-] nǐyǔyán n. 〈lg.〉 quasi-language
+拟状[擬狀] nǐzhuàng n. 〈lg.〉 state imitating
+拟作[擬-] nǐzuò n. imitation; parody
+人的模拟[---擬] rén de mónǐ n. human simulation
+人脑模拟[-腦-擬] rénnǎo mónǐ n. brain analogue
+如拟[-擬] rúnǐ f.e. approved as suggested (a superior's reply to a subordinate's suggestion)
+商拟[-擬] shāngnǐ* v. confer; discuss
+外部构拟[--構擬] wàibù gòunǐ n. 〈lg.〉 external reconstruction
+网络型模拟计算机[網絡--擬計-機] wǎngluòxíng mónǐ jìsuànjī n. network-type analog computer
+无可比拟[無--擬] wúkěbǐnǐ v.p. incomparable
+悬拟[懸擬] xuánnǐ v. ①conjecture ②fabricate; make up
+虚拟处理机[虛擬處-機] xūnǐ chǔlǐjī n. virtual processor
+虚拟存储器[虛擬-儲-] xūnǐ cúnchǔqì n. virtual memory
+虚拟环境[虛擬環-] xūnǐ huánjìng n. virtual environment
+虚拟式语气[虛擬-語氣] xūnǐshì yǔqì n. 〈lg.〉 subjunctive mood
+虚拟主词[虛擬-詞] xūnǐ zhǔcí n. 〈lg.〉 empty subject
+研拟[-擬] yánnǐ v. discuss and work out
+智能模拟[---擬] zhìnéng mónǐ n. artificial intelligence (AI)
+撰拟[-擬] zhuànnǐ v. 〈wr.〉 draw up or compose (a document)
+准拟[準擬] zhǔnnǐ v.p. fully intend to
+自拟[-擬] zìnǐ* v. draft (sth.) by oneself

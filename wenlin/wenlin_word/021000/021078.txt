@@ -1,0 +1,68 @@
+解剖 jiěpōu {C} v. dissect
+解剖学[--學] jiěpōuxué {E} n. anatomy
+剖腹产[--產] pōufùchǎn {E} n. Caesarean birth
+横剖面[橫--] héngpōumiàn {F} n. cross section
+剖白 pōubái {F} v. explain/vindicate oneself
+剖面 pōumiàn {F} n. cross section; sectional view
+剖面图[--圖] pōumiàntú {F} n. sectional drawing M:zhāng 张
+剖析 pōuxī {E} v. analyze; dissect
+表式剖析 biǎoshì pōuxī n. 〈lg.〉 chart parsing
+病理解剖学[----學] bìnglǐ jiěpōuxué n. 〈med.〉 pathologic anatomy
+豆剖瓜分 dòupōu-guāfēn v.p. divide up something
+分布式文本剖析 fēnbùshì wénběn pōuxī n. 〈lg.〉 distributed text parsing
+瓜分豆剖 guāfēndòupōu id. divide it like a melon
+瓜剖豆分 guāpōudòufēn f.e. be partitioned
+横剖研究[橫---] héngpōu yánjiū n. 〈sociology〉 cross-sectional study
+画剖线[畫-線] huà pōuxiàn v.o. crosshatch M:tiáo 条
+活体解剖[-體--] huótǐ jiěpōu n. vivisection
+解剖刀 jiěpōudāo n. scalpel M:bǎ 把
+解剖麻雀 jiěpōu máquè v.o. analyze a typical case
+解剖室 jiěpōushì n. dissecting room M:jiān 间
+解剖尸体[--屍體] jiěpōu shītǐ v.o. carry out an autopsy; perform a postmortem examination
+解剖图[--圖] jiěpōutú n. ①anatomical drawing ②sectional drawing M:zhāng 张
+决定型语法剖析器[決--語----] juédìngxíng yǔfǎ pōuxīqì n. 〈lg.〉 deterministic parser
+开剖[開-] kāipōu v. rupture; split
+男体解剖学[-體--學] nántǐ jiěpōuxué n. male anatomy
+内剖面[內--] nèipōumiàn n. interior profile
+剖白心迹[---跡] pōubái xīnjì v.o. lay one's heart bare; explain oneself
+剖辨 pōubiàn v. defend oneself (from a charge)
+剖成 pōuchéng r.v. dissect
+剖断如流[-斷--] pōuduànrúliú f.e. quick in deciding lawsuits (of a judge)
+剖肚掏心 pōudùtāoxīn f.e. rip sb. open and tear out his heart
+剖分 pōufēn v. cut apart at the middle
+剖腹 pōufù v.o. ①cut open the stomach ②speak from the heart
+剖腹藏珠 pōufùcángzhū f.e. die in pursuit of gain
+剖腹明心 pōufùmíngxīn f.e. bare one's heart in all sincerity
+剖腹生产[---產] pōufù shēngchǎn n./v.p. 〈med.〉 Caesarean section/operation
+剖腹术[--術] pōufùshù n. laparotomy; ventrotomy
+剖腹剜心 pōufùwānxīn f.e. disembowel sb. and dig out his heart
+剖腹自杀[---殺] pōufù zìshā v.p. commit hara-kiri
+剖肝沥胆[--瀝膽] pōugānlìdǎn f.e. show sb. one's innermost feelings
+剖肝泣血 pōugānqìxuè f.e. extremely sad
+剖割 pōugē v. dissection
+剖瓜解署 pōuguājiěshǔ f.e. slice a melon to cool oneself
+剖解 pōujiě v. analyze; dissect
+剖决如流[-決--] pōujuérúliú f.e. decide cases promptly
+剖开[-開] pōukāi r.v. cut open
+剖里革[-裡-] pōulǐgé n. split hides
+剖露 pōulù r.v. expose
+剖明 pōumíng r.v. analyze and make clear
+剖明事理 pōumíng shìlǐ v.o. analyze whys and wherefores
+剖判 pōupàn v. give judgment in a case
+剖尸[-屍] pōushī v.o. autopsy; post-mortem examination
+剖视[-視] pōushì* n. section view
+剖视图[-視圖] pōushìtú n. cutaway view M:zhāng 张
+剖心 pōuxīn v.o. open one's heart; bare one's heart sincerely
+剖心露肝 pōuxīnlùgān f.e. bare one's heart
+剖心自白 pōuxīnzìbái f.e. open one's heart and clear one's reputation
+剖析者 pōuxīzhě n. anatomist M:²wèi 位
+剖验[-驗] pōuyàn v. hold an inquest
+剖字 pōuzì v.o. tell one's fortune by analyzing written characters
+启发式句法剖析[啟發-----] qǐfāshì jùfǎ pōuxī n. 〈lg.〉 heuristic parsing
+人体解剖学[-體--學] réntǐ jiěpōuxué n. human anatomy
+尸体解剖[屍體--] shītǐ jiěpōu n. autopsy; postmortem (examination)
+尸体剖检[屍體-檢] shītǐ pōujiǎn n. autopsy
+掏肠剖肚[-腸--] tāochángpōudù f.e. pour out one's heart
+由下而上剖析 yóuxià'érshàng pōuxī n. 〈lg.〉 bottom-up parsing
+舯剖面 zhōngpōumiàn n. midships section
+纵剖面[縱--] zòngpōumiàn n. longitudinal section

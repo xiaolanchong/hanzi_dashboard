@@ -1,0 +1,57 @@
+船舱[-艙] chuáncāng {E} n. ①ship's hold ②cabin
+舱盖[艙蓋] cānggài {E} n. hatch cover; hatch
+舱口[艙-] cāngkǒu {E} n. hatchway; hatch
+舱位[艙-] cāngwèi {E} n. ①cabin seat/berth ②shipping space
+公务舱[-務艙] gōngwùcāng {E} n. business class (in planes)
+货舱[貨艙] ¹huòcāng {E} n. cargo hold/bay
+机舱/仓[機艙/倉] jīcāng {E} n. ①engine room (of a ship) ②passenger and cargo compartments (of aircraft) ③cabin M:jiān/ge 间/个
+经济舱[經濟艙] jīngjìcāng {E} n. economy class
+客舱[-艙] kècāng {E} n. passenger cabin M:jiān 间
+太空舱[--艙] tàikōngcāng {E} n. space capsule
+特等舱[--艙] tèděngcāng {E} n. stateroom; deluxe cabin M:ge/jiān 个/间
+统舱[統艙] ¹tǒngcāng {E} n. steerage M:jiān/⁴zuò 间/座
+头等舱[頭-艙] tóuděngcāng {E} n. first-class cabin (in a ship/plane)
+座舱[-艙] zuòcāng {E} p.w. ①cabin (in a conveyance) ②cockpit (of a fighter)
+舱房[艙-] ¹cāngfáng {F} n. cabin (on ship/boat) M:jiān 间
+登月舱[--艙] dēngyuècāng {F} n. lunar module M:⁴zuò 座
+舱壁[艙-] cāngbì n. ship's bulkhead
+舱单[艙單] cāngdān n. (transportation) manifest M:zhāng 张
+舱底[艙-] cāngdǐ p.w. bilge
+舱顶[艙頂] cāngdǐng p.w. upper deck
+舱口盖[艙-蓋] cāngkǒugài n. hatch door/cover
+舱门[艙門] cāngmén n. hatch/cabin door
+舱面[艙-] cāngmiàn n. deck (of ship/boat)
+舱内货[艙內貨] cāngnèihuò n. underdeck cargo
+舱棚[艙-] cāngpéng n. doghouse (of a boat)
+舱室[艙-] cāngshì n. cabin (of ship/boat) M:jiān 间
+敞舱驳船[-艙駁-] chǎngcāngbóchuán n. scow; open barge M:sōu 艘
+二等舱[--艙] èrděngcāng n. second-class cabin (in ship)
+房舱[-艙] fángcāng n. ship passenger's cabin
+隔舱板[-艙-] gécāngbǎn n. panel separating one cabin from another M:²kuài 块
+官舱[-艙] ²guāncāng n. ①first-class cabin (on a boat/ship) ②officers' cabin
+航天舱[--艙] hángtiāncāng n. space capsule
+加压舱[-壓艙] jiāyācāng n. pressurized module M:⁴zuò 座
+理舱[-艙] lǐcāng v.o. stow
+密闭舱[-閉艙] mìbìcāng n. capsule (of a space ship) M:⁴zuò/jiān 座/间
+密封舱[--艙] mìfēngcāng n. airtight cabin M:⁴zuò/jiān 座/间
+平舱费[-艙費] píngcāngfèi n. trimming charges (for even distribution of ship cargo) M:²bǐ 笔
+破舱[-艙] pòcāng v.o. damage (sth.)
+首舱[-艙] shǒucāng n. ①first-class cabin ②front cabin
+双人舱[雙-艙] shuāngréncāng n. double cabin
+水舱[-艙] ¹shuǐcāng n. water tank
+水密舱[--艙] shuǐmìcāng n. watertight compartment
+弹射座舱[彈--艙] tánshè zuòcāng n. ejection capsule
+头舱[頭艙] tóucāng n. first-class cabin
+推舱[-艙] tuīcāng n. tugboat
+卧舱[臥艙] wòcāng n. berth cabin M:²zhī/sōu 只/艘
+压舱水[壓艙-] yācāngshuǐ n. water ballast
+压舱/仓物[壓艙/倉-] yācāngwù n. ballast; sandbag
+验舱[驗艙] yàncāng v.o. hold inspection
+压载仓/舱[壓載倉/艙] yāzàicāng n. ballast tank
+液货舱[-貨艙] yèhuòcāng n. cargo tank
+油舱[-艙] ¹yóucāng* n. oil tank; feul tank (of a ship) M:⁴zuò 座
+指挥舱[-揮艙] zhǐhuīcāng n. command module (in space) M:jiān 间
+指令舱[--艙] zhǐlìngcāng n. command module
+装舱[裝艙] zhuāngcāng v.o. load the hold (with cargo)
+住舱甲板[-艙--] zhùcāng jiǎbǎn n. berth deck
+着陆舱[著陸艙] zhuólùcāng n. landing module

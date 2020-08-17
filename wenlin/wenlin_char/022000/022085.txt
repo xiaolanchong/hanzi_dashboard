@@ -1,0 +1,4 @@
+xxxx 噅(S𠯠) (=噕𠼮) [kuī] [huī] (Unihan:) to speak falsely or wrongly; ugly
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 口 and 爲 (or 為?); cp. 𠼮.
+The Unicode 3.0 book gives two glyphs for U+5645, one with 爲, the other with 為 (in the radical-stroke index).

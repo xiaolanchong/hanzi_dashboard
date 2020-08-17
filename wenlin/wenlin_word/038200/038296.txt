@@ -1,0 +1,48 @@
+电闸[電閘] diànzhá {E} n. ①electric switch ②master switch M:²dào 道
+手闸[-閘] ¹shǒuzhá* {E} n. hand brake
+跳闸[-閘] tiàozhá {E} v.o. 〈elec.〉 trip
+闸口[閘-] zhákǒu* {E} n. sluice gate M:⁴zuò 座
+闸门[閘門] zhámén(r)* {E} n. ①sluice/lock gate ②〈mach.〉 throttle valve
+水闸[-閘] shuǐzhá* {E} n. sluice; water gate M:⁴zuò 座
+扳大闸[--閘] bān dàzhá v. 〈slang〉 pry open a lock (to steal sth.); burglarize
+扳闸[-閘] bānzhá v.o. 〈coll.〉 ①operate a switch; switch on or off ②shift gear
+潮水闸[--閘] cháoshuǐzhá n. tide lock M:⁴zuò 座
+车闸[車閘] chēzhá n. brake
+船闸[-閘] chuánzhá n. (ship) lock M:²dào 道
+倒轮闸[-輪閘] dàolúnzhá n. braking by pedaling in reverse
+大闸蟹[-閘-] dàzháxiè n. crab somewhat like Dungeness M:²zhī 只
+登机闸口[-機閘-] dēngjī zhákǒu p.w. boarding gate
+风闸[風閘] fēngzhá n. ①pneumatic brake ②air lock
+分洪闸[--閘] fēnhóngzhá n. flood-diversion sluice
+分水闸门[--閘門] fēnshuǐ zhámén n. bifurcation gate
+管闸的[-閘-] guǎnzhá de n. brakeman
+涵闸[-閘] hánzhá* n. culverts and water gates
+合闸[-閘] ¹hézhá* v.o. 〈elec.〉 switch on/in
+河闸[-閘] ²hézhá n. (river) lock
+脚闸[腳閘] jiǎozhá n. backpedaling/coaster brake
+节制闸[節-閘] jiézhìzhá n. check-gate (in water conservancy)
+紧急闸[緊-閘] jǐnjízhá n. emergency brake
+进水闸[進-閘] jìnshuǐzhá n. intake/entry lock; intake work
+开闸[開閘] kāizhá v.o. open a sluice gate
+拦水闸[攔-閘] lánshuǐzhá n. dam lock/gate M:⁴zuò/²dào 座/道
+捏闸[-閘] niēzhá v.o. apply the handbrake
+配水闸[--閘] pèishuǐzhá n. (water) distribution structure M:²dào 道
+气闸[氣閘] qìzhá n. air/pneumatic brake
+收闸[-閘] shōuzhá v.o. apply the brakes
+线闸[線閘] xiànzhá n. cable brake (of a bicycle); caliper brake
+泄水闸[--閘] xièshuǐzhá n. sluice gate; sluice
+鱼闸[魚閘] yúzhá n. fish lock M:²dào 道
+闸把[閘-] zhábà n. brake handle
+闸板[閘-] zhábǎn n. ①sluice board; lock; damper ②wooden panel to protect a window M:²kuài 块
+闸北[閘-] Zháběi p.w. 〈geog.〉 a section of Shanghai
+闸刀[閘-] ²zhádāo n. 〈elec.〉 knife (e.g., knife switch)
+铡/闸刀开关[鍘/閘-開關] zhádāo kāiguān n. 〈elec.〉 knife/chopper/closing switch
+闸阀[閘閥] zháfá n. 〈mach.〉 throttle/gate valve
+闸盒[閘-] zháhé(r) n. ①fuse box ②switch box
+闸盒儿[閘-兒] zháhér See zháhé(r)
+闸门儿[閘門兒] zháménr See zhámén(r)
+胀闸[脹閘] zhàngzhá n. hub brake
+闸瓦[閘-] zháwǎ n. 〈mach.〉 brake shoe
+闸住[閘-] zházhu* r.v. shut off a sluice gate
+总闸[總閘] zǒngzhá n. master gate/valve/etc.
+总闸门[總閘門] zǒngzhámén n. master gate/valve/etc.

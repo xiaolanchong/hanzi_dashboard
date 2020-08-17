@@ -1,0 +1,5 @@
+椭圆[橢圓] tuǒyuán* {D} n. 〈math.〉 ellipse ◆attr. ①oval ②elliptical
+椭圆形[橢圓-] tuǒyuánxíng {E} n. oval; ellipse
+椭率[橢-] tuǒlǜ n. 〈math.〉 ellipticity
+椭面[橢-] tuǒmiàn n. 〈math.〉 ellipsoid
+椭球[橢-] tuǒqiú n. ellipsoid

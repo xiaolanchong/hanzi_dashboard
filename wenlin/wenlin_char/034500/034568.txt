@@ -1,0 +1,4 @@
+---- 蜈 [wú] 蜈蚣 wúgōng centipede
+蜈 ⁶wú {E} char. 蜈蚣 wúgōng 蜈蚣草 wúgōngcǎo
+From 虫 'insect' and 吴 (or 吳) wú phonetic.
+(The Unicode 3.0 book has two glyphs for U+8708: one with 吴 and the other with 吳 in the radical-stroke index.)

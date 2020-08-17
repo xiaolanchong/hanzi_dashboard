@@ -1,0 +1,42 @@
+镶嵌[鑲-] xiāngqiàn {E} v. ①inlay; set; mount ②mosaic; tessellate
+词嵌[詞-] cíqiàn n. 〈lg.〉 ①embedding ②infixation
+金属镶嵌[-屬鑲-] jīnshǔ xiāngqiàn n. filigree
+金丝镶嵌[-絲鑲-] jīnsī xiāngqiàn n. gold filigree
+内嵌[內-] nèiqiàn n. embed | Nǐ de zìxíng kěyǐ ∼ ma? 你的字型可以∼吗? Can your fonts be embedded?
+内嵌句[內--] nèiqiànjù n. 〈lg.〉 embedded sentence
+拼花镶嵌[--鑲-] pīnhuā xiāngqiàn n. ①inlay ②intarsia
+嵌板 ²qiànbǎn n. panel; board M:²kuài 块
+嵌巉 qiànchán v.p. precipitous (of mountains)
+嵌齿轮[-齒輪] qiànchǐlún n. cogwheel
+嵌工 qiàngōng n. artistry displayed in jewelry inlaid with gold/stones
+嵌合 qiànhé n. 〈lg.〉 telescoping
+嵌花 qiànhuā v.o. inlay; tessellate
+嵌金 qiànjīn v.o. inlay metal/gold
+嵌进[-進] qiànjìn attr. 〈lg.〉 telescopic; embedding
+嵌进形式[-進--] qiànjìn xíngshì n. 〈lg.〉 telescopic form
+嵌进转换[-進轉換] qiànjìn zhuǎnhuàn n. 〈lg.〉 embedding transformation
+嵌块[-塊] qiànkuài n. inlay M:²kuài 块
+嵌木细工[--細-] qiànmù xìgōng n. parquetry
+嵌入 qiànrù v. implant; embed ◆n. 〈lg.〉 embedding
+嵌入的 qiànrù de attr. 〈lg.〉 expletive
+嵌入句 qiànrùjù n. 〈lg.〉 embedded sentence
+嵌石 ²qiànshí v.o. inlay with precious stones ◆n. inlay stone M:²kuài 块
+嵌套 qiàntào n. nesting; nest; nestification
+嵌镶[-鑲] qiànxiāng n./v. ①inlay ②mosaic
+嵌岩 qiànyán n. ①cliff ②ravine
+嵌音 qiànyīn n. 〈lg.〉 insertion
+嵌银丝漆器[-銀絲--] qiànyínsī qīqì n. 〈art〉 silver-inlaid lacquer
+嵌用 qiànyòng v. insert (into)
+嵌着[-著] qiànzhe v.p. be embedded
+穹嵌 qióngqiàn n. places high up on a steep hill
+镶嵌画[鑲-畫] xiāngqiànhuà n. mosaic picture/design; mosaic M:¹⁰fú 幅
+镶嵌木[鑲--] xiāngqiànmù n. inlaid wood M:²kuài 块
+镶嵌漆器[鑲---] xiāngqiàn qīqì n. 〈art〉 inlaid lacquer M:²jiàn 件
+镶嵌首饰盒[鑲--飾-] xiāngqiàn shǒushìhé n. marquetry trinket box M:ge/²zhī 个/只
+镶嵌细工[鑲-細-] xiāngqiàn xìgōng n. inlaid work; marquetry; mosaic
+销金嵌玉[銷---] xiāojīnqiànyù f.e. be veneered with gold leaf and encrusted with brilliant stones
+印入心嵌 yìnrùxīnqiàn f.e. be stamped on one's memory
+玉嵌金镶[---鑲] yùqiànjīnxiāng f.e. inlaid with gold and jade
+自嵌入 zìqiànrù attr. 〈lg.〉 self-embedding
+自嵌入文法 zìqiànrù wénfǎ n. 〈lg.〉 self-embedding grammar
+自嵌套文法 zìqiàntào wénfǎ n. 〈lg.〉 self-embedding grammar

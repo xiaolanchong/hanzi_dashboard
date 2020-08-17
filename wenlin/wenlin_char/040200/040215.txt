@@ -1,0 +1,6 @@
+xxxx 鴗(S𫁡) [lì] kingfisher; 笑鴗 kookaburra
+鴗[𫁡] ⁴⁴lì char. 笑𫁡 ³xiàolì
+(Explanation from the entry for the simple form 𫁡:) From 立 and 鸟(鳥).
+"鴗, 天狗也。从鳥, 立聲" --说文.
+天狗 means 'Heavenly Hound', but is also an old name for 鱼狗 'kingfisher'.
+The simplified form is not in XHC, HDZ, Cihai. It was added to Unicode 5.2.

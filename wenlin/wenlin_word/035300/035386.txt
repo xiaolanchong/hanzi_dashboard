@@ -1,0 +1,83 @@
+诊断[診斷] zhěnduàn {D} v. diagnose (a disease) | Yīshēng ∼ shì fèi'ái. 医生∼是肺癌。 The doctor's diagnosis is lung cancer.
+门诊[門診] ¹ménzhěn {C} n. outpatient service | Wǒmen xiān qù kàn ∼. 我们先去看∼。 Let's go to the outpatient department first.
+初诊[-診] ¹chūzhěn {E} v. ①pay one's first visit (to a doctor/hospital) ②visit a patient for the first time
+出诊[-診] ²chūzhěn {E} v.o. make house calls (of doctors) | Yīshēng wǎnshang ∼ ma? 医生晚上∼吗? Do doctors make house calls at night?
+复诊[復診] fùzhěn {E} v. have further visits (with a doctor) | Yị̄ ge yuè hòu lái ∼. 一个月后来∼。 Come for further consultation in a month.
+候诊[-診] hòuzhěn {E} v.p. wait to see the doctor
+候诊室[-診-] hòuzhěnshì {E} p.w. hospital/clinic waiting room M:jiā 家
+会诊[會診] huìzhěn {E} v.o. consult a doctor ◆n. consultation of doctors; (group) consultation M:cì 次
+就诊[-診] ¹jiùzhěn {E} v.o. seek medical advice; go to a doctor
+急诊[-診] jízhěn* {E} n. ①emergency call/treatment | Qù kàn ∼! 去看∼! Go to the emergency! ②emergency case
+急诊室[-診-] jízhěnshì {E} n. emergency ward/room M:jiān 间
+门诊部[門診-] ménzhěnbù {E} p.w. clinic; outpatient department
+求诊[-診] qiúzhěn* {E} v.o. see a doctor
+确诊[確診] quèzhěn {E} v. diagnose definitely | Māma de ²bìng hái méiyǒu ∼. 妈妈的病还没有∼。 Mother's illness hasn't been definitely diagnosed yet.
+听诊器[聽診-] tīngzhěnqì {E} n. stethoscope M:ge/²zhī 个/只
+误诊[誤診] wùzhěn {E} n./v. ①misdiagnose | ∼ de shì(r) bù chángjiàn. ∼的事(儿)不常见。 Misdiagnosis doesn't often happen. ②delay diagnosis
+诊疗[診療] zhěnliáo {E} v. diagnose and treat
+诊脉[診脈] zhěnmài {E} v.o. feel the pulse
+诊治[診-] zhěnzhì* {E} v. diagnose and treat
+诊所[診-] zhẹ̌nsuǒ {E} p.w. dispensary; clinic M:jiā 家
+诊察[診-] zhěnchá v. examine (a patient)
+触诊[觸診] chùzhěn n. 〈med.〉 palpation
+打诊[-診] dǎzhěn n./v. 〈med.〉 percussion
+电话诊断[電話診斷] diànhuà zhěnduàn n. phone diagnosis
+健康诊断[--診斷] jiànkāng zhěnduàn n. medical examination
+接诊[-診] jiēzhěn v. receive a patient for treatment
+计算机诊断[計-機診斷] jìsuànjī zhěnduàn n. computer diagnosis
+急诊病人[-診--] jízhěn bìngrén n. emergency case M:ge/míng/²wèi 个/名/位
+急诊处[-診處] jízhěnchù p.w. emergency department
+开诊[開診] kāizhěn v. begin to treat patients
+叩诊[-診] kòuzhěn n. 〈med.〉 percussion
+叩诊锤[-診錘] kòuzhěnchuí n. percussion hammer M:bǎ/ge 把/个
+留院诊治[--診-] liúyuàn zhěnzhì n. hospitalization
+留诊[-診] liúzhěn n. hospitalization
+脉诊[脈診] màizhěn n. 〈Ch. med.〉 diagnosis by feeling the pulse
+扪诊[捫診] ²ménzhěn n. 〈med.〉 palpation
+门诊病人[門診--] ménzhěn bìngrén n. outpatient; clinic patient M:ge/míng 个/名
+门诊室[門診-] ménzhěnshì p.w. clinic; outpatient department; consultation room M:jiān 间
+切诊[-診] qièzhěn v. 〈Ch. med.〉 feel the pulse and palpate
+舌诊[-診] shézhěn n. 〈Ch. med.〉 tongue diagnosis
+施诊[-診] ²shīzhěn v.o. give free medical treatment
+施诊给药[-診給藥] shīzhěn gěi yào v.p. treat sb. and give him medicine free
+四诊[-診] sìzhěn n. 〈Ch. med.〉 four methods of diagnosis (observation, auscultation and olfaction, interrogation, pulse feeling and palpation)
+送诊上门[-診-門] sòngzhěnshàngmén f.e. treat patients at their homes
+胎前诊断[--診斷] tāiqián zhěnduàn n. prenatal diagnosis
+特约诊所[-約診-] tèyuē zhěnsuǒ p.w. exclusively engaged/contracted clinic M:jiā 家
+特诊[-診] tèzhěn n. special medical treatment
+听诊[聽診] tīngzhěn* v. 〈med.〉 ausculate
+停诊[-診] tíngzhěn v.o. suspend medical service (e.g., on weekends)
+望诊[-診] wàngzhěn v./n. 〈Ch. med.〉 observe a patient's complexion/tongue/etc.
+闻诊[聞診] wénzhěn v. 〈Ch. med.〉 auscultation and smelling
+问诊[問診] wènzhěn* n./v. diagnose through interrogation
+误诊病例[誤診--] wùzhěn bìnglì n. 〈med.〉 missed case
+巡诊[-診] xúnzhěn v. 〈med.〉 make the rounds
+牙科诊所[--診-] yákē zhěnsuǒ p.w. dental clinic M:jiā 家
+延医出诊[-醫-診] yányīchūzhěn f.e. ask a doctor to come and see (sb.)
+义捐门诊[義-門診] yìjuān ménzhěn n. free consultations
+应诊[應診] yìngzhěn v. 〈med.〉 see patients
+义诊[義診] ¹yìzhěn n. free medical diagnosis
+诊病[診-] ¹zhěnbìng* v.o. ①diagnose a disease ②examine a patient
+诊察室[診--] zhěncháshì p.w. consulting room M:jiān 间
+诊察所[診--] zhěnchásuǒ p.w. doctor's office M:jiān 间
+诊断测试[診斷測試] zhěnduàn cèshì n. 〈lg.〉 diagnostic test
+诊断器[診斷-] zhěnduànqì n. diagnosing equipment
+诊断书[診斷書] zhěnduànshū n. medical certificate M:zhāng 张
+诊断学[診斷學] zhěnduànxué n. 〈med.〉 semiology
+诊法[診-] zhěnfǎ n. diagnostic method
+诊费[診費] zhěnfèi n. 〈med.〉 consultation fee
+诊候[診-] zhěnhòu* v. examine and diagnose; treat (a patient)
+诊金[診-] ²zhěnjīn n. ①consultation fee ②hospital fee
+诊例[診-] zhěnlì n. 〈med.〉 cases (of treatment)
+诊疗机械[診療機-] zhěnliáo jīxiè n. medical instruments
+诊疗器材[診療--] zhěnliáo qìcái n. medical instruments
+诊疗室[診療-] zhěnliáoshì p.w. consulting room M:jiān 间
+诊疗所[診療-] zhěnliáosuǒ p.w. clinic; dispensary M:jiā 家
+诊疗站[診療-] zhěnliáozhàn p.w. clinic M:jiā 家
+诊切[診-] zhěnqiè v. check the pulse
+诊视[診視] ¹zhěnshì v. examine (a patient)
+诊室[診-] ²zhěnshì p.w. consulting room M:jiān 间
+中心诊所[--診-] zhōngxīn zhěnsuǒ p.w. central clinic
+专家门诊[專-門診] zhuānjiā ménzhěn n. expert consultation
+转诊[轉診] zhuǎnzhěn v. refer to a different hospital
+住诊[-診] zhùzhěn v. stay to receive a diagnosis

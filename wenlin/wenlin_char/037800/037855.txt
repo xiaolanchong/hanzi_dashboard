@@ -1,0 +1,4 @@
+2636 鏟(S铲) [chǎn] shovel
+鏟[铲] ²chǎn {C} n./v. shovel
+(The glyphs in the Unicode 2.0 and 3.0 books have 産. The Unicode 1.0 book had 產.)
+(Explanation from the entry for the simple form 铲:) From 钅(金 jīn) 'metal' and 产(產/産) chǎn phonetic.

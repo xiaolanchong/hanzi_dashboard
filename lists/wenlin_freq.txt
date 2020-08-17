@@ -1,321 +1,321 @@
 # 3000 most frequent characters from Wenlin application
 #Simplified	Traditional	Pinyin	Meaning
-的		de	(grammatical particle)  [dì] 目的 mùdì goal  [dí] 的确  [dī] cab
+的		de	(grammatical particle) 2) [dì] 目的 mùdì goal 3) [dí] 的确 4) [dī] cab
 一		yī	one; 一定 certain; 一样 same; 一些 some
-是		shì	to be  [tí]
-不		bù	not  [bú] [fǒu] [fōu] [fū]
+是		shì	to be *) [tí]
+不		bù	not *) [bú] [fǒu] [fōu] [fū]
 了		le	(particle) [liǎo] 了解 comprehend [liào] (=瞭) [liāo] [liáo]
 人		rén	person; 人类 rénlèi humankind; 有人吗? anybody here?
 在		zài	at; 现在 xiànzài now; 存在 cúnzài exist
 我		wǒ	I, me; 我们 wǒmen we
-有		yǒu	have; there is; 没有 haven't; 有的 some  [yòu] (=又)  [wěi]
-中		zhōng	middle; in; 中国 Zhōngguó China  [zhòng] hit (a target)
+有		yǒu	have; there is; 没有 haven't; 有的 some 2) [yòu] (=又) *) [wěi]
+中		zhōng	middle; in; 中国 Zhōngguó China 2) [zhòng] hit (a target)
 这	這	zhè	[zhèi] this
-大		dà	big; 大家 dàjiā everybody  [dài] 大夫 dàifu doctor  [tài]
+大		dà	big; 大家 dàjiā everybody 2) [dài] 大夫 dàifu doctor *) [tài]
 国	國	guó	(国家) country; 中国 China; 美国 USA
-上		shàng	over; top; (go) up; last, previous  [shǎng] 上声  [shang]
-个	個	gè	[ge] (measure word); 个人 personal  [gě] 自个  [gàn]
-来	來	lái	come; 起来 get up; 原来 it turns out   [lai]
-他		tā	he, him; she, her; it; (其他 qítā) other  [tuó]
-为	為	wèi	for, on account of  [wéi] be, become
+上		shàng	over; top; (go) up; last, previous 2) [shǎng] 上声 *) [shang]
+个	個	gè	[ge] (measure word); 个人 personal 2) [gě] 自个 *) [gàn]
+来	來	lái	come; 起来 get up; 原来 it turns out *) [lai]
+他		tā	he, him; she, her; it; (其他 qítā) other *) [tuó]
+为	為	wèi	for, on account of 2) [wéi] be, become
 到		dào	to, towards, until
-地		dì	earth  [de] -ly (adverbial particle)
-和		hé	and; with; harmony  [huo] 暖和  [hè] [huó] [huò] [hàn] [hú] [hē] [huō]
+地		dì	earth 2) [de] -ly (adverbial particle)
+和		hé	and; with; harmony 2) [huo] 暖和 *) [hè] [huó] [huò] [hàn] [hú] [hē] [huō]
 时	時	shí	(时间 shíjiān, 时候 shíhou) time; 小时 hour
 们	們	men	(pluralizing suffix:) 我们 wǒmen we; 人们 people
-年		nián	year; 今(明,去)年 this (next, last) year  [nìng]
+年		nián	year; 今(明,去)年 this (next, last) year *) [nìng]
 生		shēng	give birth; life
-会	會	huì	meet; can, able   [kuài] 会计 kuàijì accounting  [huǐ] 会儿 moment
+会	會	huì	meet; can, able 2) [kuài] 会计 kuàijì accounting 3) [huǐ] 会儿 moment
 出		chū	go out, emit; 出现 chūxiàn appear, emerge
 就		jiù	just, simply, right away
-子		zǐ	child   [zi] (noun suffix:) 桌子 zhuōzi table
-要		yào	want; will  [yāo] 要求 yāoqiú demand  [yǎo]
-也		yě	also; 也许 yěxǔ perhaps  [yí]
-以		yǐ	using; so as to; as well as; 可以 kěyǐ may; 所以 suǒyǐ so  [sì]
-说	說	shuō	say, speak    [shuì] try to persuade; 游说
+子		zǐ	child 2) [zi] (noun suffix:) 桌子 zhuōzi table
+要		yào	want; will 2) [yāo] 要求 yāoqiú demand *) [yǎo]
+也		yě	also; 也许 yěxǔ perhaps 3) [yí]
+以		yǐ	using; so as to; as well as; 可以 kěyǐ may; 所以 suǒyǐ so 3) [sì]
+说	說	shuō	say, speak 2) [shuì] try to persuade; 游说
 学	學	xué	study, learn; 学校 school; 学生 student
-得		de	(grammatical)  [dé] get, reach, achieve  [děi] should
+得		de	(grammatical) 2) [dé] get, reach, achieve 3) [děi] should
 对	對	duì	correct; yes; mutual; pair; 对不起 excuse me
 下		xià	under; (go) down; next (as opposed to previous/last)
-那		nà	[nèi] that      [nuó] 禅那  [nuò] 无那  [nǎ] (=哪) [něi] (=哪)  [né] [nā]
-可		kě	(可以 kěyǐ) can; (可是 kěshì) but; 可能 kěnéng maybe   [kè] [gē]
+那		nà	[nèi] that 2) [nuó] 禅那 3) [nuò] 无那 4) [nǎ] (=哪) [něi] (=哪) *) [né] [nā]
+可		kě	(可以 kěyǐ) can; (可是 kěshì) but; 可能 kěnéng maybe *) [kè] [gē]
 过	過	guò	pass, go by, exceed; 过马路 cross the street
-于	于於	yú	(surname); (F於) in, at, to, from, by, than  [wéi] [yū] [xū]
-之		zhī	s (similar to 的 de); it (classical pronoun)  [zhù] [zhì]
+于	于於	yú	(surname); (F於) in, at, to, from, by, than *) [wéi] [yū] [xū]
+之		zhī	s (similar to 的 de); it (classical pronoun) *) [zhù] [zhì]
 后	后後	hòu	queen; (F後) after, behind
-着	着著	zhe	(grammatical particle) [zháo] [zhuó] touch  [zhāo]
-主		zhǔ	lord, master; (主要 zhǔyào) main; 主义 zhǔyì -ism  [zhù]
-能		néng	can, be able; 能够 be capable of; 可能 maybe  [tái] [nái] [nài] [xióng]
+着	着著	zhe	(grammatical particle) [zháo] [zhuó] touch *) [zhāo]
+主		zhǔ	lord, master; (主要 zhǔyào) main; 主义 zhǔyì -ism *) [zhù]
+能		néng	can, be able; 能够 be capable of; 可能 maybe *) [tái] [nái] [nài] [xióng]
 里	里裡	lǐ	village; half kilometer; (F裡) inside
 多		duō	many, much; how
 小		xiǎo	small; 大小 dàxiǎo size
-而		ér	(而且 érqiě) and, furthermore; (然而 rán'ér) yet  [néng]
+而		ér	(而且 érqiě) and, furthermore; (然而 rán'ér) yet *) [néng]
 你		nǐ	you; 你们 nǐmen you (plural)
 天		tiān	heaven; day; (天空 tiānkōng) sky; 天气 tiānqì weather
-家		jiā	home, house; family; 国家 nation; 大家 everybody  [jie] [jià] [jia] [gū]
-去		qù	go (opposite of 来 lái)  [qū]
+家		jiā	home, house; family; 国家 nation; 大家 everybody *) [jie] [jià] [jia] [gū]
+去		qù	go (opposite of 来 lái) *) [qū]
 工		gōng	(工作 gōngzuò) work; 工人 gōngrén worker
 十		shí	ten; 十三 shísān thirteen; 五十 wǔshí fifty
 用		yòng	use; 好用 useful; 不用 there's no need
-作		zuò	do; make; 工作 work; 作业 homework   [zuō] 作坊 [zuó]
-分		fēn	divide; fraction; minute  [fèn] limits of rights or duty  [fén] [bàn]
-发	發髮	fā	(F發) emit  [fà] (F髮) hair  [fa] (F髮) 头发 hair
+作		zuò	do; make; 工作 work; 作业 homework 2) [zuō] 作坊 [zuó]
+分		fēn	divide; fraction; minute 2) [fèn] limits of rights or duty *) [fén] [bàn]
+发	發髮	fā	(F發) emit 2) [fà] (F髮) hair 3) [fa] (F髮) 头发 hair
 自		zì	(自己 zìjǐ) self; from, since; 自然 zìrán nature
 成		chéng	(成为, 变成) become; 成功 succeed; 完成 perfect
-都		dōu	all  [dū] (首都 shǒudū) capital city
-方		fāng	side; square; 地方 dìfang place; 方面 fāngmiàn aspect  [fáng] [fǎng] [páng] [wǎng] [fēng]
+都		dōu	all 2) [dū] (首都 shǒudū) capital city
+方		fāng	side; square; 地方 dìfang place; 方面 fāngmiàn aspect *) [fáng] [fǎng] [páng] [wǎng] [fēng]
 民		mín	(人民 rénmín) people; 民主 mínzhǔ democracy
-好		hǎo	good    [hào] to like   [hāo] 好好儿 hǎohāor
+好		hǎo	good 2) [hào] to like 3) [hāo] 好好儿 hǎohāor
 日		rì	sun; day; 日记 rìjì diary; 日光 rìguāng sunlight
-还	還	hái	still, yet  [huán] return, give back  [fú]
+还	還	hái	still, yet 2) [huán] return, give back *) [fú]
 经	經	jīng	longitude; scripture; ...; 已经 already; 易经 I Ching
-没	沒	méi	(没有) not have  [mò] sink; overflow; disappear; confiscate  [me]
-同	同衕	tóng	same, with; 同志 comrade  [tòng] 胡同 hútòng lane (F衕)
+没	沒	méi	(没有) not have 2) [mò] sink; overflow; disappear; confiscate *) [me]
+同	同衕	tóng	same, with; 同志 comrade 2) [tòng] 胡同 hútòng lane (F衕)
 如		rú	(如果 rúguǒ) if; 如此 rúcǐ like this
-她		tā	she, her  [jiě] [chí]
-么	麼	me	(suffix:) 什么; 怎么  [má]  [yāo] (S幺) small  [mó] [ma]
-起		qǐ	rise, start; 起来 get up; 对不起 excuse me   [qi]
-本		běn	basis, origin; volume (book); 日本 Japan  [bēn]
-行		xíng	go; ok; 行动 action  [háng] line; 行业 hángyè profession [hàng] 树行子 [héng] [xìng]
+她		tā	she, her *) [jiě] [chí]
+么	麼	me	(suffix:) 什么; 怎么 2) [má] 3) [yāo] (S幺) small *) [mó] [ma]
+起		qǐ	rise, start; 起来 get up; 对不起 excuse me *) [qi]
+本		běn	basis, origin; volume (book); 日本 Japan *) [bēn]
+行		xíng	go; ok; 行动 action 2) [háng] line; 行业 hángyè profession [hàng] 树行子 [héng] [xìng]
 心		xīn	heart; 小心 be careful; 心理 psychology; 中心 center
 所		suǒ	place; 所以 suǒyǐ so, therefore; 所有 suǒyǒu all
 然		rán	虽然 although; 忽然 suddenly; 当然 of course; 自然 nature
-事		shì	thing, event; 事情 shìqing situation  [zì]
+事		shì	thing, event; 事情 shìqing situation *) [zì]
 现	現	xiàn	appear; 现在 now; 发现 discover; 现代 modern
 三		sān	three; 第三世界 Third World
 加		jiā	add; 参加 cānjiā join; 增加 zēngjiā increase
 想		xiǎng	think, feel, consider
 面	面麵	miàn	face, surface; (F麵) wheat flour; (面条 miàntiáo) noodle
-开	開	kāi	open; 开始 kāishǐ begin   [kai]
+开	開	kāi	open; 开始 kāishǐ begin *) [kai]
 电	電	diàn	(闪电 shǎndiàn) lightning; electricity; 电话 phone
-种	種	zhǒng	kind; seed   [zhòng] to plant; cultivate  [chóng]
-前		qián	before, front  [jiǎn]
-当	當	dāng	serve as; (F噹) ding-dong  [dàng] (F當) (当作) regard as  [dǎng] (F當)
+种	種	zhǒng	kind; seed 2) [zhòng] to plant; cultivate *) [chóng]
+前		qián	before, front *) [jiǎn]
+当	當	dāng	serve as; (F噹) ding-dong 2) [dàng] (F當) (当作) regard as *) [dǎng] (F當)
 美		měi	beautiful
 二		èr	two; 二月 Èryuè February
 外		wài	outside; 外国人 wàiguórén foreigner; 意外 unexpected
-道		dào	way, path; say; 知道 zhīdao know; 道教 Taoism  [dǎo] (=导) [dāo]
-从	從	cóng	from, since   [cōng] 黑从从
+道		dào	way, path; say; 知道 zhīdao know; 道教 Taoism 2) [dǎo] (=导) *) [dāo]
+从	從	cóng	from, since 2) [cōng] 黑从从
 动	動	dòng	move; 动物 animal; 活动 activity; 运动 sports
-看		kàn	look  [kān] tend; 看守 kānshǒu guard
+看		kàn	look 2) [kān] tend; 看守 kānshǒu guard
 业	業	yè	商业 commerce; 工业 industry; 作业 homework
-高		gāo	high, tall; 提高 tígāo improve; 高兴 gāoxìng happy  [gào]
+高		gāo	high, tall; 提高 tígāo improve; 高兴 gāoxìng happy *) [gào]
 者		zhě	one who...; 作者 zuòzhě author; 和平主义者
 法		fǎ	(法律 fǎlǜ) law; (办法 bànfǎ) method
-但		dàn	(但是 dànshì) but  [tǎn] [yàn]
-其		qí	its; 其他 qítā other; 尤其 yóuqí especially  [jī] (=錤)  [jì]
+但		dàn	(但是 dànshì) but *) [tǎn] [yàn]
+其		qí	its; 其他 qítā other; 尤其 yóuqí especially 2) [jī] (=錤) *) [jì]
 理		lǐ	principle; 理论 lǐlùn theory; 管理 guǎnlǐ manage
-些		xiē	some; (plural measure word:) 这些人 these people  [suò] [suō]
-实	實	shí	true, real; 事实 fact; 实际上 actually; 实在 really  [shī]
-只	只隻	zhǐ	only  [zhī] (F隻) (measure word): 一只猫 a cat
+些		xiē	some; (plural measure word:) 这些人 these people *) [suò] [suō]
+实	實	shí	true, real; 事实 fact; 实际上 actually; 实在 really *) [shī]
+只	只隻	zhǐ	only 2) [zhī] (F隻) (measure word): 一只猫 a cat
 老		lǎo	old, venerable; 老师 teacher; 老虎 tiger
-长	長	cháng	long  [zhǎng] grow up; chief, head
-月		yuè	month; (月亮 yuèliang, 月球 yuèqiú) moon  [rù]
-与	與	yǔ	and  [yù] 参与 cānyù participate in  [yú]
+长	長	cháng	long 2) [zhǎng] grow up; chief, head
+月		yuè	month; (月亮 yuèliang, 月球 yuèqiú) moon *) [rù]
+与	與	yǔ	and 2) [yù] 参与 cānyù participate in *) [yú]
 两	兩	liǎng	two; 50 grams
-政		zhèng	政府 zhèngfǔ government; 政治 zhèngzhì politics  [zhēng]
+政		zhèng	政府 zhèngfǔ government; 政治 zhèngzhì politics *) [zhēng]
 文		wén	language, literature; 文化 wénhuà culture
-部		bù	(部分 bùfen) part; 西部 western part; 全部 entire  [pǒu]
-最		zuì	most; 最近 recently/soon; 最喜欢 favorite  [cuō]
-样	樣	yàng	manner; 这样 like this; 怎么样 how  [yáng]
-意		yì	(意思, 意义) meaning; 愿意 willing; 意见 opinion  [yī]
+部		bù	(部分 bùfen) part; 西部 western part; 全部 entire *) [pǒu]
+最		zuì	most; 最近 recently/soon; 最喜欢 favorite *) [cuō]
+样	樣	yàng	manner; 这样 like this; 怎么样 how *) [yáng]
+意		yì	(意思, 意义) meaning; 愿意 willing; 意见 opinion *) [yī]
 进	進	jìn	enter; go forward; 进步 jìnbù progress
 很		hěn	very; 很不错 pretty good
-机	機	jī	(机器 jīqì) machine; 收音机 shōuyīnjī radio  [wèi]
+机	機	jī	(机器 jīqì) machine; 收音机 shōuyīnjī radio *) [wèi]
 公		gōng	public; 公里 kilometer; 办公室 office; 公司 company
-把		bǎ	grasp, hold; handle  [bà] 把子 bàzi, 把儿 bàr handle  [pá]
+把		bǎ	grasp, hold; handle 2) [bà] 把子 bàzi, 把儿 bàr handle *) [pá]
 又		yòu	again; both...and...
 力		lì	(力量 lìliang) strength; force
 全		quán	whole, entire; 完全 completely; 安全 safety
 点	點	diǎn	dot (丶); a little, bit; (点火) light a fire
 四		sì	four; 四周 sìzhōu all around
-头	頭	tóu	head; first; 头发 tóufa hair  [tou] 石头 stone
+头	頭	tóu	head; first; 头发 tóufa hair 2) [tou] 石头 stone
 已		yǐ	(已经 yǐjīng) already
 因		yīn	cause; 因为 because; 原因 reason
 等		děng	equal; class; wait; et cetera (etc.)
 问	問	wèn	ask; 问题 question, problem; 访问 visit
 新		xīn	new; 重新 chóngxīn again; 新闻 xīnwén news
 此		cǐ	this; 如此 like this (=这样); 此地 here (=这里)
-名		míng	(名字 míngzi) name; 著名 zhùmíng famous; 名词 noun  [mìng]
-己		jǐ	(自己 zìjǐ) self; 6th Heavenly Stem  [qǐ]
+名		míng	(名字 míngzi) name; 著名 zhùmíng famous; 名词 noun *) [mìng]
+己		jǐ	(自己 zìjǐ) self; 6th Heavenly Stem *) [qǐ]
 定		dìng	fix; 一定 yídìng definite; 决定 juédìng decide
-正		zhèng	right, straight, correct  [zhēng] 正月, 新正
-知		zhī	(知道 zhīdao) know; 知识 zhīshi knowledge  [zhì] (=智)
+正		zhèng	right, straight, correct 2) [zhēng] 正月, 新正
+知		zhī	(知道 zhīdao) know; 知识 zhīshi knowledge 2) [zhì] (=智)
 情		qíng	(感情 gǎnqíng) feeling, emotion; 爱情 àiqíng love
-无	無	wú	without; nothingness  [mó] 南无
+无	無	wú	without; nothingness 2) [mó] 南无
 回		huí	return; 回来 come back; 回去 go back; 回答 answer
-明		míng	bright; 明白 míngbai clear, understand; 明天 tomorrow  [mèng]
-间	間	jiān	room; between  [jiàn] gap, interval  [gān]
+明		míng	bright; 明白 míngbai clear, understand; 明天 tomorrow *) [mèng]
+间	間	jiān	room; between 2) [jiàn] gap, interval *) [gān]
 手		shǒu	hand; 挥手 wave; 拍手 clap; 握手 shake
 第		dì	number, -th; 第三世界 Third World; 第一次 1st time
 产	產	chǎn	(产生 chǎnshēng) produce; 产品 chǎnpǐn product
-气	氣	qì	air, vapor; vital energy; 天气 tiānqi weather  [qǐ]
-话	話	huà	speech; 说话 shuōhuà talk, speak    [huo] 白话
-重		zhòng	(沉重) heavy; 重要 important  [chóng] again  [tóng]
-几	几幾	jī	small table; (F幾) 几乎 jīhū almost  [jǐ] (F幾) how many; a few
+气	氣	qì	air, vapor; vital energy; 天气 tiānqi weather *) [qǐ]
+话	話	huà	speech; 说话 shuōhuà talk, speak 2) [huo] 白话
+重		zhòng	(沉重) heavy; 重要 important 2) [chóng] again *) [tóng]
+几	几幾	jī	small table; (F幾) 几乎 jīhū almost 2)[jǐ] (F幾) how many; a few
 表	表錶	biǎo	show; list, table; (F錶) (wrist-)watch
-由		yóu	from; (由于) due to; (理由) cause, reason; 自由 freedom  [yāo]
-它		tā	it  [tuó] [yí]
-将	將	jiāng	shall; 将来 future   [jiàng] general; (chess piece)  [qiāng]
-化		huà	(变化 biànhuà) change  [huā] (=花) spend  [huò]
-女		nǚ	(女人 nǚrén, 妇女 fùnǚ) woman  [nǜ] [rǔ]
+由		yóu	from; (由于) due to; (理由) cause, reason; 自由 freedom *) [yāo]
+它		tā	it *) [tuó] [yí]
+将	將	jiāng	shall; 将来 future 2) [jiàng] general; (chess piece) *) [qiāng]
+化		huà	(变化 biànhuà) change 2)[huā] (=花) spend *) [huò]
+女		nǚ	(女人 nǚrén, 妇女 fùnǚ) woman *) [nǜ] [rǔ]
 五		wǔ	five; 五月 Wǔyuè May
 代		dài	(代表 dàibiǎo) represent; (时代 shídài) generation
-相		xiāng	each other, mutual  [xiàng] look at; appearance; photo
-华	華	huá	magnificent; China    [Huà] (surname); 华山
-平		píng	level, even; 水平 shuǐpíng level; 和平 hépíng peace  [pián] [bìng] [bēng]
-或		huò	(或者 huòzhě) or; (或许 huòxǔ) perhaps  [yù]
-九		jiǔ	nine  [jiū]
+相		xiāng	each other, mutual 2)[xiàng] look at; appearance; photo
+华	華	huá	magnificent; China 2) [Huà] (surname); 华山
+平		píng	level, even; 水平 shuǐpíng level; 和平 hépíng peace *) [pián] [bìng] [bēng]
+或		huò	(或者 huòzhě) or; (或许 huòxǔ) perhaps *) [yù]
+九		jiǔ	nine *) [jiū]
 水		shuǐ	water; 水平 shuǐpíng level; 水果 shuǐguǒ fruit
 社		shè	(社会 shèhuì) society
-比		bǐ	compare; ䷇; 比较 bǐjiào relatively; 比如 bǐrú e.g.  [bì] [pí] [pǐ]
-内	內	nèi	inside; 内容 nèiróng content  [nà] [ruì]
-位		wèi	position; (量) (polite measure word for people)  [lì]
+比		bǐ	compare; ䷇; 比较 bǐjiào relatively; 比如 bǐrú e.g. *) [bì] [pí] [pǐ]
+内	內	nèi	inside; 内容 nèiróng content *) [nà] [ruì]
+位		wèi	position; (量) (polite measure word for people) *) [lì]
 军	軍	jūn	army, military
-车	車	chē	car, vehicle with wheels  [jū] (a piece in 象棋)
+车	車	chē	car, vehicle with wheels 2)[jū] (a piece in 象棋)
 使		shǐ	make, cause to
 制	制製	zhì	(制度) system; (控制) control; (F製)(制造) manufacture
-度		dù	degree, extent; 制度 system   [duó] 猜度 cāiduó surmise  [zhái]
+度		dù	degree, extent; 制度 system 2) [duó] 猜度 cāiduó surmise *) [zhái]
 向	向曏	xiàng	towards (direction); (F曏) formerly
-并	并併並	bìng	(F併) combine, merge; (F並) and; equally; truly  [bīng] 并州
-活		huó	live; 生活 shēnghuó life; 活动 huódòng activity  [guō]
+并	并併並	bìng	(F併) combine, merge; (F並) and; equally; truly 2) [bīng] 并州
+活		huó	live; 生活 shēnghuó life; 活动 huódòng activity *) [guō]
 关	關	guān	shut; (关系 guānxi) connection; 关于 concerning
-体	體	tǐ	(身体 shēntǐ) body; 具体 jùtǐ concrete  [tī] [bèn] [cuì]
+体	體	tǐ	(身体 shēntǐ) body; 具体 jùtǐ concrete *) [tī] [bèn] [cuì]
 总	總	zǒng	general; sum; always
-给	給	gěi	give  [jǐ] 供给 provide
+给	給	gěi	give 2)[jǐ] 供给 provide
 入		rù	(进入 jìnrù) enter; 收入 shōurù income
-什		shén	什么 shénme what  [shí] ( = 十 ten)
+什		shén	什么 shénme what 2)[shí] ( = 十 ten)
 员	員	yuán	member; 委员会 committee; 人员 personnel
-身		shēn	(身体 shēntǐ) body  [juān]
-见	見	jiàn	(看见) see; 意见 opinion; 听见 hear  [xiàn]
+身		shēn	(身体 shēntǐ) body *) [juān]
+见	見	jiàn	(看见) see; 意见 opinion; 听见 hear *) [xiàn]
 常		cháng	often; constant; ordinary; 非常 fēicháng extremely
-被		bèi	quilt; by; (indicates passive voice)   [pī] [bì] [pì]
+被		bèi	quilt; by; (indicates passive voice) *) [pī] [bì] [pì]
 西		xī	west; 东西 dōngxi thing
-次		cì	occurrence, time; second; inferior  [zī] [cí]
-期		qī	(时期) time period; 星期 week; 长期 long term  [jī]
-各		gè	each; 各有千秋 each has its merits  [gě] 自各
+次		cì	occurrence, time; second; inferior *) [zī] [cí]
+期		qī	(时期) time period; 星期 week; 长期 long term *) [jī]
+各		gè	each; 各有千秋 each has its merits 2) [gě] 自各
 及		jí	and; 以及 yǐjí as well as; 及时 jíshí promptly
-少		shǎo	few, little   [shào] young; 少年 shàonián juvenile
-打		dǎ	hit; get; play; etc.; 打算 dǎsuan intend   [dá] dozen
+少		shǎo	few, little 2) [shào] young; 少年 shàonián juvenile
+打		dǎ	hit; get; play; etc.; 打算 dǎsuan intend 2) [dá] dozen
 特		tè	(特别 tèbié) special; 特点 tèdiǎn characteristic
 象		xiàng	appearance; (大象 dàxiàng) elephant
 口		kǒu	mouth; 门口 ménkǒu doorway; 人口 rénkǒu population
-应	應	yīng	(应该 yīnggāi) should  [yìng] 应用 apply
+应	應	yīng	(应该 yīnggāi) should 2)[yìng] 应用 apply
 东	東	dōng	(东方) east; 东西 dōngxi thing
-太		tài	great; very; too; 太太 Madame; 太阳 Sun  [tā]
+太		tài	great; very; too; 太太 Madame; 太阳 Sun *) [tā]
 报	報	bào	(报告) report; 报纸 newspaper; 电报 telegram
 海		hǎi	(海洋 hǎiyáng, 大海 dàhǎi) sea, ocean
-台	台臺檯颱	tái	you; (F臺) platform; 台湾 Taiwan; (F檯) table; (F颱) 台风  [tāi] 天台  [yí] [sì]
-合		hé	shut; (结合 jiéhé) combine; 合作 hézuò cooperate  [gě]
-反		fǎn	turn over; (反对 fǎnduì) oppose; 反映 fǎnyìng reflect  [bǎn] 反反 proper  [fàn]
-万	萬	wàn	ten thousand, myriad; 万岁 long live  [Mò] 万俟
+台	台臺檯颱	tái	you; (F臺) platform; 台湾 Taiwan; (F檯) table; (F颱) 台风 2)[tāi] 天台 *) [yí] [sì]
+合		hé	shut; (结合 jiéhé) combine; 合作 hézuò cooperate *) [gě]
+反		fǎn	turn over; (反对 fǎnduì) oppose; 反映 fǎnyìng reflect 2)[bǎn] 反反 proper *) [fàn]
+万	萬	wàn	ten thousand, myriad; 万岁 long live 2)[Mò] 万俟
 利		lì	(利益 lìyì) benefit, profit; 利用 utilize; 胜利 triumph
 再		zài	again; 再见 zàijiàn goodbye
-果		guǒ	fruit; (结果 jiéguǒ) result; 如果 rúguǒ if  [luǒ] [guàn]
+果		guǒ	fruit; (结果 jiéguǒ) result; 如果 rúguǒ if *) [luǒ] [guàn]
 物		wù	thing; 动物 animal; 植物 plant; 物理 physics
 真		zhēn	true; really
-立		lì	stand; 建立 establish; 立刻 right away; 立方体 cube  [wèi]
-别	別	bié	separate, other; don't   [biè] 别扭 bièniu awkward
-场	場	chǎng	site, field, court  [cháng] threshing ground; (量)
+立		lì	stand; 建立 establish; 立刻 right away; 立方体 cube *) [wèi]
+别	別	bié	separate, other; don't 2) [biè] 别扭 bièniu awkward
+场	場	chǎng	site, field, court 2)[cháng] threshing ground; (量)
 山		shān	mountain; 火山 volcano; 山脉 mountain range
-通		tōng	(通过) go through; 交通 traffic  [tòng] (measure word)
-声	聲	shēng	(声音 shēngyīn) sound  [qìng]
-信		xìn	(相信 xiāngxìn) believe; letter; 信封 envelope  [shēn]
+通		tōng	(通过) go through; 交通 traffic 2)[tòng] (measure word)
+声	聲	shēng	(声音 shēngyīn) sound *) [qìng]
+信		xìn	(相信 xiāngxìn) believe; letter; 信封 envelope *) [shēn]
 八		bā	eight; 八月 Bāyuè August
 命		mìng	(生命) life; destiny; 命令 command; 革命 revolution
-提		tí	lift, raise; 提高 improve; 提供 provide  [dī] 提防  [chí] [shí] [dǐ]
+提		tí	lift, raise; 提高 improve; 提供 provide 2)[dī] 提防 *) [chí] [shí] [dǐ]
 市		shì	(市场 shìchǎng) market; (城市 chéngshì) city, town
-百		bǎi	hundred  [bó] [mò]
-件		jiàn	item; 条件 tiáojiàn term, condition  [móu]
+百		bǎi	hundred *) [bó] [mò]
+件		jiàn	item; 条件 tiáojiàn term, condition *) [móu]
 性		xìng	sex; nature; -ness
-数	數	shù	number; 数学 math  [shǔ] count  [shuò]
+数	數	shù	number; 数学 math 2)[shǔ] count *) [shuò]
 书	書	shū	book; 书记 shūji clerk; 图书馆 library
 门	門	mén	door; 门口 doorway; 部门 department; 门铃 doorbell
-更		gèng	more  [gēng] night watch
+更		gèng	more 2)[gēng] night watch
 题	題	tí	topic; 问题 question, problem; 题目 title
-路		lù	(道路 dàolù) road  [luò]
+路		lù	(道路 dàolù) road *) [luò]
 先		xiān	first; 先生 xiānsheng; 祖先 zǔxiān ancestor
 每		měi	every; 每天 měitiān every day
-教		jiāo	teach  [jiào] teach; 教育 jiàoyù education
-放		fàng	put; release; 解放 jiěfàng liberate  [fǎng] [fāng]
-六		liù	six; 六月 Liùyuè June  [lù]
+教		jiāo	teach 2)[jiào] teach; 教育 jiàoyù education
+放		fàng	put; release; 解放 jiěfàng liberate *) [fǎng] [fāng]
+六		liù	six; 六月 Liùyuè June *) [lù]
 计	計	jì	(计算) count, calculate; 统计 statistics
-至		zhì	to, until; 甚至 shènzhì even; 至少 zhìshǎo at least  [dié]
+至		zhì	to, until; 甚至 shènzhì even; 至少 zhìshǎo at least *) [dié]
 做		zuò	do; make; 叫做 jiàozuò be called; 做法 zuòfǎ method
 原		yuán	originally; 原来 it turns out; original; 原因 cause
 世		shì	generation; (世界 shìjiè) world; 世纪 shìjì century
 展		zhǎn	spread out; 发展 develop; 展览 exhibit
 边	邊	biān	(旁边 pángbiān) side; 这边 zhèbiān over here
-任		rèn	appoint; no matter; 任务 task; 任何 any  [Rén] (surname)  [lìn]
-解		jiě	separate; explain  [Xiè] (surname) [jiè] 解送
-干	干乾幹	gān	stem; 干涉 gānshè interfere; (F乾) dry  [gàn] (F幹) do  [àn]
-才		cái	talent; only then; 刚才 gāngcái just now  [zāi]
+任		rèn	appoint; no matter; 任务 task; 任何 any 2)[Rén] (surname) *) [lìn]
+解		jiě	separate; explain 2)[Xiè] (surname) [jiè] 解送
+干	干乾幹	gān	stem; 干涉 gānshè interfere; (F乾) dry 2)[gàn] (F幹) do *) [àn]
+才		cái	talent; only then; 刚才 gāngcái just now *) [zāi]
 资	資	zī	expenses; 资本主义 capitalism; 投资 invest
-受		shòu	receive; 接受 jiēshòu accept; 难受 nánshòu unhappy  [dào]
-界		jiè	boundary; 世界 shìjiè world    [gā] [gà]
-亲	親	qīn	kin; kiss; 母亲 mother; 亲自 in person  [qìng] 亲家
-许	許	xǔ	allow; 许多 xǔduō a lot; 也许 yěxǔ perhaps  [hǔ] [hào]
-处	處	chù	place  [chǔ] deal with
+受		shòu	receive; 接受 jiēshòu accept; 难受 nánshòu unhappy *) [dào]
+界		jiè	boundary; 世界 shìjiè world *) [gā] [gà]
+亲	親	qīn	kin; kiss; 母亲 mother; 亲自 in person 2)[qìng] 亲家
+许	許	xǔ	allow; 许多 xǔduō a lot; 也许 yěxǔ perhaps *) [hǔ] [hào]
+处	處	chù	place 2)[chǔ] deal with
 队	隊	duì	team; 部队 bùduì army; 队伍 duìwǔ troops
 义	義	yì	justice; 主义 zhǔyì -ism; 意义 yìyì meaning
-系	系係繫	xì	(系统) system; (F係) 关系; (F繫) 联系  [jì] (F繫) tie
-北		běi	north; 东北 dōngběi northeast; 北京 Běijīng  [bèi]
+系	系係繫	xì	(系统) system; (F係) 关系; (F繫) 联系 2)[jì] (F繫) tie
+北		běi	north; 东北 dōngběi northeast; 北京 Běijīng *) [bèi]
 请	請	qǐng	please; invite; 请求 request
 安		ān	still, quiet; 安全 ānquán safe; 安排 ānpái plan
-结	結	jié	tie; 结果 jiéguǒ result; 结婚 marry  [jiē] bear fruit
-论	論	lùn	theory   [Lún] 论语 Lúnyǔ Analects of Confucius
-光		guāng	light; merely; 阳光 sunlight; 光荣 glory  [guàng]
+结	結	jié	tie; 结果 jiéguǒ result; 结婚 marry 2)[jiē] bear fruit
+论	論	lùn	theory 2) [Lún] 论语 Lúnyǔ Analects of Confucius
+光		guāng	light; merely; 阳光 sunlight; 光荣 glory *) [guàng]
 指		zhǐ	finger; point; 指头 zhǐtou finger; 指甲 zhǐjia nail
 今		jīn	now, this; 今天 jīntiān today
 走		zǒu	go, walk, leave
 目		mù	eye; 目前 mùqián at present; 目的 mùdì goal
-流		liú	to flow; stream; 电流 electric current; 交流 to exchange  [liū]
+流		liú	to flow; stream; 电流 electric current; 交流 to exchange *) [liū]
 元		yuán	primary; dollar
-量		liàng	amount; 量词 classifier  [liáng] measure
-便		biàn	convenient  [pián] 便宜 piányi cheap  [biān]
+量		liàng	amount; 量词 classifier 2)[liáng] measure
+便		biàn	convenient 2)[pián] 便宜 piányi cheap *) [biān]
 七		qī	seven
-共		gòng	share; 一共 in all; 共产 communist; 公共 public  [gōng] [gǒng] [hóng]
-接		jiē	connect; (接受) accept; 接着 catch; next; 直接 direct  [xié] [shà] [chā]
+共		gòng	share; 一共 in all; 共产 communist; 公共 public *) [gōng] [gǒng] [hóng]
+接		jiē	connect; (接受) accept; 接着 catch; next; 直接 direct *) [xié] [shà] [chā]
 记	記	jì	(记得 jìde) remember; (记录 jìlù) record
-金		jīn	(金子 jīnzi) gold (Au); (金属 jīnshǔ) metal  [jìn]
-难	難	nán	difficult  [nàn] disaster
+金		jīn	(金子 jīnzi) gold (Au); (金属 jīnshǔ) metal *) [jìn]
+难	難	nán	difficult 2)[nàn] disaster
 风	風	fēng	wind
-色		sè	(颜色 yánsè) color; 脸色 liǎnsè facial expression  [shǎi]
-何		hé	what; 任何 rènhé any; 如何 rúhé how; 几何 jǐhé geometry  [hè]
+色		sè	(颜色 yánsè) color; 脸色 liǎnsè facial expression *) [shǎi]
+何		hé	what; 任何 rènhé any; 如何 rúhé how; 几何 jǐhé geometry *) [hè]
 变	變	biàn	change; 变成 become; 变化 variation; 改变 alter
 直		zhí	straight; directly
 区	區	qū	(地区 dìqū) area; 区别 difference [Ōu] (surname)
-眼		yǎn	(眼睛 yǎnjing) eye; 眼镜 yǎnjìng glasses  [wěn]
-白		bái	white; 明白 clear; 白天 daytime; 白菜 cabbage  [bó]
+眼		yǎn	(眼睛 yǎnjing) eye; 眼镜 yǎnjìng glasses *) [wěn]
+白		bái	white; 明白 clear; 白天 daytime; 白菜 cabbage *) [bó]
 党	黨	dǎng	(political) party; 共产党; 国民党
 联	聯	lián	unite, join; 联系 liánxì contact
 望		wàng	look; full moon; 希望 xīwàng hope
 认	認	rèn	(认为) consider; (认识) recognize
-革		gé	leather; 革命 gémìng revolution; 改革 reform; ䷰  [jí] 病革
+革		gé	leather; 革命 gémìng revolution; 改革 reform; ䷰ 2)[jí] 病革
 建		jiàn	construct; establish; 建议 jiànyì suggest
 交		jiāo	join; 交通 jiāotōng traffic; 交换 jiāohuàn exchange
 带	帶	dài	belt; zone; carry, bring, take
 战	戰	zhàn	(战争 zhànzhēng) war
 爱	愛	ài	(爱情 àiqíng) love; 爱人 àirén spouse; lover
-运	運	yùn	transport; 运动 sports; 运气 luck  [yǔn]
+运	運	yùn	transport; 运动 sports; 运气 luck *) [yǔn]
 收		shōu	gather; 收拾 put in order; 收获 harvest; 收音机 radio
-听	聽	tīng	listen; 听见 hear; 听不懂 not understand  [yǐn] [yí]
+听	聽	tīng	listen; 听见 hear; 听不懂 not understand *) [yǐn] [yí]
 张	張	zhāng	spread; sheet of paper; 紧张 tense, nervous
-治		zhì	govern; cure; punish; 政治 government  [chí]
-觉	覺	jué	perceive  [jiào] (睡觉) sleep; 午觉 nap
+治		zhì	govern; cure; punish; 政治 government *) [chí]
+觉	覺	jué	perceive 2)[jiào] (睡觉) sleep; 午觉 nap
 则	則	zé	(conjunction); 原则 yuánzé principle; 否则 fǒuzé or else
 花		huā	flower; spend; 花生 huāshēng peanut
-思		sī	(思想 sīxiǎng) thought   [si] 意思 yìsi meaning   [sāi] 于思 richly bearded
+思		sī	(思想 sīxiǎng) thought 2) [si] 意思 yìsi meaning 3) [sāi] 于思 richly bearded
 统	統	tǒng	系统 system; 统治 dominate; 统一 unify
 却	卻	què	however
 务	務	wù	任务 rènwu task; 服务 fúwù service
 条	條	tiáo	twig; strip; item; 条件 tiáojiàn condition
 改		gǎi	(改变 gǎibiàn) change; 改革 gǎigé reform
-南		nán	south; 西南 xīnán southwest   [nā]
+南		nán	south; 西南 xīnán southwest *) [nā]
 形		xíng	(形式 xíngshì) form; shape; 形成 xíngchéng to form
-非		fēi	not, non-; 非常 fēicháng unusually  [fěi]
-济	濟	jì	经济 jīngjì economy; 救济 jiùjì help disaster victims  [jǐ]
-达	達	dá	reach, arrive    [dā] [tà] [tì]
+非		fēi	not, non-; 非常 fēicháng unusually *) [fěi]
+济	濟	jì	经济 jīngjì economy; 救济 jiùjì help disaster victims *) [jǐ]
+达	達	dá	reach, arrive *) [dā] [tà] [tì]
 保		bǎo	(保护 bǎohù) protect; 保证 bǎozhèng ensure
 必		bì	(必须) must; 不必 needn't
 议	議	yì	(议论 yìlùn) discuss; 会议 conference; 建议 suggest
@@ -324,191 +324,191 @@
 求		qiú	seek, ask; 要求 yāoqiú demand; requirement
 办	辦	bàn	do; 办法 bànfǎ method; 办公室 bàngōngshì office
 远	遠	yuǎn	far
-强	強	qiáng	strong  [qiǎng] strive  [jiàng] 倔强 juéjiàng stubborn
+强	強	qiáng	strong 2)[qiǎng] strive 3) [jiàng] 倔强 juéjiàng stubborn
 设	設	shè	set up; 建设 construct; 设计 design; 设备 equipment
 候		hòu	(时候 shíhou) time; wait; situation
-言		yán	words; 语言 yǔyán language  [yàn] [yín]
-告		gào	(告诉 gàosu) tell; 报告 bàogào report   [gù] 告朔  [jū]
-完		wán	finished, complete  [kuān]
-往		wǎng	to, toward; 往往 wǎngwǎng often  [wàng]
-观	觀	guān	view; ䷓ Contemplation    [guàn] 道观 temple
-科		kē	department; 科学 kēxué science; 外科 wàikē surgery  [kè]
-传	傳	chuán	pass; pass on; 传统 tradition  [zhuàn] Confucian classic
+言		yán	words; 语言 yǔyán language *) [yàn] [yín]
+告		gào	(告诉 gàosu) tell; 报告 bàogào report 2) [gù] 告朔 *) [jū]
+完		wán	finished, complete *) [kuān]
+往		wǎng	to, toward; 往往 wǎngwǎng often *) [wàng]
+观	觀	guān	view; ䷓ Contemplation 2) [guàn] 道观 temple
+科		kē	department; 科学 kēxué science; 外科 wàikē surgery *) [kè]
+传	傳	chuán	pass; pass on; 传统 tradition 2)[zhuàn] Confucian classic
 师	師	shī	(老师) teacher; 师傅 shīfu master; ䷆ The Army
-感		gǎn	(感觉) feel; (感情) emotion  [hàn]
-术	術	shù	skill; (艺术 yìshù) art; 技术 technique  [zhú] [shú]
+感		gǎn	(感觉) feel; (感情) emotion *) [hàn]
+术	術	shù	skill; (艺术 yìshù) art; 技术 technique *) [zhú] [shú]
 马	馬	mǎ	horse; 马上 mǎshàng right away
 该	該	gāi	(应该 yīnggāi) should
 领	領	lǐng	to lead; collar; 领导, 领袖 leader; 本领 ability
 决	決	jué	解决 jiějué resolve; 决定 juédìng decide
-吃		chī	eat   [qī]
-写	寫	xiě	write; 描写 miáoxiě describe  [xiè] 写意
+吃		chī	eat *)  [qī]
+写	寫	xiě	write; 描写 miáoxiě describe 2)[xiè] 写意
 导	導	dǎo	lead; 领导 lǐngdǎo leader
 即		jí	namely, that is; even if; (立即 lìjí) immediately
 品		pǐn	(产品 chǎnpǐn) product; 商品 shāngpǐn merchandise
-红	紅	hóng	(红色 hóngsè) red; 东方红    [gōng] 女红
+红	紅	hóng	(红色 hóngsè) red; 东方红 2) [gōng] 女红
 近		jìn	near; 附近 fùjìn vicinity; 最近 zuìjìn recently; soon
 基		jī	基础 jīchǔ foundation; 基本 jīběn basic
 住		zhù	live (in a place)
 千		qiān	thousand
-广	廣	guǎng	wide, extensive  [yǎn] radical 53  [ān]
-取		qǔ	take, get, fetch  [qū]
-清		qīng	(清楚 qīngchu) clear; 清洁 qīngjié clean  [qìng]
-且		qiě	for the time being; 而且 érqiě furthermore    [jū] [cú]
+广	廣	guǎng	wide, extensive 2)[yǎn] radical 53 *) [ān]
+取		qǔ	take, get, fetch *) [qū]
+清		qīng	(清楚 qīngchu) clear; 清洁 qīngjié clean *) [qìng]
+且		qiě	for the time being; 而且 érqiě furthermore *) [jū] [cú]
 讲	講	jiǎng	speak
 权	權	quán	right, power
 影		yǐng	shadow; image; 电影 movie
-儿	兒	ér	child; 儿子 son; 女儿 daughter  [r] (noun suffix)  [rén] radical 10
-节	節	jié	joint; section; ䷻; (节日 jiérì) holiday  [jiē]
+儿	兒	ér	child; 儿子 son; 女儿 daughter 2)[r] (noun suffix) 2)[rén] radical 10
+节	節	jié	joint; section; ䷻; (节日 jiérì) holiday *) [jiē]
 管		guǎn	tube; (管理 guǎnlǐ) manage; 不管 bùguǎn no matter
-空		kōng	empty; sky  [kòng] leave empty; free time  [kǒng]
+空		kōng	empty; sky 2)[kòng] leave empty; free time *) [kǒng]
 叫		jiào	cry out; call; 叫做 jiàozuò be called
-英		yīng	英雄 yīngxióng hero; 英国 Yīngguó England  [yāng]
+英		yīng	英雄 yīngxióng hero; 英国 Yīngguó England *) [yāng]
 让	讓	ràng	let, allow
 院		yuàn	courtyard; 学院 college; 医院 hospital; 法院 court
-识	識	shí	know; 认识 know, recognize; 识别 tell apart  [zhì]
+识	識	shí	know; 认识 know, recognize; 识别 tell apart *) [zhì]
 步		bù	step; 进步 jìnbù progress; 散步 sànbù go for a walk
 满	滿	mǎn	full; 满足 mǎnzú satisfied
 组	組	zǔ	organize; group; 组织 zǔzhī organization
 友		yǒu	(朋友 péngyǒu) friend; 友好 friendship
-神		shén	spirit, god; 精神 jīngshén spirit; essence  [shēn]
+神		shén	spirit, god; 精神 jīngshén spirit; essence *) [shēn]
 算		suàn	(计算 jìsuàn) compute; 算了 forget it, never mind
-半		bàn	half  [pàn]
+半		bàn	half *) [pàn]
 持		chí	hold; 坚持 jiānchí persist; 保持 bǎochí keep
-转	轉	zhuǎn	turn, transfer  [zhuàn] rotate  [zhuǎi] 转文
-越		yuè	(越…越…) the more...the more...  [huó]
-王		wáng	king; 王国 wángguó kingdom  [wàng] (rare:) rule  [yù]
-研		yán	grind; (研究 yánjiū) study  [yàn] [xíng]
-服		fú	(服务) serve; (衣服) clothes   [fù] dose  [bì] [bó]
-片		piàn	slice; 照片 photo; 片刻 moment; 卡片 card  [piān] film  [pàn]
+转	轉	zhuǎn	turn, transfer 2)[zhuàn] rotate 3)[zhuǎi] 转文
+越		yuè	(越…越…) the more...the more... *) [huó]
+王		wáng	king; 王国 wángguó kingdom 2)[wàng] (rare:) rule *) [yù]
+研		yán	grind; (研究 yánjiū) study *) [yàn] [xíng]
+服		fú	(服务) serve; (衣服) clothes 2) [fù] dose *) [bì] [bó]
+片		piàn	slice; 照片 photo; 片刻 moment; 卡片 card 2)[piān] film *) [pàn]
 级	級	jí	grade, level; 阶级 jiējí (social) class
 商		shāng	discuss; business
 林		lín	(森林 sēnlín) forest; (surname); 桂林 Guìlín
 语	語	yǔ	(语言 yǔyán) language; 汉语 Chinese; 语法 grammar [yù] tell
-石		shí	(石头 shítou) stone, rock     [dàn] unit of grain
+石		shí	(石头 shítou) stone, rock 2) [dàn] unit of grain
 连	連	lián	connect; including; 连忙 right away; 连续 continuous
 争	爭	zhēng	contend; dispute; 战争 zhànzhēng war; 斗争 struggle
 视	視	shì	look; 电视 diànshì T.V.
 谈	談	tán	talk
-单	單	dān	alone; single; sheet   [chán] 单于  [Shàn] (surname)
+单	單	dān	alone; single; sheet 2) [chán] 单于 2)[Shàn] (surname)
 深		shēn	deep; 深刻 shēnkè profound; 深夜 shēnyè late at night
 历	歷曆	lì	(F歷) 历史 lìshǐ history; 经历 experience; (F曆) 日历
 钱	錢	qián	money
 周		zhōu	circuit; circumference; cycle; week
 字		zì	written character; 汉字 Chinese character; 名字 name
 府		fǔ	政府 zhèngfǔ government
-式		shì	(形式) form; 方式 way, pattern; 正式 formal, official  [tè]
-司		sī	公司 gōngsī company; 司令 sīlìng commander  [cí] [sì]
+式		shì	(形式) form; 方式 way, pattern; 正式 formal, official *) [tè]
+司		sī	公司 gōngsī company; 司令 sīlìng commander *) [cí] [sì]
 照		zhào	shine; 照相 zhàoxiàng photo
 德		dé	virtue; 道德 dàodé ethics; 德国 Germany (Deutschland)
-据	據	jù	seize; depend on; (根据 gēnjù) according to  [jū] 拮据
+据	據	jù	seize; depend on; (根据 gēnjù) according to 2)[jū] 拮据
 未		wèi	have not, did not; 未来 future; 地支八
 际	際	jì	(边际 biānjì) boundary; 实际 reality; 国际 international
-青		qīng	green (blue, black); 青年 youth; 青蛙 frog  [jīng]
+青		qīng	green (blue, black); 青年 youth; 青蛙 frog *) [jīng]
 极	極	jí	extreme; pole; 太极 Tài Jí ☯
 线	線	xiàn	line, thread; 光线 light ray; 电线 wire
-离	離	lí	(离开 líkāi) leave; from; ☲ ䷝ The Clinging  [chī]
-容		róng	contain; 容易 róngyì easy; 内容 nèiróng content  [yǒng]
+离	離	lí	(离开 líkāi) leave; from; ☲ ䷝ The Clinging *) [chī]
+容		róng	contain; 容易 róngyì easy; 内容 nèiróng content *) [yǒng]
 证	證	zhèng	prove; 图书证 library card
 拿		ná	hold; 拿来 bring; 拿去 take; 拿给 hand over
 史		shǐ	(历史 lìshǐ) history; (surname)
 热	熱	rè	hot
-团	團	tuán	ball, lump; group; 团结 unite  [qiú]
+团	團	tuán	ball, lump; group; 团结 unite *) [qiú]
 早		zǎo	early; 早饭 breakfast; 早晨 zǎochen morning
 快		kuài	fast; sharp; (快乐, 愉快) happy
-包		bāo	bag; wrap  [páo] [fú]
+包		bāo	bag; wrap *) [páo] [fú]
 音		yīn	(声音 shēngyīn) sound; 音乐 yīnyuè music
 装	裝	zhuāng	dress up; load; install; (假装 jiǎzhuāng) pretend
 孩		hái	(孩子 háizi, 小孩儿 xiǎoháir) child; 女孩儿 girl
-调	調	diào	shift; tone  [tiáo] adjust
+调	調	diào	shift; tone 2)[tiáo] adjust
 农	農	nóng	(农民 nóngmín) farmer, peasant; 农业 agriculture
 准	准準	zhǔn	allow; (F準) certainly; precise; 准备 prepare; 标准 standard
 类	類	lèi	category, kind, type; 类似 lèisì similar
-约	約	yuē	approximately; arrange; appointment   [yāo] weigh
-号	號	hào	name, number, mark  [háo] yell  [xiāo]
+约	約	yuē	approximately; arrange; appointment 2) [yāo] weigh
+号	號	hào	name, number, mark 2)[háo] yell *) [xiāo]
 集		jí	(收集 shōují) collect; 集中 jízhōng centralize
-克	克剋	kè	(克服 kèfú) overcome; gram; (F剋) 克期 set time limit  [kēi] (=剋)
-毛		máo	hair  [mào]
+克	克剋	kè	(克服 kèfú) overcome; gram; (F剋) 克期 set time limit 2)[kēi] (=剋)
+毛		máo	hair *) [mào]
 士		shì	scholar; 博士 Ph.D; 女士 lady, Ms.; 战士 soldier
 夜		yè	(夜晚 yèwǎn) night; 半夜, 午夜 midnight; 夜里 at night
 布		bù	cloth; spread
-较	較	jiào	relatively; quite; 比较 bǐjiào compare; relatively  [jiǎo] (bǐjiǎo = bǐjiào)
+较	較	jiào	relatively; quite; 比较 bǐjiào compare; relatively 2)[jiǎo] (bǐjiǎo = bǐjiào)
 选	選	xuǎn	(选择 xuǎnzé) choose, select; 选举 xuǎnjǔ election
 笑		xiào	laugh
-乐	樂	lè	pleasure; 快乐 kuàilè happy  [yuè] 音乐 yīnyuè music
-造		zào	(制造 zhìzào) manufacture; (创造 chuàngzào) create  [cào] [cāo]
+乐	樂	lè	pleasure; 快乐 kuàilè happy 2)[yuè] 音乐 yīnyuè music
+造		zào	(制造 zhìzào) manufacture; (创造 chuàngzào) create *) [cào] [cāo]
 整		zhěng	(整个) whole; 调整 tiáozhěng adjust; 整齐 zhěngqí neat
-斯		sī	(thus; now used mostly for sound:) 法西斯 Fascist  [shǐ]
+斯		sī	(thus; now used mostly for sound:) 法西斯 Fascist *) [shǐ]
 晚		wǎn	late; 晚上 evening; 夜晚 night; 晚饭 dinner
-切		qiē	to cut  [qiè] correspond to; 一切 yíqiè all  [qì]
-称	稱	chēng	weigh; name  [chèn] 对称 duìchèn symmetric
-格		gé	check, pattern, standard; 格外 géwài especially  [gē] [luò] [hè]
-精		jīng	perfect; 精神 spirit, essence; 酒精 alcohol  [qíng] [jìng]
-似		sì	similar; 似乎 sìhu it seems   [shì] 似的 shìde alike
-失		shī	lose; 失败 shībài be defeated  [yì]
-拉		lā	pull, drag, haul  [lǎ] 半拉 bànlǎ half  [lá] slit [là] [lè] [la]
-息		xī	breath; stop  [xi] 消息 xiāoxi news; 休息 xiūxi rest
+切		qiē	to cut 2)[qiè] correspond to; 一切 yíqiè all *) [qì]
+称	稱	chēng	weigh; name 2)[chèn] 对称 duìchèn symmetric
+格		gé	check, pattern, standard; 格外 géwài especially *) [gē] [luò] [hè]
+精		jīng	perfect; 精神 spirit, essence; 酒精 alcohol *) [qíng] [jìng]
+似		sì	similar; 似乎 sìhu it seems 2) [shì] 似的 shìde alike
+失		shī	lose; 失败 shībài be defeated *) [yì]
+拉		lā	pull, drag, haul 2)[lǎ] 半拉 bànlǎ half 2)[lá] slit [là] [lè] [la]
+息		xī	breath; stop 2)[xi] 消息 xiāoxi news; 休息 xiūxi rest
 死		sǐ	die, death
 怎		zěn	(怎么 zěnme) how
-料		liào	(材料 cáiliào) material; expect, anticipate; 资料 data  [liáo]
-房		fáng	(房间 fángjiān) room; (房子 fángzi) building  [páng]
+料		liào	(材料 cáiliào) material; expect, anticipate; 资料 data *) [liáo]
+房		fáng	(房间 fángjiān) room; (房子 fángzi) building *) [páng]
 易		yì	(容易 róngyì) easy; change; 易经 Book of Changes
-曾		céng	(曾经 céngjīng) in the past  [zēng] great- (grandmother)
+曾		céng	(曾经 céngjīng) in the past 2)[zēng] great- (grandmother)
 始		shǐ	(开始 kāishǐ) begin, start; 始终 shǐzhōng all along
-需		xū	(需要 xūyào) need; ䷄; 必需 bìxū essential  [nuò] [rú] [ruǎn]
+需		xū	(需要 xūyào) need; ䷄; 必需 bìxū essential *) [nuò] [rú] [ruǎn]
 轻	輕	qīng	light (cf 重 heavy)
 专	專	zhuān	(专门) special; (专家) expert; 专政 dictatorship
-委		wěi	委员会 committee; 委托 entrust    [wēi] 虚与委蛇  [wèi]
-找		zhǎo	look for, seek  [huá]
-厂	廠	chǎng	(工厂 gōngchǎng) factory  [hǎn] radical 27  [yán] [ān]
+委		wěi	委员会 committee; 委托 entrust 2) [wēi] 虚与委蛇 *) [wèi]
+找		zhǎo	look for, seek *) [huá]
+厂	廠	chǎng	(工厂 gōngchǎng) factory 2)[hǎn] radical 27 *) [yán] [ān]
 响	響	xiǎng	sound; 影响 yǐngxiǎng influence
-夫		fū	man; 丈夫 husband; 工夫 skill; 大夫 dàifu doctor  [fú]
-校		xiào	(学校 xuéxiào) school  [jiào] (校对,校正) proofread  [jiǎo] [qiāo]
-参	參	cān	参加 participate  [shēn] 人参 ginseng  [cēn] 参差  [sān] (=叁)
+夫		fū	man; 丈夫 husband; 工夫 skill; 大夫 dàifu doctor *) [fú]
+校		xiào	(学校 xuéxiào) school 2)[jiào] (校对,校正) proofread *) [jiǎo] [qiāo]
+参	參	cān	参加 participate 2)[shēn] 人参 ginseng 2)[cēn] 参差 2)[sān] (=叁)
 黑		hēi	(黑色 hēisè) black; 黑暗 hēi'àn dark
-母		mǔ	(母亲 mǔqin) mother; 父母 fùmǔ parents; 字母 ABC  [mú] [wǔ] [wú]
-火		huǒ	fire; 火车 train; 火柴 match; 火焰 flame  [huō]
+母		mǔ	(母亲 mǔqin) mother; 父母 fùmǔ parents; 字母 ABC *) [mú] [wǔ] [wú]
+火		huǒ	fire; 火车 train; 火柴 match; 火焰 flame *) [huō]
 志	志誌	zhì	(意志) will; (标志) mark; 同志 comrade; (F誌) 杂志 magazine
 备	備	bèi	(准备) get ready, prepare; 设备 equipment
-育		yù	raise, educate; 教育 education   [yō] 杭育 heave-ho  [zhòu]
+育		yù	raise, educate; 教育 education 2) [yō] 杭育 heave-ho *) [zhòu]
 局		jú	department; situation; 邮局 yóujú post office
-派		pài	faction; send; 党派 dǎngpài political parties  [pā] 派司  [mài] [bài]
-示		shì	(表示 biǎoshì) show, indicate; 指示 point out  [qí] [zhì] [shí]
+派		pài	faction; send; 党派 dǎngpài political parties 2)[pā] 派司 *) [mài] [bài]
+示		shì	(表示 biǎoshì) show, indicate; 指示 point out *) [qí] [zhì] [shí]
 根		gēn	root; 根本 gēnběn foundation; (not) at all
-技		jì	技术 technology, technique; 科技 science & technology  [qí]
+技		jì	技术 technology, technique; 科技 science & technology *) [qí]
 亚	亞	yà	inferior, second; 亚洲 Yàzhōu Asia
 况	況	kuàng	情况 circumstances; 况且 moreover
 首		shǒu	head; 首先 first of all; 首都 capital (of country)
 席		xí	mat; seat; banquet; 主席 chairperson
-价	價	jià	(价值) value; (价钱) price  [jie] (F價)  [jiè] servant
+价	價	jià	(价值) value; (价钱) price 2)[jie] (F價) 3)[jiè] servant
 图	圖	tú	picture; 地图 map; 图书馆 library
 严	嚴	yán	severe, stern
 买	買	mǎi	buy
-支		zhī	branch; support; 支持 zhīchí sustain  [zhì] [qí]
+支		zhī	branch; support; 支持 zhīchí sustain *) [zhì] [qí]
 星		xīng	star; 火星 huǒxīng Mars; 星期 xīngqī week
 李		lǐ	(李子 lǐzi) plum; (surname)
 官		guān	official; 官僚 guānliáo bureaucrat
-落		luò	fall  [là] be missing  [lào] 落色 làoshǎi fade  [luō] 空落落
-众	眾	zhòng	crowd; many; 群众 the masses; 听众 audience  [yín]
-究		jiū	研究 yánjiū study, research; 究竟 after all  [jiù]
+落		luò	fall 2)[là] be missing 3)[lào] 落色 làoshǎi fade 4) [luō] 空落落
+众	眾	zhòng	crowd; many; 群众 the masses; 听众 audience *) [yín]
+究		jiū	研究 yánjiū study, research; 究竟 after all *) [jiù]
 随	隨	suí	follow; ䷐ Following; 随便 suíbiàn as you like
 病		bìng	sick; 毛病 máobing malfunction
 复	復複覆	fù	(F復) ䷗; 恢复 recover; (F複) 复杂 complex; (F覆) cover
 规	規	guī	规律 guīlǜ regular pattern; 规定 guīdìng regulations
-兴	興	xìng	高兴 gāoxìng glad  [xīng] 兴奋 xīngfèn excited
+兴	興	xìng	高兴 gāoxìng glad 2)[xīng] 兴奋 xīngfèn excited
 黄	黃	huáng	(黄色 huángsè) yellow
-族		zú	(民族) people, nationality; (种族) race  [sǒu] [còu] [zòu]
+族		zú	(民族) people, nationality; (种族) race *) [sǒu] [còu] [zòu]
 男		nán	(男人 nánrén) man
 消		xiāo	disappear; 消息 xiāoxi news; 消灭 xiāomiè perish
-苦		kǔ	bitter; 艰苦 jiānkǔ arduous; 痛苦 tòngkǔ suffering  [gǔ] [hù]
+苦		kǔ	bitter; 艰苦 jiānkǔ arduous; 痛苦 tòngkǔ suffering *) [gǔ] [hù]
 费	費	fèi	cost; spend; 学费 tuition
-呢		ne	(sentence final particle)  [ní] woolen cloth  [nǐ] [nī]
+呢		ne	(sentence final particle) 2)[ní] woolen cloth *) [nǐ] [nī]
 另		lìng	other; 另外 lìngwài other; besides
-足		zú	foot; (足够 zúgòu) enough; 满足 mǎnzú satisfy  [jù]
-查		chá	examine, investigate; 检查 inspect  [Zhā] (surname)  [chái]
+足		zú	foot; (足够 zúgòu) enough; 满足 mǎnzú satisfy *) [jù]
+查		chá	examine, investigate; 检查 inspect 2)[Zhā] (surname) *) [chái]
 验	驗	yàn	(经验 jīngyàn) experience
 像		xiàng	resemble; (肖像 xiàoxiàng) portrait; image
-批		pī	(量) batch, lot, group; slap; 批评 pīpíng criticize  [pí]
+批		pī	(量) batch, lot, group; slap; 批评 pīpíng criticize *) [pí]
 低		dī	low; 降低 jiàngdī reduce; 低级 elementary; 高低 height
 城		chéng	(城市 chéngshì) city; wall; 长城 chángchéng Great Wall
 举	舉	jǔ	raise; 举行 hold (a meeting); 选举 election; 举例
@@ -518,16 +518,16 @@
 须	須鬚	xū	(F須) (必须 bìxū) must; (F鬚) (胡须 húxū) beard
 尔	爾	ěr	(archaic:) you; 尔后 thereafter; 高尔夫 golf
 欢	歡	huān	(欢乐 huānlè) happy, joyous; 喜欢 like
-除		chú	get rid of; divide; (除了 chúle) except  [zhù] [shū]
+除		chú	get rid of; divide; (除了 chúle) except *) [zhù] [shū]
 香		xiāng	perfume; fragrant; 香港 Xiānggǎng Hong Kong
 功		gōng	achievement; 成功 chénggōng succeed; 功夫 gōngfu
 确	確	què	true; 正确 correct; 确实 indeed; 明确 explicit
-增		zēng	(增加 zēngjiā, 增长 zēngzhǎng) increase  [zèng] [céng]
+增		zēng	(增加 zēngjiā, 增长 zēngzhǎng) increase *) [zèng] [céng]
 岁	歲	suì	years old; 岁数 age; 万岁 long life
-注	註	zhù	pour; (F註) notes; 注意 zhùyì pay attention; 注视 gaze  [zhòu]
-客		kè	(客人) guest; 客观 kèguān objective; 客气 kèqi polite  [qià]
-食		shí	eat; (食物 shíwù, 食品 shípǐn) food    [sì] feed  [yì]
-供		gōng	supply  [gòng] confess
+注	註	zhù	pour; (F註) notes; 注意 zhùyì pay attention; 注视 gaze *) [zhòu]
+客		kè	(客人) guest; 客观 kèguān objective; 客气 kèqi polite *) [qià]
+食		shí	eat; (食物 shíwù, 食品 shípǐn) food 2) [sì] feed *) [yì]
+供		gōng	supply 2) [gòng] confess
 具		jù	工具 tool; 具有 possess; 具体 concrete; 玩具 toy
 江		jiāng	river; 长江 Yang-tse; 江山 landscape
 油		yóu	oil; 汽油 qìyóu gasoline; 酱油 jiàngyóu soy sauce [yōu] [yòu]
@@ -535,114 +535,114 @@
 乎		hū	似乎 sìhu it seems; 几乎 jīhū almost
 断	斷	duàn	cut off; 不断 búduàn unceasing; 判断 pànduàn judge
 存		cún	(存在 cúnzài) exist; 保存 bǎocún preserve
-底		dǐ	bottom; 彻底 chèdǐ thorough; 到底 dàodǐ after all  [de]
+底		dǐ	bottom; 彻底 chèdǐ thorough; 到底 dàodǐ after all *) [de]
 飞	飛	fēi	fly; 飞机 fēijī airplane
-吗	嗎	ma	interrogative particle  [má] [mǎ]
-温	溫	wēn	(温暖 wēnnuǎn) warm; 温度 wēndù temperature  [yùn]
-份		fèn	(量) portion, share, copy  [bīn]
-仅	僅	jǐn	(仅仅 jǐnjǐn) only, barely  [fù] [nú]
+吗	嗎	ma	interrogative particle *) [má] [mǎ]
+温	溫	wēn	(温暖 wēnnuǎn) warm; 温度 wēndù temperature *) [yùn]
+份		fèn	(量) portion, share, copy *) [bīn]
+仅	僅	jǐn	(仅仅 jǐnjǐn) only, barely *) [fù] [nú]
 仍		réng	(仍然 réngrán, 仍旧 réngjiù) still, yet, as before
 愿	願	yuàn	wish
-般		bān	sort, kind; 一般 yībān ordinary  [pán] happy  [bō] 般若  [bǎn]
+般		bān	sort, kind; 一般 yībān ordinary 2) [pán] happy 3) [bō] 般若 *) [bǎn]
 虽	雖	suī	(虽然 suīrán) although
 送		sòng	see somebody off; deliver; give
-古		gǔ	(古代 gǔdài) ancient  [gù] [kū]
+古		gǔ	(古代 gǔdài) ancient *) [gù] [kū]
 段		duàn	section; paragraph; 手段 means (to an end)
 引		yǐn	draw, stretch; (引起 yǐnqǐ) cause; (吸引 xīyǐn) attract
-土		tǔ	earth; (土地 tǔdì) land; (土壤 tǔrǎng) soil  [dù] [chǎ] [tú]
+土		tǔ	earth; (土地 tǔdì) land; (土壤 tǔrǎng) soil *) [dù] [chǎ] [tú]
 续	續	xù	(继续 jìxù) continue; 连续 liánxù continuous
 维	維	wéi	纤维 xiānwéi fiber; 维护 safeguard; 思维 think
 版		bǎn	printing plate; edition; 出版 publish
 案		àn	desk; (law) case; 答案 dá'àn answer or solution to a problem
-令		lìng	make, cause; 命令 mìnglìng command  [lǐng] ream  [líng] [lián]
+令		lìng	make, cause; 命令 mìnglìng command 2) [lǐng] ream *) [líng] [lián]
 兵		bīng	(士兵 shìbīng) soldier; 兵力 bīnglì military strength
 帮	幫	bāng	(帮助, 帮忙) help; gang
 刚	剛	gāng	firm; (刚才 gāngcái) just (a moment ago)
 势	勢	shì	power; 形势 circumstances; 姿势 posture
 律		lǜ	法律 fǎlǜ law; 律师 lawyer; 纪律 discipline; 旋律 melody
-吧		ba	at end of sentence, indicates suggestion  [bā] snap!  [pā]
-某		mǒu	certain, some; 某人 mǒurén somebody  [méi]
+吧		ba	at end of sentence, indicates suggestion 2) [bā] snap! *) [pā]
+某		mǒu	certain, some; 某人 mǒurén somebody *) [méi]
 绝	絕	jué	cut off; absolute
-医	醫	yī	(医学) medical science; 医生 doctor; 医院 hospital  [yì]
+医	醫	yī	(医学) medical science; 医生 doctor; 医院 hospital *) [yì]
 紧	緊	jǐn	tight; 紧张 jǐnzhāng tense; 要紧 yàojǐn important
-划	划劃畫	huá	row (a boat) (F劃) scratch [huà] (F劃) (计划 jìhuà) plan (F畫)  [guò] [guǒ]
+划	划劃畫	huá	row (a boat) (F劃) scratch [huà] (F劃) (计划 jìhuà) plan (F畫) *) [guò] [guǒ]
 希		xī	希望 xīwàng hope; 希奇 xīqí rare, strange
-春		chūn	(春天, 春季) spring; 春卷 spring roll; 春夏秋冬  [chǔn]
+春		chūn	(春天, 春季) spring; 春卷 spring roll; 春夏秋冬 *) [chǔn]
 显	顯	xiǎn	appear; 显然 xiǎnrán obvious
-游		yóu	(游泳 yóuyǒng) swim; (旅游 lǚyóu) travel  [liú]
-演		yǎn	(表演 biǎoyǎn) perform, act, performance  [yàn]
+游		yóu	(游泳 yóuyǒng) swim; (旅游 lǚyóu) travel *) [liú]
+演		yǎn	(表演 biǎoyǎn) perform, act, performance *) [yàn]
 苏	蘇	sū	苏醒 revive; 苏州 Sūzhōu; 苏联 Sūlián USSR
 击	擊	jī	beat
-居		jū	(居住 jūzhù) live, reside; 居民 resident; 居然 unexpectedly  [jī]
+居		jū	(居住 jūzhù) live, reside; 居民 resident; 居然 unexpectedly *) [jī]
 态	態	tài	form; 态度 tàidu manner; 状态 zhuàngtài state
-倒		dǎo	fall down   [dào] backwards; pour; contrary to expectations   [dáo]
-站		zhàn	stand; 火车站 train station  [zhān]
-例		lì	(例子 lìzi) example; 例如 lìrú for instance  [liè]
-喜		xǐ	happiness; 喜欢 xǐhuan like  [xī] [chì]
+倒		dǎo	fall down 2) [dào] backwards; pour; contrary to expectations *) [dáo]
+站		zhàn	stand; 火车站 train station *) [zhān]
+例		lì	(例子 lìzi) example; 例如 lìrú for instance *) [liè]
+喜		xǐ	happiness; 喜欢 xǐhuan like *) [xī] [chì]
 左		zuǒ	left; 左边 zuǒbiān left side
-否		fǒu	no; 是否 whether   [pǐ] ䷋ Standstill
+否		fǒu	no; 是否 whether 2) [pǐ] ䷋ Standstill
 围	圍	wéi	surround; 围棋 wéiqí (Go)
 饭	飯	fàn	rice; food
-列		liè	column; line up; 列车 lièchē train; 排列 páiliè arrange  [lì]
+列		liè	column; line up; 列车 lièchē train; 排列 páiliè arrange *) [lì]
 血		xuè	[xiě] blood
 推		tuī	push
 故		gù	cause; therefore; 故事 gùshi story; 故意 gùyì on purpose
 习	習	xí	练习 practice; 学习 study; 习惯 habit
-父		fù	(父亲 fùqin) father; 父母 fùmǔ parents  [fǔ] old man
+父		fù	(父亲 fùqin) father; 父母 fùmǔ parents 2) [fǔ] old man
 坐		zuò	sit; 请坐 please have a seat; 坐公共汽车 ride the bus
-留		liú	stay; 保留 keep; 遗留 hand down; 拘留 arrest  [liù] [liǔ]
+留		liú	stay; 保留 keep; 遗留 hand down; 拘留 arrest *) [liù] [liǔ]
 河		hé	river; 河南省 Henan Province; 运河 canal
 念		niàn	miss; read aloud; 观念 guānniàn concept; 念书 study
 船		chuán	boat, ship; 渡船 dùchuán ferry; 宇宙飞船 spaceship
 久		jiǔ	long time
-属	屬	shǔ	belong to   [zhǔ] enjoin
-排		pái	arrange; row, line     [pǎi] 排子车 handcart  [bài]
+属	屬	shǔ	belong to 2) [zhǔ] enjoin
+排		pái	arrange; row, line 2) [pǎi] 排子车 handcart *) [bài]
 护	護	hù	(保护 bǎohù) guard, protect; 护士 hùshi nurse
-致	致緻	zhì	send, convey; 一致 yīzhì identical; (F緻) 细致 xìzhì careful  [zhuì]
+致	致緻	zhì	send, convey; 一致 yīzhì identical; (F緻) 细致 xìzhì careful *) [zhuì]
 初		chū	beginning; 初步 chūbù preliminary; 起初 qǐchū at first
 跟		gēn	heel; follow; with; and
 职	職	zhí	duty; 职工 staff; 职业 zhíyè occupation
 双	雙	shuāng	pair, twin, double; 双方 both sides
-句		jù	sentence  [gōu] [gòu] [qú]
+句		jù	sentence *) [gōu] [gòu] [qú]
 朋		péng	朋友 péngyǒu friend
 妈	媽	mā	mother, mom; 妈妈 māma mama
 村		cūn	village; rustic; 农村 nóngcūn countryside
 画	畫	huà	draw; picture
 够	夠	gòu	enough; 能够 nénggòu be capable of
-巴		bā	尾巴 wěiba tail; 嘴巴 zuǐbā mouth; 巴西 Bāxī Brazil  [bà]
-助		zhù	(帮助 bāngzhù) help  [chú]
-待		dài	treat; entertain; wait for   [dāi] (=呆) stay
+巴		bā	尾巴 wěiba tail; 嘴巴 zuǐbā mouth; 巴西 Bāxī Brazil *) [bà]
+助		zhù	(帮助 bāngzhù) help *) [chú]
+待		dài	treat; entertain; wait for 2) [dāi] (=呆) stay
 乡	鄉	xiāng	countryside; home town
 标	標	biāo	mark; 标准 biāozhǔn standard
-省		shěng	province; economize; omit  [xǐng] 反省 introspection  [xiǎn]
-采	采採埰	cǎi	pick, gather (F採)  [cài] (F埰) 采地 càidì fief
-劳	勞	láo	(劳动 láodòng) labor  [lào]
-投		tóu	throw; 投票 tóupiào vote  [dòu]
+省		shěng	province; economize; omit 2) [xǐng] 反省 introspection *) [xiǎn]
+采	采採埰	cǎi	pick, gather (F採) 2) [cài] (F埰) 采地 càidì fief
+劳	勞	láo	(劳动 láodòng) labor *) [lào]
+投		tóu	throw; 投票 tóupiào vote *) [dòu]
 右		yòu	right; 右边 yòubiān right side
 阳	陽	yáng	opposite of 阴 yīn ☯; 太阳 tàiyáng the sun
 速		sù	fast; 速度 sùdù speed
 器		qì	utensil; (机器 jīqì) machine; 武器 wǔqì weapon
-压	壓	yā	press; pressure    [yà]
+压	壓	yā	press; pressure *) [yà]
 值		zhí	(值得 zhíde) be worth; (价值 jiàzhí) value
 考		kǎo	(考虑 kǎolǜ) consider; (考试 kǎoshì) exam
-读	讀	dú	read   [dòu] pause in reading
+读	讀	dú	read 2) [dòu] pause in reading
 谁	誰	shuí	[shéi] who
 层	層	céng	layer, level, storey
-票		piào	ticket  [piāo]
-纪	紀	jì	世纪 century; 纪念 memento; 纪律 discipline  [Jǐ]
-角		jiǎo	horn; corner; dime  [jué] actor, role  [lù] [gǔ]
+票		piào	ticket *) [piāo]
+纪	紀	jì	世纪 century; 纪念 memento; 纪律 discipline *) [Jǐ]
+角		jiǎo	horn; corner; dime 2) [jué] actor, role *) [lù] [gǔ]
 静	靜	jìng	still, quiet; 静电 static electricity
-哪		nǎ	[něi] what; 哪儿 nǎr where   [na] (=啊 a)  [Né] [nuó] [nǎi] [nà] [niè]
-洋		yáng	(海洋 hǎiyáng) ocean; 太平洋 Pacific Ocean  [yāng] [xiáng] [yǎng]
-创	創	chuàng	创造 chuàngzào create  [chuāng] 创伤 trauma
-章		zhāng	chapter; seal, stamp; medal, badge; rules  [zhàng]
-云		yún	say; (F雲) (云彩 yúncai) cloud
-印		yìn	(印刷 yìnshuā) print; (印章 yìnzhāng) seal  [yì]
+哪		nǎ	[něi] what; 哪儿 nǎr where 2) [na] (=啊 a) *) [Né] [nuó] [nǎi] [nà] [niè]
+洋		yáng	(海洋 hǎiyáng) ocean; 太平洋 Pacific Ocean *) [yāng] [xiáng] [yǎng]
+创	創	chuàng	创造 chuàngzào create 2) [chuāng] 创伤 trauma
+章		zhāng	chapter; seal, stamp; medal, badge; rules *) [zhàng]
+云	雲	yún	say; (F雲) (云彩 yúncai) cloud
+印		yìn	(印刷 yìnshuā) print; (印章 yìnzhāng) seal *) [yì]
 停		tíng	(停止 tíngzhǐ) stop; 停车场 parking lot
-衣		yī	(衣服 yīfu) clothing  [yì] (书) wear
+衣		yī	(衣服 yīfu) clothing 2) [yì] (书) wear
 树	樹	shù	tree; 树林 woods; 树木 trees; 树干 trunk
 修		xiū	repair, decorate; 修改 xiūgǎi revise
-港		gǎng	harbor; 香港 Xiānggǎng Hong Kong  [hòng]
+港		gǎng	harbor; 香港 Xiānggǎng Hong Kong *) [hòng]
 责	責	zé	duty; 责任 zérèn responsibility
 织	織	zhī	weave, knit; 组织 organize; 纺织 spin & weave
 简	簡	jiǎn	简单 jiǎndān simple; 简体字 simple form character
@@ -650,87 +650,87 @@
 脑	腦	nǎo	(脑子 nǎozi) brain; 脑袋 head; 脑壳 skull
 刊		kān	periodical, publication: 报刊 the Press
 按		àn	press; (按照 ànzhào) according to; 按摩 ànmó massage
-尽		jìn	(F盡) use up  [jǐn] (F儘) to max extent; 尽管 even though
+尽	盡儘	jìn	(F盡) use up 2) [jǐn] (F儘) to max extent; 尽管 even though
 破		pò	smash; 破坏 pòhuài ruin; 破烂 pòlàn worn out
 诉	訴	sù	告诉 gàosu tell; 诉讼 sùsòng lawsuit
-害		hài	harmful; 害虫 hàichóng destructive insect; 厉害 lìhai fierce  [hé]
-枪	槍	qiāng	gun   [chēng] 欃枪 chánchēng comet
+害		hài	harmful; 害虫 hàichóng destructive insect; 厉害 lìhai fierce *) [hé]
+枪	槍	qiāng	gun 2) [chēng] 欃枪 chánchēng comet
 卖	賣	mài	sell: 苹果怎么卖? How much are the apples?
 室		shì	room; 教室 classroom; 卧室 bedroom; 办公室 office
-斗		dǒu	10 liters; 烟斗 pipe; 北斗星 Dipper  [dòu] (F鬥) fight  [zhǔ]
+斗	鬥	dǒu	10 liters; 烟斗 pipe; 北斗星 Dipper 2) [dòu] (F鬥) fight *) [zhǔ]
 汉	漢	hàn	Chinese ethnicity; 汉语; 汉字; 老汉 old man
-波		bō	(波浪 bōlàng) wave; 波长 wavelength  [bēi] [bì]
+波		bō	(波浪 bōlàng) wave; 波长 wavelength *) [bēi] [bì]
 独	獨	dú	only, alone; 独立 dúlì independent
 宣		xuān	(宣布) declare; 宣传 propaganda
 米		mǐ	(米饭 mǐfàn) rice; meter; 玉米 yùmǐ corn
-甚		shèn	very; 甚至 shènzhì even, go so far as to  [shén] (S什)
-刻		kè	carve; quarter hour; moment  [kēi]
+甚		shèn	very; 甚至 shènzhì even, go so far as to 2) [shén] (S什)
+刻		kè	carve; quarter hour; moment *) [kēi]
 微		wēi	tiny, micro; 微笑 wēixiào smile
-冲	沖衝	chōng	(F沖) rinse; rush; (F衝) rush  [chòng] (F衝) towards
+冲	沖衝	chōng	(F沖) rinse; rush; (F衝) rush 2) [chòng] (F衝) towards
 闻	聞	wén	smell; hear; 新闻 news
 班		bān	class; work; 上班 go to work; 值班 zhíbān be on duty
-怕		pà	(害怕 hàipà) to fear; 可怕 kěpà horrible  [bó]
-超		chāo	(超过 chāoguò) go past, exceed; (超级 chāojí) super  [chǎo] [chào] [tiào]
+怕		pà	(害怕 hàipà) to fear; 可怕 kěpà horrible *) [bó]
+超		chāo	(超过 chāoguò) go past, exceed; (超级 chāojí) super *) [chǎo] [chào] [tiào]
 项	項	xiàng	(项目 xiàngmù) item
 伤	傷	shāng	wound, injury; injure
-背		bèi	back  [bēi] carry on the back
-呼		hū	shout, exhale; 呼吸 breathe; 欢呼 cheer  [xiāo] [xū] [hè] [xià]
+背		bèi	back 2) [bēi] carry on the back
+呼		hū	shout, exhale; 呼吸 breathe; 欢呼 cheer *) [xiāo] [xū] [hè] [xià]
 细	細	xì	thin; 仔细 zǐxì careful; 细胞 xìbāo cell; 详细 detailed
 止		zhǐ	(停止 tíngzhǐ) stop
 哥		gē	(哥哥 gēge) older brother
 型		xíng	mould; type; 典型 diǎnxíng typical
 突		tū	charge forward; stick out; 突然 tūrán suddenly
-答		dá	(回答) answer  [dā] 答应 dāying respond; promise
+答		dá	(回答) answer 2) [dā] 答应 dāying respond; promise
 效		xiào	(效果 xiàoguǒ) effect; 有效 yǒuxiào effective
 继	繼	jì	(继续 jìxù) continue; 继承 jìchéng inherit
-依		yī	(依靠) depend on; comply with; according to; 依然 still  [yǐ]
-胜	勝	shèng	(胜利 shènglì) victory, triumph, win  [xīng] [qìng] [shēng]
+依		yī	(依靠) depend on; comply with; according to; 依然 still *) [yǐ]
+胜	勝	shèng	(胜利 shènglì) victory, triumph, win *) [xīng] [qìng] [shēng]
 评	評	píng	criticize
 爷	爺	yé	father; 爷爷 yéye grandpa
-块	塊	kuài	piece  [yué]
-沉		chén	to sink; 沉重 chénzhòng heavy  [chēn] 黑沉沉 pitch-black
+块	塊	kuài	piece *) [yué]
+沉		chén	to sink; 沉重 chénzhòng heavy 2) [chēn] 黑沉沉 pitch-black
 终	終	zhōng	end; 终于 finally; 始终 all along; 终身 life-long
 充		chōng	fill; 充分 chōngfèn full, ample; 充满 chōngmǎn full of
 富		fù	(富有 fùyǒu) rich; 丰富 fēngfù abundant; 财富 wealth
 竟		jìng	finish; (竟然) unexpectedly; 究竟 after all
-获		huò	(F獲) (获得 huòdé) get, obtain; (F穫) 收获 harvest
+获	獲穫	huò	(F獲) (获得 huòdé) get, obtain; (F穫) 收获 harvest
 协	協	xié	协作 xiézuò cooperate
 您		nín	you (polite)
-若		ruò	seem; as if; 假若 if; 若干 ruògān how much  [rě] 般若  [ré] [rè]
-奇		qí	marvellous, rare, strange  [jī] odd (not even)  [ǎi] [yǐ]
-占		zhān	fortune telling  [zhàn] occupy; 占领 zhànlǐng capture  [tiē]
+若		ruò	seem; as if; 假若 if; 若干 ruògān how much 2) [rě] 般若 *) [ré] [rè]
+奇		qí	marvellous, rare, strange 2) [jī] odd (not even) *) [ǎi] [yǐ]
+占		zhān	fortune telling 2) [zhàn] occupy; 占领 zhànlǐng capture *) [tiē]
 陈	陳	chén	display; explain; stale; (dynasty: 557-589)
-罗	羅	luó	(罗网) birdnet; 罗马 Rome; 罗盘 compass  [luō]
+罗	羅	luó	(罗网) birdnet; 罗马 Rome; 罗盘 compass *) [luō]
 负	負	fù	carry on shoulder; suffer; negative
-阿		ā	阿拉伯 Arab  [ē] 阿弥陀佛 merciful Buddha  [ě] [ǎ] [à]
+阿		ā	阿拉伯 Arab 2) [ē] 阿弥陀佛 merciful Buddha *) [ě] [ǎ] [à]
 错	錯	cuò	(错误 cuòwù) mistake
-夏		xià	(夏天 xiàtiān) summer; 春夏秋冬 chūnxiàqiūdōng  [jiǎ]
+夏		xià	(夏天 xiàtiān) summer; 春夏秋冬 chūnxiàqiūdōng *) [jiǎ]
 策		cè	plan; 政策 zhèngcè policy
-差		chà	differ; wrong  [chā] 差别 difference  [chāi] 出差  [cī] [cuō] [chài] [jiē]
+差		chà	differ; wrong 2) [chā] 差别 difference 3) [chāi] 出差 *) [cī] [cuō] [chài] [jiē]
 歌		gē	song
 痛		tòng	painful; 痛苦 tòngkǔ suffering; 痛快 tòngkuai delighted
-板		bǎn	board; hard; (F闆) 老板 lǎobǎn shopkeeper
+板	闆	bǎn	board; hard; (F闆) 老板 lǎobǎn shopkeeper
 州		zhōu	prefecture; 广州 Guǎngzhōu Canton
 皮		pí	(皮肤 pífū) skin
 源		yuán	(来源 láiyuán) source, origin; 资源 zīyuán resources
 吸		xī	inhale; 呼吸 breathe; 吸收 absorb; 吸引 attract
-汽		qì	vapor, steam; 汽油 qìyóu gasoline; 汽车 qìchē car  [gài] [yǐ]
+汽		qì	vapor, steam; 汽油 qìyóu gasoline; 汽车 qìchē car *) [gài] [yǐ]
 密		mì	thick, dense
 财	財	cái	wealth; 发财 get rich
-亮		liàng	shine  [liáng]
+亮		liàng	shine *) [liáng]
 企		qǐ	企业 qǐyè enterprise; 企图 qǐtú attempt; 企鹅 penguin
 笔	筆	bǐ	writing implement; 毛笔 brush; 钢笔 pen; 铅笔 pencil
 营	營	yíng	camp; 营火 campfire; 营业 do business
 养	養	yǎng	raise, nourish; 营养 yíngyǎng nutrition
-园	園	yuán	(花园 huāyuán) garden; (公园 gōngyuán) park  [wán]
+园	園	yuán	(花园 huāyuán) garden; (公园 gōngyuán) park *) [wán]
 脸	臉	liǎn	face
 换	換	huàn	change, exchange
-景		jǐng	scene, scenery  [yǐng]
+景		jǐng	scene, scenery *) [yǐng]
 烈		liè	(强烈 qiángliè) intense; 热烈 ardent; 烈士 martyr
-央		yāng	entreat; center; 中央 central; 央求 beg, plead  [yīng]
+央		yāng	entreat; center; 中央 central; 央求 beg, plead *) [yīng]
 座		zuò	(座位 zuòwèi) seat; (measure word for mountains etc.)
-副		fù	assist; vice-; 副词 fùcí adverb  [pì]
-察		chá	观察 guānchá observe; 警察 jǐngchá police  [cuì]
+副		fù	assist; vice-; 副词 fùcí adverb *) [pì]
+察		chá	观察 guānchá observe; 警察 jǐngchá police *) [cuì]
 顾	顧	gù	(照顾 zhàogu) look after; 顾客 gùkè customer
 境		jìng	border, territory; 环境 huánjìng environment
 阶	階	jiē	(台阶) steps; 阶级 class; 军阶 rank; 阶段 phase
@@ -738,23 +738,23 @@
 纸	紙	zhǐ	paper; 报纸 bàozhǐ newspaper
 店		diàn	(商店 shāngdiàn) store, shop; 饭店 fàndiàn restaurant
 编	編	biān	weave; organize; (编辑 biānjí) edit
-跑		pǎo	run  [páo] paw the earth  [bó]
-余		yú	I, me; (F餘) left-over, extra; 其余 the rest; 余弦 cosine  [tú] [xú] [yù]
-括		kuò	包括 bāokuò include; 概括 gàikuò generalize  [guā]
-惊	驚	jīng	surprise  [liáng]
-激		jī	surge, dash; (激动 jīdòng) excite; 激烈 jīliè intense  [jiào] [jiāo]
+跑		pǎo	run 2) [páo] paw the earth *) [bó]
+余	餘	yú	I, me; (F餘) left-over, extra; 其余 the rest; 余弦 cosine *) [tú] [xú] [yù]
+括		kuò	包括 bāokuò include; 概括 gàikuò generalize *) [guā]
+惊	驚	jīng	surprise *) [liáng]
+激		jī	surge, dash; (激动 jīdòng) excite; 激烈 jīliè intense *) [jiào] [jiāo]
 田		tián	field; 田野 tiányě open country
 订	訂	dìng	conclude (cf 定)
-适	適	shì	合适 héshì suitable, appropriate   [dí] [kuò]
-假		jiǎ	false  [jià] (假期 jiàqī) vacation  [jie] [xià] [xiá] [gé]
+适	適	shì	合适 héshì suitable, appropriate *) [dí] [kuò]
+假		jiǎ	false 2) [jià] (假期 jiàqī) vacation *) [jie] [xià] [xiá] [gé]
 构	構	gòu	结构 jiégòu structure; 构成 constitute; 构造 gòuzào structure
 卫	衛	wèi	保卫 defend; 卫生 sanitary; 卫星 satellite
 武		wǔ	military; 武器 wǔqì weapon; 武术 wǔshù martial arts
-雨		yǔ	rain; 雨水 rainwater; 暴风雨 bàofēngyǔ rainstorm  [yù]
+雨		yǔ	rain; 雨水 rainwater; 暴风雨 bàofēngyǔ rainstorm *) [yù]
 木		mù	tree; (木头 mùtou) wood
 益		yì	(利益 lìyì) advantage, profit; ䷩ Increase
 靠		kào	lean on; rely on; keep close to; come up to; near
-限		xiàn	limit, bounds; 有限 limited; 限制 restrict  [wěn]
+限		xiàn	limit, bounds; 有限 limited; 限制 restrict *) [wěn]
 判		pàn	judge; 批判 pīpàn criticize
 试	試	shì	try; test; 考试 kǎoshì test, quiz
 防		fáng	embankment; guard, protect; anti-
@@ -763,76 +763,76 @@
 急		jí	urgent; 着急 zháojí anxious; 急忙 jímáng in a hurry
 检	檢	jiǎn	(检查 jiǎnchá) inspect
 诗	詩	shī	poem; 诗人 shīrén poet
-味		wèi	(味道 wèidao) flavor, taste  [mèi]
+味		wèi	(味道 wèidao) flavor, taste *) [mèi]
 普		pǔ	普通 pǔtōng common; 普遍 pǔbiàn universal
-优	優	yōu	excellent; 优良 fine; 优秀 outstanding; 优越 superior  [yóu]
+优	優	yōu	excellent; 优良 fine; 优秀 outstanding; 优越 superior *) [yóu]
 货	貨	huò	(货物) goods; 货币 huòbì money, currency
 升		shēng	liter; rise, ascend; ䷭ Pushing Upward
-射		shè	shoot, fire; send out; 注射 inject; 射箭 archery  [yè] [yì]
-叶		yè	(F葉) leaf (of a plant)  [xié] harmonize
-沙		shā	sand; 沙漠 shāmò desert; 沙丘 shāqiū dune  [shà] [suō]
-福		fú	blessing; 幸福 xìngfú happy; 福建 Fújiàn  [fù]
-冷		lěng	cold; 冷静 lěngjìng calm  [líng] [lǐng]
+射		shè	shoot, fire; send out; 注射 inject; 射箭 archery *) [yè] [yì]
+叶	葉	yè	(F葉) leaf (of a plant) 2) [xié] harmonize
+沙		shā	sand; 沙漠 shāmò desert; 沙丘 shāqiū dune *) [shà] [suō]
+福		fú	blessing; 幸福 xìngfú happy; 福建 Fújiàn *) [fù]
+冷		lěng	cold; 冷静 lěngjìng calm *) [líng] [lǐng]
 短		duǎn	short (opposite of 长 cháng)
 配		pèi	match; deserve; 分配 distribute; 配合 pèihé cooperate
-搞		gǎo	do  [qiāo] [kào]
-杂	雜	zá	mixed; 复杂 complicated; 杂志 magazine  [zā] [duǒ]
-款		kuǎn	fund  [xīn]
-草		cǎo	grass; herb; 草莓 cǎoméi strawberry  [zào]
+搞		gǎo	do *) [qiāo] [kào]
+杂	雜	zá	mixed; 复杂 complicated; 杂志 magazine *) [zā] [duǒ]
+款		kuǎn	fund *) [xīn]
+草		cǎo	grass; herb; 草莓 cǎoméi strawberry *) [zào]
 银	銀	yín	silver (Ag); 银行 yínháng bank
 酒		jiǔ	wine; 啤酒 píjiǔ beer; 喝酒 hējiǔ drink wine
 旧	舊	jiù	old (not new) (cf 老 old, not young; 新 new)
-曲		qū	(弯曲 wānqū) curved  [qǔ] melody
+曲		qū	(弯曲 wānqū) curved 2) [qǔ] melody
 素		sù	plain, white; vegetarian; 因素 yīnsù factor, element
-朝		cháo	towards; dynasty; 朝鲜 Cháoxiǎn Korea  [zhāo] (morning)  [zhū]
+朝		cháo	towards; dynasty; 朝鲜 Cháoxiǎn Korea 2) [zhāo] (morning) *) [zhū]
 环	環	huán	ring; 环境 huánjìng environment, surroundings
 刘	劉	Liú	(surname)
-陆	陸	lù	land; 大陆 continent   [liù] six ( = 六)
-啊		a	[ā] [á] [ǎ] [à] ah--, ah?, ah..., ah!  [è]
-积	積	jī	accumulate; 积极 jījí positive; 面积 area  [zhǐ]
+陆	陸	lù	land; 大陆 continent 2) [liù] six ( = 六)
+啊		a	[ā] [á] [ǎ] [à] ah--, ah?, ah..., ah! *) [è]
+积	積	jī	accumulate; 积极 jījí positive; 面积 area *) [zhǐ]
 录	錄	lù	record; 记录 jìlù take notes; 录音机 tape recorder
-散		sàn	break up; distribute; dispel  [sǎn] fall apart; scattered  [sān]
+散		sàn	break up; distribute; dispel 2) [sǎn] fall apart; scattered *) [sān]
 街		jiē	street; 街道 street, neighborhood; 街头 street-corner
 铁	鐵	tiě	iron (Fe)
-免		miǎn	exempt; 避免 bìmiǎn avoid; 免费 miǎnfèi free  [wèn] [wǎn]
+免		miǎn	exempt; 避免 bìmiǎn avoid; 免费 miǎnfèi free *) [wèn] [wǎn]
 庭		tíng	家庭 jiātíng family; 法庭 court; 庭院 courtyard
 楼	樓	lóu	story, building; 大楼 mansion; 楼梯 lóutī stairs
 洲		zhōu	continent; 亚洲 Asia; 欧洲 Europe; 非洲 Africa
-脚	腳	jiǎo	foot; 赤脚 barefoot; 脚趾 toe  [jué] (=角)
-卡		kǎ	block; calory; card  [qiǎ] checkpoint
+脚	腳	jiǎo	foot; 赤脚 barefoot; 脚趾 toe 2) [jué] (=角)
+卡		kǎ	block; calory; card *) [qiǎ] checkpoint
 预	預	yù	预备 prepare; 预先 beforehand; 预报 forecast
 善		shàn	good; 改善 gǎishàn improve; 善于 be good at
-均		jūn	even; 平均 píngjūn average  [yùn]
-封		fēng	to seal; 封建 feudal; 信封 envelope  [biǎn]
+均		jūn	even; 平均 píngjūn average *) [yùn]
+封		fēng	to seal; 封建 feudal; 信封 envelope *) [biǎn]
 剧	劇	jù	drama, play, opera; 剧烈 jùliè severe
 顿	頓	dùn	to pause; meal
-著		zhù	write; book  [zhe](S着) [zháo](S着) [zhuó](S着) [zhāo](S着)  [chú]
-堂		táng	hall; 食堂 dining hall; 课堂 classroom  [tāng] 亮堂堂
-渐	漸	jiàn	(渐渐 jiànjiàn, 逐渐 zhújiàn) gradually; ䷴  [jiān]
+著		zhù	write; book 2) [zhe](S着) [zháo](S着) [zhuó](S着) [zhāo](S着) *) [chú]
+堂		táng	hall; 食堂 dining hall; 课堂 classroom 2) [tāng] 亮堂堂
+渐	漸	jiàn	(渐渐 jiànjiàn, 逐渐 zhújiàn) gradually; ䷴ *) [jiān]
 雪		xuě	snow; 雪花 xuěhuā snowflake; 滑雪 huáxuě to ski
-承		chéng	承认 chéngrèn admit; 继承 jìchéng inherit  [zhěng] [zhèng]
-模		mó	模范 model; 模仿 imitate  [mú] 模样 appearance; 模子
+承		chéng	承认 chéngrèn admit; 继承 jìchéng inherit *) [zhěng] [zhèng]
+模		mó	模范 model; 模仿 imitate 2) [mú] 模样 appearance; 模子
 状	狀	zhuàng	(状态, 状况) condition, state of affairs
 乱	亂	luàn	chaotic, disorderly, messy; 混乱 hùnluàn chaos
-担	擔	dān	carry on a shoulder pole  [dàn] two buckets full; 50 kg.  [dǎn] [jiē]
+担	擔	dān	carry on a shoulder pole 2) [dàn] two buckets full; 50 kg. *) [dǎn] [jiē]
 课	課	kè	lesson; 课本 kèběn textbook
 减	減	jiǎn	subtract; 减少 jiǎnshǎo decrease
 威		wēi	威胁 wēixié threaten, imperil; 示威 demonstrate
-忘		wàng	(忘记 wàngjì) forget  [wáng] 忘八
-弟		dì	(弟弟 dìdi) younger brother   [tì] (=悌)  [tuí]
+忘		wàng	(忘记 wàngjì) forget 2) [wáng] 忘八
+弟		dì	(弟弟 dìdi) younger brother 2) [tì] (=悌) *) [tuí]
 杀	殺	shā	kill
 药	藥	yào	medicine, drug
-守		shǒu	guard; 保守 bǎoshǒu conservative  [shòu]
-怀	懷	huái	bosom; cherish; 怀疑 suspect; 怀念 cherish memory  [fù]
+守		shǒu	guard; 保守 bǎoshǒu conservative *) [shòu]
+怀	懷	huái	bosom; cherish; 怀疑 suspect; 怀念 cherish memory *) [fù]
 互		hù	互相 each other; 相互 reciprocal
-既		jì	since; already; 既然 jìrán since, now that  [xì]
+既		jì	since; already; 既然 jìrán since, now that *) [xì]
 旅		lǚ	travel; 旅馆 inn; 旅行社 travel agency; ䷷
-钟		zhōng	(F鐘) bell; clock; 三点钟 3 o'clock; (F鍾) 钟爱 dote on; (surname)
-弹	彈	dàn	炸弹 bomb; 子弹 bullet  [tán] 弹吉他 play guitar
-姐		jiě	(姐姐 jiějie) older sister; 小姐 xiǎojie young lady  [jù] [xù] [zū]
-露		lù	(露水 lùshui) dew; show, reveal, betray  [lòu] reveal
+钟	鐘	zhōng	(F鐘) bell; clock; 三点钟 3 o'clock; (F鍾) 钟爱 dote on; (surname)
+弹	彈	dàn	炸弹 bomb; 子弹 bullet 2) [tán] 弹吉他 play guitar
+姐		jiě	(姐姐 jiějie) older sister; 小姐 xiǎojie young lady *) [jù] [xù] [zū]
+露		lù	(露水 lùshui) dew; show, reveal, betray 2) [lòu] reveal
 贵	貴	guì	expensive; valuable
-介		jiè	介绍 jièshào introduce; 介词 preposition  [gè]
+介		jiè	介绍 jièshào introduce; 介词 preposition *) [gè]
 罪		zuì	crime, guilt
 宝	寶	bǎo	treasure
 兰	蘭	lán	兰花 lánhuā orchid
@@ -843,184 +843,184 @@
 谢	謝	xiè	thank; 谢谢 xièxie thanks; 非常感谢
 帝		dì	emperor; 帝国 dìguó empire; 上帝 Shàngdì God
 述		shù	state, narrate; 描述 describe; 上述 above-mentioned
-登		dēng	climb  [dé]
-施		shī	carry out; 措施 cuòshī measure, step; 施工 construction  [yì] [shǐ]
+登		dēng	climb *) [dé]
+施		shī	carry out; 措施 cuòshī measure, step; 施工 construction *) [yì] [shǐ]
 材		cái	(材料 cáiliào) material; 教材 jiàocái teaching material
-穿		chuān	penetrate; wear  [chuàn] [yuān]
+穿		chuān	penetrate; wear *) [chuàn] [yuān]
 寄		jì	to mail; 寄生虫 parasite
 玩		wán	play; 玩具 wánjù toy; 好玩儿 hǎowánr fun
 略		lüè	brief, slight; 略微 lüèwēi slightly
 讨	討	tǎo	(讨论 tǎolùn) discuss; 讨厌 tǎoyàn digusting
 菜		cài	vegetable, dish
-烟		yān	(F煙) smoke; cigarette; mist  [yīn] (=氤)
+烟	煙	yān	(F煙) smoke; cigarette; mist 2) [yīn] (=氤)
 礼	禮	lǐ	ceremony; 婚礼 hūnlǐ wedding; 礼貌 lǐmào polite
-娘		niáng	mother; aunt  [niang] 姑娘 gūniang girl
+娘		niáng	mother; aunt 2) [niang] 姑娘 gūniang girl
 龙	龍	lóng	dragon; 恐龙 kǒnglóng dinosaur
-异	異	yì	different; 异常 yìcháng unusual  [yí]
+异	異	yì	different; 异常 yìcháng unusual *) [yí]
 户	戶	hù	door; household; 窗户 chuānghù window
-抗		kàng	(抵抗) resist; 反抗 revolt; 抗议 protest  [gāng]
+抗		kàng	(抵抗) resist; 反抗 revolt; 抗议 protest *) [gāng]
 攻		gōng	(进攻, 攻击) attack; 专攻 specialize in studying
 犯		fàn	violate; 犯罪 fàn=zuì commit a crime; 罪犯 criminal
 访	訪	fǎng	(访问 fǎngwèn) visit; 采访 gather material
-困		kùn	(困难 kùnnán) difficult; ䷮ Oppression; (F睏) tired
+困	困睏	kùn	(困难 kùnnán) difficult; ䷮ Oppression; (F睏) tired
 牌		pái	tablet; brand; cards; dominoes: 牌子 sign
-追		zhuī	pursue  [duī] [tuī]
-松		sōng	pine tree; 松鼠 squirrel; (F鬆) loose
+追		zhuī	pursue *) [duī] [tuī]
+松	松鬆	sōng	pine tree; 松鼠 squirrel; (F鬆) loose
 睡		shuì	(睡觉 shuìjiào) sleep
-掉		diào	drop, fall  [nuó]
+掉		diào	drop, fall *) [nuó]
 午		wǔ	中午 noon; 上午 morning; 下午 afternoon; 午饭 lunch
-移		yí	(移动) move; 转移 shift; transform; 移植 transplant  [chǐ] [yì]
-招		zhāo	beckon; recruit; attract; 招待 entertain (guests)  [qiáo] [sháo]
-降		jiàng	fall, descend  [xiáng] 投降 tóuxiáng surrender
-概		gài	大概 roughly, most likely; 概念 concept; 气概 spirit  [guì] [jié]
-慢		màn	slow  [mán]
-宁	寧	nìng	(宁愿, 宁可) prefer, rather  [níng] 宁静 tranquil  [zhù]
-祖		zǔ	(祖先 zǔxiān) ancestor; 祖母 zǔmǔ grandmother  [jiē]
-良		liáng	(优良 yōuliáng, 良好) good; 良心 liángxīn conscience  [liǎng]
-肉		ròu	flesh, meat; 肌肉 jīròu muscle  [rù]
+移		yí	(移动) move; 转移 shift; transform; 移植 transplant *) [chǐ] [yì]
+招		zhāo	beckon; recruit; attract; 招待 entertain (guests) *) [qiáo] [sháo]
+降		jiàng	fall, descend 2) [xiáng] 投降 tóuxiáng surrender
+概		gài	大概 roughly, most likely; 概念 concept; 气概 spirit *) [guì] [jié]
+慢		màn	slow *) [mán]
+宁	寧	nìng	(宁愿, 宁可) prefer, rather 2) [níng] 宁静 tranquil *) [zhù]
+祖		zǔ	(祖先 zǔxiān) ancestor; 祖母 zǔmǔ grandmother *) [jiē]
+良		liáng	(优良 yōuliáng, 良好) good; 良心 liángxīn conscience *) [liǎng]
+肉		ròu	flesh, meat; 肌肉 jīròu muscle *) [rù]
 遍		biàn	everywhere; 普遍 universal; (量) 再说一遍
-率		lǜ	rate, proportion; 频率 frequency  [shuài] 率领 lead  [lüe]
+率		lǜ	rate, proportion; 频率 frequency 2) [shuài] 率领 lead *) [lüe]
 练	練	liàn	white silk; (练习 liànxí) practice
-尼		ní	尼姑 Buddhist nun; 尼加拉瓜 Nicaragua; 尼龙 nylon  [nǐ]
-幸		xìng	good fortune, luck; 幸福 xìngfú happy  [niè]
-丰		fēng	good-looking  (F豐) ䷶ Abundance; 丰富 fēngfù abundant
+尼		ní	尼姑 Buddhist nun; 尼加拉瓜 Nicaragua; 尼龙 nylon *) [nǐ]
+幸		xìng	good fortune, luck; 幸福 xìngfú happy *) [niè]
+丰	豐	fēng	good-looking 2) (F豐) ䷶ Abundance; 丰富 fēngfù abundant
 付		fù	pay
 挥	揮	huī	wave, wield; command an army; 挥手 wave (one's hand)
-控		kòng	(控诉 kòngsù) accuse; (控制 kòngzhì) control  [kōng] [qiāng]
+控		kòng	(控诉 kòngsù) accuse; (控制 kòngzhì) control *) [kōng] [qiāng]
 敢		gǎn	dare; 勇敢 yǒnggǎn brave
-灯	燈	dēng	lamp  [dīng]
+灯	燈	dēng	lamp *) [dīng]
 舞		wǔ	(跳舞 tiàowǔ) dance
 忙		máng	hurry; busy; 帮忙 help; 连忙 right away
 私		sī	(私人) personal; (私有) private; (自私) selfish
 顺	順	shùn	along, in the same direction as; obey; suitable
-坏		huài	(F壞) bad    [pī] (=坯)  [péi]
+坏	壞	huài	(F壞) bad [pī] (=坯) [péi]
 险	險	xiǎn	(危险 wēixiǎn) danger; 保险 bǎoxiǎn insurance
-伯		bó	eldest brother; uncle  [bǎi] 大伯子  [bai] 叔伯 shūbai  [bà] (=霸)  [mò]
+伯		bó	eldest brother; uncle 2) [bǎi] 大伯子 3) [bai] 叔伯 shūbai 4) [bà] (=霸) *) [mò]
 架		jià	frame, rack, shelf; put up; (量): 一架飞机
 警		jǐng	警察 jǐngchá police; 警告 jǐnggào warn
 县	縣	xiàn	county; 县长 xiànzhǎng county magistrate
 扬	揚	yáng	raise; 发扬 fāyáng develop, promote
-牛		niú	ox, cow, bull; 牛奶 niúnǎi milk   [niū]
+牛		niú	ox, cow, bull; 牛奶 niúnǎi milk *) [niū]
 肯		kěn	be willing to; consent; 肯定 kěndìng definitely
-遇		yù	meet; 遇到 yùdào encounter  [yóng] [ǒu]
-映		yìng	shine  [yǎng]
-趣		qù	interest, fun; 兴趣 interest; 趣味 interest; taste  [cù] [qū] [cǒu] [zōu]
+遇		yù	meet; 遇到 yùdào encounter *) [yóng] [ǒu]
+映		yìng	shine *) [yǎng]
+趣		qù	interest, fun; 兴趣 interest; 趣味 interest; taste *) [cù] [qū] [cǒu] [zōu]
 谓	謂	wèi	call; 所谓 so-called
 输	輸	shū	transport; lose (cf 赢 win)
 执	執	zhí	hold in hand; 执行 zhíxíng carry out
 馆	館	guǎn	building; 饭馆 restaurant
 签	簽	qiān	签订 conclude & sign (treaty, etc); 签名 signature; 标签 label
 退		tuì	go backwards; (后退 hòutuì) retreat; 撤退 chètuì withdraw
-熟		shú	cooked, ripe, familiar; 熟悉 shúxī know well  [shóu]
-缺		quē	(缺乏quēfá) lack, be short of; 缺点 quēdiǎn shortcoming  [kuǐ]
+熟		shú	cooked, ripe, familiar; 熟悉 shúxī know well *) [shóu]
+缺		quē	(缺乏quēfá) lack, be short of; 缺点 quēdiǎn shortcoming *) [kuǐ]
 爸		bà	dad; 爸爸 bàba daddy
-绿	綠	lǜ	(绿色 lǜsè) green   [lù] (in some place names)
+绿	綠	lǜ	(绿色 lǜsè) green 2) [lù] (in some place names)
 股		gǔ	thigh; section
 败	敗	bài	(失败 shībài) lose, be defeated; 腐败 fǔbài corrupt
 盘	盤	pán	dish, tray; 算盘 suànpán abacus; 棋盘 chessboard
-逐		zhú	expel; pursue; 1 by 1: 逐渐 gradually; 逐步 step by step  [dí] [zhòu] [tún]
+逐		zhú	expel; pursue; 1 by 1: 逐渐 gradually; 逐步 step by step *) [dí] [zhòu] [tún]
 鱼	魚	yú	fish; 金鱼 jīnyú goldfish; 鲨鱼 shāyú shark
-鲜	鮮	xiān	fresh    [xiǎn] few, rare; 朝鲜 Korea
+鲜	鮮	xiān	fresh 2) [xiǎn] few, rare; 朝鲜 Korea
 临	臨	lín	overlook; be adjacent to; ䷒ Approach; 临时 temporary
 哭		kū	cry, weep
 湖		hú	lake; 湖泊 húpō lakes; 湖南 Hunan; 湖北 Hubei
-套		tào	set; cover; 手套 glove; 一套衣服 a suit  [tǎo]
+套		tào	set; cover; 手套 glove; 一套衣服 a suit *) [tǎo]
 戏	戲	xì	(戏剧 xìjù) drama, play; 游戏 yóuxì game
-救		jiù	help, rescue; 救命 jiùmìng! Help!  [jiū]
+救		jiù	help, rescue; 救命 jiùmìng! Help! *) [jiū]
 屋		wū	(屋子 wūzi) room; (房屋 fángwū) building; 屋顶 roof
 婚		hūn	(结婚) marry; 婚礼 wedding; 婚姻 marriage
 灵	靈	líng	clever; spirit; elf; 灵活 línghuó nimble, easy
 础	礎	chǔ	基础 jīchǔ foundation, base, basis; 础石 chǔshí plinth
 嘴		zuǐ	(嘴巴 zuǐba) mouth; 嘴唇 zuǐchún lip
 顶	頂	dǐng	top; (量) 一顶帽子 a hat
-浪		làng	(波浪 bōlàng) wave; 浪费 waste  [láng]
-零		líng	zero; 零件 língjiàn spare part; 零钱 spare change  [līng] [lián]
+浪		làng	(波浪 bōlàng) wave; 浪费 waste *) [láng]
+零		líng	zero; 零件 língjiàn spare part; 零钱 spare change *) [līng] [lián]
 亿	億	yì	100 million
 怪		guài	blame; (奇怪 qíguài) strange; 怪物 guàiwu monster
 泪	淚	lèi	(眼泪, 泪水) tear; 泪珠 teardrop
 申		shēn	explain; 9th 地支 Earthly Branch
-透		tòu	penetrate; thorough; 透镜 tòujìng lens; 透明 transparent  [shū]
-恶	惡	è	evil  [wù] (厌恶) hate  [ě] (恶心) nauseous
+透		tòu	penetrate; thorough; 透镜 tòujìng lens; 透明 transparent *) [shū]
+恶	惡	è	evil 2) [wù] (厌恶) hate 3) [ě] (恶心) nauseous
 阵	陣	zhèn	battle array; (量): 一阵风
-胡		hú	recklessly; 胡说 nonsense (F鬍) (胡子 húzi) beard (F衚) 胡同
-拍		pāi	clap; paddle; 乒乓拍  [bó]
+胡	胡鬍衚	hú	recklessly; 胡说 nonsense (F鬍) (胡子 húzi) beard (F衚) 胡同
+拍		pāi	clap; paddle; 乒乓拍 *) [bó]
 误	誤	wù	(错误 cuòwù) mistake
 额	額	é	(前额) forehead; 定额 quota
-赶	趕	gǎn	catch up  [qián]
+赶	趕	gǎn	catch up *) [qián]
 绍	紹	shào	介绍 jièshào introduce
-载	載	zài	carry, be loaded with  [zǎi] 记载 put down in writing
-丽	麗	lì	美丽 beautiful; 壮丽 majestic  [Lí] Korea
-征		zhēng	journey; 长征 Long March; attack; (F徵) evidence; levy
+载	載	zài	carry, be loaded with 2) [zǎi] 记载 put down in writing
+丽	麗	lì	美丽 beautiful; 壮丽 majestic 2) [Lí] Korea
+征	征徵	zhēng	journey; 长征 Long March; attack; (F徵) evidence; levy
 伟	偉	wěi	(伟大) great, mighty; 宏伟 hóngwěi, 雄伟 xióngwěi grand
 危		wēi	危险 dangerous; 危机 crisis; 危害 endanger
-迎		yíng	(欢迎 huānyíng) welcome  [yìng]
+迎		yíng	(欢迎 huānyíng) welcome *) [yìng]
 毫		háo	long fine hair; milli-; 毫不 not at all
-脱	脫	tuō	take off; 脱离 tuōlí break away  [tuì]
-皇		huáng	皇帝 huángdì emperor; 皇后 huánghòu empress  [wǎng]
+脱	脫	tuō	take off; 脱离 tuōlí break away *) [tuì]
+皇		huáng	皇帝 huángdì emperor; 皇后 huánghòu empress *) [wǎng]
 宗		zōng	ancestor; clan; faction; 宗教 religion; 祖宗 ancestry
 托		tuō	hold in the palm; rely on; 委托 wěituō entrust
 杨	楊	yáng	poplar tree; 三角叶杨 cottonwood
 彩		cǎi	(色彩 sècǎi) color; 彩色 cǎisè multicolor
-弄		nòng	do   [lòng] 里弄 alley
+弄		nòng	do 2) [lòng] 里弄 alley
 摇	搖	yáo	shake
-疑		yí	(怀疑 huáiyí) doubt, suspect; 迟疑 chíyí hesitate  [níng]
+疑		yí	(怀疑 huáiyí) doubt, suspect; 迟疑 chíyí hesitate *) [níng]
 抓		zhuā	grab; arrest; attract; scratch
 轮	輪	lún	wheel
 欧	歐	ōu	欧洲 Ōuzhōu Europe; 欧姆 ōumǔ ohm
 篇		piān	sheet of paper; piece of writing
 航		háng	sail; fly; 航行 hángxíng navigate; 航空 aviation
 秋		qiū	autumn, fall; 春夏秋冬 chūnxiàqiūdōng
-厚		hòu	thick; deep; kind; rich (food)   (cf 薄 báo thin)
+厚		hòu	thick; deep; kind; rich (food) 2) (cf 薄 báo thin)
 季		jì	(季节) season; 冬季 winter; 四季 four seasons
 掌		zhǎng	palm of the hand; 掌握 zhǎngwò grasp
 雄		xióng	powerful; male; 英雄 hero; 雄伟 grand; 雄鸡 rooster
 恐		kǒng	(恐怕 kǒngpà) I'm afraid; 恐怖 kǒngbù terror
-税	稅	shuì	tax  [tuō] [tuì] [tuàn]
-窗		chuāng	(窗户 chuānghu, 窗口) window; 窗帘 curtain  [cōng]
+税	稅	shuì	tax *) [tuō] [tuì] [tuàn]
+窗		chuāng	(窗户 chuānghu, 窗口) window; 窗帘 curtain *) [cōng]
 弱		ruò	weak; 微弱 wēiruò faint; 软弱 ruǎnruò feeble
-睛		jīng	eye   [jing] 眼睛 yǎnjing eye  [jǐng]
+睛		jīng	eye 2) [jing] 眼睛 yǎnjing eye *) [jǐng]
 赛	賽	sài	contest; 比赛 match, race
 归	歸	guī	return
-秘		mì	秘密 mìmì secret; 秘书 secretary  [bì] 秘鲁 Peru  [bié]
-倍		bèi	times; 三倍 three times (as much)  [péi]
-播		bō	sow, seed; 广播 broadcast; 传播 disseminate  [bǒ]
+秘		mì	秘密 mìmì secret; 秘书 secretary 2) [bì] 秘鲁 Peru *) [bié]
+倍		bèi	times; 三倍 three times (as much) *) [péi]
+播		bō	sow, seed; 广播 broadcast; 传播 disseminate *) [bǒ]
 暗		àn	(黑暗) dark; 暗暗 secretly; 阴暗 gloomy; 暗示 hint
 借		jiè	borrow, lend
-末		mò	end; minor details; 末儿 mòr powder; 周末 weekend  [me] (=么]
+末		mò	end; minor details; 末儿 mòr powder; 周末 weekend 2) [me] (=么]
 玉		yù	(玉石 yùshí) jade; 玉米 yùmǐ corn
 纳	納	nà	receive; accept; enjoy; pay; sew
-邓	鄧	Dèng	(surname)  [shān]
-旁		páng	(旁边 pángbiān) side    [bàng] (=傍)  [pēng] [bēng]
-跳		tiào	jump; 跳伞 tiàosǎn parachute; 跳舞 tiàowǔ dance  [diào] [táo]
+邓	鄧	Dèng	(surname) *) [shān]
+旁		páng	(旁边 pángbiān) side 2) [bàng] (=傍) *) [pēng] [bēng]
+跳		tiào	jump; 跳伞 tiàosǎn parachute; 跳舞 tiàowǔ dance *) [diào] [táo]
 途		tú	way, route; 前途 prospect; 途经 via
-休		xiū	stop; (休息 xiūxi) rest; 退休 retire; 休养所 rest home  [xù]
-唯		wéi	唯物主义 materialism  [wěi]
-巨		jù	(巨大 jùdà) huge  [qú]
+休		xiū	stop; (休息 xiūxi) rest; 退休 retire; 休养所 rest home *) [xù]
+唯		wéi	唯物主义 materialism *) [wěi]
+巨		jù	(巨大 jùdà) huge *) [qú]
 审	審	shěn	审判 shěnpàn bring to trial; 审问 interrogate
 端		duān	hold sth. level with both hands; extremity, end
-迫		pò	compel; 压迫 yāpò oppress; 被迫 bèipò be compelled  [pǎi]
+迫		pò	compel; 压迫 yāpò oppress; 被迫 bèipò be compelled *) [pǎi]
 束		shù	bundle; 束缚 shùfù tie up; 结束 jiéshù finish
 码	碼	mǎ	(量) 两码事; 码头 wharf, dock; 号码 number
 补	補	bǔ	mend
-佛		Fó	Buddha; 佛教 Fójiào Buddhism  [fú] 仿佛 fǎngfú seem  [bó] [bì]
-探		tàn	(探索 tànsuǒ) explore  [xián]
+佛		Fó	Buddha; 佛教 Fójiào Buddhism 2) [fú] 仿佛 fǎngfú seem *) [bó] [bì]
+探		tàn	(探索 tànsuǒ) explore *) [xián]
 岸		àn	shore
-麻		má	hemp; numb; (芝麻 zhīma) sesame; 麻烦 máfan bother  [mā]
-鼓		gǔ	drum   [gū]
+麻		má	hemp; numb; (芝麻 zhīma) sesame; 麻烦 máfan bother *) [mā]
+鼓		gǔ	drum *) [gū]
 伊		yī	(surname); he or she; 伊斯兰 Yīsīlán Islam
 哈		hā	(sound of laughter, etc)  [hǎ] [hà] [ha] [hē] [hé] [tà] [shà]
 奏		zòu	play music; 演奏 yǎnzòu perform music; 节奏 jiézòu rhythm  [còu]
 岛	島	dǎo	island
 泽	澤	zé	沼泽 marsh, swamp; 色泽 color and lustre; 毛泽东
 默		mò	silent; 默默 mòmò silently; 沉默 reticent; 幽默 humor
-汇		huì	(F彙) gather together; 汇报 to report; 词汇 vocabulary; (F匯) converge; remit
+汇	彙匯	huì	(F彙) gather together; 汇报 to report; 词汇 vocabulary; (F匯) converge; remit
 亦		yì	also; 反之亦然 and vice-versa
 伙		huǒ	(量) group of people; 家伙 fellow; 伙伴 partner  [huo]
 虫	蟲	chóng	worm, insect; 爬虫 páchóng reptile  [huǐ]
 尚		shàng	esteem; 高尚 noble, lofty  [shang] 和尚 héshang monk  [cháng]
 荣	榮	róng	(光荣, 荣誉) glory, honor
 圆	圓	yuán	round; circle; (sometimes used for 元 dollar)
-范		fàn	(surname); (F範) 范围 scope, range; 模范 model, fine example
+范	範	fàn	(surname); (F範) 范围 scope, range; 模范 model, fine example
 童		tóng	儿童 értóng children  [zhōng]
 呀		ya	(sentence final like 啊)  [yā] ah, oh  [xiā]
 冰		bīng	ice; 冰箱 bīngxiāng refrigerator; 冰凉 bīngliáng ice-cold  [níng]
@@ -1122,7 +1122,7 @@
 谋	謀	móu	scheme; 阴谋 conspiracy
 测	測	cè	(测量 cèliáng) survey, measure; 观测 guāncè observe
 炮		pào	cannon; 炮弹 shell  [bāo] quick-fry  [páo] 炮制 concoct
-累		lèi	tired; work hard  [lěi] 积累 accumulate  [léi] (F纍)  [lǜ] [liè]
+累	累纍	lèi	tired; work hard  [lěi] 积累 accumulate  [léi] (F纍)  [lǜ] [liè]
 荷		hé	lotus; 荷花 lotus flower  [hè] carry; load  [hē]
 予		yǔ	(予以 yǔyǐ, 给予 jǐyǔ) give, grant  [yú] (书) I  [zhù]
 逃		táo	(逃跑 táopǎo) escape, flee
@@ -1133,7 +1133,7 @@
 损	損	sǔn	decrease; damage; ䷨; 损失 sǔnshī lose, loss
 隐	隱	yǐn	hidden; 隐约 yǐnyuē faint, indistinct
 鲁	魯	lǔ	(surname); (鲁莽 lǔmǎng) rude; dull
-赞		zàn	(F贊) 赞成 approve of; (F讚) 称赞 praise
+赞	贊讚	zàn	(F贊) 赞成 approve of; (F讚) 称赞 praise
 谷		gǔ	(山谷) valley; (F穀) (谷物) grain; 谷子 millet  [yù] [lù]
 健		jiàn	健康 jiànkāng health
 沿		yán	along; 沿海 yánhǎi coastal; 沿儿 yánr water's edge  [yǎn]
@@ -1141,7 +1141,7 @@
 邦		bāng	城邦 chéngbāng city-state; 乌托邦 wūtuōbāng utopia
 豆		dòu	bean; 豆腐 dòufu tofu; 大豆 soybean; 豌豆 pea
 铜	銅	tóng	copper (Cu); 青铜 qīngtóng bronze
-卷		juǎn	roll; 春卷 spring roll (F捲)  [juàn] volume, book, exam paper  [quán] (=鬈)  [quān] [gǔn] [jùn]
+卷	卷捲	juǎn	roll; 春卷 spring roll (F捲)  [juàn] volume, book, exam paper  [quán] (=鬈)  [quān] [gǔn] [jùn]
 聚		jù	gather, get together; 核聚变 nuclear fusion
 吹		chuī	blow  [chuì]
 叹	嘆	tàn	sigh  [yǐ] [yòu]
@@ -1290,7 +1290,7 @@
 虚	虛	xū	empty, void; 谦虚 modest; 虚心 open-minded; 空虚 hollow
 舒		shū	stretch; 舒服 shūfu comfortable; 舒畅 shūchàng carefree  [yù]
 拜		bài	honor, worship; 礼拜 lǐbài week   [bái] 拜拜 bye-bye
-舍		shè	宿舍 sùshè dormitory  [shě] (F捨) give up, abandon; 舍不得  [shì]
+舍	舍捨	shè	宿舍 sùshè dormitory  [shě] (F捨) give up, abandon; 舍不得  [shì]
 蓝	藍	lán	(蓝色) blue
 贫	貧	pín	(贫苦, 贫穷) poor
 汗		hàn	(汗水 hànshuǐ) sweat, perspiration    [hán] 可汗 kèhán  [gān]
@@ -1615,7 +1615,7 @@
 崇		chóng	worship; high, sublime
 棋		qí	board game; 象棋 chess; 围棋 Go; 跳棋 Checkers  [jī]
 脉	脈	mài	vein; pulse; 山脉 mountain range  [mò] 脉脉 mòmò lovingly
-脏		zāng	(F髒) dirty  [zàng] (F臟) 心脏 heart
+脏	髒臟	zāng	(F髒) dirty  [zàng] (F臟) 心脏 heart
 仔		zǐ	仔细 zǐxì careful   [zǎi] young animal   [zī] 仔肩
 厉	厲	lì	厉害 terrible; formidable  [lài] (name of ancient country)
 曰		yuē	say
@@ -1656,7 +1656,7 @@
 塘		táng	dike; 池塘, 水塘 pool
 窝	窩	wō	nest; 窝棚 wōpeng shack
 喂		wèi	hey, hello; (喂养) feed, raise
-洒		sǎ	(F灑) sprinkle  [xiǎn] 洒如; (F灑) 洒然  [xǐ] [sěn] [cuǐ] [xùn]
+洒	灑	sǎ	(F灑) sprinkle  [xiǎn] 洒如; (F灑) 洒然  [xǐ] [sěn] [cuǐ] [xùn]
 乙		yǐ	2nd Heavenly Stem (天干: 甲乙丙丁戊…)  [yì] [jué]
 凯	凱	kǎi	凯歌 kǎigē song of triumph
 纹	紋	wén	lines, veins, (wood) grain
@@ -1669,7 +1669,7 @@
 眉		méi	eyelash; 眉头 brows; 眉毛 eyebrow; 眉目 looks
 疯	瘋	fēng	crazy
 辟		bì	monarch; 复辟   [pì] 开辟 open up, start  [mǐ]
-沈		Shěn	(surname); (F瀋) 沈阳 Shěnyáng; 墨沈未干  [chén] (=沉)  [tán]
+沈	沈瀋	Shěn	(surname); (F瀋) 沈阳 Shěnyáng; 墨沈未干  [chén] (=沉)  [tán]
 填		tián	fill, stuff; fill in (form)  [tiǎn] [chén] [zhèn]
 饼	餅	bǐng	cake; 饼干 cracker, cookie
 擦		cā	rub, wipe, scrape
@@ -1692,7 +1692,7 @@
 掩		yǎn	hide; sneak attack; 掩护 to shield; 掩盖 conceal  [yàn]
 债	債	zhài	debt
 吵		chǎo	make noise  [chāo] 吵吵 chāochao make noise  [miǎo] [chào]
-丑		chǒu	second 地支 Earthly Branch; (F醜) 丑陋 chǒulòu ugly
+丑	丑醜	chǒu	second 地支 Earthly Branch; (F醜) 丑陋 chǒulòu ugly
 悬	懸	xuán	hang; unresolved; worry; 悬崖 xuányá cliff
 狼		láng	wolf; 狼狈 lángbèi in a difficult position  [lǎng] [làng] [hǎng]
 滩	灘	tān	海滩 hǎitān beach
@@ -1773,7 +1773,7 @@
 哩		li	[lī] (used for sound)  [lǐ] (used for 英里)  [lì] [mái]
 梯		tī	(梯子 tīzi) ladder; (楼梯 lóutī) stairs  [tí]
 袭	襲	xí	make a surprise attack; carry on as before
-症		zhèng	disease; 健忘症 amnesia  [zhēng] (F癥) 症结
+症	症癥	zhèng	disease; 健忘症 amnesia  [zhēng] (F癥) 症结
 晃		huàng	(摇晃 yáohuang) shake, sway   [huǎng] dazzle
 扑	撲	pū	pounce on; flap wings; 扑灭 extinguish; 扑克 Poker  [pì]
 缝	縫	féng	sew  [fèng] seam, crack
@@ -1791,7 +1791,7 @@
 蓄		xù	store, save; grow; 积蓄 jīxù save; 储蓄 chǔxù deposit
 叙	敘	xù	chat; (叙述 xùshù, 叙事 xùshì) narrate, relate
 嫁		jià	(of a woman:) marry
-朴		pǔ	(F樸) (朴素 pǔsù) simple  [Piáo] (surname)  [pò] 朴树  [pō] 朴刀  [pū]
+朴	樸	pǔ	(F樸) (朴素 pǔsù) simple  [Piáo] (surname)  [pò] 朴树  [pō] 朴刀  [pū]
 呈		chéng	to present; 呈现 appear; 呈报 submit a report  [chěng]
 夕		xī	evening; sunset; 夕阳 xīyáng the setting sun  [yì]
 莱	萊	lái	莱菔 láifú radish; 文莱 Wénlái Brunei
@@ -1803,7 +1803,7 @@
 膀		bǎng	翅膀 wing; 肩膀 shoulder  [pāng] swell  [páng] [pǎng] [bàng]
 盗	盜	dào	(盗窃 dàoqiè) steal; 强盗 qiángdào robber
 挖		wā	dig; excavate
-尸		shī	(radical 44); (F屍) 尸体 shītǐ dead body, corpse
+尸	屍	shī	(radical 44); (F屍) 尸体 shītǐ dead body, corpse
 扮		bàn	dress up as, disguise as; put on an expression  [fěn] [fēn] [huǒ]
 冶		yě	smelt (metal)
 椅		yǐ	(椅子 yǐzi) chair  [yī]
@@ -1818,7 +1818,7 @@
 牺	犧	xī	牺牲 xīshēng sacrifice
 猜		cāi	guess; 猜想 cāixiǎng suppose
 搜		sōu	search; 搜集 collect; 搜查 search; 搜索 look for  [xiāo] [sòu] [shǎo]
-杆		gān	pole  [gǎn] (F桿) shaft  [gàn]
+杆	桿	gān	pole [gǎn] (F桿) shaft  [gàn]
 仓	倉	cāng	warehouse
 幽		yōu	幽静 secluded; 幽默 humor; 幽暗 gloomy; 幽灵 ghost
 萧	蕭	xiāo	desolate
@@ -1868,13 +1868,13 @@
 渠		qú	canal, ditch, channel; 渠道 irrigation ditch  [jù]
 胃		wèi	stomach; 胃口 wèikǒu appetite
 慈		cí	慈祥 cíxiáng kindly; 慈爱 love, kindness; 慈悲 mercy
-郁		yù	(surname); fragrant; elegant; (F鬱) luxuriant; 忧郁 yōuyù melancholy
+郁	郁鬱	yù	(surname); fragrant; elegant; (F鬱) luxuriant; 忧郁 yōuyù melancholy
 奈		nài	无可奈何 wúkěnàihé have no alternative
 艳	艷	yàn	gorgeous; amorous; 鲜艳 xiānyàn bright (color); 艳丽
 抹		mā	wipe; 抹布 rag  [mǒ] apply; smear; 抹杀 obliterate  [mò]
 鼠		shǔ	(老鼠 lǎoshǔ) mouse, rat; 鼠年 Year of Rat (1st year)
 谱	譜	pǔ	table, chart; manual; music score; (谱写 pǔxiě) compose music
-柜		guì	(F櫃) (柜子) cabinet; 柜台 counter; 掌柜 shopkeeper  [jǔ]
+柜	櫃	guì	(F櫃) (柜子) cabinet; 柜台 counter; 掌柜 shopkeeper  [jǔ]
 俱		jù	all; 俱乐部 jùlèbù club  [jū] together
 斥		chì	排斥 páichì reject; 驳斥 bóchì, 斥责 chìzé denounce  [chè] [zhè]
 曹		Cáo	(surname)
@@ -1925,7 +1925,7 @@
 辣		là	(spicy) hot; 辣椒 làjiāo hot pepper; 毒辣 dúlà sinister [lā]
 剪		jiǎn	(剪刀 jiǎndāo) scissors
 咨		zī	咨询 zīxún consult, seek advice from
-刮		guā	scrape; 刮胡子 shave; (F颳) (wind) blow  [kā]
+刮	刮颳	guā	scrape; 刮胡子 shave; (F颳) (wind) blow  [kā]
 堡		bǎo	堡垒 bǎolěi fortress; 城堡 chéngbǎo castle  [bǔ] 堡子 walled village  [pù]
 挨		āi	get close to, be next to; in sequence   [ái] suffer
 捧		pěng	hold, carry in both hands; 捧着一个西瓜  [fèng]
@@ -2035,7 +2035,7 @@
 娜		nuó	婀娜 ēnuó graceful (woman)  [nà] 安娜 Anna (name)
 嫌		xián	suspicion; dislike
 卵		luǎn	(卵子) egg, ovum; 卵巢 luǎncháo ovary  [kūn]
-坛		tán	(F壇) altar; raised plot of ground; (F罈) jar, jug
+坛	壇罈	tán	(F壇) altar; raised plot of ground; (F罈) jar, jug
 庞	龐	páng	庞大 pángdà colossal, huge
 斑		bān	spot, stripe; 斑马 bānmǎ zebra
 佩		pèi	(ornament); 佩服 pèifu admire; 敬佩 jìngpèi esteem
@@ -2068,7 +2068,7 @@
 萄		táo	葡萄 pútao grape
 沾		zhān	moisten, soak; touch  [tiān] [diàn] [chān]
 侯		hóu	marquis; (surname)  [hòu]
-御		yù	imperial; (F禦) 防御 fángyù defense; 抵御 dǐyù resist  [yà]
+御	御禦	yù	imperial; (F禦) 防御 fángyù defense; 抵御 dǐyù resist  [yà]
 嗓		sǎng	嗓子 throat; 嗓门儿 sǎngménr, 嗓音 sǎngyīn voice
 畜		xù	畜牧 xùmù raise animals  [chù] 畜生 chùsheng beast
 肺		fèi	(肺脏 fèizàng) lung  [pèi]
@@ -2085,7 +2085,7 @@
 叠	疊	dié	pile up, repeat; (折叠 zhédié) fold
 篮	籃	lán	basket; 篮球 basketball
 菲		fěi	菲薄 humble  [fēi] luxuriant; 菲律宾 Philippines  [fèi]
-奸		jiān	treacherous; traitor; (F姦) adultery; 强奸 qiángjiān rape  [gān]
+奸	姦	jiān	treacherous; traitor; (F姦) adultery; 强奸 qiángjiān rape  [gān]
 缠	纏	chán	to wind; tie up; tangle; bother
 赋	賦	fù	(赋于) bestow on; compose; 赋税 taxes
 臭		chòu	stinking   [xiù] sniff, smell
@@ -2119,7 +2119,7 @@
 掏		tāo	pull out, fish out (from pocket, etc.); dig
 琳		lín	(书) beautiful jade
 粥		zhōu	porridge, gruel, congee   [yù] (=鬻)
-挽		wǎn	draw, pull; roll up; 挽救 rescue; (F輓) pull (cart/carriage); lament
+挽	挽輓	wǎn	draw, pull; roll up; 挽救 rescue; (F輓) pull (cart/carriage); lament
 桶		tǒng	bucket
 喘		chuǎn	(喘气 chuǎnqì) pant, gasp; 气喘 qìchuǎn asthma
 叭		bā	(=吧) (used for sound)  [pā] [ba]
@@ -2164,8 +2164,8 @@
 爽		shuǎng	爽朗 shuǎnglǎng bright, clear; frank; 凉爽 nice & cool  [shuāng]
 瞎		xiā	become blind; pointlessly; 瞎子 xiāzi blind person
 魏		Wèi	(one of the Three Kingdoms); (surname)  [wéi] [wēi]
-腊		là	(F臘) (腊月) 12th month; 腊肠 sausage  [xī] dried meat
-咸		xián	all; ䷞; (F鹹) salty; 咸菜 salted vegetables  [jiǎn] [jiān]
+腊	臘	là	(F臘) (腊月) 12th month; 腊肠 sausage  [xī] dried meat
+咸	鹹	xián	all; ䷞; (F鹹) salty; 咸菜 salted vegetables  [jiǎn] [jiān]
 芝		zhī	芝麻 zhīma sesame
 钞	鈔	chāo	(钞票) bank note, paper money; collected writings
 寡		guǎ	few; 寡妇 guǎfu widow; 沉默寡言 habitually silent
@@ -2324,7 +2324,7 @@
 裙		qún	(裙子 qúnzi) skirt
 衷		zhōng	衷心 zhōngxīn wholehearted; 无动于衷 unconcerned  [zhòng]
 弗		fú	(书) not
-帘		lián	flag as shop sign; (F簾) curtain  [chén]
+帘	簾	lián	flag as shop sign; (F簾) curtain  [chén]
 铝	鋁	lǚ	aluminum (Al)
 乓		pāng	乒乓 pīngpāng pingpong
 勉		miǎn	make an effort; 勉强 miǎnqiǎng force; with difficulty
@@ -2332,7 +2332,7 @@
 颁	頒	bān	颁发 bānfā promulgate, issue
 狐		hú	狐狸 húli fox
 潘		Pān	(surname)  [pàn] [bō] [pán] [fān]
-淀		diàn	shallow water; (F澱) form sediment; settle; precipitate; 淀粉 starch
+淀	澱	diàn	shallow water; (F澱) form sediment; settle; precipitate; 淀粉 starch
 杭		Háng	杭州 Hángzhōu  [kàng] [kāng]
 匠		jiàng	artisan  [jiang] 木匠 carpenter; 铁匠 blacksmith
 堤		dī	dyke; (堤岸 dī'àn) embankment  [dǐ] [shí] [wéi]
@@ -2397,7 +2397,7 @@
 膏		gāo	牙膏 yágāo toothpaste; 油膏 ointment  [gào] lubricate
 拌		bàn	mix; 搅拌 jiǎobàn stir, mix, agitate  [pān]
 祭		jì	sacrifice; 祭器 jìqì sacrificial utensil  [zhài]
-仆		pū	fall forward  [pú] (F僕) 仆人 púrén servant
+仆	僕	pū	fall forward  [pú] (F僕) 仆人 púrén servant
 羡		xiàn	羡慕 xiànmù envy, admire  [yán] [yí]
 沸		fèi	沸腾 fèiténg boiling; 沸点 boiling point  [fú]
 鹅	鵝	é	goose; 企鹅 qǐ'é penguin
@@ -2463,7 +2463,7 @@
 匙		shi	钥匙 yàoshi key  [chí] spoon
 丘		qiū	mound; grave; 丘陵 qiūlíng hills; 沙丘 shāqiū dune
 揉		róu	rub, knead
-栗		lì	(栗子 lìzi) chestnut; (F慄) tremble  [liè]
+栗	慄	lì	(栗子 lìzi) chestnut; (F慄) tremble  [liè]
 筷		kuài	(筷子) chopsticks
 熬		áo	boil, stew; endure  [āo] boil, cook in water
 阐	闡	chǎn	阐明 chǎnmíng clarify; 阐述 chǎnshù expound
@@ -2789,7 +2789,7 @@
 蚊		wén	(蚊子) mosquito; 蚊香 anti-mosquito incense
 衍		yǎn	spread out, extend; superfluous; 敷衍 fūyan perfunctory  [yán]
 鹤	鶴	hè	crane (emblem of longevity)
-袜		wà	(F襪) (袜子) sock  [mò] 袜腹
+袜	襪	wà	(F襪) (袜子) sock  [mò] 袜腹
 徘		pái	徘徊 páihuái hesitate; fluctuate; ramble
 豁		huō	slit, crack; give up  [huò] open, spacious; generous  [huá] 豁拳
 寝	寢	qǐn	sleep; bedroom; imperial tomb
@@ -3273,7 +3273,7 @@
 蛤		há	蛤蟆 háma frog   [gé] 蛤蜊 gélí clam  [hā] [é]
 褪		tùn	slip out of   [tuì] take off, shed; fade
 羁	羈	jī	bridle; restrain; 羁绊 jībàn yoke; 羁旅 travel
-芸		yún	rue; 芸香 essence of rue; 芸芸 numerous  (F蕓) 芸薹 yúntái rape  [yùn]
+芸	蕓	yún	rue; 芸香 essence of rue; 芸芸 numerous  (F蕓) 芸薹 yúntái rape  [yùn]
 谍	諜	dié	间谍 jiàndié spy, secret agent
 矗		chù	矗立 chùlì (书) stand tall and upright
 蹋		tà	糟蹋 zāota waste, spoil

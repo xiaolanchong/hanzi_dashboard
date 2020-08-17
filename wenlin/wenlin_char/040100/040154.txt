@@ -1,0 +1,5 @@
+xxxx 鳚(F䲁) [wèi] (鳚鱼 wèiyú) blenny
+鳚[䲁] ¹⁶wèi char. 鳚鱼 ²wèiyú
+From 鱼(魚) and 尉 wèi phonetic.
+The simplified form 鳚 was in Unicode 1.0, but strangely, the full form 䲁 was only added to Unicode 3.0 (Extension A).
+A variant form 𩻍 is in Unicode 3.1.

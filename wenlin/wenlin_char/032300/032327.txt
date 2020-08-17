@@ -1,0 +1,6 @@
+==== 繇 [zhòu] ancient fortune  [yáo] (=徭) (=谣)  [yóu] (=由)
+由/繇 ¹yóu {B} v. ①let (sb. do sth.) | ∼ tā qù ba. ∼他去吧。 Leave him alone. ②be up to sb.; rest with sb. ③follow; obey ◆b.f. cause; reason 理由 lǐyóu* ◆cov. ①from ②via ③owing/due to ④by; through ◆cons. ∼ A V be V-ed by A | Yùnshū wèntí ∼ tāmen jiějué. 运输问题∼他们解决。 The transportation issue is to be resolved by them.
+徭/繇 ⁹yáo b.f. conscript/corvèe labor 徭赋 yáofù 徭役 yáoyì 租徭 zūyáo
+From 䍃 yáo phonetic and 系 (xì) 'connect'.
+"Follow, resemble; mostly used for 由" --Karlgren.
+(The glyphs in the Unicode 2.0 and 3.0 books have 䍃. The Unicode 1.0 book had .)

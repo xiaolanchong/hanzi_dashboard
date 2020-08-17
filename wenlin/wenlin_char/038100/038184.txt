@@ -1,0 +1,7 @@
+---- 锨(F杴) [xiān] shovel
+锨[鍁/杴] ⁶xiān n. shovel
+From 钅(金 jīn) 'metal' and 欣 xīn phonetic.
+The form 杴, composed of 木 (mù) 'wood' and 欠 qiàn phonetic, may be older than the forms 鍁 and 锨.
+Strangely enough, we call 锨 the "simple" form and 杴 the "full" form, only because 锨 is in the simple-form GB standard and 杴 is in the full-form Big5 standard. This is one of those absurd situations where the "simple" form has more strokes than the "full" form. The form 鍁 exists in Unicode but not in Big5.
+“杴…农具名。形似锹(qiāo 'spade'), 但端较方阔, 柄末端无短拐。有铁杴, 用于土工; 有木杴, 用于拌撒肥料和取扬谷物。后作‘鍁’” --汉语大字典。
+Another variant form, 木 plus 欣, appears in XHC.

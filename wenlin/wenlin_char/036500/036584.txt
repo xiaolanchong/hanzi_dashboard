@@ -1,0 +1,5 @@
+xxxx 軨(S𫐉) [líng] 軨積 assemble; accumulate  [lǐng]
+軨[𫐉] ²⁶líng char. 𫐉积 ²língjī
+(Explanation from the entry for the simple form 𫐉:) From 车(車 chē) 'car' and 令 lìng phonetic.
+The simplified form is in Guifan Zidian (p.731), and was added to Unicode 5.2.
+Guifan Zidian says 𫐉 means "车阑" (railing/screen of a vehicle?) or "车轮" (wheel).

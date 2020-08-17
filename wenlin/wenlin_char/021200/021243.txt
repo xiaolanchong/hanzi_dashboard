@@ -1,0 +1,5 @@
+1890 勻(S匀) [yún] to divide evenly; to spare; even
+勻[匀] ³yún {D} s.v. even; well-distributed ◆v. ①distribute evenly ②share
+(Explanation from the entry for the simple form 匀:) "勹 a bundle 二 divided in two parts" --Karlgren(1923).
+Possibly cognate with 均 jūn 'equal'.
+Note: the "simple" and "full" forms 匀 and 勻 have only a trivial difference (冫 versus 二). We distinguish them because they are distinguished in the Unicode standard (匀 being mapped to a GB character, and 勻 being mapped to a Big5 character).

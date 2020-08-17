@@ -1,0 +1,5 @@
+xxxx 靝 [tiān] (variant of 天)
+No single-syllable words currently in dictionary.	add new s.s.w.
+From 青 and 氣.
+Variant of 天 tiān 'heaven', used by Daoists.
+There is also a variant of 地 dì 'earth' from 黑 and 氣, but it is missing from the Unicode standard.

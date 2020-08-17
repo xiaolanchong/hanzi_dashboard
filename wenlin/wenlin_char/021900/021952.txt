@@ -1,0 +1,4 @@
+==== 嗀(=􀏪𣪥𠹢𣪳􀡠) (!𡉉卖) [huò] [hù] [xuè]
+No single-syllable words currently in dictionary.	add new s.s.w.
+The radical is 口. Compare 殼 ké.
+This character was accidentally encoded twice in the Big5 standard, as DCD1 (preferred) and DDFC (obsolete?); the latter is mapped to Unicode U+FA0D; compare 兀.
