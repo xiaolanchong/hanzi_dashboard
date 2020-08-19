@@ -1,6 +1,8 @@
 import re
 import unittest
 
+# Script to split pinyin words into separate syllables+tones tíngzhe -> tíng,2 zhe,5
+
 # http://www.pinyin.info/rules/initials_finals.html
 # in	b 	p 	m 	f 	d 	t 	n 	l 	g 	k 	h 	z 	c 	s 	zh 	ch 	sh 	r 	j 	q 	x	Ø
 all_syllables_table = \

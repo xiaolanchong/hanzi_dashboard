@@ -17,8 +17,8 @@ def read_hsk_list():
             yield hanja, level
 
 
-def read_taiwan_list():
-    with open(os.path.join('lists', 'taiwan_list.txt'), encoding='utf8') as f:
+def read_char_list(file_name):  #
+    with open(os.path.join('lists', file_name), encoding='utf8') as f:
         return (ch for ch in f.read())
 
 
@@ -31,13 +31,23 @@ def generate_hsk_list(env):
         file.write(html)
 
 
-def generate_taiwan_list(env):
-    taiwan_tmpl = env.get_template('taiwan.template.html')
-    data = list(read_taiwan_list())
+def generate_list(env, char_file: str, template_list: str, output_file: str):
+    taiwan_tmpl = env.get_template(template_list) #'taiwan.template.html')
+    data = list(read_char_list(char_file))
     #print(len(data))
     html = taiwan_tmpl.render(records=data)
-    with open('taiwan.html', mode='w', encoding='utf8') as file:
+    with open(output_file, mode='w', encoding='utf8') as file:
         file.write(html)
+
+
+def generate_taiwan_list(env):
+    generate_list(env, 'taiwan_list.txt', 'taiwan.template.html', 'taiwan.html')
+
+
+def generate_china_list(env):
+    generate_list(env, '1_3500chars.txt', 'china_main.template.html', 'china_main.html')
+    generate_list(env, '2_3000chars.txt', 'china_rest.template.html', 'china_rest.html')
+    generate_list(env, '3_names.txt', 'china_name.template.html', 'china_name.html')
 
 
 def read_wenlin_list():
@@ -100,4 +110,5 @@ glob_env = jinja2.Environment(
 
 generate_hsk_list(glob_env)
 generate_taiwan_list(glob_env)
+generate_china_list(glob_env)
 generate_wenlin_list(glob_env)

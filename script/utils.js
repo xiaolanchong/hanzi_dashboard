@@ -93,7 +93,6 @@ function createBkrsBoard (xmlData) {
 function getWenlinCharArticle (hanzi, parentElem) {
   const hanziIndex = hanzi.charCodeAt(0)
   const fileName = articleNumberToLink(hanziIndex, 6, 'txt')
-  // const hanziUrl = 'wenlin/wenlin_word/' + fileName
   const hanziUrl = 'wenlin/wenlin_char/' + fileName
   $.get({
     url: hanziUrl,
@@ -101,7 +100,6 @@ function getWenlinCharArticle (hanzi, parentElem) {
   }
   ).done((data) => {
     parentElem.text('')
-    // const board = createWenlinWordBoard(hanzi, data)
     const board = createWenlinCharBoard(hanzi, data)
     parentElem.append(board)
   }
@@ -122,7 +120,6 @@ function getWenlinWordArticle (hanzi, parentElem) {
   ).done((data) => {
     parentElem.text('')
      const board = createWenlinWordBoard(hanzi, data)
-    //const board = createWenlinCharBoard(hanzi, data)
     parentElem.append(board)
   }
   ).fail(() => {
@@ -141,8 +138,10 @@ function createWenlinWordBoard (hanzi, textData) {
   for (const record of records) {
     if (record.length === 0) { continue }
     let [, simplified, traditional, pinyin, meaning] = record.match(reLine)
-    if (traditional === undefined) { traditional = '' }
-    const pinyinColored = createColoredPinyin(pinyin)
+    if (traditional === undefined)
+      traditional = ''
+    meaning = highlightPinyin(meaning)  // A meaning can contain examples
+    const pinyinColored = highlightPinyin(pinyin)
     const row = $(`<tr><td class="hanzi-simp">${simplified}</td><td class="hanzi-trad">${traditional}` +
                   `<td class="">${pinyinColored}</td><td>${meaning}</td></tr>`)
     table.append(row)
@@ -159,6 +158,7 @@ function createWenlinCharBoard (hanzi, textData) {
       const reHeader = /^(\w+)\s(.+)/i
       line = line.replace(reHeader, '<small>$1</small> $2')
     }
+    line = highlightPinyin(line)
     const row = $(`<p>${line}</p>`)
     article.append(row)
   }
@@ -166,7 +166,6 @@ function createWenlinCharBoard (hanzi, textData) {
   const wordBoard = $('<div />')
   const buttonShowWord = $('<button>Показать слова</button>')
   buttonShowWord.click(()=>{
-    //removeHanziBoard(hanzi)
     buttonShowWord.prop('disabled', true);
     getWenlinWordArticle(hanzi, wordBoard)
   })
@@ -196,6 +195,49 @@ function createHanziBoard (hanzi, textData) {
     table.append(row)
   }
   return table
+}
+
+function _getPinyinRegex () {
+  return new RegExp('([a-z]*[üāēīōūǖáéíóúǘǎěǐǒǔǚàèìòùǜ][a-zāēīōūǖáéíóúǘǎěǐǒǔǚàèìòùǜ]*)', 'ig')
+}
+
+function findPinyin (line) {
+  const re = _getPinyinRegex()
+  return line.match(re)
+}
+
+function splitPinyin (word) {
+  const finals = 'aeiouüāēīōūǖáéíóúǘǎěǐǒǔǚàèìòùǜ'
+  const initials = 'b|p|m|f|d|t|n|l|g|k|h|z|c|s|zh|ch|sh|r|j|q|x'
+  const complete_finals = 'w|y'
+  const reSyl = new RegExp(`((?:${initials}|${complete_finals})[${finals}]+?)`, 'gi')
+  const res = []
+  let myArray
+  while ((myArray = reSyl.exec(word)) !== null) {
+    if(myArray.index !== 0 && res.length === 0)
+      res.push(0)
+    res.push(myArray.index)
+  }
+  return res
+}
+
+function highlightPinyin (line) {
+  const replacer = (match, p1, offset, string) => {
+    const offsets = splitPinyin(match)
+    const syllables = []
+    for(let i = 0; i < offsets.length; ++i) {
+      if(i + 1 == offsets.length) {
+        const syl = match.substring(offsets[i], match.length)
+        syllables.push(createColoredPinyin(syl))
+      } else {
+        const syl = match.substring(offsets[i], offsets[i+1])
+        syllables.push(createColoredPinyin(syl))
+      }
+    }
+    return syllables.join('')
+  }
+  const re = _getPinyinRegex()
+  return line.replace(re, replacer)
 }
 
 function createColoredPinyin (pinyin) {
@@ -256,4 +298,7 @@ if (typeof module !== 'undefined') {
   module.exports.articleNumberToLink = articleNumberToLink
   module.exports.createWenlinWordBoard = createWenlinWordBoard
   module.exports.createWenlinCharBoard = createWenlinCharBoard
+  module.exports.findPinyin = findPinyin
+  module.exports.splitPinyin = splitPinyin
+  module.exports.highlightPinyin = highlightPinyin
 }

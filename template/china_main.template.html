@@ -1,5 +1,24 @@
 {% set lang="zh-Hans" %}
+{% extends "base.template.html" %}
 
-<!--  source
-https://zh.wikisource.org/zh-hans/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8
--->
+{% block title %}
+    <title>3500 основных иероглифов КНР</title>
+{% endblock %}
+
+{% block body %}
+    <h1>3500 основных иероглифов КНР (通用规范汉字表)</h1>
+    <section>
+        Список основных иероглифов списка Правительства КНР (一级字表).
+        Начертания иероглифов даны в соответствии со стандартом КНР. Начертания на других страницах могут отличаться, см. <a href="https://en.wikipedia.org/wiki/Han_unification">унификация Хань</a>.
+    </section>
+
+    {% include 'dict_selection.template.html' %}
+ 
+    <section class="hanzi-board">
+         {%- for hanzi in records -%}
+         <span class="kanji_widget hanzi-simp">{{ hanzi }}</span>
+         {%- endfor -%}
+    </section>
+    <div>Источник: <a href="https://zh.wikisource.org/zh-hans/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8">Википедия</a>
+    </div>
+{% endblock %}

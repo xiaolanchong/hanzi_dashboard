@@ -35,7 +35,36 @@ The full form 叢 is 丵 'bush' over 取 (qǔ) 'gather'.
 The simple form 丛 is 从 cóng phonetic over 一 a line.`
 
   const expected =
-  '<p><small>1828</small> 丛(F叢) [cóng] crowd; 丛书 cóngshū series of books; 丛林 jungle</p><p>丛[叢] ²cóng {C} b.f. ①crowd together 丛集 ¹cóngjí ②a crowd 人丛 réncóng* ③collection 丛书 ¹cóngshū ④clump; thicket; grove 丛林 cónglín ◆n. Surname</p><p>The full form 叢 is 丵 \'bush\' over 取 (qǔ) \'gather\'.</p><p>"To 取 gather 丵 bushes. A bushy place, crowded; a collection, to collect" --Wieger.</p><p>The simple form 丛 is 从 cóng phonetic over 一 a line.</p>'
+  '<p><small>1828</small> 丛(F叢) [<span class="tone2">cóng</span>] crowd; 丛书 <span class="tone2">cóng</span><span class="tone1">shū</span> series of books; 丛林 jungle</p><p>丛[叢] ²<span class="tone2">cóng</span> {C} b.f. ①crowd together 丛集 ¹<span class="tone2">cóng</span><span class="tone2">jí</span> ②a crowd 人丛 <span class="tone2">rén</span><span class="tone2">cóng</span>* ③collection 丛书 ¹<span class="tone2">cóng</span><span class="tone1">shū</span> ④clump; thicket; grove 丛林 <span class=\"tone2\">cóng</span><span class=\"tone2\">lín</span> ◆n. Surname</p><p>The full form 叢 is 丵 \'bush\' over 取 (<span class=\"tone3\">qǔ</span>) \'gather\'.</p><p>"To 取 gather 丵 bushes. A bushy place, crowded; a collection, to collect" --Wieger.</p><p>The simple form 丛 is 从 <span class=\"tone2\">cóng</span> phonetic over 一 a line.</p><div><div></div><button>Показать слова</button><button>Закрыть</button></div>'
   const output = utils.createWenlinCharBoard('丛', article)
   expect(output.html()).toEqual(expected)
+})
+
+it('find pinyin', () => {
+  let line = '---- 凸 [tū] convex; 凸透镜 tūtòujìng convex lens; 凹凸 āotū uneven'
+  let res = utils.findPinyin(line)
+  expect(res).toEqual([ "tū", "tūtòujìng", "āotū" ])
+
+  line = '六 ¹liù* {A} num. six; 6 '
+  res = utils.findPinyin(line)
+  expect(res).toEqual([ 'liù' ])
+})
+
+it('split pinyin', () => {
+  let res = utils.splitPinyin('tūtòujìng')
+  expect(res).toEqual([ 0, 2, 5 ])
+  
+  res = utils.splitPinyin('āotū')
+  expect(res).toEqual([ 0, 2 ])
+})
+
+it('highlight pinyin', () => {
+  let line = '---- 凸 [tū] convex; 凸透镜 tūtòujìng convex lens; 凹凸 āotū uneven'
+  let res = utils.highlightPinyin(line)
+  expect(res).toEqual('---- 凸 [<span class="tone1">tū</span>] convex; 凸透镜 ' +
+  '<span class="tone1">tū</span><span class="tone4">tòu</span><span class="tone4">jìng</span> convex lens; ' + 
+  '凹凸 <span class="tone1">āo</span><span class="tone1">tū</span> uneven')
+  
+  //res = utils.splitPinyin('āotū')  <span>tū</span>
+ // expect(res).toEqual([ 0, 2 ])
 })
