@@ -1,0 +1,24 @@
+{% set lang="zh-Hans" %}
+{% extends "base.template.html" %}
+
+{% block title %}
+    <title>6K иероглифов древних текстов корпуса Zhonghuayuwen</title>
+{% endblock %}
+
+{% block body %}
+    <h1>6K иероглифов древних текстов корпуса Zhonghuayuwen (古代汉语语料库字频表)</h1>
+    <section>
+        Список иероглифов частотного списка (от частых к редким) на основе анализа древних текстов китайского языка.
+        Начертания иероглифов даны в соответствии со стандартом КНР. Начертания на других страницах могут отличаться, см. <a href="https://en.wikipedia.org/wiki/Han_unification">унификация Хань</a>.
+    </section>
+
+    {% include 'dict_selection.template.html' %}
+ 
+    <section class="hanzi-board">
+         {%- for hanzi in records -%}
+         <span class="kanji_widget">{{ hanzi }}</span>
+         {%- endfor -%}
+    </section>
+    <div>Источник: <a href="http://corpus.zhonghuayuwen.org/resources.aspx">zhonghuayuwen.org</a>
+    </div>
+{% endblock %}

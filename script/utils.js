@@ -212,12 +212,14 @@ function splitPinyin (word) {
   const complete_finals = 'w|y'
   const reSyl = new RegExp(`((?:${initials}|${complete_finals})[${finals}]+?)`, 'gi')
   const res = []
-  let myArray
+  let myArray = null
   while ((myArray = reSyl.exec(word)) !== null) {
     if(myArray.index !== 0 && res.length === 0)
       res.push(0)
     res.push(myArray.index)
   }
+  if (res.length == 0)
+    res.push(0)
   return res
 }
 

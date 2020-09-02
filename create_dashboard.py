@@ -49,6 +49,9 @@ def generate_china_list(env):
     generate_list(env, '2_3000chars.txt', 'china_rest.template.html', 'china_rest.html')
     generate_list(env, '3_names.txt', 'china_name.template.html', 'china_name.html')
 
+def generate_zhonghuayuwen_list(env):
+    generate_list(env, 'zhonghuayuwen-ancient.txt', 'zhonghuayuwen-ancient.template.html', 'zhonghuayuwen-ancient.html')
+
 
 def read_wenlin_list():
     with open(os.path.join('lists', 'wenlin_freq.txt'), encoding='utf8') as f:
@@ -112,3 +115,4 @@ generate_hsk_list(glob_env)
 generate_taiwan_list(glob_env)
 generate_china_list(glob_env)
 generate_wenlin_list(glob_env)
+generate_zhonghuayuwen_list(glob_env)

@@ -65,6 +65,20 @@ it('highlight pinyin', () => {
   '<span class="tone1">tū</span><span class="tone4">tòu</span><span class="tone4">jìng</span> convex lens; ' + 
   '凹凸 <span class="tone1">āo</span><span class="tone1">tū</span> uneven')
   
-  //res = utils.splitPinyin('āotū')  <span>tū</span>
- // expect(res).toEqual([ 0, 2 ])
+})
+
+it('1-letter pinyin', () => {
+  let line = '789  啊 [a] [ā] [á] ah--, ah?, ah..., ah!'
+  let res = utils.highlightPinyin(line)
+  expect(res).toEqual('789  啊 [a] [<span class="tone1">ā</span>] [<span class="tone2">á</span>]' + 
+  ' ah--, ah?, ah..., ah!')
+  
+})
+
+
+
+it('initial-final pinyin', () => {
+  let line = '271 元 [yuán] primary; dollar'
+  let res = utils.highlightPinyin(line)
+  expect(res).toEqual('271 元 [<span class="tone2">yuán</span>] primary; dollar')
 })
