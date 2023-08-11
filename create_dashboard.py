@@ -49,6 +49,7 @@ def generate_china_list(env):
     generate_list(env, '2_3000chars.txt', 'china_rest.template.html', 'china_rest.html')
     generate_list(env, '3_names.txt', 'china_name.template.html', 'china_name.html')
 
+
 def generate_zhonghuayuwen_list(env):
     generate_list(env, 'zhonghuayuwen-ancient.txt', 'zhonghuayuwen-ancient.template.html', 'zhonghuayuwen-ancient.html')
 
