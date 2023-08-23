@@ -3,6 +3,7 @@
 import jinja2
 import os
 import re
+from pathlib import Path
 from pinyin_splitter import PinyinSplitter
 
 
@@ -11,14 +12,14 @@ re_cjk = re.compile(r'([\u4E00-\u9FFF]+)')
 
 
 def read_hsk_list():
-    with open(os.path.join('lists', 'hsk_list.txt'), encoding='utf8') as f:
+    with open(Path('..') / 'lists' / 'hsk_list.txt', encoding='utf8') as f:
         for line in f.readlines()[1:]:
             hanja, _, _, _, _, level, _, _ = line.split('\t')
             yield hanja, level
 
 
 def read_char_list(file_name):  #
-    with open(os.path.join('lists', file_name), encoding='utf8') as f:
+    with open(Path('..') / 'lists' / file_name, encoding='utf8') as f:
         return (ch for ch in f.read())
 
 
@@ -27,7 +28,7 @@ def generate_hsk_list(env):
     data = list(read_hsk_list())
     #print(len(data))
     html = hsk_tmpl.render(records=data)
-    with open('index.html', mode='w', encoding='utf8') as file:
+    with open(Path('..') / 'index.html', mode='w', encoding='utf8') as file:
         file.write(html)
 
 
@@ -36,7 +37,7 @@ def generate_list(env, char_file: str, template_list: str, output_file: str):
     data = list(read_char_list(char_file))
     #print(len(data))
     html = taiwan_tmpl.render(records=data)
-    with open(output_file, mode='w', encoding='utf8') as file:
+    with open(Path('..') / output_file, mode='w', encoding='utf8') as file:
         file.write(html)
 
 
@@ -55,7 +56,7 @@ def generate_zhonghuayuwen_list(env):
 
 
 def read_wenlin_list():
-    with open(os.path.join('lists', 'wenlin_freq.txt'), encoding='utf8') as f:
+    with open(Path('..') / 'lists' / 'wenlin_freq.txt', encoding='utf8') as f:
         for line in f.readlines()[2:]:
             hanzi, traditional, pinyin, meaning = line.split('\t')
             pinyin_arr = ((syl, get_tone_number(syl)) for syl in pinyin.split())
@@ -103,12 +104,26 @@ def generate_wenlin_list(env):
     wenlin_tmpl = env.get_template('wenlin.template.html')
     data = read_wenlin_list()
     html = wenlin_tmpl.render(records=data)
-    with open('wenlin.html', mode='w', encoding='utf8') as file:
+    with open(Path('..') / 'wenlin.html', mode='w', encoding='utf8') as file:
+        file.write(html)
+
+
+def generate_yarxi_list(env):
+    yarxi_tmpl = env.get_template('yarxi_mode.template.html')
+
+    def read_list():
+        with open(Path('..') /'lists' / 'yarxi_mode.txt', encoding='utf8') as f:
+            for line in f.readlines():
+                hanzi, pinyin, meaning = line.split('\t')
+                tone_num = get_tone_number(pinyin)
+                yield hanzi, pinyin, tone_num, meaning
+    html = yarxi_tmpl.render(records=list(read_list()))
+    with open(Path('..') / 'yarxi_mode.html', mode='w', encoding='utf8') as file:
         file.write(html)
 
 
 glob_env = jinja2.Environment(
-    loader=jinja2.PackageLoader('create_dashboard', package_path='template'),
+    loader=jinja2.PackageLoader('create_dashboard', package_path=str(Path('..') / 'template')),
     autoescape=jinja2.select_autoescape(['html', 'xml'])
 )
 
@@ -117,3 +132,4 @@ generate_taiwan_list(glob_env)
 generate_china_list(glob_env)
 generate_wenlin_list(glob_env)
 generate_zhonghuayuwen_list(glob_env)
+generate_yarxi_list(glob_env)

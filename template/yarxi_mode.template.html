@@ -1,0 +1,63 @@
+{% set lang="zh-Hans" %}
+{% extends "base.template.html" %}
+
+{% block title %}
+    <title>3K иероглифов Wenlin с главными значениями из Яркси</title>
+     <style>
+        .number {
+            font-size: small;
+            color: SlateGrey;
+        }
+        
+        .hanzi {
+            font-size: larger;
+        }
+
+        #mode_panel {
+            position: fixed;
+            top: 0;
+            right: 0;
+            padding: 5px 5px 5px 0px;
+            background: #303030;
+            border-radius: 3px;
+        }
+        .hidden {
+            color: transparent !important;
+        }
+    </style>
+{% endblock %}
+
+{% block body %}
+    <h1>3K иероглифов Wenlin с главными значениями из Яркси</h1>
+    <section>
+        Список иероглифов частотного списка программы Wenlin с главными значениями из словаря Яркси (яп-ру).
+    </section>
+
+    <div id="mode_panel" >
+        <input type="radio" id="showAll" name="visibility" value="1" class="showAll" checked />
+        <label for="showAll">Показать всё</label>
+
+        <input type="radio" id="hideMeaning" name="visibility" value="2" class="hideMeaning" />
+        <label for="hideMeaning">Скрыть значение и пиньинь</label>
+
+        <input type="radio" id="hideHanzi" name="visibility" value="3" class="hideHanzi" />
+        <label for="hideHanzi">Скрыть иероглиф и пиньинь</label>
+    </div>
+
+    <table>
+        <tr>
+            <th>№</th>
+            <th>汉子</th>
+            <th>Пиньинь</th>
+            <th>Значение</th>
+        </tr>
+         {%- for hanzi, pinyin, tone_num, meaning in records -%}
+         <tr>
+            <td class="number">{{ loop.index }}</td>
+            <td class="hanzi">{{ hanzi }}</td>
+            <td class="pinyin tone{{tone_num}}"><span>{{ pinyin }}</span></td>
+            <td class="meaning">{{ meaning|safe }}</td>
+         </tr>
+         {%- endfor %}
+    </table>
+{% endblock %}
