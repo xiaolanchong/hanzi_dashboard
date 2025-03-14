@@ -79,9 +79,9 @@
 						<div class=" small bg-info text-white text-center">{{entity.key_id}}</div>
 					{%  endif %}
 				   <span class="ms-1 fs-3 hanzi" lang="zh-Hans">{{ entity.hanzi }}</span>
-				   {% if entity.pinyin %}
-					   <span class="ms-1 small tone{{entity.tone_number}}">{{entity.pinyin}}</span>
-				   {%  endif %}
+				   {% for pinyin in entity.pinyin %}
+					   <span class="ms-1 small tone{{entity.tone_numbers[loop.index0]}}">{{pinyin}}</span>
+				   {%  endfor %}
 				</div>
 				<div class="col-11">
 				   <div class="meaning">

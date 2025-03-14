@@ -23,7 +23,16 @@ re_line = re.compile(r"""
 (?P<beibei>贝贝)
 )
 \s
-(?:(?P<pinyin>[a-züāēīōūǖáéíóúǘǎěǐǒǔǚàèìòùǜ]+)\s)?
+(?:
+(?P<pinyin>[a-züāēīōūǖáéíóúǘǎěǐǒǔǚàèìòùǜń]+)
+(?:,
+  (?P<pinyin2>[a-züāēīōūǖáéíóúǘǎěǐǒǔǚàèìòùǜń]+)
+)?
+(?:,
+  (?P<pinyin3>[a-züāēīōūǖáéíóúǘǎěǐǒǔǚàèìòùǜń]+)
+)?
+\s
+)?
 (?P<text>.+?)
 $
 """, re.VERBOSE)
@@ -50,7 +59,7 @@ class Entity:
     type: Type
     key_id: int = None
     meaning: str = None
-    pinyin: t.Optional[str] = None
+    pinyin: list[str] = None
     assoc: t.Optional[str] = None
     etym: t.Optional[str] = None
 
@@ -60,8 +69,8 @@ class JinjaEntity:
     hanzi: str
     key_id: t.Optional[int]
     meaning: str
-    pinyin: t.Optional[str]
-    tone_number: t.Optional[int]
+    pinyin: list[str]
+    tone_numbers: list[int]
     assoc: t.Optional[str]
     etym: t.Optional[str]
     is_prime: bool = False,
@@ -71,7 +80,7 @@ class JinjaEntity:
 def get_tone_number(pinyin):
     tones = [
         'āēīōūǖĀĒĪŌŪǕ',
-        'áéíóúǘÁÉÍÓÚǗ',
+        'áéíóúǘÁÉÍÓÚǗń',
         'ǎěǐǒǔǚǍĚǏǑǓǙ',
         'àèìòùǜÀÈÌÒÙǛ',
     ]
@@ -89,7 +98,7 @@ def to_jinja_entity(entity: Entity):
                        assoc=entity.assoc,
                        etym=entity.etym,
                        pinyin=entity.pinyin,
-                       tone_number=get_tone_number(entity.pinyin) if entity.pinyin else 0,
+                       tone_numbers=[get_tone_number(pinyin) for pinyin in entity.pinyin],
                        is_prime=entity.type == Type.PRIME,
                        is_second=entity.type == Type.SECOND)
 
@@ -97,7 +106,7 @@ def to_jinja_entity(entity: Entity):
 def load_dictionary():
     entities = []
     with open('mnemo_hanzi_dict.txt', encoding='utf8') as f:
-        for line in f.readlines():
+        for lineno, line in enumerate(f.readlines()):
             line = line.rstrip('\n')
             m = re_line.match(line)
             if m is None:
@@ -140,12 +149,18 @@ def load_dictionary():
                 typ = Type.PRIME
             elif groups['second']:
                 typ = Type.SECOND
+            pinyin = []
+            for name in ['pinyin', 'pinyin2', 'pinyin3']:
+                if groups[name] is not None:
+                    pinyin.append(groups[name])
+            if len(pinyin) > 1:
+                print(hanzi)
             ent = Entity(hanzi=hanzi or ext_rad, type=typ,
                          key_id=int(key) if key else None,
                          meaning=meaning.strip() if meaning else None,
                          assoc=assoc.strip() if assoc else None,
                          etym=etym.strip() if etym else None,
-                         pinyin=groups['pinyin']
+                         pinyin=pinyin
                          )
             entities.append(ent)
     return entities
@@ -154,7 +169,7 @@ def load_dictionary():
 def dump_dictionary(entities: list[Entity]):
     for ent in entities:
         print(f'{type_to_str[ent.type] if ent.type != Type.KEY else ent.key_id}'
-              f'{ent.hanzi} {ent.pinyin + " " if ent.pinyin else ""}{ent.meaning}'
+              f'{ent.hanzi} {(",".join(ent.pinyin) + " ") if pinyin else ""}{ent.meaning}'
               f'{" ЭТМЛ.: " + ent.etym if ent.etym else ""}'
               f'{" АСЦ " + ent.assoc if ent.assoc else ""}'
               )
