@@ -153,8 +153,8 @@ def load_dictionary():
             for name in ['pinyin', 'pinyin2', 'pinyin3']:
                 if groups[name] is not None:
                     pinyin.append(groups[name])
-            if len(pinyin) > 1:
-                print(hanzi)
+            #if len(pinyin) > 1:
+            #    print(hanzi)
             ent = Entity(hanzi=hanzi or ext_rad, type=typ,
                          key_id=int(key) if key else None,
                          meaning=meaning.strip() if meaning else None,

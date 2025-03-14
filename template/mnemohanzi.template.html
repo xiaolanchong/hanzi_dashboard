@@ -3,7 +3,6 @@
 
 {% block title %}
     <title>4400 упрощенных иероглифов с мнемониками (ч.{{ current_page + 1 }})</title>
-
 {% endblock %}
 
 {%- block scripts %} 
@@ -31,11 +30,11 @@
 		<div>
 			<span>4400 упрощенных иероглифов с мнемониками:</span>
 			<ul>
-				<li>Иероглиф</li>
-				<li>Пиньинь</li>
-				<li>Значение</li>
-				<li>Ассоциация, мнемоника</li>
-				<li>Этимология</li>
+				<li>字 Иероглиф</li>
+				<li>拼 Пиньинь</li>
+				<li>意 Значение</li>
+				<li>联 Ассоциация, мнемоника</li>
+				<li>源 Этимология</li>
 			</ul>
 		</div>
 
@@ -52,17 +51,18 @@
 			{% endfor %}
 		</ul>
 		
-		<div>
-			<span>Режим обучения:</span>
-			<div class="btn-group" role="group" aria-label="learning">
+		<div class="sticky-top d-flex justify-content-end">
+			
+			<div class="btn-group ms-auto" role="group" aria-label="learning">
+				 
 				  <input type="checkbox" class="btn-check" id="showHanzi" autocomplete="off" checked>
-				  <label class="btn btn-outline-primary" for="showHanzi">Показать иероглифы</label>
+				  <label class="btn btn-outline-secondary" for="showHanzi">字</label>
 
 				  <input type="checkbox" class="btn-check" id="showMeaning" autocomplete="off" checked>
-				  <label class="btn btn-outline-primary" for="showMeaning">Показать значения</label>
+				  <label class="btn btn-outline-secondary" for="showMeaning">意</label>
 
 				  <input type="checkbox" class="btn-check" id="showAssociation" autocomplete="off" checked>
-				  <label class="btn btn-outline-primary" for="showAssociation">Показать ассоциации</label>
+				  <label class="btn btn-outline-secondary" for="showAssociation">联</label>
 			</div>
 		</div>
 
