@@ -74,9 +74,13 @@
 			 {% set  key_style = 'border border-info border-1 rounded-2' if entity.key_id else '' %}
 			 {% set  group_start_style = 'border border-success border-top-2 border-end-0 border-bottom-0 border-start-0' if entity.is_prime or entity.is_second else '' %}
 			 <div class="row my-2 {{group_start_style}}">
+
 			     <div class=" col-1 gx-0 {{key_style}} hanzi_cell">
+				    {% if loop.index0 == 0 or (loop.index0+1) % 50 == 0 %}
+						<div class="ms-1 small text-white">第{{loop.index0 + 1}}</div>
+				    {% endif %}
 					{% if entity.key_id %}
-						<div class=" small bg-info text-white text-center">{{entity.key_id}}</div>
+						<div class="small bg-info text-white"><span class="ms-1">首{{entity.key_id}}<span></div>
 					{%  endif %}
 				   <span class="ms-1 fs-3 hanzi" lang="zh-Hans">{{ entity.hanzi }}</span>
 				   {% for pinyin in entity.pinyin %}
