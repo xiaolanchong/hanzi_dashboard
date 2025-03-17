@@ -175,6 +175,11 @@ def dump_dictionary(entities: list[Entity]):
               )
 
 
+def dump_hanzi(entities: list[Entity]):
+    for ent in entities:
+        print(ent.hanzi)
+
+
 def generate_html(entities: list[Entity]):
     def find_by_key(key_id):
         for index, entity in enumerate(entities):
@@ -214,6 +219,7 @@ def generate_html(entities: list[Entity]):
 def run():
     entities = load_dictionary()
     #dump_dictionary(entities)
+    #dump_hanzi(entities)
     generate_html(entities)
 
 
