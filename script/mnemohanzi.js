@@ -1,16 +1,34 @@
 
 $( document ).ready(() => {
-  const toggleHidden = (checkbox, className) => {
-    if (checkbox.checked)
+  const toggleHidden = (checkbox, checkBoxId, className, firstTime) => {
+    let needChecked = checkbox.checked
+    const fullName = 'mnemo_hanzi_' + className
+    if (firstTime) {
+       const isOn = localStorage.getItem(fullName)
+       if (isOn !== undefined) {
+          needChecked = (isOn === 'true')
+		  if (needChecked)
+			$(`#${checkBoxId}`).attr('checked', 'checked');
+		  else
+			$(`#${checkBoxId}`).removeAttr('checked')
+       }
+    } else {
+       localStorage.setItem(fullName, needChecked)
+    }
+
+    if (needChecked)
       $(`.${className}`).removeClass('hidden')
     else
       $(`.${className}`).addClass('hidden')
   }
-  $('#showHanzi').change((ev) => toggleHidden(ev.target, 'hanzi_cell'))
-  $('#showMeaning').change((ev) => toggleHidden(ev.target, 'meaning'))
-  $('#showAssociation').change((ev) => toggleHidden(ev.target, 'association'))
   
-  toggleHidden($('#showHanzi')[0], 'hanzi_cell')
-  toggleHidden($('#showMeaning')[0], 'meaning')
-  toggleHidden($('#showAssociation')[0], 'association')
+  const items = [
+	['showHanzi', 'hanzi_cell'],
+	['showMeaning', 'meaning'],
+	['showAssociation', 'association'],
+  ]
+  for(const [checkboxId, className] of items) {
+	  $(`#${checkboxId}`).change((ev) => toggleHidden(ev.target, checkboxId, className, false))
+	  toggleHidden($(`#${checkboxId}`)[0], checkboxId, className, true)
+  }
 });

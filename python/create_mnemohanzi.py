@@ -206,11 +206,14 @@ def generate_html(entities: list[Entity]):
     mnemohanzi_tmpl = env.get_template('mnemohanzi.template.html')
 
     # 0, 900, 1800, 2700, 3600, 4400
+    current_entity_number = 0
     break_keys = [0, find_by_key(20), find_by_key(36), find_by_key(127), find_by_key(202), len(entities)]
     for start, end in pairwise(break_keys):
-        file_index += 1
         html = mnemohanzi_tmpl.render(entities=[to_jinja_entity(entity) for entity in entities[start:end]],
-                                      page_total=len(break_keys)-1, current_page=file_index-1)
+                                      page_total=len(break_keys)-1, current_page=file_index,
+                                      start_entity_number=current_entity_number)
+        file_index += 1
+        current_entity_number += end - start
         with open(Path('..') / f'mnemohanzi-{file_index}.html', mode='w', encoding='utf8') as file:
             file.write(html)
         #break

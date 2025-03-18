@@ -39,14 +39,14 @@
 		</div>
 
 		<ul class="nav my-3">
-			{%for index in range(page_total) %}
+			{%for page_index in range(page_total) %}
 			  <li class="nav-item">
-			   {% if index == current_page %}
+			   {% if page_index == current_page %}
 			      <a class="nav-link disabled" aria-disabled="true">
 				{% else %}
-				  <a class="nav-link active" aria-current="page" href="mnemohanzi-{{ index + 1 }}.html">
+				  <a class="nav-link active" aria-current="page" href="mnemohanzi-{{ page_index + 1 }}.html">
 			   {% endif %}
-			        Часть {{ index + 1 }}</a>
+			        Часть {{ page_index + 1 }}</a>
 			  </li>
 			{% endfor %}
 		</ul>
@@ -76,8 +76,8 @@
 			 <div class="row my-2 {{group_start_style}}">
 
 			     <div class=" col-1 gx-0 {{key_style}} hanzi_cell">
-				    {% if loop.index0 == 0 or (loop.index0+1) % 50 == 0 %}
-						<div class="ms-1 small text-white">第{{loop.index0 + 1}}</div>
+				    {% if loop.index0 == 0 or (loop.index0 + start_entity_number + 1) % 50 == 0 %}
+						<div class="ms-1 small text-white">第{{loop.index0 + start_entity_number + 1}}</div>
 				    {% endif %}
 					{% if entity.key_id %}
 						<div class="small bg-info text-white"><span class="ms-1">首{{entity.key_id}}<span></div>
