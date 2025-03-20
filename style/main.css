@@ -79,3 +79,17 @@ div.example {
     cursor: pointer;
 }
 
+/*
+.mhz_widget {
+    padding-left: 2px;
+	padding-right: 2px;
+	border: 1px solid #666666;
+	border-radius: 3px;
+}*/
+
+.mhz_widget:hover {
+	border: 1px solid #666666;
+	border-radius: 3px;
+    background-color: #606060;
+    cursor: pointer;
+}

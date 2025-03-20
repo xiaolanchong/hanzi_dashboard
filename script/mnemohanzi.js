@@ -5,7 +5,7 @@ $( document ).ready(() => {
     const fullName = 'mnemo_hanzi_' + className
     if (firstTime) {
        const isOn = localStorage.getItem(fullName)
-       if (isOn !== undefined) {
+       if (isOn !== null) {
           needChecked = (isOn === 'true')
 		  if (needChecked)
 			$(`#${checkBoxId}`).attr('checked', 'checked');

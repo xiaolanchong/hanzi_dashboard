@@ -16,8 +16,22 @@ function removeHanziBoard(hanzi) {
   }
 }
 
-function onHanjaClick (self) {
-  const hanzi = $(self).text()
+function onHanziClick (self) {
+  const insertElem = (whereClicked, whatInsert) => {
+	$(self).after(whatInsert)
+  }
+  addDictionaryWidget(self, insertElem)
+}
+
+function onHanziMemClick (self) {
+  const insertElem = (whereClicked, whatInsert) => {
+	  $(self).parent().next().append(whatInsert)
+  }
+  addDictionaryWidget(self, insertElem)
+}
+
+function addDictionaryWidget (whatClicked, howToAdd) {
+  const hanzi = $(whatClicked).text()
   const hanziBoardId = getHaziBoardId(hanzi)
   let hanjaBoardElem = $(`#${hanziBoardId}`)
   if (hanjaBoardElem.length) {
@@ -25,12 +39,14 @@ function onHanjaClick (self) {
     return
   }
   hanjaBoardElem = $(`<div id="${hanziBoardId}">Загрузка...</div>`)
-  $(self).after(hanjaBoardElem)
+  howToAdd(whatClicked, hanjaBoardElem)
   if ($('#cedict').prop('checked')) {
     getCedictArticle(hanzi, hanjaBoardElem)
   } else if ($('#bkrs').prop('checked')) {
     getBkrsArticle(hanzi, hanjaBoardElem)
   } else if ($('#wenlin').prop('checked')) {
+    getWenlinCharArticle(hanzi, hanjaBoardElem)
+  } else {
     getWenlinCharArticle(hanzi, hanjaBoardElem)
   }
 }
@@ -289,11 +305,18 @@ function padByZero (num, size) {
 
 const init = () => {
   $('.kanji_widget').on('click', function (event, ui) {
-    onHanjaClick(this)
+    onHanziClick(this)
+  })
+}
+
+const initMHz = () => {
+  $('.mhz_widget').on('click', function (event, ui) {
+    onHanziMemClick(this)
   })
 }
 
 window.addEventListener('load', init, false)
+window.addEventListener('load', initMHz, false)
 
 if (typeof module !== 'undefined') {
   module.exports.createColoredPinyin = createColoredPinyin

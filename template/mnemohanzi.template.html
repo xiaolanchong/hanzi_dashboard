@@ -82,7 +82,7 @@
 					{% if entity.key_id %}
 						<div class="small bg-info text-white"><span class="ms-1">首{{entity.key_id}}<span></div>
 					{%  endif %}
-				   <span class="ms-1 fs-3 hanzi" lang="zh-Hans">{{ entity.hanzi }}</span>
+				   <span class="ms-1 fs-3 hanzi mhz_widget" lang="zh-Hans">{{ entity.hanzi }}</span>
 				   {% for pinyin in entity.pinyin %}
 					   <span class="ms-1 small tone{{entity.tone_numbers[loop.index0]}}">{{pinyin}}</span>
 				   {%  endfor %}
