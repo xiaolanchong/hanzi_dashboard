@@ -2,6 +2,7 @@
 
 const $ = require('jquery')
 global.$ = global.jQuery = $
+//const pinyinSeparate = require('pinyin-separate').default
 const utils = require('./utils.js')
 
 it('create colored pinyin', () => {
@@ -50,12 +51,22 @@ it('find pinyin', () => {
   expect(res).toEqual([ 'liù' ])
 })
 
-it('split pinyin', () => {
-  let res = utils.splitPinyin('tūtòujìng')
+it('split pinyin old version (home-brewn)', () => {
+	/*
+  let res = utils.splitPinyinOld('tūtòujìng')
   expect(res).toEqual([ 0, 2, 5 ])
   
-  res = utils.splitPinyin('āotū')
+  res = utils.splitPinyinOld('āotū')
   expect(res).toEqual([ 0, 2 ])
+  */
+})
+
+it('split pinyin', () => {
+  let res = utils.splitPinyin('tūtòujìng')
+  expect(res).toEqual([ 'tū', 'tòu', 'jìng'])
+  
+  res = utils.splitPinyin('āotū')
+  expect(res).toEqual([ 'āo', 'tū'])
 })
 
 it('highlight pinyin', () => {

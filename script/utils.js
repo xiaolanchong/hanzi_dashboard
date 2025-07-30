@@ -222,7 +222,21 @@ function findPinyin (line) {
   return line.match(re)
 }
 
+const isNode = () =>
+  typeof process === 'object' &&
+  typeof process.versions === 'object' &&
+  typeof process.versions.node !== 'undefined';
+ 
+if (isNode()) {
+  const pinyinSeparate = require('./pinyin-separate.min.js')
+}
+
 function splitPinyin (word) {
+	//console.log(pinyinSeparate)
+  return pinyinSeparate(word)
+}
+	
+function splitPinyinOld (word) {
   const finals = 'aeiouüāēīōūǖáéíóúǘǎěǐǒǔǚàèìòùǜ'
   const initials = 'b|p|m|f|d|t|n|l|g|k|h|z|c|s|zh|ch|sh|r|j|q|x'
   const complete_finals = 'w|y'
@@ -241,8 +255,10 @@ function splitPinyin (word) {
 
 function highlightPinyin (line) {
   const replacer = (match, p1, offset, string) => {
+	const syllables = []  
+	  /*
     const offsets = splitPinyin(match)
-    const syllables = []
+    
     for(let i = 0; i < offsets.length; ++i) {
       if(i + 1 == offsets.length) {
         const syl = match.substring(offsets[i], match.length)
@@ -251,7 +267,12 @@ function highlightPinyin (line) {
         const syl = match.substring(offsets[i], offsets[i+1])
         syllables.push(createColoredPinyin(syl))
       }
-    }
+    }*/
+	const res = splitPinyin(match)
+	//console.log(match, res)
+	for (let syl of res) {
+	  syllables.push(createColoredPinyin(syl))
+	}
     return syllables.join('')
   }
   const re = _getPinyinRegex()

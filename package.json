@@ -14,7 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.10.4",
-    "jest": "^26.4.0",
+    "jest": "^26.6.3",
     "jquery": "^3.5.1"
   },
   "env": {
@@ -33,6 +33,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
-    "http-server": "^0.12.3"
+    "http-server": "^0.12.3",
+    "pinyin-separate": "^1.2.0"
   }
 }
