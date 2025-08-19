@@ -9,6 +9,7 @@ from pinyin_splitter import PinyinSplitter
 
 # no Unicode extension
 re_cjk = re.compile(r'([\u4E00-\u9FFF]+)')
+boards_dir = 'boards'
 
 
 def read_hsk_list():
@@ -28,7 +29,7 @@ def generate_hsk_list(env):
     data = list(read_hsk_list())
     #print(len(data))
     html = hsk_tmpl.render(records=data)
-    with open(Path('..') / 'index.html', mode='w', encoding='utf8') as file:
+    with open(Path('..') / boards_dir / 'hsk.html', mode='w', encoding='utf8') as file:
         file.write(html)
 
 
@@ -37,7 +38,7 @@ def generate_list(env, char_file: str, template_list: str, output_file: str):
     data = list(read_char_list(char_file))
     #print(len(data))
     html = taiwan_tmpl.render(records=data)
-    with open(Path('..') / output_file, mode='w', encoding='utf8') as file:
+    with open(Path('..') / boards_dir / output_file, mode='w', encoding='utf8') as file:
         file.write(html)
 
 
@@ -104,7 +105,7 @@ def generate_wenlin_list(env):
     wenlin_tmpl = env.get_template('wenlin.template.html')
     data = read_wenlin_list()
     html = wenlin_tmpl.render(records=data)
-    with open(Path('..') / 'wenlin.html', mode='w', encoding='utf8') as file:
+    with open(Path('..') / boards_dir / 'wenlin.html', mode='w', encoding='utf8') as file:
         file.write(html)
 
 
@@ -118,12 +119,12 @@ def generate_yarxi_list(env):
                 tone_num = get_tone_number(pinyin)
                 yield hanzi, pinyin, tone_num, meaning
     html = yarxi_tmpl.render(records=list(read_list()))
-    with open(Path('..') / 'yarxi_mode.html', mode='w', encoding='utf8') as file:
+    with open(Path('..') / boards_dir / 'yarxi_mode.html', mode='w', encoding='utf8') as file:
         file.write(html)
 
 
 glob_env = jinja2.Environment(
-    loader=jinja2.PackageLoader('create_dashboard', package_path=str(Path('..') / 'template')),
+    loader=jinja2.PackageLoader('create_dashboards', package_path=str(Path('..') / 'template')),
     autoescape=jinja2.select_autoescape(['html', 'xml'])
 )
 

@@ -7,6 +7,7 @@ import jinja2
 from pathlib import Path
 
 re_key = '\bКЛЮЧ\b'
+boards_dir = 'boards'
 
 re_line = re.compile(r"""
 ^
@@ -199,7 +200,7 @@ def generate_html(entities: list[Entity]):
             a = b
 
     env = jinja2.Environment(
-        loader=jinja2.PackageLoader('create_dashboard', package_path=str(Path('..') / 'template')),
+        loader=jinja2.PackageLoader('create_mnemohanzi', package_path=str(Path('..') / 'template')),
         autoescape=jinja2.select_autoescape(['html', 'xml'])
     )
     file_index = 0
@@ -214,7 +215,7 @@ def generate_html(entities: list[Entity]):
                                       start_entity_number=current_entity_number)
         file_index += 1
         current_entity_number += end - start
-        with open(Path('..') / f'mnemohanzi-{file_index}.html', mode='w', encoding='utf8') as file:
+        with open(Path('..') / boards_dir / f'mnemohanzi-{file_index}.html', mode='w', encoding='utf8') as file:
             file.write(html)
         #break
 

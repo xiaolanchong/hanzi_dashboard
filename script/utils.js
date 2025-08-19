@@ -3,6 +3,7 @@
 'use strict'
 
 const CHAR_NOT_FOUND = 'Иероглиф не найден на сайте'
+const FROM_BOARD_TO_BASE_DIR = '../'
 
 function getHaziBoardId(hanzi) {
   return 'hanzi' + hanzi.charCodeAt(0)
@@ -53,7 +54,7 @@ function addDictionaryWidget (whatClicked, howToAdd) {
 
 function getCedictArticle (hanzi, parentElem) {
   const hanziIndex = hanzi.charCodeAt(0)
-  const hanjaUrl = 'cedict/' + articleNumberToLink(hanziIndex)
+  const hanjaUrl = FROM_BOARD_TO_BASE_DIR + 'cedict/' + articleNumberToLink(hanziIndex)
   $.get({
     url: hanjaUrl,
     dataType: 'text'
@@ -71,7 +72,7 @@ function getCedictArticle (hanzi, parentElem) {
 
 function getBkrsArticle (hanzi, parentElem) {
   const hanziIndex = hanzi.charCodeAt(0)
-  const hanjaUrl = 'bkrs/' + articleNumberToLink(hanziIndex, 6, 'xdfx')
+  const hanjaUrl = FROM_BOARD_TO_BASE_DIR + 'bkrs/' + articleNumberToLink(hanziIndex, 6, 'xdfx')
   $.get({
     url: hanjaUrl,
     dataType: 'text'
@@ -109,7 +110,7 @@ function createBkrsBoard (xmlData) {
 function getWenlinCharArticle (hanzi, parentElem) {
   const hanziIndex = hanzi.charCodeAt(0)
   const fileName = articleNumberToLink(hanziIndex, 6, 'txt')
-  const hanziUrl = 'wenlin/wenlin_char/' + fileName
+  const hanziUrl = FROM_BOARD_TO_BASE_DIR + 'wenlin/wenlin_char/' + fileName
   $.get({
     url: hanziUrl,
     dataType: 'text'
@@ -128,7 +129,7 @@ function getWenlinCharArticle (hanzi, parentElem) {
 function getWenlinWordArticle (hanzi, parentElem) {
   const hanziIndex = hanzi.charCodeAt(0)
   const fileName = articleNumberToLink(hanziIndex, 6, 'txt')
-  const hanziUrl = 'wenlin/wenlin_word/' + fileName
+  const hanziUrl = FROM_BOARD_TO_BASE_DIR + 'wenlin/wenlin_word/' + fileName
   $.get({
     url: hanziUrl,
     dataType: 'text'
