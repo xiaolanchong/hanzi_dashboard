@@ -2,7 +2,7 @@
 {% extends "base.template.html" %}
 
 {% block title %}
-    <title>4400 упрощенных иероглифов с мнемониками (ч.{{ current_page + 1 }})</title>
+    <title>3800 упрощенных иероглифов Wenlin с мнемониками (ч.{{ current_page + 1 }})</title>
 {% endblock %}
 
 {%- block scripts %} 
@@ -13,10 +13,29 @@
 	      color: wheat;
 	   }
 	   
+	   .meaning_in_assoc {
+	      color: #ffd872;
+	   }
+	   
 	   /* to hide/show text in quiz mode and override bootstrap !important  */
 		.hidden, .hidden > *{
 			color: transparent !important;
 		}
+		
+		.mao_tone_1 {
+	      color: #31d631;
+	    }
+		.mao_tone_2 {
+	      color: #d43333;
+	    }
+		.mao_tone_3 {
+	      color: #337bd4;
+	    }
+		.mao_tone_4 {
+	      color: darkgrey;
+	    }
+		.mao_tone_5 {
+	    }
 
     </style>
 	
@@ -25,16 +44,6 @@
 {% block body %}
 
 		<h1>4400 упрощенных иероглифов с мнемониками (часть {{ current_page + 1 }})</h1>
-		<div>
-			<span>4400 упрощенных иероглифов с мнемониками:</span>
-			<ul>
-				<li>字 Иероглиф</li>
-				<li>拼 Пиньинь</li>
-				<li>意 Значение</li>
-				<li>联 Ассоциация, мнемоника</li>
-				<li>源 Этимология</li>
-			</ul>
-		</div>
 
 		<ul class="nav my-3">
 			{%for page_index in range(page_total) %}
@@ -42,12 +51,9 @@
 			   {% if page_index == current_page %}
 			      <a class="nav-link disabled" aria-disabled="true">
 				{% else %}
-				  <a class="nav-link active" aria-current="page" href="mnemohanzi-{{ page_index + 1 }}.html">
+				  <a class="nav-link active" aria-current="page" href="wenlin_mao-{{ page_index + 1 }}.html">
 			   {% endif %}
 			        Часть {{ page_index + 1 }}
-				</a>
-				<a class="nav-link active small" aria-current="page" href="4400chars_samples_{{ page_index + 1 }}.html">
-					Примеры {{ page_index + 1 }}
 				</a>
 			  </li>
 			{% endfor %}
@@ -73,21 +79,13 @@
 		<div class="container gx-0 mt-3">
 
 			 {%- for entity in entities -%}
-			 {% set  key_style = 'border border-info border-1 rounded-2' if entity.key_id else '' %}
-			 {% set  group_start_style = 'border border-success border-top-2 border-end-0 border-bottom-0 border-start-0' if entity.is_prime or entity.is_second else '' %}
-			 <div class="row my-2 {{group_start_style}}">
-
-			     <div class=" col-1 gx-0 {{key_style}} hanzi_cell">
-				    {% if loop.index0 == 0 or (loop.index0 + start_entity_number + 1) % 50 == 0 %}
-						<div class="ms-1 small text-white">第{{loop.index0 + start_entity_number + 1}}</div>
-				    {% endif %}
-					{% if entity.key_id %}
-						<div class="small bg-info text-white"><span class="ms-1">首{{entity.key_id}}<span></div>
-					{%  endif %}
-				   <span class="ms-1 fs-3 hanzi mhz_widget" lang="zh-Hans">{{ entity.hanzi }}</span>
-				   {% for pinyin in entity.pinyin %}
-					   <span class="ms-1 small tone{{entity.tone_numbers[loop.index0]}}">{{pinyin}}</span>
-				   {%  endfor %}
+			 <div class="row my-2">
+			     <div class=" col-1 gx-0 hanzi_cell">
+				   <span class="small">{{ entity.number }}</span>
+				   <span class="ms-1 fs-3 hanzi" lang="zh-Hans">{{ entity.hanzi }}</span>
+				   {% for pinyin, tone_number in entity.pinyin %}
+					   <span class="ms-1 mao_tone_{{tone_number}}">{{pinyin}}</span>
+				   {% endfor %}
 				</div>
 				<div class="col-11">
 				   <div class="meaning">
@@ -96,13 +94,10 @@
 				   {% if entity.assoc %}
 				     <div class="association">
 					    <span class="small text-secondary-emphasis  border border-1 rounded-2">联</span>
-						<span class="text-secondary-emphasis">{{ entity.assoc }}</span>
-					 </div>
-				   {%  endif %}
-				   {% if entity.etym %}
-				     <div class="association">
-					    <span class="small text-secondary-emphasis border border-1 rounded-2">源</span>
-						<span class="text-secondary-emphasis">{{ entity.etym }}</span>
+						{%- for is_meaning, part in entity.assoc -%}
+						{% set semantic_class = "meaning_in_assoc" if is_meaning else "text-secondary-emphasis" %}
+						<span class=" {{semantic_class}}">{{ part }}</span>
+						{% endfor %}
 					 </div>
 				   {%  endif %}
 				</div>
