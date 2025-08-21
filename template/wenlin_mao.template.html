@@ -45,6 +45,7 @@
 
 		<h1>4400 упрощенных иероглифов с мнемониками (часть {{ current_page + 1 }})</h1>
 
+		<!-- page navigation -->
 		<ul class="nav my-3">
 			{%for page_index in range(page_total) %}
 			  <li class="nav-item">
@@ -59,8 +60,8 @@
 			{% endfor %}
 		</ul>
 		
-		<div class="sticky-top d-flex justify-content-end">
-			
+		<!-- review mode toolbar -->
+		<div class="sticky-top d-flex justify-content-end">		
 			<div class="btn-group ms-auto" role="group" aria-label="learning">
 				 
 				  <input type="checkbox" class="btn-check" id="showHanzi" autocomplete="off" checked>
@@ -75,17 +76,29 @@
 		</div>
 
 		<div>
+			<details>
+				<summary>Кодировка тонов</summary>
+			    <ol>
+				  <li><span class="mao_tone_1">Зеленый, дерево</span> (Первая перед покосом зеленая трава - самая высокая, высокий тон)</li>
+				  <li><span class="mao_tone_2">Красный, розовый, кровь, медь, кирпич</span> (Красное зарево пожара возносится ввысь, восходящий тон)</li>
+				  <li><span class="mao_tone_3">Синий, голубой, лед, стекло</span> (Синяя вода в низинах местности, низкий тон)</li>
+				  <li><span class="mao_tone_4">Черный, камень, сталь, чернила, грязь</span> (Нисхождение в темный, мрачный ад, нисходящий тон)</li>
+				  <li><span class="mao_tone_5">Нейтральный</span></li>
+			    </ol>
+			</details>
 		</div>
 		<div class="container gx-0 mt-3">
 
 			 {%- for entity in entities -%}
 			 <div class="row my-2">
-			     <div class=" col-1 gx-0 hanzi_cell">
-				   <span class="small">{{ entity.number }}</span>
-				   <span class="ms-1 fs-3 hanzi" lang="zh-Hans">{{ entity.hanzi }}</span>
-				   {% for pinyin, tone_number in entity.pinyin %}
-					   <span class="ms-1 mao_tone_{{tone_number}}">{{pinyin}}</span>
-				   {% endfor %}
+			     <div class=" col-1 gx-0">
+				   <span class="align-top small my-2" >{{ entity.number }}</span>
+				   <span class="hanzi_cell">
+					   <span class="ms-1 fs-3 hanzi" lang="zh-Hans">{{ entity.hanzi }}</span>
+					   {% for pinyin, tone_number in entity.pinyin %}
+						   <span class="ms-1 mao_tone_{{tone_number}}">{{pinyin}}</span>
+					   {% endfor %}
+				   </span>
 				</div>
 				<div class="col-11">
 				   <div class="meaning">
